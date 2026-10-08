@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="100%" height="100%" style="background-color: #f6efe0; font-family: 'Cinzel', 'Palatino Linotype', 'Book Antiqua', Georgia, serif;">
+  <defs>
+    <!-- Parchment Gradients & Filters -->
+    <linearGradient id="parchment" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fdfbf5"/>
+      <stop offset="50%" stop-color="#f4ebda"/>
+      <stop offset="100%" stop-color="#e8d8be"/>
+    </linearGradient>
+    <linearGradient id="oceanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4e4e6"/>
+      <stop offset="100%" stop-color="#b6ced4"/>
+    </linearGradient>
+    <filter id="inkDrop" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#2c221e" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="waves" width="40" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 0 10 Q 10 5, 20 10 T 40 10" fill="none" stroke="#9bbec8" stroke-width="0.8" opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <!-- Base Parchment Background -->
+  <rect width="1200" height="900" fill="url(#parchment)"/>
+
+  <!-- Ocean Water Bodies -->
+  <!-- The Western & Southern Sundersea -->
+  <path d="M 0,0 L 220,0 Q 200,180 180,300 Q 140,420 200,560 Q 240,660 300,750 Q 360,820 450,900 L 0,900 Z" fill="url(#oceanGrad)"/>
+  <!-- The Eastern Meridian Gulf & Sundersea Deep -->
+  <path d="M 850,900 Q 900,780 980,680 Q 1060,580 1120,440 Q 1160,320 1200,280 L 1200,900 Z" fill="url(#oceanGrad)"/>
+  <!-- Wave Textures on Water -->
+  <rect x="0" y="0" width="300" height="900" fill="url(#waves)" opacity="0.4"/>
+  <rect x="900" y="300" width="300" height="600" fill="url(#waves)" opacity="0.4"/>
+
+  <!-- Ocean Water Labels -->
+  <text x="70" y="520" font-size="18" fill="#547a85" font-style="italic" letter-spacing="4" transform="rotate(-70 70 520)">THE SUNDERSEA</text>
+  <text x="1060" y="620" font-size="18" fill="#547a85" font-style="italic" letter-spacing="3" transform="rotate(45 1060 620)">MERIDIAN GULF</text>
+
+  <!-- Main Continental Landmass Outline -->
+  <path d="M 220,0 
+           Q 280,60 380,50 Q 520,30 680,60 Q 820,40 1000,80 Q 1120,140 1200,200
+           L 1200,280 
+           Q 1160,320 1120,440 Q 1060,580 980,680 Q 900,780 850,900
+           L 450,900 
+           Q 360,820 300,750 Q 240,660 200,560 Q 140,420 180,300 Q 200,180 220,0 Z" 
+        fill="#f9f4ea" stroke="#5a4632" stroke-width="2.5" filter="url(#inkDrop)"/>
+
+  <!-- Regional Territorial Wash Overlays -->
+  <!-- 1. Republic of Ilya (Northwest) -->
+  <path d="M 220,0 Q 320,80 340,240 Q 350,340 420,380 Q 320,440 200,420 Q 180,300 220,0 Z" fill="#4a7c9b" opacity="0.08"/>
+  <!-- 2. Aurelian League (Northeast) -->
+  <path d="M 680,60 Q 820,40 1000,80 Q 1120,140 1160,300 Q 1080,420 950,420 Q 820,400 700,320 Q 640,180 680,60 Z" fill="#c48a32" opacity="0.08"/>
+  <!-- 3. The Verdancy (Central-South Canopy) -->
+  <path d="M 420,380 Q 580,360 700,420 Q 760,540 720,660 Q 580,720 440,660 Q 380,520 420,380 Z" fill="#2d6a4f" opacity="0.12"/>
+  <!-- 4. Dominion of Vareth (South Dunes) -->
+  <path d="M 440,660 Q 580,720 720,660 Q 780,740 850,900 L 450,900 Q 380,800 440,660 Z" fill="#b07d62" opacity="0.12"/>
+  <!-- 5. The Free Coast (Southeast) -->
+  <path d="M 720,660 Q 820,560 950,560 Q 980,680 900,780 Q 820,740 720,660 Z" fill="#1d3557" opacity="0.08"/>
+
+  <!-- Major Rivers -->
+  <!-- River Ilya & Tributaries -->
+  <path d="M 520,280 Q 440,260 380,220 Q 320,180 270,140 Q 230,120 195,110" fill="none" stroke="#6893a0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 460,340 Q 420,300 380,220" fill="none" stroke="#6893a0" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="320" y="160" font-size="11" fill="#4a7c9b" font-style="italic" transform="rotate(-30 320 160)">River Ilya</text>
+
+  <!-- Mountain Ranges (Drawn with Classic Cartographic Ridge Marks) -->
+  <!-- The Silver Horns (North) -->
+  <g stroke="#4a3728" stroke-width="1.5" fill="#e2ded4">
+    <path d="M 480,90 L 510,40 L 540,90 Z"/>
+    <path d="M 530,95 L 565,30 L 600,95 Z"/>
+    <path d="M 590,90 L 625,45 L 660,90 Z"/>
+    <path d="M 650,95 L 685,35 L 720,95 Z"/>
+    <text x="560" y="25" font-size="13" fill="#3a2a1d" font-weight="bold" letter-spacing="2">THE SILVER HORNS</text>
+  </g>
+
+  <!-- The Spine of Thaeron (West Crags) -->
+  <g stroke="#3a2a1d" stroke-width="1.5" fill="#d9d0c1">
+    <path d="M 230,320 L 260,260 L 290,320 Z"/>
+    <path d="M 240,400 L 275,330 L 310,400 Z"/>
+    <path d="M 250,480 L 285,410 L 320,480 Z"/>
+    <text x="180" y="440" font-size="12" fill="#3a2a1d" font-weight="bold" letter-spacing="1" transform="rotate(-75 180 440)">SPINE OF THAERON</text>
+  </g>
+
+  <!-- The Weeping Ridge (Central Mist Chain) -->
+  <g stroke="#4a3728" stroke-width="1.5" fill="#ded7ca">
+    <path d="M 500,280 L 535,210 L 570,280 Z"/>
+    <path d="M 550,300 L 585,220 L 620,300 Z"/>
+    <path d="M 590,320 L 625,240 L 660,320 Z"/>
+    <path d="M 640,340 L 675,260 L 710,340 Z"/>
+    <text x="550" y="200" font-size="13" fill="#3a2a1d" font-weight="bold" letter-spacing="2">THE WEEPING RIDGE</text>
+  </g>
+
+  <!-- The Great Canopy of The Verdancy Forest Icons -->
+  <g fill="#2d6a4f" opacity="0.6">
+    <circle cx="480" cy="480" r="16"/><circle cx="510" cy="470" r="20"/><circle cx="540" cy="490" r="18"/>
+    <circle cx="580" cy="460" r="22"/><circle cx="620" cy="480" r="19"/><circle cx="650" cy="470" r="17"/>
+    <circle cx="460" cy="530" r="18"/><circle cx="500" cy="540" r="24"/><circle cx="550" cy="530" r="22"/>
+    <circle cx="600" cy="540" r="25"/><circle cx="640" cy="530" r="20"/><circle cx="680" cy="510" r="16"/>
+    <circle cx="490" cy="600" r="20"/><circle cx="540" cy="610" r="22"/><circle cx="590" cy="600" r="21"/>
+    <circle cx="640" cy="590" r="19"/>
+    <text x="500" y="555" font-size="16" fill="#1b4332" font-weight="bold" letter-spacing="4">THE VERDANCY</text>
+  </g>
+
+  <!-- The Ashen Crater of Avarr -->
+  <ellipse cx="640" cy="380" rx="35" ry="20" fill="#2b2b2b" opacity="0.25" stroke="#1f1f1f" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="600" y="415" font-size="10" fill="#444" font-style="italic">Crater of Avarr [16]</text>
+
+  <!-- The Vareth Dune Sea Ripples -->
+  <g stroke="#9c6644" stroke-width="1" fill="none" opacity="0.5">
+    <path d="M 480,720 Q 510,715 540,720"/>
+    <path d="M 560,740 Q 600,735 640,740"/>
+    <path d="M 660,720 Q 700,715 740,720"/>
+    <path d="M 520,780 Q 560,775 600,780"/>
+    <path d="M 640,800 Q 680,795 720,800"/>
+    <text x="560" y="850" font-size="16" fill="#7f4f24" font-weight="bold" letter-spacing="4">DOMINION OF VARETH</text>
+  </g>
+
+  <!-- The Subterranean Star Roads (Cyan Glow Dashes) -->
+  <path d="M 880,730 Q 750,560 620,440 Q 585,320 570,90" fill="none" stroke="#2a9d8f" stroke-width="2.5" stroke-dasharray="8,6" opacity="0.75"/>
+  <path d="M 280,180 Q 420,260 620,440 Q 700,600 680,780" fill="none" stroke="#2a9d8f" stroke-width="2.5" stroke-dasharray="8,6" opacity="0.75"/>
+  <text x="740" y="500" font-size="10" fill="#2a9d8f" font-weight="bold" transform="rotate(-40 740 500)">── THE STAR ROADS ──</text>
+
+  <!-- Overland Paved Roads (Tan / Dark Dashes) -->
+  <path d="M 280,180 Q 500,160 880,240" fill="none" stroke="#8c6d48" stroke-width="1.8" stroke-dasharray="4,3"/>
+  <path d="M 880,240 Q 940,460 880,730" fill="none" stroke="#8c6d48" stroke-width="1.8" stroke-dasharray="4,3"/>
+  <path d="M 880,730 Q 780,750 680,780" fill="none" stroke="#8c6d48" stroke-width="1.8" stroke-dasharray="4,3"/>
+
+  <!-- Keyed Locations Points -->
+  <!-- 01: Port Meridian -->
+  <circle cx="880" cy="730" r="7" fill="#c1121f" stroke="#fff" stroke-width="2"/>
+  <text x="895" y="735" font-size="14" font-weight="bold" fill="#780000">PORT MERIDIAN [01]</text>
+  <text x="895" y="750" font-size="10" fill="#555">Shattered Archive [02]</text>
+
+  <!-- 17: Shattered Reefs -->
+  <circle cx="940" cy="790" r="4" fill="#1d3557" stroke="#fff" stroke-width="1.5"/>
+  <text x="950" y="805" font-size="10" fill="#1d3557" font-style="italic">Shattered Reefs [17]</text>
+
+  <!-- 03: New Ilya -->
+  <circle cx="280" cy="180" r="7" fill="#1d3557" stroke="#fff" stroke-width="2"/>
+  <text x="180" y="175" font-size="14" font-weight="bold" fill="#03045e">NEW ILYA [03]</text>
+  <text x="175" y="190" font-size="10" fill="#555">Athenaeum Null [04]</text>
+
+  <!-- 09: Solcaris Nova -->
+  <circle cx="880" cy="240" r="7" fill="#b07d62" stroke="#fff" stroke-width="2"/>
+  <text x="895" y="245" font-size="14" font-weight="bold" fill="#7f4f24">SOLCARIS NOVA [09]</text>
+
+  <!-- 10: Ancient Solcaris Ruins -->
+  <circle cx="980" cy="290" r="5" fill="#6c757d" stroke="#fff" stroke-width="1.5"/>
+  <text x="995" y="295" font-size="10" fill="#495057">Solcaris Ruins [10]</text>
+
+  <!-- 11: Harad Veyr -->
+  <circle cx="270" cy="360" r="5" fill="#495057" stroke="#fff" stroke-width="1.5"/>
+  <text x="190" y="365" font-size="11" font-weight="bold" fill="#212529">Harad Veyr [11]</text>
+
+  <!-- 05: Lantern Chapel -->
+  <circle cx="570" cy="240" r="6" fill="#e9c46a" stroke="#264653" stroke-width="2"/>
+  <text x="585" y="235" font-size="12" font-weight="bold" fill="#b08968">Lantern Chapel [05]</text>
+  <text x="585" y="250" font-size="9" fill="#666">Whispering Crags [06]</text>
+
+  <!-- 13: Vale Myrr -->
+  <circle cx="540" cy="320" r="5" fill="#588157" stroke="#fff" stroke-width="1.5"/>
+  <text x="460" y="325" font-size="11" font-weight="bold" fill="#3a5a40">Vale Myrr [13]</text>
+
+  <!-- 12: Observatory of Nythara -->
+  <circle cx="570" cy="90" r="6" fill="#90e0ef" stroke="#0077b6" stroke-width="1.5"/>
+  <text x="585" y="95" font-size="11" font-weight="bold" fill="#0077b6">Nythara [12]</text>
+
+  <!-- 14: Living Spires of Elynor -->
+  <circle cx="530" cy="510" r="6" fill="#2d6a4f" stroke="#fff" stroke-width="2"/>
+  <text x="545" y="515" font-size="12" font-weight="bold" fill="#1b4332">Living Spires [14]</text>
+
+  <!-- 15: Hollow Glades -->
+  <circle cx="630" cy="580" r="4" fill="#40916c" stroke="#fff" stroke-width="1"/>
+  <text x="640" y="585" font-size="10" fill="#2d6a4f" font-style="italic">Hollow Glades [15]</text>
+
+  <!-- 07: Khar Vareth -->
+  <circle cx="680" cy="780" r="7" fill="#212529" stroke="#fff" stroke-width="2"/>
+  <text x="695" y="785" font-size="14" font-weight="bold" fill="#111">KHAR VARETH [07]</text>
+  <text x="695" y="800" font-size="10" fill="#555">Bleak Path Threshold [08]</text>
+
+  <!-- 19 & 20: Engine Deep & Open Veil (Subterranean Marker) -->
+  <g transform="translate(620, 440)">
+    <polygon points="0,-12 10,6 -10,6" fill="#7b2cbf" stroke="#fff" stroke-width="1.5"/>
+    <text x="15" y="2" font-size="12" font-weight="bold" fill="#5a189a">Engine Deep [19]</text>
+    <text x="15" y="16" font-size="10" fill="#7b2cbf">The Open Veil [20]</text>
+  </g>
+
+  <!-- Realm Name Banners -->
+  <text x="240" y="110" font-size="16" font-weight="bold" fill="#2b4c5e" letter-spacing="3">REPUBLIC OF ILYA</text>
+  <text x="860" y="180" font-size="16" font-weight="bold" fill="#8c5a1a" letter-spacing="3">AURELIAN LEAGUE</text>
+  <text x="880" y="690" font-size="15" font-weight="bold" fill="#1a3a4a" letter-spacing="2">THE FREE COAST</text>
+
+  <!-- Decorative Ornate Compass Rose (Top Right) -->
+  <g transform="translate(1080, 110)">
+    <circle cx="0" cy="0" r="45" fill="none" stroke="#6b533e" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#6b533e" stroke-width="0.8" stroke-dasharray="2,2"/>
+    <!-- Cardinal Points -->
+    <polygon points="0,-48 7,-10 0,0 -7,-10" fill="#8c2d19"/>
+    <polygon points="0,48 7,10 0,0 -7,10" fill="#3a2e2b"/>
+    <polygon points="48,0 10,7 0,0 10,-7" fill="#3a2e2b"/>
+    <polygon points="-48,0 -10,7 0,0 -10,-7" fill="#3a2e2b"/>
+    <!-- Ordinal Points -->
+    <polygon points="28,-28 7,-5 0,0 5,-7" fill="#c49b66"/>
+    <polygon points="28,28 7,5 0,0 5,7" fill="#c49b66"/>
+    <polygon points="-28,28 -7,5 0,0 -5,7" fill="#c49b66"/>
+    <polygon points="-28,-28 -7,-5 0,0 -5,-7" fill="#c49b66"/>
+    <text x="-5" y="-53" font-size="14" font-weight="bold" fill="#8c2d19">N</text>
+    <text x="-4" y="63" font-size="12" fill="#3a2e2b">S</text>
+    <text x="53" y="4" font-size="12" fill="#3a2e2b">E</text>
+    <text x="-65" y="4" font-size="12" fill="#3a2e2b">W</text>
+  </g>
+
+  <!-- Decorative Title Cartouche (Top Left) -->
+  <g transform="translate(40, 40)" filter="url(#inkDrop)">
+    <rect width="360" height="90" fill="#f4ebd9" stroke="#5a4632" stroke-width="2.5" rx="5"/>
+    <rect x="5" y="5" width="350" height="80" fill="none" stroke="#8b7355" stroke-width="1" rx="3"/>
+    <text x="180" y="38" font-size="22" font-weight="bold" fill="#3a2818" text-anchor="middle" letter-spacing="4">ELONIA</text>
+    <line x1="40" y1="46" x2="320" y2="46" stroke="#8b7355" stroke-width="1"/>
+    <text x="180" y="64" font-size="11" fill="#5a4632" text-anchor="middle" letter-spacing="1">THE CONTINENT IN THE THOUSANDTH YEAR</text>
+    <text x="180" y="78" font-size="9" fill="#7a6249" text-anchor="middle" font-style="italic">After the Great Silence • c. 1,000 AS</text>
+  </g>
+
+  <!-- Map Legend (Bottom Left) -->
+  <g transform="translate(40, 750)" filter="url(#inkDrop)">
+    <rect width="250" height="120" fill="#f4ebd9" stroke="#5a4632" stroke-width="2" rx="4"/>
+    <text x="15" y="24" font-size="12" font-weight="bold" fill="#3a2818" letter-spacing="1">MAP LEGEND</text>
+    <line x1="15" y1="30" x2="235" y2="30" stroke="#8b7355" stroke-width="0.8"/>
+    
+    <circle cx="25" cy="46" r="5" fill="#c1121f"/>
+    <text x="40" y="50" font-size="11" fill="#333">Major Sovereign Capital</text>
+    
+    <circle cx="25" cy="66" r="4" fill="#6c757d"/>
+    <text x="40" y="70" font-size="11" fill="#333">Ancient Pre-Silence Ruin</text>
+    
+    <line x1="18" y1="86" x2="32" y2="86" stroke="#2a9d8f" stroke-width="2" stroke-dasharray="4,2"/>
+    <text x="40" y="90" font-size="11" fill="#333">Subterranean Star Road</text>
+    
+    <line x1="18" y1="104" x2="32" y2="104" stroke="#8c6d48" stroke-width="2" stroke-dasharray="4,2"/>
+    <text x="40" y="108" font-size="11" fill="#333">Imperial Overland Highway</text>
+  </g>
+
+  <!-- Outer Map Border -->
+  <rect x="15" y="15" width="1170" height="870" fill="none" stroke="#5a4632" stroke-width="4"/>
+  <rect x="22" y="22" width="1156" height="856" fill="none" stroke="#8b7355" stroke-width="1.2"/>
+  <circle cx="15" cy="15" r="8" fill="#5a4632"/>
+  <circle cx="1185" cy="15" r="8" fill="#5a4632"/>
+  <circle cx="15" cy="885" r="8" fill="#5a4632"/>
+  <circle cx="1185" cy="885" r="8" fill="#5a4632"/>
+</svg>
