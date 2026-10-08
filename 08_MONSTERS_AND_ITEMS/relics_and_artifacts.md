@@ -26,7 +26,7 @@
 ## 4. Memory Leaves
 *Wondrous item, uncommon (consumable)*
 - Golden aspen leaves holding one mortal's sensory memory (Vale Myrr grove). Press to brow, action: experience 1 minute of their shelter, grief, or joke.
-- Effect: remove 1 level of exhaustion or gain inspiration (once per leaf). Clerics/paladins brushing one at need: restore spell slots of 5th or lower (1/day max, Ch.5+).
+- Effect: remove 1 level of exhaustion or gain inspiration (once per leaf). Clerics/paladins brushing one at need: restore spell slots of 5th or lower (1/day max, Vale Myrr onward at DM discretion).
 - Central Leaf (Chair of Silence): Myrraen's parting memory. No boon — only the quote. Never duplicate it.
 
 ## 5. Varek's Final Token
@@ -35,13 +35,13 @@
 - 1/day: *Sanctuary* vs undead/fiends only (DC 15). Token cracks if used to bar a willing soul's passage — Custodians notice.
 
 ## 6. Book of Unasked Questions
-*Wondrous item, rare (Orinth's gift, Ch.5)*
+*Wondrous item, rare (Orinth's gift, at DM discretion — Act III onward)*
 - Blank-paged journal in Cael's hand. Writing a genuine question overnight yields no answer — instead advantage on the next Investigation/Insight check pursuing it.
 - 1/week: ask the Book about a sealed text; it replies with the right *question* to ask the text's keeper (never the contents).
 
 ## 7. Crown of Avarr
 *Wondrous item, legendary (requires attunement; cleanse first)*
-- Found tarnished in the Engine Deep (Ch.11). Uncleansed: +2 Int, disadvantage on Wis saves, whispers of certainty.
+- Found tarnished in the Engine Deep (Act VI, at DM discretion). Uncleansed: +2 Int, disadvantage on Wis saves, whispers of certainty.
 - Cleansed (Lantern + Vale cairn-rite, 1 hr): +2 Wis, immunity to charm/frightened from celestials/fiends, 1/day *Mind Blank* (self only).
 - Wearing it unconsecrated into the Open Veil: Avatar targets you first. It remembers Avarr.
 

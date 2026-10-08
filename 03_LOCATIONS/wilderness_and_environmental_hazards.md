@@ -7,7 +7,7 @@
 
 ## 1. Overview: The Post-Silence Environment `[ESTABLISHED CANON]`
 
-When Myrraen drew the Veil in **0 AS**, the sudden severing of divine authority threw Elonia’s natural systems into disequilibrium. Ecosystems that had been stabilized by Elyndra's living touch, seas smoothed by Kaelis, and skies warmed by Aurelion were abruptly left to mortal physics. Over a millennium, the earth developed its own natural scars—exacerbated by the leaking, fractured soulways beneath the surface.
+When Myrraen severed the divine connection in **0 AS**, the sudden withdrawal of divine stewardship threw Elonia's natural systems into disequilibrium. Ecosystems that had been stabilized by Elyndra's living touch, seas smoothed by Kaelis, and skies warmed by Aurelion were abruptly left to mortal physics. Over a millennium, the earth developed its own natural scars—exacerbated by the leaking, fractured soulways beneath the surface.
 
 Travel beyond the patrolled roads of the Five Great Powers requires contending with both standard wilderness survival and **metaphysical environmental hazards**.
 

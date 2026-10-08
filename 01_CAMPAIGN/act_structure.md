@@ -67,7 +67,7 @@ Arriving in the shining ivory towers of New Ilya, the party enters a world of in
 - **The Inquisitors of the Athenaeum Null:** Armed censors tasked with confiscating unauthorized historical texts.
 
 ### 4. The Required Turn `[DM-ONLY]`
-The party infiltrates the sealed subterranean vaults of the **Athenaeum Null**. There, they discover the truth: history was not erased by an ancient cataclysm; **it was systematically scrubbed by modern university chancellors and League magistrates**. The censors were not motivated by evil, but by sheer terror: ancient documents describe the catastrophic failure of the **Ascension Engine** and warn that its damage to the fabric of reality was never truly repaired.
+The party infiltrates the sealed subterranean vaults of the **Athenaeum Null**. There, they discover the truth: history was not erased by an ancient cataclysm; **it was systematically scrubbed by modern university chancellors and League magistrates**. The censors were not motivated by evil, but by sheer terror: sealed documents insist the **Ascension Engine** failed catastrophically, and that its true purpose and final hours were deliberately struck from every public record.
 
 ### 5. Act Climax & State Change
 - **Climactic Encounter:** The party is ambushed inside the Athenaeum Null by elite censors. They must escape through the flooded catacombs while safeguarding the *Annales of Concord* and the *Broken Seal of Solcaris*.

@@ -78,7 +78,7 @@ Within the Celestial Clock chamber, the party discovers Lord Seraphel’s person
 - **2.2 The Pavilion of Mercy:** The ruins of the great hospital. Marble cots, alchemical drying tables, and shattered fountains where Myrraen walked among diseased mortals during the Great Concord.
 - **2.3 The Spring of Tears:** A natural warm spring fed by subterranean aquifers. Drinking or bathing in its waters acts as a *Greater Restoration* spell and cures all non-magical diseases.
 - **2.4 The Memory Grove:** A sacred copse of golden-leafed aspen trees. Hanging from the branches are crystalline **Memory Leaves** that contain preserved sensory recollections of ancient mortals who found shelter here.
-- **2.5 The Chair of the Silence:** A plain stone seat carved into a granite knoll overlooking the valley. Here, in **0 AS**, Myrraen sat after the Last Council, wept for humanity, and severed the divine cord to protect mortals from becoming eternal children.
+- **2.5 The Chair of the Silence:** A plain stone seat carved into a granite knoll overlooking the valley. Here, in **0 AS**, Myrraen sat after the Last Council, wept for humanity, and severed the divine cord — surrendering Her own presence to force mortal adulthood. An act of love, fear, and doubt that caused centuries of agony and enabled mortal independence in equal measure. Whether it was right remains `[UNRESOLVED]`.
 
 ### 2.3 The Memory Leaf Encounter `[DM-ONLY]`
 When a player attunes to the central Memory Leaf at the Chair of the Silence, they experience an unfiltered divine memory:

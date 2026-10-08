@@ -38,10 +38,10 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
 
 #### The Age of Dawn: The Awakening of the Nine `[ESTABLISHED CANON]`
 - **Orinth** awakens first beneath an unlit sky. He names the stone, the wind, and the sea, giving birth to knowledge.
-- **Selyra** opens her eyes and dreams silver fires adrift in the blackness; her dreams give rise to the stars.
+- **Selyra** opens her eyes and dreams silver fires adrift in the blackness; the myths hold her dreaming called the stars — whether truth or allegory, none can say.
 - Orinth and Selyra wander together across uncounted centuries, seeking the horizon.
 - The remaining Seven awaken: **Aurelion** rises amidst fire and storm; **Thaeron** awakens upon an unformed battlefield; **Elyndra** stirs beneath primordial roots; **Kaelis** stirs at the world’s furthest edge; **Iskara** awakens to the warmth of living breath.
-- **Varek** comes in silence. With his arrival, the first leaf falls, and mortality enters creation.
+- **Varek** comes in silence. With his arrival, the first leaf falls: endings and departure enter the world, and Varek takes up the maintenance of the passage of souls.
 - **Myrraen** is the last to awaken, stepping into the world with tears of compassion for mortal fragility.
 
 #### The Age of Wonder: The Coming of Mortals `[ESTABLISHED CANON]` `[UNRESOLVED]`

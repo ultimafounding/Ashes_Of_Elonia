@@ -46,7 +46,7 @@ Cael counters questions with deeper questions:
 If the chapel is attacked, Cael defends the hearth with simple wooden staves and abjuration cantrips. He will not unleash divine lightning or kill boss monsters for the PCs. The victory must belong to mortal courage.
 
 ### Law 4: The Unbroken Disguise
-Do not reveal Cael through an abrupt confession. The players must deduce his identity by finding his 800-year continuous diaries in the cellar or noticing that ancient covenant relics calm instantly beneath his ink-stained fingers.
+Do not reveal Cael through an abrupt confession. The players must deduce his identity by finding his continuous logbooks running 42 AS–present in the cellar or noticing that ancient covenant relics calm instantly beneath his ink-stained fingers.
 
 ---
 
@@ -81,7 +81,7 @@ Do not reveal Cael through an abrupt confession. The players must deduce his ide
 - **Innate Spellcasting:** Spell save DC 19, +11 to hit:
   - *At will:* *Light*, *Mending*, *Prestidigitation*, *Thaumaturgy*, *Guidance*
   - *3/day each:* *Calm Emotions*, *Dispel Magic*, *Sanctuary*, *Tongues*
-  - *1/day each:* *Greater Restoration*, *Legend Lore*
+  - *1/day each:* *Greater Restoration*. Cael never casts divinations to answer the party's mysteries (see Law 2).
 
 #### Actions
 - **Oak Staff:** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage plus 9 (2d8) radiant damage.

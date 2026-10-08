@@ -38,7 +38,7 @@ The following matrix controls the disclosure of campaign truths across the six a
 - **Modern Belief:** `[PLAYER-FACING]` Spirits wander because priests are corrupt, or because the gods turned their backs on Elonia.
 - **The Truth:** `[DM-ONLY]` The crisis stems from structural, metaphysical trauma inflicted on the soulways by the ancient catastrophic failure of the Ascension Engine.
   - **Stage 1: Foreshadowed (Act I & II):** In Port Meridian, sailors speak of drowned ghosts whose faces shatter like glass. In New Ilya, mortality tables show a 14% failure rate in standard cremation releases.
-  - **Stage 2: Learned (Act III, Session 8):** Brother Cael reveals that the soulways were torn centuries before the Silence during an unsanctioned attempt to conquer mortality.
+  - **Stage 2: Learned (Act III, Session 8):** Brother Cael warns — as unconfirmed testimony, not proof — that the soulways were already wounded before the Silence, torn in an unsanctioned attempt to master death.
   - **Stage 3: Confirmed (Act IV, Session 12):** Within the Bleak Path, the characters physically inspect the soulways. They witness a colossal, crystalized fracture scarred across the ethereal firmament, leaking spirit-light into the abyss.
 
 ---
@@ -91,7 +91,7 @@ To ensure the campaign never grinds to a halt if a specific clue or room is miss
 │    censored        │ in Athenaeum     │ burn-pits in    │ Dean Arcturus│
 │                    │ Null             │ Conclave        │ Vale         │
 ├────────────────────┼──────────────────┼─────────────────┼──────────────┤
-│ 3. Cael is Orinth  │ 800-year diaries │ Automatic relic │ The Slip of  │
+│ 3. Cael is Orinth  │ 42 AS–present logbooks │ Automatic relic │ The Slip of  │
 │                    │ in chapel crypt  │ attunement      │ Memory       │
 ├────────────────────┼──────────────────┼─────────────────┼──────────────┤
 │ 4. Seraphel's soul │ House Vane alloy │ Siphon conduits │ Interrogation│
