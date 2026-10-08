@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_SOURCE_OF_TRUTH/Ain_Elonar.md",
+                "file": "05_FACTIONS/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ain_Elonar"
+              "title": "README"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_SOURCE_OF_TRUTH/Ain_Elonar.md",
+                "file": "05_FACTIONS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_SOURCE_OF_TRUTH/Ain_Elonar.md",
+                "file": "05_FACTIONS/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_SOURCE_OF_TRUTH/Ain_Elonar.md",
+                "file": "05_FACTIONS/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,9 +189,14 @@
   },
   "active": "3673224342381bd9",
   "lastOpenFiles": [
+    "03_LOCATIONS/new_ilya.md",
+    "03_LOCATIONS/README.md",
+    "03_LOCATIONS/the_engine_deep_and_the_veil.md",
+    "03_LOCATIONS/vale_myrr_and_nythara.md",
+    "03_LOCATIONS/port_meridian.md",
+    "00_SOURCE_OF_TRUTH/Ain_Elonar.md",
     "03_LOCATIONS/frontier_and_ruin_sites.md",
     "00_SOURCE_OF_TRUTH/Ashes_of_Elonia_Official_Campaign_Bible_v1.md",
-    "00_SOURCE_OF_TRUTH/Ain_Elonar.md",
     "05_FACTIONS/the_keepers_of_dawn.md",
     "04_NPCS/the_avatar_of_the_last_mercy.md",
     "04_NPCS/lord_seraphel.md",

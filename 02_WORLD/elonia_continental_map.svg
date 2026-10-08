@@ -1,260 +1,265 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" style="font-family: Georgia, 'Palatino Linotype', 'DejaVu Serif', serif;">
-  <defs>
-    <linearGradient id="deepSea" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#16425b"/>
-      <stop offset="55%" stop-color="#12394f"/>
-      <stop offset="100%" stop-color="#0c2839"/>
-    </linearGradient>
-    <linearGradient id="landmass" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#efe0bd"/>
-      <stop offset="55%" stop-color="#e3cb9c"/>
-      <stop offset="100%" stop-color="#d3b47e"/>
-    </linearGradient>
-    <radialGradient id="vignette" cx="50%" cy="46%" r="75%">
-      <stop offset="62%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#04121c" stop-opacity="0.55"/>
-    </radialGradient>
-    <pattern id="swell" width="46" height="22" patternUnits="userSpaceOnUse">
-      <path d="M 0 11 Q 11 6, 23 11 T 46 11" fill="none" stroke="#7fa8b5" stroke-width="0.9" opacity="0.5"/>
-    </pattern>
-    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="3" r="0.6" fill="#8a6f45" opacity="0.35"/>
-      <circle cx="5" cy="6" r="0.5" fill="#8a6f45" opacity="0.3"/>
-    </pattern>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity="0.55"/>
-    </filter>
-    <filter id="goldGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#ffd97a" flood-opacity="0.8"/>
-    </filter>
-    <clipPath id="landClip">
-      <path d="M 220,0 Q 280,60 380,50 Q 520,30 680,60 Q 820,40 1000,80 Q 1120,140 1200,200 L 1200,280 Q 1160,320 1120,440 Q 1060,580 980,680 Q 900,780 850,900 L 450,900 Q 360,820 300,750 Q 240,660 200,560 Q 140,420 180,300 Q 200,180 220,0 Z"/>
-    </clipPath>
-    <g id="pine">
-      <polygon points="0,-11 6,-1 3,-1 8,7 2,7 2,12 -2,12 -2,7 -8,7 -3,-1 -6,-1" fill="#1e4d38"/>
-    </g>
-    <g id="peak">
-      <polygon points="0,-16 11,8 -11,8" fill="#5d4a36"/>
-      <polygon points="0,-16 5.5,-6 -5.5,-6" fill="#f4efe2"/>
-      <polygon points="0,-16 11,8 -11,8" fill="none" stroke="#2e2117" stroke-width="1.4"/>
-    </g>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100" style="font-family: Georgia, 'Palatino Linotype', 'DejaVu Serif', serif;">
+<defs>
+<linearGradient id="parch" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#f2e7cb"/><stop offset=".55" stop-color="#e9d9b4"/><stop offset="1" stop-color="#dcc79a"/>
+</linearGradient>
+<linearGradient id="landfill" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#efe0ba"/><stop offset="1" stop-color="#dcc79c"/>
+</linearGradient>
+<pattern id="swell2" width="52" height="24" patternUnits="userSpaceOnUse">
+<path d="M0,12 Q13,7 26,12 T52,12" fill="none" stroke="#9db3a8" stroke-width="1" opacity=".55"/>
+</pattern>
+<pattern id="dotsand" width="14" height="14" patternUnits="userSpaceOnUse">
+<circle cx="3" cy="4" r="1" fill="#8a6f45" opacity=".5"/><circle cx="10" cy="10" r="1" fill="#8a6f45" opacity=".45"/>
+</pattern>
+<pattern id="dotash" width="12" height="12" patternUnits="userSpaceOnUse">
+<circle cx="3" cy="3" r="1" fill="#4a4a48" opacity=".55"/><circle cx="8" cy="9" r=".8" fill="#4a4a48" opacity=".5"/>
+</pattern>
+<pattern id="fields" width="34" height="26" patternUnits="userSpaceOnUse">
+<rect x="1" y="1" width="14" height="10" fill="none" stroke="#7a8a4a" stroke-width=".8" opacity=".6"/>
+<rect x="17" y="3" width="14" height="10" fill="none" stroke="#7a8a4a" stroke-width=".8" opacity=".6"/>
+<rect x="4" y="14" width="14" height="10" fill="none" stroke="#7a8a4a" stroke-width=".8" opacity=".6"/>
+</pattern>
+<g id="rg">
+<path d="M0,0 L18,-30 L30,-12 L44,-38 L60,-8 L72,-24 L88,0 Z" fill="#cdb37f" stroke="#46351f" stroke-width="1.7"/>
+<path d="M18,-30 L24,-20 L12,-20 Z M44,-38 L51,-26 L37,-26 Z M72,-24 L77,-16 L67,-16 Z" fill="#f7f2e3"/>
+<path d="M44,-38 L60,-8 L88,0 L64,0 L52,-10 Z" fill="#8a6f45" opacity=".45"/>
+</g>
+<g id="pn"><polygon points="0,-12 7,-1 3,-1 9,8 2,8 2,13 -2,13 -2,8 -9,8 -3,-1 -7,-1" fill="#28503a"/></g>
+<g id="tr">
+<use href="#pn" x="0" y="0"/><use href="#pn" x="16" y="6"/><use href="#pn" x="-15" y="7"/><use href="#pn" x="8" y="-10"/><use href="#pn" x="-8" y="-9"/>
+</g>
+<g id="keep">
+<rect x="-8" y="-16" width="16" height="16" fill="#e5d3a6" stroke="#3a2c1c" stroke-width="1.8"/>
+<path d="M-8,-16 L-8,-21 L-4,-21 L-4,-18 L0,-18 L0,-21 L4,-21 L4,-18 L8,-18 L8,-21 L8,-16" fill="none" stroke="#3a2c1c" stroke-width="1.8"/>
+<rect x="-2.5" y="-7" width="5" height="7" fill="#3a2c1c"/>
+<line x1="0" y1="-21" x2="0" y2="-30" stroke="#3a2c1c" stroke-width="1.4"/>
+<polygon class="pennant" points="0,-30 12,-27 0,-24" fill="#8c2d19"/>
+</g>
+<g id="ruin">
+<rect x="-5" y="-14" width="7" height="14" fill="#ded0ab" stroke="#3a2c1c" stroke-width="1.5"/>
+<rect x="3" y="-9" width="7" height="9" fill="#ded0ab" stroke="#3a2c1c" stroke-width="1.5"/>
+<rect x="-9" y="1" width="8" height="4" transform="rotate(-18)" fill="#c9b98f" stroke="#3a2c1c" stroke-width="1.2"/>
+</g>
+<path id="gulfCurve" d="M1380,420 Q1420,560 1370,720" fill="none"/>
+<path id="seaCurveW" d="M150,780 Q120,600 170,420" fill="none"/>
+<path id="coastCurve" d="M700,985 Q640,955 600,905" fill="none"/>
+</defs>
 
-  <!-- Abyssal sea -->
-  <rect width="1200" height="900" fill="url(#deepSea)"/>
-  <rect width="1200" height="900" fill="url(#swell)" opacity="0.5"/>
+<rect width="1600" height="1100" fill="url(#parch)"/>
+<rect width="1600" height="1100" fill="url(#swell2)" opacity=".45"/>
 
-  <!-- Faint graticule over water -->
-  <g stroke="#8fb3bf" stroke-width="0.6" opacity="0.22">
-    <path d="M 0,150 L 1200,150 M 0,300 L 1200,300 M 0,450 L 1200,450 M 0,600 L 1200,600 M 0,750 L 1200,750"/>
-    <path d="M 150,0 L 150,900 M 300,0 L 300,900 M 450,0 L 450,900 M 600,0 L 600,900 M 750,0 L 750,900 M 900,0 L 900,900 M 1050,0 L 1050,900"/>
-  </g>
+<!-- rhumb fans -->
+<g stroke="#8fa393" stroke-width=".7" opacity=".5">
+<g transform="translate(215,215)">
+<path d="M0,0 L-215,-215 M0,0 L-120,-260 M0,0 L-215,-60 M0,0 L-260,60 M0,0 L-215,180 M0,0 L-120,300 M0,0 L60,-300 M0,0 L200,-260"/>
+</g>
+<g transform="translate(1470,930)">
+<path d="M0,0 L130,-200 M0,0 L-40,-260 M0,0 L-200,-160 M0,0 L-260,-40 M0,0 L-200,80 M0,0 L-60,170"/>
+</g>
+</g>
 
-  <!-- Depth contours echoing the coast -->
-  <g fill="none" stroke="#9fc3cf" opacity="0.28">
-    <path d="M 0,0 L 220,0 Q 200,180 180,300 Q 140,420 200,560 Q 240,660 300,750 Q 360,820 450,900 L 0,900 Z" stroke-width="1.2"/>
-    <path d="M 850,900 Q 900,780 980,680 Q 1060,580 1120,440 Q 1160,320 1200,280 L 1200,900 Z" stroke-width="1.2"/>
-  </g>
-  <g fill="none" stroke="#9fc3cf" opacity="0.14">
-    <path d="M 0,0 L 190,0 Q 170,180 150,300 Q 112,420 172,560 Q 212,660 272,750 Q 332,820 420,900 L 0,900 Z" stroke-width="1"/>
-    <path d="M 880,900 Q 928,780 1006,680 Q 1084,580 1142,440 Q 1180,320 1200,300 L 1200,900 Z" stroke-width="1"/>
-  </g>
+<!-- isles -->
+<g fill="url(#landfill)" stroke="#3a2c1c" stroke-width="1.6">
+<ellipse cx="372" cy="498" rx="12" ry="7"/><ellipse cx="398" cy="516" rx="9" ry="6"/>
+<ellipse cx="432" cy="990" rx="20" ry="9"/><ellipse cx="502" cy="1012" rx="26" ry="10"/><ellipse cx="578" cy="1002" rx="18" ry="8"/>
+<ellipse cx="1342" cy="700" rx="14" ry="8"/><ellipse cx="1367" cy="747" rx="17" ry="9"/><ellipse cx="1345" cy="800" rx="12" ry="7"/>
+</g>
+<path d="M1367,738 L1367,724 M1362,724 L1372,724" stroke="#3a2c1c" stroke-width="1.6"/><!-- siren spire mast -->
 
-  <!-- Sea labels -->
-  <text x="72" y="540" font-size="19" fill="#cfe3ea" font-style="italic" letter-spacing="5" opacity="0.85" transform="rotate(-70 72 540)">THE SUNDERSEA</text>
-  <text x="1052" y="640" font-size="17" fill="#cfe3ea" font-style="italic" letter-spacing="3" opacity="0.85" transform="rotate(48 1052 640)">MERIDIAN GULF</text>
-  <text x="420" y="60" font-size="13" fill="#9dc0cc" font-style="italic" letter-spacing="3" opacity="0.7">THE NORTHERN RIFTLANDS</text>
+<!-- CONTINENT -->
+<path id="coast" d="M350,210 Q420,140 520,120 Q650,95 800,90 Q950,85 1080,100 Q1200,115 1290,170 Q1340,260 1310,350 Q1270,420 1275,500 Q1280,580 1320,660 Q1300,760 1230,830 Q1120,900 1000,920 Q900,945 800,940 Q700,935 640,900 Q600,860 560,870 Q520,880 500,920 Q460,960 400,940 Q350,880 340,780 Q330,680 350,580 Q400,520 390,470 Q385,430 350,400 Q330,300 350,210 Z"
+fill="url(#landfill)" stroke="#3a2c1c" stroke-width="3"/>
+<path d="M350,210 Q420,140 520,120 Q650,95 800,90 Q950,85 1080,100 Q1200,115 1290,170 Q1340,260 1310,350 Q1270,420 1275,500 Q1280,580 1320,660 Q1300,760 1230,830 Q1120,900 1000,920 Q900,945 800,940 Q700,935 640,900 Q600,860 560,870 Q520,880 500,920 Q460,960 400,940 Q350,880 340,780 Q330,680 350,580 Q400,520 390,470 Q385,430 350,400 Q330,300 350,210 Z"
+fill="none" stroke="#3a2c1c" stroke-width=".9" opacity=".6" transform="translate(7,8)"/>
 
-  <!-- Continent -->
-  <path d="M 228,8 Q 288,68 388,58 Q 528,38 688,68 Q 828,48 1008,88 Q 1128,148 1200,208 L 1200,280 Q 1168,328 1128,448 Q 1068,588 988,688 Q 908,788 858,900 L 458,900 Q 368,828 308,758 Q 248,668 208,568 Q 148,428 188,308 Q 208,188 228,8 Z" fill="#03141d" opacity="0.5"/>
-  <path d="M 220,0 Q 280,60 380,50 Q 520,30 680,60 Q 820,40 1000,80 Q 1120,140 1200,200 L 1200,280 Q 1160,320 1120,440 Q 1060,580 980,680 Q 900,780 850,900 L 450,900 Q 360,820 300,750 Q 240,660 200,560 Q 140,420 180,300 Q 200,180 220,0 Z"
-        fill="url(#landmass)"/>
-  <g clip-path="url(#landClip)">
-    <rect x="150" y="0" width="1100" height="900" fill="url(#grain)"/>
-    <g stroke="#b99c66" stroke-width="0.7" opacity="0.35">
-      <path d="M 150,180 L 1250,180 M 150,360 L 1250,360 M 150,540 L 1250,540 M 150,720 L 1250,720"/>
-      <path d="M 350,0 L 350,900 M 550,0 L 550,900 M 750,0 L 750,900 M 950,0 L 950,900"/>
-    </g>
-  </g>
-  <path d="M 220,0 Q 280,60 380,50 Q 520,30 680,60 Q 820,40 1000,80 Q 1120,140 1200,200 L 1200,280 Q 1160,320 1120,440 Q 1060,580 980,680 Q 900,780 850,900 L 450,900 Q 360,820 300,750 Q 240,660 200,560 Q 140,420 180,300 Q 200,180 220,0 Z"
-        fill="none" stroke="#f7ecd0" stroke-width="7" opacity="0.45"/>
-  <path d="M 220,0 Q 280,60 380,50 Q 520,30 680,60 Q 820,40 1000,80 Q 1120,140 1200,200 L 1200,280 Q 1160,320 1120,440 Q 1060,580 980,680 Q 900,780 850,900 L 450,900 Q 360,820 300,750 Q 240,660 200,560 Q 140,420 180,300 Q 200,180 220,0 Z"
-        fill="none" stroke="#3a2a18" stroke-width="2.6"/>
+<!-- nation watercolor washes -->
+<g opacity=".16">
+<path d="M350,210 Q420,140 520,120 Q650,95 800,90 L800,330 Q640,330 560,380 Q450,420 390,470 Q385,430 350,400 Q330,300 350,210 Z" fill="#2e6f9e"/>
+<path d="M800,90 Q950,85 1080,100 Q1200,115 1290,170 Q1340,260 1310,350 L1310,350 Q1150,480 1000,470 Q880,460 800,380 Z" fill="#c48a32"/>
+<path d="M560,640 Q700,600 880,630 Q930,730 880,830 Q740,880 600,830 Q530,740 560,640 Z" fill="#1e6b45"/>
+<path d="M600,830 Q740,880 880,830 Q1000,860 1000,920 Q900,945 800,940 Q700,935 640,900 Q600,860 560,870 Z" fill="#a05c3a" opacity=".8"/>
+<path d="M500,920 Q460,960 400,940 Q350,880 340,780 Q330,680 350,580 L560,640 Q530,740 600,830 Q520,880 500,920 Z" fill="#274b73" opacity=".8"/>
+</g>
+<!-- farmland patchwork, Lyceum basin -->
+<path d="M430,300 Q560,280 660,320 Q640,390 520,400 Q440,380 430,300 Z" fill="url(#fields)" opacity=".8"/>
+<!-- dune stipple -->
+<path d="M640,860 Q760,900 900,880 Q980,890 1000,920 Q900,945 800,940 Q700,935 640,900 Z" fill="url(#dotsand)" opacity=".8"/>
+<!-- ash stipple, dead basin -->
+<path d="M820,590 Q940,580 1010,630 Q1020,700 940,730 Q850,735 815,680 Z" fill="url(#dotash)" opacity=".85"/>
 
-  <!-- Nation tints + dashed marches -->
-  <path d="M 220,0 Q 320,80 340,240 Q 350,340 420,380 Q 320,440 200,420 Q 180,300 220,0 Z" fill="#2e6f9e" opacity="0.10"/>
-  <path d="M 220,0 Q 320,80 340,240 Q 350,340 420,380 Q 320,440 200,420" fill="none" stroke="#2e6f9e" stroke-width="1.4" stroke-dasharray="7,4" opacity="0.7"/>
-  <path d="M 680,60 Q 820,40 1000,80 Q 1120,140 1160,300 Q 1080,420 950,420 Q 820,400 700,320 Q 640,180 680,60 Z" fill="#c48a32" opacity="0.12"/>
-  <path d="M 1160,300 Q 1080,420 950,420 Q 820,400 700,320" fill="none" stroke="#a86f24" stroke-width="1.4" stroke-dasharray="7,4" opacity="0.7"/>
-  <path d="M 420,380 Q 580,360 700,420 Q 760,540 720,660 Q 580,720 440,660 Q 380,520 420,380 Z" fill="#1e6b45" opacity="0.13"/>
-  <path d="M 420,380 Q 580,360 700,420 Q 760,540 720,660 Q 580,720 440,660 Q 380,520 420,380 Z" fill="none" stroke="#1e6b45" stroke-width="1.4" stroke-dasharray="7,4" opacity="0.7"/>
-  <path d="M 440,660 Q 580,720 720,660 Q 780,740 850,900 L 450,900 Q 380,800 440,660 Z" fill="#a05c3a" opacity="0.12"/>
-  <path d="M 440,660 Q 580,720 720,660" fill="none" stroke="#a05c3a" stroke-width="1.4" stroke-dasharray="7,4" opacity="0.7"/>
-  <path d="M 720,660 Q 820,560 950,560 Q 980,680 900,780 Q 820,740 720,660 Z" fill="#274b73" opacity="0.12"/>
-  <path d="M 720,660 Q 820,560 950,560 Q 980,680 900,780" fill="none" stroke="#274b73" stroke-width="1.4" stroke-dasharray="7,4" opacity="0.7"/>
+<!-- rivers -->
+<g fill="none" stroke-linecap="round">
+<path d="M730,450 Q650,410 570,392 Q500,378 448,410 Q420,430 424,452" stroke="#3f7d99" stroke-width="3.4"/>
+<path d="M640,330 Q600,350 570,392" stroke="#3f7d99" stroke-width="1.8"/>
+<path d="M1050,330 Q1120,360 1180,400" stroke="#3f7d99" stroke-width="1.6" opacity=".7"/>
+</g>
+<text x="628" y="400" font-size="12" fill="#2c5a72" font-style="italic" transform="rotate(-10 628 400)">River Ilya</text>
 
-  <!-- Rivers -->
-  <g fill="none" stroke-linecap="round">
-    <path d="M 520,280 Q 440,260 380,220 Q 320,180 270,140 Q 230,120 195,110" stroke="#3f7d99" stroke-width="3.2"/>
-    <path d="M 460,340 Q 420,300 380,220" stroke="#3f7d99" stroke-width="1.8"/>
-  </g>
-  <text x="318" y="158" font-size="11" fill="#2c5a72" font-style="italic" transform="rotate(-28 318 158)">River Ilya</text>
+<!-- ranges -->
+<use href="#rg" x="600" y="150" transform="scale(1.15) translate(-8,0)"/>
+<use href="#rg" x="700" y="140"/><use href="#rg" x="800" y="135" transform="scale(.95)"/><use href="#rg" x="895" y="140"/><use href="#rg" x="985" y="150" transform="scale(.9)"/>
+<text x="830" y="92" font-size="14" font-weight="bold" letter-spacing="3" fill="#3a2c1c" text-anchor="middle">THE SILVER HORNS</text>
+<use href="#rg" x="452" y="470" transform="scale(.85)"/><use href="#rg" x="450" y="560" transform="scale(.9)"/><use href="#rg" x="448" y="655" transform="scale(.85)"/>
+<text x="418" y="570" font-size="13" font-weight="bold" letter-spacing="2" fill="#3a2c1c" text-anchor="middle" transform="rotate(-84 418 570)">SPINE OF THAERON</text>
+<use href="#rg" x="660" y="490" transform="scale(.9)"/><use href="#rg" x="748" y="512" transform="scale(.95)"/><use href="#rg" x="830" y="550" transform="scale(.9)"/>
+<ellipse cx="755" cy="512" rx="125" ry="30" fill="#c8cfd2" opacity=".35"/>
+<text x="775" y="440" font-size="13" font-weight="bold" letter-spacing="2" fill="#3a2c1c" text-anchor="middle" transform="rotate(12 775 440)">THE WEEPING RIDGE</text>
+<!-- iron gates -->
+<g stroke="#3a2c1c" stroke-width="2" fill="none">
+<path d="M488,418 L488,450 M512,418 L512,450 M488,434 L512,434"/>
+</g>
+<text x="500" y="410" font-size="10" font-style="italic" fill="#3a2c1c" text-anchor="middle">Iron Gates</text>
+<!-- avarr crater -->
+<g>
+<ellipse cx="915" cy="660" rx="42" ry="22" fill="none" stroke="#2b2320" stroke-width="1.6" stroke-dasharray="5,3"/>
+<ellipse cx="915" cy="660" rx="26" ry="13" fill="#241d16" opacity=".4"/>
+<path d="M915,638 L915,617 M930,646 L945,634 M900,646 L885,634 M915,682 L915,703" stroke="#2b2320" stroke-width="1.2"/>
+<text x="915" y="711" font-size="11" font-style="italic" fill="#4a3a28" text-anchor="middle">Crater of Avarr [16]</text>
+</g>
+<!-- sea of glass -->
+<g>
+<ellipse cx="1215" cy="445" rx="45" ry="26" fill="none" stroke="#8a8266" stroke-width="1.4" stroke-dasharray="6,3"/>
+<path d="M1180,440 L1200,448 L1194,458 M1218,432 L1232,445 L1226,458 M1245,440 L1255,450" stroke="#8a8266" stroke-width="1" fill="none"/>
+<text x="1215" y="488" font-size="10" font-style="italic" fill="#6a6248" text-anchor="middle">Sea of Glass (dry)</text>
+</g>
+<!-- forests -->
+<use href="#tr" x="640" y="700"/><use href="#tr" x="745" y="665"/><use href="#tr" x="760" y="700"/><use href="#tr" x="820" y="690"/>
+<use href="#tr" x="610" y="760"/><use href="#tr" x="670" y="750"/><use href="#tr" x="730" y="770"/><use href="#tr" x="790" y="755"/><use href="#tr" x="850" y="740"/>
+<use href="#tr" x="640" y="820"/><use href="#tr" x="710" y="830"/><use href="#tr" x="770" y="820"/><use href="#tr" x="830" y="810"/>
+<text x="725" y="868" font-size="17" font-weight="bold" letter-spacing="5" fill="#173d2b" text-anchor="middle">THE VERDANCY</text>
+<!-- vale myrr vale -->
+<path d="M770,585 Q800,565 830,585 Q825,610 800,615 Q775,610 770,585 Z" fill="#b8d0a0" stroke="#3a5a34" stroke-width="1.4"/>
+<!-- vareth canyon -->
+<g stroke="#241d16" stroke-width="2" fill="none">
+<path d="M860,895 L950,895 M855,905 L955,905 M865,915 L945,915"/>
+<path d="M880,890 L880,920 M905,890 L905,920 M930,890 L930,920" stroke-width="1"/>
+</g>
+<!-- dune ripples -->
+<g stroke="#8a4f28" stroke-width="1" fill="none" opacity=".6">
+<path d="M700,890 Q730,885 760,890"/><path d="M790,910 Q830,905 870,910"/><path d="M680,930 Q720,925 760,930"/>
+</g>
 
-  <!-- Silver Horns -->
-  <g>
-    <use href="#peak" x="505" y="80"/><use href="#peak" x="558" y="66"/><use href="#peak" x="612" y="78"/><use href="#peak" x="666" y="68"/>
-    <text x="585" y="30" font-size="13" fill="#3a2a1d" font-weight="bold" letter-spacing="2" text-anchor="middle">THE SILVER HORNS</text>
-  </g>
-  <!-- Spine of Thaeron -->
-  <g>
-    <use href="#peak" x="258" y="300"/><use href="#peak" x="272" y="372"/><use href="#peak" x="284" y="448"/>
-    <text x="196" y="440" font-size="12" fill="#3a2a1d" font-weight="bold" letter-spacing="1" transform="rotate(-75 196 440)" text-anchor="middle">SPINE OF THAERON</text>
-  </g>
-  <!-- Weeping Ridge -->
-  <g opacity="0.95">
-    <use href="#peak" x="528" y="262"/><use href="#peak" x="578" y="278"/><use href="#peak" x="628" y="296"/><use href="#peak" x="676" y="314"/>
-    <ellipse cx="600" cy="285" rx="110" ry="34" fill="#cfd6da" opacity="0.35"/>
-    <text x="600" y="208" font-size="13" fill="#3a2a1d" font-weight="bold" letter-spacing="2" text-anchor="middle">THE WEEPING RIDGE</text>
-  </g>
+<!-- star roads -->
+<g fill="none" stroke="#1e7a6e" stroke-width="2.6" stroke-dasharray="9,6" opacity=".8">
+<path d="M600,890 Q700,760 790,660 Q880,560 950,540 Q1030,540 1110,590"/>
+<path d="M950,540 Q920,400 900,260 Q892,210 880,175"/>
+</g>
+<text x="985" y="505" font-size="11" font-weight="bold" fill="#0e5f54" transform="rotate(-55 985 505)">── STAR ROADS ──</text>
+<!-- highways -->
+<g fill="none" stroke="#6e4f2a" stroke-width="1.8" stroke-dasharray="6,4" opacity=".85">
+<path d="M600,890 Q480,860 420,750 Q380,650 420,540 Q440,470 470,420"/>
+<path d="M600,890 Q720,900 830,880 Q900,870 960,900"/>
+<path d="M520,385 Q580,400 650,430 Q690,445 715,460"/>
+</g>
 
-  <!-- Verdancy canopy -->
-  <g opacity="0.85">
-    <use href="#pine" x="480" y="480"/><use href="#pine" x="512" y="468"/><use href="#pine" x="544" y="488"/>
-    <use href="#pine" x="582" y="462"/><use href="#pine" x="620" y="480"/><use href="#pine" x="652" y="468"/>
-    <use href="#pine" x="462" y="532"/><use href="#pine" x="502" y="542"/><use href="#pine" x="552" y="532"/>
-    <use href="#pine" x="602" y="542"/><use href="#pine" x="642" y="530"/><use href="#pine" x="682" y="510"/>
-    <use href="#pine" x="492" y="600"/><use href="#pine" x="542" y="610"/><use href="#pine" x="592" y="600"/><use href="#pine" x="642" y="590"/>
-    <text x="566" y="570" font-size="16" fill="#173d2b" font-weight="bold" letter-spacing="4" text-anchor="middle">THE VERDANCY</text>
-  </g>
+<!-- region labels -->
+<text x="520" y="300" font-size="17" font-weight="bold" letter-spacing="3" fill="#1e4256">REPUBLIC OF ILYA</text>
+<text x="1010" y="265" font-size="17" font-weight="bold" letter-spacing="3" fill="#7a4d12">AURELIAN LEAGUE</text>
+<text x="1060" y="420" font-size="13" font-weight="bold" letter-spacing="2" fill="#7a4d12">SUN-PLAINS</text>
+<text x="1060" y="500" font-size="12" font-style="italic" letter-spacing="2" fill="#6a5a42">Whispering Wastes</text>
+<text x="750" y="920" font-size="15" font-weight="bold" letter-spacing="4" fill="#6e3f1c" text-anchor="middle">DOMINION OF VARETH</text>
+<text x="750" y="936" font-size="11" font-style="italic" letter-spacing="2" fill="#6e3f1c" text-anchor="middle">the Dune-Sea</text>
+<text x="890" y="40" font-size="14" letter-spacing="4" font-style="italic" fill="#5a6a72" text-anchor="middle">THE RIFTLANDS — uncharted</text>
+<text x="1330" y="300" font-size="12" font-style="italic" letter-spacing="2" fill="#5a6a72">Eastern Wastes</text>
+<text><textPath href="#seaCurveW" startOffset="30" font-size="20" font-style="italic" letter-spacing="6" fill="#5f7a86">THE SUNDERSEA</textPath></text>
+<text><textPath href="#gulfCurve" startOffset="18" font-size="19" font-style="italic" letter-spacing="4" fill="#5f7a86">MERIDIAN GULF</textPath></text>
+<text x="180" y="880" font-size="15" font-style="italic" letter-spacing="3" fill="#5f7a86" transform="rotate(-78 180 880)">THE SUNDERSEA</text>
+<text><textPath href="#coastCurve" startOffset="8" font-size="13" font-style="italic" letter-spacing="2" fill="#44565e">Meridian Bay</textPath></text>
+<text x="430" y="470" font-size="11" font-style="italic" fill="#2c5a72">Gulf of Scholars</text>
+<text x="430" y="912" font-size="15" font-weight="bold" letter-spacing="2" fill="#163850" transform="rotate(-14 430 912)">THE FREE COAST</text>
 
-  <!-- Crater of Avarr -->
-  <ellipse cx="648" cy="382" rx="36" ry="20" fill="#241d16" opacity="0.32" stroke="#171310" stroke-width="1.5" stroke-dasharray="4,3"/>
-  <ellipse cx="648" cy="382" rx="22" ry="11" fill="#000" opacity="0.3"/>
-  <text x="648" y="416" font-size="10" fill="#4a3a28" font-style="italic" text-anchor="middle">Crater of Avarr [16]</text>
+<!-- sites -->
+<g font-size="13" font-weight="bold">
+<use href="#keep" x="0" y="0" transform="translate(600,890)"/><polygon points="600,860 612,863 600,866" fill="#c1121f"/>
+<text x="622" y="890" fill="#8d0808">01 Port Meridian</text>
+<text x="622" y="907" font-size="10" font-weight="normal" fill="#4a3436">02 Shattered Archive, beneath</text>
+<use href="#keep" x="0" y="0" transform="translate(520,385)"/><polygon points="520,355 532,358 520,361" fill="#274b73"/>
+<text x="542" y="382" fill="#0b2a4a">03 New Ilya</text>
+<text x="542" y="414" font-size="10" font-weight="normal" fill="#4a4a4a">04 Athenaeum Null, below</text>
+<circle cx="935" cy="562" r="6" fill="#e9c46a" stroke="#264653" stroke-width="2"/>
+<text x="951" y="560" fill="#7a5a20">05 Lantern Chapel</text>
+<text x="951" y="576" font-size="10" font-weight="normal" fill="#5c5c5c">06 Whispering Crags, ascent</text>
+<use href="#keep" x="0" y="0" transform="translate(965,893)"/><polygon points="965,863 977,866 965,869" fill="#212529"/>
+<text x="987" y="893" fill="#101418">07 Khar Vareth</text>
+<text x="987" y="909" font-size="10" font-weight="normal" fill="#3d3d3d">08 Bleak Path, beneath</text>
+<use href="#keep" x="0" y="0" transform="translate(1060,330)"/><polygon points="1060,300 1072,303 1060,306" fill="#b07d62"/>
+<text x="1082" y="330" fill="#6e3f1c">09 Solcaris Nova</text>
+<use href="#ruin" transform="translate(1210,395)"/>
+<text x="1198" y="400" font-size="11" fill="#3d434b" text-anchor="end">10 Ancient Solcaris, pylons</text>
+<use href="#ruin" transform="translate(505,560)"/>
+<text x="535" y="555" font-size="11" fill="#1c1f24">11 Harad Veyr</text>
+<circle cx="880" cy="175" r="6" fill="#bde6f2" stroke="#0077b6" stroke-width="2"/>
+<text x="896" y="178" font-size="11" fill="#0a5a86">12 Nythara</text>
+<circle cx="800" cy="590" r="5" fill="#9dc08a" stroke="#3a5a34" stroke-width="1.5"/>
+<text x="566" y="628" font-size="11" fill="#2c4a34">13 Vale Myrr</text>
+<line x1="620" y1="624" x2="792" y2="596" stroke="#2c4a34" stroke-width="1"/>
+<circle cx="688" cy="793" r="6" fill="#2d6a4f" stroke="#fff" stroke-width="2"/>
+<text x="640" y="660" fill="#173d2b">14 Living Spires</text>
+<line x1="690" y1="666" x2="689" y2="787" stroke="#173d2b" stroke-width="1"/>
+<circle cx="812" cy="842" r="4" fill="#40916c" stroke="#fff" stroke-width="1"/>
+<text x="826" y="862" font-size="10" font-weight="normal" font-style="italic" fill="#1e4d38">15 Hollow Glades</text>
+<circle cx="1345" cy="800" r="0.5" fill="none"/>
+<text x="1290" y="700" font-size="11" font-style="italic" fill="#163850">17 Shattered Reefs</text>
+<line x1="1310" y1="706" x2="1336" y2="706" stroke="#163850" stroke-width="1"/>
+<g transform="translate(845,625)">
+<polygon points="0,-11 9,5 -9,5" fill="#5a189a" stroke="#fff" stroke-width="1.5"/>
+<text x="14" y="-2" font-size="11" fill="#3d0a63">19 Engine Deep, miles beneath</text>
+<text x="14" y="12" font-size="10" font-weight="normal" fill="#5a189a">20 Open Veil · 18 Star Roads</text>
+</g>
+<g transform="translate(1110,590)">
+<rect x="-6" y="-6" width="12" height="12" fill="none" stroke="#0e5f54" stroke-width="2"/>
+<circle cx="0" cy="0" r="2" fill="#0e5f54"/>
+<text x="12" y="4" font-size="10" font-weight="normal" fill="#0e5f54">Nexus, under the Wastes</text>
+</g>
+</g>
 
-  <!-- Vareth dune ripples -->
-  <g stroke="#8a4f28" stroke-width="1" fill="none" opacity="0.55">
-    <path d="M 480,720 Q 510,715 540,720"/><path d="M 560,740 Q 600,735 640,740"/>
-    <path d="M 660,720 Q 700,715 740,720"/><path d="M 520,780 Q 560,775 600,780"/>
-    <path d="M 640,800 Q 680,795 720,800"/>
-    <text x="600" y="852" font-size="16" fill="#6e3f1c" font-weight="bold" letter-spacing="4" text-anchor="middle" stroke="none">DOMINION OF VARETH</text>
-  </g>
+<!-- title cartouche -->
+<g transform="translate(1150,60)">
+<rect width="390" height="104" rx="6" fill="#20303a" stroke="#c9a227" stroke-width="2.5"/>
+<rect x="6" y="6" width="378" height="92" rx="3" fill="none" stroke="#c9a227" stroke-width=".8" opacity=".6"/>
+<text x="195" y="44" font-size="30" font-weight="bold" fill="#e8c766" text-anchor="middle" letter-spacing="8">ELONIA</text>
+<line x1="50" y1="54" x2="340" y2="54" stroke="#c9a227" stroke-width="1" opacity=".7"/>
+<text x="195" y="72" font-size="12" fill="#d9c58a" text-anchor="middle" letter-spacing="1">THE CONTINENT IN THE THOUSANDTH YEAR</text>
+<text x="195" y="88" font-size="10" fill="#9db4c0" text-anchor="middle" font-style="italic">After the Great Silence • c. 1,000 AS</text>
+</g>
 
-  <!-- Star Roads -->
-  <g fill="none" stroke="#37e0c8" stroke-width="2.6" stroke-dasharray="8,6" opacity="0.8">
-    <path d="M 880,730 Q 750,560 620,440 Q 585,320 570,90"/>
-    <path d="M 280,180 Q 420,260 620,440 Q 700,600 680,780"/>
-  </g>
-  <text x="740" y="500" font-size="10" fill="#0e5f54" font-weight="bold" transform="rotate(-40 740 500)">── THE STAR ROADS ──</text>
+<!-- compasses -->
+<g transform="translate(215,215)">
+<circle r="44" fill="#20303a" stroke="#c9a227" stroke-width="2"/>
+<polygon points="0,-46 6,-8 0,0 -6,-8" fill="#e8c766"/><polygon points="0,46 6,8 0,0 -6,8" fill="#5c6b78"/>
+<polygon points="46,0 8,6 0,0 8,-6" fill="#5c6b78"/><polygon points="-46,0 -8,6 0,0 -8,-6" fill="#5c6b78"/>
+<text x="-5" y="-50" font-size="13" font-weight="bold" fill="#e8c766">N</text>
+</g>
+<g transform="translate(1470,930)">
+<circle r="34" fill="#20303a" stroke="#c9a227" stroke-width="2"/>
+<polygon points="0,-36 5,-6 0,0 -5,-6" fill="#e8c766"/><polygon points="0,36 5,6 0,0 -5,6" fill="#5c6b78"/>
+<polygon points="36,0 6,5 0,0 6,-5" fill="#5c6b78"/><polygon points="-36,0 -6,5 0,0 -6,-5" fill="#5c6b78"/>
+<text x="-4" y="-39" font-size="11" font-weight="bold" fill="#e8c766">N</text>
+</g>
 
-  <!-- Overland highways -->
-  <g fill="none" stroke="#6e4f2a" stroke-width="1.8" stroke-dasharray="5,3" opacity="0.85">
-    <path d="M 280,180 Q 500,160 880,240"/>
-    <path d="M 880,240 Q 940,460 880,730"/>
-    <path d="M 880,730 Q 780,750 680,780"/>
-  </g>
+<!-- legend -->
+<g transform="translate(60,860)">
+<rect width="270" height="150" rx="5" fill="#20303a" stroke="#c9a227" stroke-width="2"/>
+<text x="15" y="26" font-size="13" font-weight="bold" fill="#e8c766" letter-spacing="2">MAP LEGEND</text>
+<line x1="15" y1="32" x2="255" y2="32" stroke="#c9a227" stroke-width=".8" opacity=".6"/>
+<use href="#keep" transform="translate(28,52) scale(.8)"/><text x="46" y="56" font-size="11" fill="#e6ddc8">Sovereign city / citadel</text>
+<use href="#ruin" transform="translate(28,76) scale(.8)"/><text x="46" y="80" font-size="11" fill="#e6ddc8">Pre-Silence ruin</text>
+<line x1="20" y1="96" x2="36" y2="96" stroke="#1e7a6e" stroke-width="2.4" stroke-dasharray="4,2"/><text x="46" y="100" font-size="11" fill="#e6ddc8">Star Road (dormant)</text>
+<line x1="20" y1="118" x2="36" y2="118" stroke="#c9a877" stroke-width="2" stroke-dasharray="4,2"/><text x="46" y="122" font-size="11" fill="#e6ddc8">Imperial highway</text>
+<text x="15" y="142" font-size="10" font-style="italic" fill="#9db4c0">Subterranean sites numbered, see gazetteer</text>
+</g>
 
-  <!-- Realm banners -->
-  <text x="205" y="248" font-size="16" font-weight="bold" fill="#1e4256" letter-spacing="3">REPUBLIC OF ILYA</text>
-  <text x="858" y="182" font-size="16" font-weight="bold" fill="#7a4d12" letter-spacing="3">AURELIAN LEAGUE</text>
-  <text x="838" y="658" font-size="15" font-weight="bold" fill="#163850" letter-spacing="2">THE FREE COAST</text>
+<!-- scale bar: 960u ≈ 2000mi → 290u ≈ 600mi -->
+<g transform="translate(1180,1020)">
+<rect x="-10" y="-28" width="330" height="56" rx="5" fill="#20303a" stroke="#c9a227" stroke-width="2"/>
+<rect x="0" y="0" width="72" height="8" fill="#e6ddc8"/><rect x="72" y="0" width="72" height="8" fill="#4a4a4a"/>
+<rect x="144" y="0" width="72" height="8" fill="#e6ddc8"/><rect x="216" y="0" width="74" height="8" fill="#4a4a4a"/>
+<text x="0" y="24" font-size="11" fill="#e6ddc8">0</text><text x="66" y="24" font-size="11" fill="#e6ddc8">150</text>
+<text x="138" y="24" font-size="11" fill="#e6ddc8">300</text><text x="210" y="24" font-size="11" fill="#e6ddc8">450</text>
+<text x="282" y="24" font-size="11" fill="#e6ddc8">600 mi</text>
+</g>
 
-  <!-- Keyed sites -->
-  <g font-weight="bold">
-    <circle cx="880" cy="730" r="7" fill="#c1121f" stroke="#fff" stroke-width="2"/>
-    <text x="895" y="735" font-size="14" fill="#8d0808">PORT MERIDIAN [01]</text>
-    <text x="895" y="750" font-size="10" font-weight="normal" fill="#4a3436">Shattered Archive [02]</text>
-    <circle cx="940" cy="790" r="4" fill="#274b73" stroke="#fff" stroke-width="1.5"/>
-    <text x="950" y="805" font-size="10" font-weight="normal" font-style="italic" fill="#163850">Shattered Reefs [17]</text>
-    <circle cx="280" cy="180" r="7" fill="#274b73" stroke="#fff" stroke-width="2"/>
-    <text x="180" y="175" font-size="14" fill="#0b2a4a">NEW ILYA [03]</text>
-    <text x="175" y="190" font-size="10" font-weight="normal" fill="#4a4a4a">Athenaeum Null [04]</text>
-    <circle cx="880" cy="240" r="7" fill="#b07d62" stroke="#fff" stroke-width="2"/>
-    <text x="895" y="245" font-size="14" fill="#6e3f1c">SOLCARIS NOVA [09]</text>
-    <circle cx="980" cy="290" r="5" fill="#6c757d" stroke="#fff" stroke-width="1.5"/>
-    <text x="995" y="295" font-size="10" font-weight="normal" fill="#3d434b">Solcaris Ruins [10]</text>
-    <circle cx="270" cy="360" r="5" fill="#495057" stroke="#fff" stroke-width="1.5"/>
-    <text x="168" y="352" font-size="11" fill="#1c1f24">Harad Veyr [11]</text>
-    <circle cx="570" cy="240" r="6" fill="#e9c46a" stroke="#264653" stroke-width="2"/>
-    <text x="585" y="235" font-size="12" fill="#7a5a20">Lantern Chapel [05]</text>
-    <text x="585" y="250" font-size="9" font-weight="normal" fill="#5c5c5c">Whispering Crags [06]</text>
-    <circle cx="540" cy="320" r="5" fill="#588157" stroke="#fff" stroke-width="1.5"/>
-    <text x="495" y="348" font-size="11" fill="#2c4a34">Vale Myrr [13]</text>
-    <circle cx="570" cy="90" r="6" fill="#90e0ef" stroke="#0077b6" stroke-width="1.5"/>
-    <text x="585" y="95" font-size="11" fill="#0a5a86">Nythara [12]</text>
-    <circle cx="530" cy="510" r="6" fill="#2d6a4f" stroke="#fff" stroke-width="2"/>
-    <text x="545" y="515" font-size="12" fill="#173d2b">Living Spires [14]</text>
-    <circle cx="630" cy="580" r="4" fill="#40916c" stroke="#fff" stroke-width="1"/>
-    <text x="640" y="585" font-size="10" font-weight="normal" font-style="italic" fill="#1e4d38">Hollow Glades [15]</text>
-    <circle cx="680" cy="780" r="7" fill="#212529" stroke="#fff" stroke-width="2"/>
-    <text x="695" y="785" font-size="14" fill="#101418">KHAR VARETH [07]</text>
-    <text x="695" y="800" font-size="10" font-weight="normal" fill="#3d3d3d">Bleak Path Threshold [08]</text>
-    <g transform="translate(620, 440)">
-      <polygon points="0,-12 10,6 -10,6" fill="#7b2cbf" stroke="#fff" stroke-width="1.5"/>
-      <text x="15" y="2" font-size="12" fill="#3d0a63">Engine Deep [19]</text>
-      <text x="15" y="16" font-size="10" font-weight="normal" fill="#5a189a">The Open Veil [20]</text>
-    </g>
-  </g>
-
-  <!-- Title cartouche -->
-  <g transform="translate(36, 36)">
-    <rect width="372" height="96" rx="6" fill="#0e2233" stroke="#c9a227" stroke-width="2.5"/>
-    <rect x="6" y="6" width="360" height="84" rx="3" fill="none" stroke="#c9a227" stroke-width="0.8" opacity="0.6"/>
-    <text x="186" y="42" font-size="26" font-weight="bold" fill="#e8c766" text-anchor="middle" letter-spacing="6">ELONIA</text>
-    <line x1="46" y1="52" x2="326" y2="52" stroke="#c9a227" stroke-width="1" opacity="0.7"/>
-    <text x="186" y="69" font-size="11" fill="#d9c58a" text-anchor="middle" letter-spacing="1">THE CONTINENT IN THE THOUSANDTH YEAR</text>
-    <text x="186" y="83" font-size="9" fill="#9db4c0" text-anchor="middle" font-style="italic">After the Great Silence • c. 1,000 AS</text>
-  </g>
-
-  <!-- Compass rose -->
-  <g transform="translate(1082, 112)">
-    <circle r="46" fill="#0e2233" stroke="#c9a227" stroke-width="2"/>
-    <circle r="40" fill="none" stroke="#c9a227" stroke-width="0.8" stroke-dasharray="2,2" opacity="0.7"/>
-    <polygon points="0,-48 7,-10 0,0 -7,-10" fill="#e8c766"/>
-    <polygon points="0,48 7,10 0,0 -7,10" fill="#5c6b78"/>
-    <polygon points="48,0 10,7 0,0 10,-7" fill="#5c6b78"/>
-    <polygon points="-48,0 -10,7 0,0 -10,-7" fill="#5c6b78"/>
-    <polygon points="28,-28 7,-5 0,0 5,-7" fill="#8a743f"/>
-    <polygon points="28,28 7,5 0,0 5,7" fill="#8a743f"/>
-    <polygon points="-28,28 -7,5 0,0 -5,7" fill="#8a743f"/>
-    <polygon points="-28,-28 -7,-5 0,0 -5,-7" fill="#8a743f"/>
-    <text x="-5" y="-53" font-size="14" font-weight="bold" fill="#e8c766">N</text>
-    <text x="-4" y="64" font-size="12" fill="#9db4c0">S</text>
-    <text x="53" y="4" font-size="12" fill="#9db4c0">E</text>
-    <text x="-66" y="4" font-size="12" fill="#9db4c0">W</text>
-  </g>
-
-  <!-- Legend -->
-  <g transform="translate(36, 742)">
-    <rect width="262" height="128" rx="5" fill="#0e2233" stroke="#c9a227" stroke-width="2"/>
-    <text x="15" y="24" font-size="12" font-weight="bold" fill="#e8c766" letter-spacing="2">MAP LEGEND</text>
-    <line x1="15" y1="30" x2="247" y2="30" stroke="#c9a227" stroke-width="0.8" opacity="0.6"/>
-    <circle cx="25" cy="47" r="5" fill="#c1121f" stroke="#fff" stroke-width="1"/>
-    <text x="40" y="51" font-size="11" fill="#e6ddc8">Major Sovereign Capital</text>
-    <circle cx="25" cy="68" r="4" fill="#8a8f96" stroke="#fff" stroke-width="1"/>
-    <text x="40" y="72" font-size="11" fill="#e6ddc8">Pre-Silence Ruin</text>
-    <line x1="18" y1="88" x2="32" y2="88" stroke="#37e0c8" stroke-width="2.4" stroke-dasharray="4,2"/>
-    <text x="40" y="92" font-size="11" fill="#e6ddc8">Star Road (dormant)</text>
-    <line x1="18" y1="108" x2="32" y2="108" stroke="#c9a877" stroke-width="2" stroke-dasharray="4,2"/>
-    <text x="40" y="112" font-size="11" fill="#e6ddc8">Imperial Highway</text>
-  </g>
-
-  <!-- Scale bar: ~2000 miles N-S over ~880 map units -->
-  <g transform="translate(902, 852)">
-    <rect x="-8" y="-26" width="262" height="52" rx="5" fill="#0e2233" stroke="#c9a227" stroke-width="2"/>
-    <rect x="0" y="0" width="60" height="7" fill="#e6ddc8"/>
-    <rect x="60" y="0" width="60" height="7" fill="#3a3a3a"/>
-    <rect x="120" y="0" width="60" height="7" fill="#e6ddc8"/>
-    <rect x="180" y="0" width="60" height="7" fill="#3a3a3a"/>
-    <text x="0" y="22" font-size="10" fill="#e6ddc8">0</text>
-    <text x="55" y="22" font-size="10" fill="#e6ddc8">150</text>
-    <text x="112" y="22" font-size="10" fill="#e6ddc8">300</text>
-    <text x="172" y="22" font-size="10" fill="#e6ddc8">450</text>
-    <text x="222" y="22" font-size="10" fill="#e6ddc8">600 mi</text>
-  </g>
-
-  <!-- Vignette + frame -->
-  <rect width="1200" height="900" fill="url(#vignette)"/>
-  <rect x="14" y="14" width="1172" height="872" fill="none" stroke="#c9a227" stroke-width="3"/>
-  <rect x="22" y="22" width="1156" height="856" fill="none" stroke="#c9a227" stroke-width="0.8" opacity="0.6"/>
+<rect x="14" y="14" width="1572" height="1072" fill="none" stroke="#8a6f45" stroke-width="3"/>
+<rect x="22" y="22" width="1556" height="1056" fill="none" stroke="#8a6f45" stroke-width=".9" opacity=".7"/>
 </svg>

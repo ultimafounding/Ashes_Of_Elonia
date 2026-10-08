@@ -95,11 +95,11 @@ If confronted, **Dean Arcturus Vale** does not apologize for the Athenaeum Null.
 
 ## 5. New Ilya Random Encounter Table (1d6)
 
-| d6 | Academic & Urban Encounter | Mechanical / Social Hook |
-| :--- | :--- | :--- |
-| 1 | **Heated Lyceum Debate:** Two philosophy masters bicker over whether the Silence was an act of mercy or cowardice. | A crowd gathers; a charismatic student slips a banned pamphlet into a PC's pocket. |
-| 2 | **Magisterial Censor Patrol:** Four silver-masked inquisitors stop the party, scanning their luggage with a *Detect Magic & Antiquities* rod. | DC 14 Deception or Sleight of Hand to conceal contraband scrolls. |
-| 3 | **Alchemical Canal Leak:** An arcane spill in the Under-Canals creates a patch of living psychic slime that mimics voices of the dead. | Combat / Hazard encounter showcasing bizarre magical fallout. |
-| 4 | **Lysa Corren's Signal:** A chalk-mark of a cracked hourglass appears on a PC's door, directing them to a midnight rendezvous at the Sunken Conclave. | Hook leading directly to the Athenaeum Null infiltration. |
-| 5 | **Seraphel's Carriage:** Seraphel’s gilded carriage pulls alongside the party, offering a private ride and a warning about university spies. | Roleplay scene where Seraphel provides helpful advice while fishing for their progress. |
-| 6 | **Soulway Flicker at the Academy:** During a lecture, all sixty blue-flame lanterns turn pitch black for three seconds, accompanied by a collective cold shiver. | Environmental omen demonstrating that the Soul Crisis is escalating. |
+| d6  | Academic & Urban Encounter                                                                                                                                       | Mechanical / Social Hook                                                                |
+| :-- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| 1   | **Heated Lyceum Debate:** Two philosophy masters bicker over whether the Silence was an act of mercy or cowardice.                                               | A crowd gathers; a charismatic student slips a banned pamphlet into a PC's pocket.      |
+| 2   | **Magisterial Censor Patrol:** Four silver-masked inquisitors stop the party, scanning their luggage with a *Detect Magic & Antiquities* rod.                    | DC 14 Deception or Sleight of Hand to conceal contraband scrolls.                       |
+| 3   | **Alchemical Canal Leak:** An arcane spill in the Under-Canals creates a patch of living psychic slime that mimics voices of the dead.                           | Combat / Hazard encounter showcasing bizarre magical fallout.                           |
+| 4   | **Lysa Corren's Signal:** A chalk-mark of a cracked hourglass appears on a PC's door, directing them to a midnight rendezvous at the Sunken Conclave.            | Hook leading directly to the Athenaeum Null infiltration.                               |
+| 5   | **Seraphel's Carriage:** Seraphel’s gilded carriage pulls alongside the party, offering a private ride and a warning about university spies.                     | Roleplay scene where Seraphel provides helpful advice while fishing for their progress. |
+| 6   | **Soulway Flicker at the Academy:** During a lecture, all sixty blue-flame lanterns turn pitch black for three seconds, accompanied by a collective cold shiver. | Environmental omen demonstrating that the Soul Crisis is escalating.                    |
