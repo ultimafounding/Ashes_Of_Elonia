@@ -1,1 +1,13 @@
-{"livePreview":true,"showLineNumber":false,"spellcheck":true,"newFileLocation":"current","attachmentFolderPath":"09_PLAYER_MATERIAL/attachments","useMarkdownLinks":true,"showFrontmatter":true,"strictLineBreaks":false,"readableLineLength":true,"showRibbon":true,"promptDelete":true,"showInlineTitle":true}
+{
+  "livePreview": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "09_PLAYER_MATERIAL/attachments",
+  "useMarkdownLinks": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "promptDelete": true,
+  "showInlineTitle": true
+}
