@@ -36,23 +36,23 @@ The charter writ covers *salvage* — rope, copper, worked stone. Anything that 
 
 ## 6. Making a Character
 - **System:** D&D 5th Edition, starting at **level 1**. Advancement is by story milestones.
-- **Ability scores:** Standard array or point buy.
+- **Ability scores:** Standard array, point buy or roll.
+
 - **Peoples:** Humans are the majority everywhere. Halflings, gnomes, dwarves, and tieflings are ordinary citizens of Port Meridian. Anything rarer needs a one-line explanation and the DM's agreement.
+
 - **Classes:** All official options. A few setting notes, not restrictions:
   - *Wizards* graduate from academies; *fighters and rogues* sign on with guilds, customs, or crews like this one.
   - *Clerics and paladins* serve an interpretation of a silent god. No deity answers back. What answers, if anything, is between you and the DM.
   - *Warlocks* hold bargains with something in the dark — ruins, courts, or worse. Define it with the DM; assume your character's theory of what it is could be wrong.
   - *Artificers* are at home in Ilya foundries, League workshops, and Vane-funded laboratories.
+
 - **Alignment:** No evil player characters.
+
 - **Starting gear:** Standard class equipment, plus one salvage tool (crowbar, climber's kit, healer's kit, or scholar's pack).
+
 - **Background hooks (choose or roll 1d4):**
   1. You owe Helena Voss money, a favor, or your life.
   2. The Cartels robbed, hired, or blacklisted you.
   3. You once saw something dead move, and you need to know why.
   4. You want a Lyceum fellowship — the charter is your way in.
 
-## 7. Table Rules
-- **Tone:** wonder, dust, and paperwork. Dungeons and archives in equal measure.
-- **Hard lines:** sexual violence, harm to children, and torture never appear at this table.
-- **X-card:** tap it (or message the DM) and the scene stops or fades to black. No explanation required, no argument permitted.
-- **Party rule:** one crew. Keep secrets from each other if you must; never sabotage each other.

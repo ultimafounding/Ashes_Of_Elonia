@@ -22,13 +22,13 @@ Both Markdown (`.md`) and compiled Word (`.docx`) editions are maintained in thi
 
 ```mermaid
 graph TD
-    A["The Ascendants<br/>(Scholars)"] <-->|Academic Rivalry & Black Auctions| B["The Archive Cartels<br/>(Looters)"]
-    A <-->|Philosophical Debate on Freedom| C["Church of the Last Light<br/>(Monks)"]
-    D["Keepers of Dawn<br/>(Solar Knights)"] <-->|Ideological Hostility (Dogma vs Truth)| A
-    D -.->|Infiltrated & Weaponized by| E["Seraphel's Inner Circle<br/>(The Returners)"]
-    F["The Vareth Custodians<br/>(Morticians)"] <-->|Mutual Funerary Respect| C
-    F -.->|Victims of Covert Soul-Harvest| E
-    G["Dreamkeepers of Nythara<br/>(Seers)"] <-->|Active Cosmic Opposition| E
+    A["The Ascendants<br/>(Scholars)"] ---|Academic Rivalry & Black Auctions| B["The Archive Cartels<br/>(Looters)"]
+    A ---|Philosophical Debate on Freedom| C["Church of the Last Light<br/>(Monks)"]
+    D["Keepers of Dawn<br/>(Solar Knights)"] ---|Ideological Hostility: Dogma vs Truth| A
+    E["Seraphel's Inner Circle<br/>(The Returners)"] -.->|Infiltrated & Weaponized| D
+    F["The Vareth Custodians<br/>(Morticians)"] ---|Mutual Funerary Respect| C
+    E -.->|Covert Soul-Harvest| F
+    G["Dreamkeepers of Nythara<br/>(Seers)"] ---|Active Cosmic Opposition| E
 ```
 
 ---
