@@ -34,40 +34,25 @@ Date: c. 1,000 AS. Place: Port Meridian, the Salt-Lantern Tavern, raining.
 
 The charter writ covers *salvage* — rope, copper, worked stone. Anything that looks like *antiquities* belongs to the Admiralty unless certified. Unlicensed relics mean fines or naval impressment. The Cartels will offer you a better price in a darker alley. That is your decision to make.
 
-## 6. Character Guide
-
-### The basics
+## 6. Making a Character
 - **System:** D&D 5th Edition, starting at **level 1**. Advancement is by story milestones.
 - **Ability scores:** Standard array or point buy.
+- **Peoples:** Humans are the majority everywhere. Halflings, gnomes, dwarves, and tieflings are ordinary citizens of Port Meridian. Anything rarer needs a one-line explanation and the DM's agreement.
+- **Classes:** All official options. A few setting notes, not restrictions:
+  - *Wizards* graduate from academies; *fighters and rogues* sign on with guilds, customs, or crews like this one.
+  - *Clerics and paladins* serve an interpretation of a silent god. No deity answers back. What answers, if anything, is between you and the DM.
+  - *Warlocks* hold bargains with something in the dark — ruins, courts, or worse. Define it with the DM; assume your character's theory of what it is could be wrong.
+  - *Artificers* are at home in Ilya foundries, League workshops, and Vane-funded laboratories.
 - **Alignment:** No evil player characters.
 - **Starting gear:** Standard class equipment, plus one salvage tool (crowbar, climber's kit, healer's kit, or scholar's pack).
+- **Background hooks (choose or roll 1d4):**
+  1. You owe Helena Voss money, a favor, or your life.
+  2. The Cartels robbed, hired, or blacklisted you.
+  3. You once saw something dead move, and you need to know why.
+  4. You want a Lyceum fellowship — the charter is your way in.
 
-### Peoples — why you are where you are
-- **Humans** are the majority in every nation. No explanation needed.
-- **Halflings** crew the Free Coast's ships and run half its taverns and brokerages. A halfling on a salvage charter is unremarkable.
-- **Gnomes** dominate Ilya's foundries, clockworks, and survey offices. A gnome delver was probably trained, not hired off the docks.
-- **Dwarves** hold the League's engineering contracts and Vareth's stonework charters. Dwarven excavators are the ones who shore tunnels correctly.
-- **Tieflings** are full citizens of the Coast, common among privateers and factors. Inland, expect staring.
-- **Anything rarer** (elves of old blood, dragonborn, the scaled-kin of the southern marshes) needs a one-line reason you are in Port Meridian and the DM's agreement.
-
-### Classes — what you do for coin
-- **Fighter.** Guild guard, customs muscle, legion deserter, pit champion. The charter hires steel first. Nobody asks about your past if your shield wall holds.
-- **Rogue.** Second-story salvage, customs evasion, appraisal fraud — or the honest kind: locksmiths, mapmakers, and Cartel deserters who know how the other crew works.
-- **Wizard.** Lyceum graduate (or dropout) with a stack of debt. Abjurers ward vaults, diviners read dead script, evokers clear collapses. Your spellbook is worth more than you are.
-- **Cleric.** You serve an *interpretation* of a silent god — Myrraenic hospice, Dawnite chapel, a Last Light candle-post. No deity answers back. Your magic comes from conviction, rite, and whatever in the world still listens. Monks of the same orders fight beside you.
-- **Paladin.** Sworn to an oath, not a voice. Dawnite questors, League justicars, hospice defenders. Your power holds because you hold.
-- **Warlock.** You hold a bargain with something in the dark: a ruin intelligence, a Cartel patron, a voice from a Memory Leaf, a thing that knocked. Define it with the DM. Assume your character's theory of what it is could be wrong.
-- **Sorcerer.** Wild talents surface near old workings — soul Static gets into the blood. Feared by customs, prized by crews.
-- **Bard.** Shanty-singer, Lyceum debater, Cartel fixer, or the one who reads stones aloud so the crew remembers why they're down there.
-- **Ranger.** Reef warden, Verdancy guide, Vareth tomb-watch, or the tracker who walks the sea-cliff roads and lives.
-- **Druid.** Grovewarden initiate, Verdancy ranger, or a Coast hedge-witch who knows which fogs are weather and which are not.
-- **Artificer.** Foundry-trained, guild-certified, or self-taught on stolen schematics. Ilya workshops, League siege yards, and Vane-funded laboratories all pay for your hands.
-- **Monk.** Last Light lay brother, harbor-pit boxer, or a pilgrim who walked out of the Ridge with empty hands and full attention.
-
-### Background hooks (choose or roll 1d4)
-1. You owe Helena Voss money, a favor, or your life.
-2. The Cartels robbed, hired, or blacklisted you.
-3. You once saw something dead move, and you need to know why.
-4. You want a Lyceum fellowship — the charter is your way in.
-
-
+## 7. Table Rules
+- **Tone:** wonder, dust, and paperwork. Dungeons and archives in equal measure.
+- **Hard lines:** sexual violence, harm to children, and torture never appear at this table.
+- **X-card:** tap it (or message the DM) and the scene stops or fades to black. No explanation required, no argument permitted.
+- **Party rule:** one crew. Keep secrets from each other if you must; never sabotage each other.
