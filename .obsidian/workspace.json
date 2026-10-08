@@ -11,14 +11,12 @@
             "id": "3673224342381bd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "06_ADVENTURE/Act I/act_I_overview.md",
-                "mode": "source",
-                "source": false
+                "file": "09_PLAYER_MATERIAL/elonia_continental_map.svg"
               },
-              "icon": "lucide-file",
-              "title": "act_I_overview"
+              "icon": "lucide-image",
+              "title": "elonia_continental_map"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06_ADVENTURE/Act I/act_I_overview.md",
+                "file": "09_PLAYER_MATERIAL/elonia_continental_map.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06_ADVENTURE/Act I/act_I_overview.md",
+                "file": "09_PLAYER_MATERIAL/elonia_continental_map.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06_ADVENTURE/Act I/act_I_overview.md",
+                "file": "09_PLAYER_MATERIAL/elonia_continental_map.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,6 +187,8 @@
   },
   "active": "3673224342381bd9",
   "lastOpenFiles": [
+    "06_ADVENTURE/Act I/act_I_overview.md",
+    "09_PLAYER_MATERIAL/players_primer.md",
     "07_SESSIONS/sessions_guide.md",
     "08_MONSTERS_AND_ITEMS/monsters_and_foes.md",
     "05_FACTIONS/the_church_of_the_last_light.md",
