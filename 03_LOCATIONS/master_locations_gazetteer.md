@@ -21,7 +21,7 @@ The following register indexes all major geographical, urban, subterranean, and 
 | **08** | **The Bleak Path** | Metaphysical Ethereal Plane | Vareth Custodians / House Vane | Tier 3 (Lv 12–15) | Act IV Metaphysical Site; House Vane soul-siphons found |
 | **09** | **Solcaris Nova** | The Sun-Plains (NE) | Aurelian League / Senate | Tier 2/3 (Lv 6–14) | Capital of Aurelian League; solar legalism & legions |
 | **10** | **Ancient Solcaris Ruins**| Eastern Sun-Plains | Ancient Solar Remnants / Seraphel | Tier 3 (Lv 14–16) | Act V Frontier Site; Resonant Pylons seized by Returners |
-| **11** | **Harad Veyr** | Spine of Thaeron (W) | Ancient Forge Golems / Abandoned | Tier 3 (Lv 12–16) | Ancient seat of Thaeron; iron forges & mountain trials |
+| **11** | **Harad Veyr** | Spine of Thaeron (W) | Ancient Forge Golems / Abandoned | Tier 3 (Lv 12–18) | Ancient seat of Thaeron; iron forges & mountain trials |
 | **12** | **The Observatory of Nythara**| The Silver Horns (N) | Dreamkeepers of Selyra | Tier 3/4 (Lv 15–18)| Act V Celestial Site; decrypted apotheosis formulas |
 | **13** | **Vale Myrr** | Alpine Central Valley | Ancient Restorative Wards | Tier 3/4 (Lv 15–18)| Act V Sanctuary Site; Memory Leaves & Chair of the Silence |
 | **14** | **The Living Spires of Elynor**| Great Canopy of Verdancy | Grand Moot of Grovewardens | Tier 2/3 (Lv 6–14) | Capital of The Verdancy; arboreal communes & druids |
