@@ -122,7 +122,7 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
 
 #### 0 – 100 AS: The Years of Ash & The Fall of the Nine Cities `[ESTABLISHED CANON]`
 - With miracle-based agriculture and magical systems abruptly severed, continent-wide famine, disease, and resource wars erupt.
-- Solcaris collapses; Ilyanor burns in riots; Harad Veyr is abandoned; Avarr's ruins become haunted wastelands.
+- Solcaris collapses; Harad Veyr is abandoned; Avarr's ruins become haunted wastelands. Ilyanor alone endures — its universities adapt, becoming the foundation of a new civilization (cf. Ain Elonar).
 
 #### 0 – 300 AS: The Age of Ashes
 - Mortals endure brutal centuries of survival. Gradually, secular institutions, crop rotation, mortal medicine, and independent arcane traditions are born from necessity.
@@ -142,6 +142,7 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
 
 #### c. 850 AS: The Modern Ascendants Emerge `[ESTABLISHED CANON]`
 - A new, pluralistic historical and archaeological movement arises, taking the ancient name **The Ascendants**. Unlike their ancient predecessors, modern Ascendants are historians, antiquarians, and scholars seeking recovered truth.
+- *Canon note: `Ain Elonar` dates proto-"First Ascendant" circles to c. 1,020 AS on its old c. 1,100 AS anchor (pre-reconciliation draft). Per Bible v1 the present is locked at c. 1,000 AS; the movement's formal founding is fixed here at c. 850 AS.*
 
 #### c. 970 AS: Seraphel Discovers the Wound `[DM-ONLY]`
 - Lord Seraphel of House Vane discovers surviving subterranean conduits of the Ascension Engine.

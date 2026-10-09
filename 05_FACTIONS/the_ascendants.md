@@ -8,7 +8,7 @@
 ## 1. Executive Summary `[ESTABLISHED CANON]`
 
 - **Classification:** Transnational Intellectual, Archaeological, and Philosophical Fellowship.
-- **Founding Era:** c. 850 AS (Modern Rebirth).
+- **Founding Era:** c. 850 AS (Modern Rebirth; proto-circles in *Ain Elonar* use the superseded c. 1,100 AS anchor).
 - **Headquarters:** Autonomous Regional Lodges in New Ilya, Port Meridian, Solcaris Nova, and Khar Vareth.
 - **Core Motto:** *"Ex Cineribus Veritas"* (From the Ashes, Truth).
 - **Public Perception:** `[PLAYER-FACING]` A respected, sprawling association of antiquarians, university researchers, excavation factors, and freethinkers who locate, translate, and preserve Pre-Silence relics.

@@ -27,14 +27,15 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 │ Tier 1  │ 1–4    │ Act I    │ Local Scavengers &   │ Port Meridian &   │
 │         │        │          │ Novice Excavators    │ Shattered Archive │
 ├─────────┼────────┼──────────┼──────────────────────┼───────────────────┤
-│ Tier 2  │ 5–10   │ Act II & │ Scholars, Outlaws &  │ New Ilya &        │
+│ Tier 2  │ 4–12   │ Act II & │ Scholars, Outlaws &  │ New Ilya &        │
 │         │        │ Act III  │ Witnesses to Myth    │ Lantern Chapel    │
 ├─────────┼────────┼──────────┼──────────────────────┼───────────────────┤
-│ Tier 3  │ 11–16  │ Act IV & │ Champions of Death & │ Khar Vareth, Bleak│
+│ Tier 3  │ 12–18  │ Act IV & │ Champions of Death & │ Khar Vareth, Bleak│
 │         │        │ Act V    │ Saviors of Nations   │ Path & Star Roads │
 ├─────────┼────────┼──────────┼──────────────────────┼───────────────────┤
-│ Tier 4  │ 17–20  │ Act V &  │ Architects of Mortal │ Engine Deep &     │
-│         │        │ Act VI   │ Destiny              │ The Open Veil     │
+│ Tier 4  │ 18–20  │ Act VI   │ Architects of Mortal │ Engine Deep &     │
+│         │        │ (+Act V  │ Destiny              │ The Open Veil     │
+│         │        │ climax)  │                      │                   │
 └─────────┴────────┴──────────┴──────────────────────┴───────────────────┘
 ```
 
@@ -130,12 +131,12 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 #### Level 16 → Level 17: The Observatory of Nythara
 - **Narrative Milestone:** Climbing the Stair of Eclipses, kneeling to no vision in the Mirror Pools, and decrypting the Celestial Clock matrix: the vectors point inward-down, the soul budget line-items one vessel, the margin reads *"Nine thrones, one seat."*
 - **World State Shift:** The party gains the unwavering support of the Dreamkeepers and decrypts the access codes to the subterranean Star Roads.
-- **Key Resources:** 8th-level spells (*Antimagic Field*, *Sunburst*, *Mind Blank*); acquisition of the *Keys of Nythara*.
+- **Key Resources:** 8th-level spells (online since level 15: *Antimagic Field*, *Sunburst*, *Mind Blank*); acquisition of the *Keys of Nythara*.
 
 #### Level 17 → Level 18: The Battle of the Star Road Nexus
 - **Narrative Milestone:** Storming the subterranean transit hub beneath the Whispering Wastes, holding five rounds while three keys turn, desyncing the tethers, and breaching the abyssal shaft as the sky fractures gold-violet.
 - **World State Shift:** Act V concludes. The sky across Elonia fractures into auroras of spirit-fire as the ancient Ascension Engine awakens. The countdown to apotheosis begins.
-- **Key Resources:** Ability Score Improvement / Feat; 9th-level spells (*Wish*, *True Resurrection*, *Mass Heal*, *Foresight*) come online as the party falls into the Deep.
+- **Key Resources:** Ability Score Improvement / Feat; 9th-level spells (*Wish*, *True Resurrection*, *Mass Heal*, *Foresight*) online at level 17 as the party falls into the Deep.
 
 ---
 

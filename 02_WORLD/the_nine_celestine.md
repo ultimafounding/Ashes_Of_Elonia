@@ -56,7 +56,7 @@ The **Nine Celestine** are the transcendent entities who awakened into Elonia du
 ### 4. Thaeron, the Iron Heart
 *The Unbroken Anvil, The Shield of Winters, Lord of the Crucible*
 - **Domains & Principles:** Courage, physical discipline, martial struggle, fortitude, endurance.
-- **Ancient Seat:** **Khar Thaeron**, the fortress-mines beneath the western crags.
+- **Ancient Seat:** **Harad Veyr**, the fortress-mines beneath the western crags.
 - **Canonical Stance:** `[ESTABLISHED CANON]` Believed that mortal strength has meaning *only* because suffering and struggle exist. Sheltering mortals from hardship was, in his eyes, the greatest cruelty, because it deprived them of earned triumph.
 - **Modern Faith:** Revered by soldiers, blacksmiths, miners, and frontier pioneers. His shrines feature no gold—only rough iron anvils worn smooth by work.
 - **5e Mechanical Resonance:** War Domain, Forge Domain, Oath of Conquest, Oath of Glory.
