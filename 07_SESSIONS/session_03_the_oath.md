@@ -438,7 +438,7 @@ They have money now: roughly **40–70 gp each** depending on the split and what
 - **Dan (Twilight Cleric 2):** *Channel Divinity* (Twilight Sanctuary, Turn Undead), one more spell slot, one more prepared spell.
 - **Zook (Artificer 2):** *Infusions* (4 known, 2 active), *Replicate Magic Item*, one more spell slot.
 - **Kit (Warlock 2):** *Eldritch Invocations* (2), one more spell slot, one more known spell.
-- **Theo (Monk 2):** *Ki* (2 points), *Unarmored Movement* (+10 ft), *Flurry of Blows*, *Patient Defense*, *Step of the Wind*.
+- **Bog (Monk 2):** *Ki* (2 points), *Unarmored Movement* (+10 ft), *Flurry of Blows*, *Patient Defense*, *Step of the Wind*.
 
 **Downtime for the level-up:** describe it as a night's rest and a morning's practice, not a training montage. Ask each player: *"What does your PC do differently now that they've survived?"*
 

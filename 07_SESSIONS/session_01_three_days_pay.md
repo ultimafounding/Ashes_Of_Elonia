@@ -57,20 +57,39 @@ Eight beats. If you only read one section, read this.
 
 ## 1. Party at a Glance
 
-These are the players' characters. This section is **mechanical only** — what the DM needs to run the room. Motives, history, and what they want from the job belong to the players, not to this prep.
+These are the players' characters. This section is **mostly mechanical** — what the DM needs to run the room — plus a short set of handles for Bog's new background. Motives, history, and what they want from the job still belong to the players; use the handles, don't dictate them.
 
 | PC | Class / Species | AC | HP | Passive | Party resources | Open question for the player |
 |----|-----------------|----|----|---------|-----------------|------------------------------|
 | **Dan / IRC-10414 "Wanderer"** | Twilight Cleric 1, Warforged | 16 | 8 | 13 | *Eyes of Night* (300 ft darkvision, shareable), *Guidance*, *Spare the Dying*, *Cure Wounds* | Dan's backstory already covers Selyra, the astral accident, and the parish. Nothing needed. |
 | **Zook Scheppen Clang** | Artificer 1, Rock Gnome | 14 | 9 | 15 | Tinker's/Thieves' tools, *Cure Wounds*, *Detect Magic*, Int 20 | What does "autonomise" mean to Zook, and what is the money for? |
 | **Kit** | Warlock 1, Changeling | 12 | 10 | 10 | *Eldritch Blast*, Pact of the Blade, *Lucky* (3 pts) | No backstory on file: who is the patron, and what does Kit want? |
-| **Theo** | Monk 1, Bugbear | 17 | 9 | 15 | 17 AC, 5-ft reach, *Sneaky*, *Surprise Attack*, 4 daggers | Why is Theo in Port Meridian, and why take this job? |
+| **Bogbrir "Bog"** (Theo) | Monk 1, Bugbear | 17 | 9 | 15 | 17 AC, 5-ft reach, *Sneaky*, *Surprise Attack*, 4 daggers, belaying pin, quarterstaff (also a fishing rod), banjo, prayer beads, a lucky coin, a lump of "pirate gold", *Ship's Passage* | What does Bog pray for when the coin comes out — and what is Bog afraid the beads can't fix? |
 
 **Composition notes (mechanical)**
-- Only Dan and Theo have darkvision. Dan's **Eyes of Night** can cover one other person for 1 hour — make the dark matter, then let Dan solve it.
+- Only Dan and Bog have darkvision. Dan's **Eyes of Night** can cover one other person for 1 hour — make the dark matter, then let Dan solve it.
 - No one reads Old Elonian. **Arlen is the party's only key to the past.** Protect him accordingly; he is also the most killable thing in the dungeon.
 - Two PCs have Thieves' Tools (Zook, Kit). The brass door in 1.3 will be theirs — Session 3.
 - Healing is thin (Dan + Zook's *Cure Wounds*). Telegraph danger; do not ambush-kill.
+
+### Bog — what the new background gives the table
+
+*Source: `09_PLAYER_MATERIAL/lvl_1_characters/theo_basic_backstory.txt`.*
+
+Not a script. These are handles; use the ones the player reaches for.
+
+- **Ex-pirate of the *Feystar*.** Bog knows rope, knots, rigging, watches, and shanties. That is a real skill in Beat 3 (the strange knot) and Beat 5 (the descent). Let Bog be the one who says, *"That's not how a sailor ties off."*
+- **The Breakers are not Bog's old crew unless the player says so.** The *Feystar* is the past; the Breakers are a live threat. Keep them separate until the player connects them.
+- **Monastery, then moonshine.** Bog found peace and lost it to drink. Bog arrived on the monastery's advice and has been drunk since; Helena's charter is the first real thing Bog has done in this city. Do not play Bog as a joke or a liability; let the comedy and the sadness both belong to the character. Bog is hungover, not incapacitated.
+- **Superstitious, not devout.** Beads on each limb, a lucky coin, rules about salt, whistling, and drowned bells. The frieze in Beat 5 is a civic office — no god to bargain with — and that should unsettle Bog more than a tomb would.
+- **Clumsy yet acrobatic.** Let Bog fail the dignified thing and land the physical thing. Monk mobility is real; Bog's dignity is not.
+- **The name.** "Bogbrir" is what Bog heard when someone said "bugbear." Bog kept it. Let the player decide whether Bog knows that.
+- **Ask the player for one superstition now.** *"What's a thing Bog won't do on a boat?"* Write it down and use it later. It costs nothing and makes the character the player's.
+- **The banjo.** Bog can earn a drink, a rumour, or a complaint. Never force a Performance check; ask if Bog plays.
+- **The "gold" is not gold.** Whether it is the coin on Bog's neck or a lump in a pocket, Bog believes it is real. Do not correct the player unprompted. If Bog tries to spend it, let a shopkeeper bite it and offer 2 cp. Let the player decide whether Bog accepts the truth or doubles down. The reveal belongs to the player, not to you.
+- **Quarterstaff as fishing rod.** In the cellar and on the scree, it is a 10-ft pole that also happens to be Bog's weapon. Reward the idea.
+
+> **Ship name:** the player is unsure about *Feystar*. It is theirs. If they change it, change it in Bess's line and anywhere the crew retells the story — not just here.
 
 ### Before play: ask, don't assign
 
@@ -80,6 +99,8 @@ Do not narrate the PCs' reasons for being here. Open the tavern scene and ask.
 - *"Helena is hiring. What's the thing you need this money for?"*
 - *"Who here has worked with a changeling before, and who hasn't?"*
 - *"Does anyone in this room know you?"*
+- *"Bog, you came off a ship, into a monastery, and out of a bottle. Which of those is Bog still pretending to be?"*
+- *"Bog, which monastery took you in — and what's the one rule of theirs you still keep?"*
 
 Write the answers down. They are the session's actual material — and they feed §12's closing questions.
 
@@ -89,7 +110,7 @@ Write the answers down. They are the session's actual material — and they feed
 
 - [ ] **Table contract.** Lines and veils, X-card / pause, tone check. This campaign deals with grief, dead not passing, and institutional lying — not gore. Confirm no evil PCs.
 - [ ] **Rules edition.** 2024 rules, 2014 monster blocks (primer §10 says so). All four sheets are built to 2024.
-- [ ] **Sheet check.** Theo's quarterstaff and unarmed strikes read **+2 / 1d4** on the sheet; as a Dex monk with Martial Arts they should be **+6 / 1d6+4** (quarterstaff versatile 1d8+4). Flag it to the player, don't silently change it.
+- [ ] **Sheet check.** The PDF still reads **"Theo"**; the player has renamed the character **Bogbrir "Bog"**. Confirm the name at the table. Bog's quarterstaff and unarmed strikes read **+2 / 1d4** on the sheet; as a Dex monk with Martial Arts they should be **+6 / 1d6+4** (quarterstaff versatile 1d8+4). Flag it to the player, don't silently change it.
 - [ ] Print or scribble the **charter writ** (handout at the end of this file).
 - [ ] Have the **shop list** (§5) open — the players will want it in Beat 2.
 - [ ] Have the three global clocks on scrap paper: Soul Tide (6), Convergence (8), Censor's Shroud (4). Nothing ticks them tonight.
@@ -116,6 +137,8 @@ Then, around the table:
 
 One or two sentences each is plenty. Write down what they say.
 
+**Bog's entrance — optional, and the player's call.** If Bog's player wants Bog to be three drinks in, let it be true. Do not penalise it tonight; it is characterisation, and Helena has seen worse. Ask: *"What's the first thing Bog does when he sees three men in oilskins in the corner?"* The Breakers are the one thing in the room that should itch.
+
 **If a player has no answer ready**, do not fill it in for them: *"You're here because the job pays. We'll find out the rest in play."* Then move on.
 
 **Dan's dream — optional, and the player's call.** Dan's backstory establishes that they dream and read it as Selyra's signs. If the player wants to open with that, ask: *"What did you dream last night?"* Let them narrate. If they'd rather not, skip it — nothing tonight depends on it. If they do describe rings, stairs, or water, confirm nothing. Note it and say nothing.
@@ -137,6 +160,15 @@ One or two sentences each is plenty. Write down what they say.
 - **The Breakers** in the corner: three men in oilskins, not drinking, one with a split-coin token on a cord.
 
 **The Breakers are strangers by default.** If a player says their PC knows one of them, take it and use it — but do not invent a shared history. If someone has a reason to recognise one, name him **Ospen Tarr** then. If nobody does, they stay three anonymous men who leave early and pay in Ilya coin.
+
+**Bog and Bess — player-owned, not assigned.** Bess is a retired privateer and Bog is an ex-pirate; they recognise the type before they recognise each other. If Bog's player says Bog sailed on the *Feystar*, Bess's hospitality cools by one degree and sharpens by two:
+
+> *"Feystar. Huh. You're a long way from that deck, big lad. Sit down. Water first."*
+> *"Privateer," she says, before Bog can ask. "There's a difference. I had papers."*
+
+She does not say where she knows the name. If the player doesn't offer it, Bess just clocks Bog's rope-scarred hands and pours water without comment. Do not invent a shared voyage.
+
+**If Bog plays the banjo:** ask, don't call for a check unless Bog wants something. If Bog plays for the room, DC 10 Performance. Success: the room sings the chorus and someone mentions a drowned man who "sat up in the boat." Failure: someone complains; the Breakers finish their drinks and leave early. Either way, no clock tick — they were always leaving.
 
 **Helena's pitch (paraphrase, don't monologue):**
 - Three-day private charter. Clear vermin, shore timber, map a collapsed fault under **Warehouse Nine**.
@@ -223,6 +255,8 @@ Level-1 money is tight. They have **~16–20 gp each** after the advance. Let th
 | Silence-scroll | 75 gp | 10 ft silence, 1 min. Not tonight |
 | Forged customs chit | 10 gp | +5 Deception vs a port inspector once, then burns |
 
+**Bog's lucky coin or gold lump, if Bog tries to spend it.** The shopkeeper bites it, laughs, and offers **2 cp**. *"Fool's gold, love. Shiny, though."* Do not say so before Bog tries. If Bog doesn't try, leave it alone — the gold is Bog's character, not your clue.
+
 **If they try to buy the expensive things:** the shopkeeper laughs. *"Come back when you've been paid, dear."* That's the point — the good gear is Session 3 money.
 
 #### Exploration prompts (use 1d6 if the table stalls)
@@ -240,6 +274,8 @@ Level-1 money is tight. They have **~16–20 gp each** after the advance. Let th
 > *"THE TENTH IS COMING! THE SKY IS NOT EMPTY! THE SILENCE WAS A DOOR, NOT A WALL!"*
 
 A watchman moves him along. If a PC engages, he grabs a sleeve and says something that lands too close to home for *that* PC, then leaves. Do not explain how he knew. **Do not resolve this.**
+
+**If Bog is wearing the prayer beads:** the prophet counts them from across the street, loses his place, and says, *"You're carrying the wrong prayer."* Then he starts shouting again. Do not explain how he knew.
 
 **The Brass Astrolabe, if they go:** the back office is lit. A thin, tired woman in an appraiser's apron is working late. She knows Arlen, and she is not pleased to see him with a salvage crew. She will certify finds, for a fee, and she will remember their faces. `[DM-ONLY: she reports to the Exchange. So does Arlen.]`
 
@@ -262,7 +298,8 @@ A watchman moves him along. If a PC engages, he grabs a sleeve and says somethin
 
 **The clue in the cellar (plant it quietly):**
 - A rope is already tied off around a roof beam. Old, frayed, knotted in a style Helena does not use.
-- **DC 12 Investigation**, or automatic for anyone proficient with Tinker's Tools or sailor's knots: the knot is **modern**, and **not more than a month old**.
+- **DC 12 Investigation**, or automatic for anyone proficient with Tinker's Tools or a sailor's background (**Bog**): the knot is **modern**, and **not more than a month old**.
+- **Bog, automatically:** whoever tied this was competent and in a hurry — a working line, not a decoration. He can't say more than that, and he shouldn't. *"Somebody came down here, tied off, and went home."*
 - Helena: *"That's not my rope. That's not my knot."* (beat) *"Write that down, Arlen."*
 
 She will not speculate. She is a professional. Let the players do it.
@@ -296,7 +333,7 @@ She will not speculate. She is a professional. Let the players do it.
 2. **40–60 ft:** the wall becomes **poured stone with no seams**. Anyone with masonry, Tinker's Tools, or a relevant background: not dwarf-work or modern guild-work. The tolerance is too fine. *"Someone machined this."*
 3. **60–80 ft:** a frieze, half-lit by the party's lantern. Then the floor.
 
-**Hazard — loose scree.** DC 12 Dex save or slide 20 ft and take 1d6 bludgeoning. **Pitons + DC 10 Athletics negates.** Climber's kit: advantage. Chewed rope: DC 14.
+**Hazard — loose scree.** DC 12 Dex save or slide 20 ft and take 1d6 bludgeoning. **Pitons + DC 10 Athletics negates.** Climber's kit: advantage. Chewed rope: DC 14. **Bog's quarterstaff** used as a probe or brace gives the first PC down advantage on the save — it is also, per Bog's background, a fishing rod. Let Bog say so.
 
 **Clue A — the bas-relief `[ESTABLISHED CANON — Mystery 1, Stage 1]`**
 
@@ -305,6 +342,7 @@ She will not speculate. She is a professional. Let the players do it.
 - **DC 11 History or Religion:** **civic iconography**, not cult. A municipal seal. A city doing paperwork.
 - **Arlen** (no check): *"That's not a crypt. That's an office. That's a very old, very serious office."* He tries to take a rubbing. Helena tells him to wait.
 - **If a PC is a cleric or religious:** the figure with the compass has a crescent over one shoulder — Selyra, or a pre-Silence artist's idea of her. Recognisable from a hymn, not a lecture.
+- **If Bog is wearing the prayer beads:** Bog looks for the god in the frieze and doesn't find one. No altar, no offering, nobody to bargain with. Ask Bog's player: *"What does Bog do when there's no one to pray to?"* No check. Let the answer sit.
 - **If a PC is an artificer, smith, or mason:** the compass is a measuring instrument, and the stone is cut to a tolerance that should not exist in a basement.
 - **DC 13 Investigation, anyone looking closely:** the faces are worn smooth — not by water. Rubbed. Deliberately. **Say nothing more.**
 
@@ -394,6 +432,10 @@ Retired tiefling privateer. Knows every unpermitted expedition in the bay. Water
 > *"Ale's watered. Lantern oil isn't. Light's the one honest thing in this port."*
 > *"Rorik's boys were in here Tuesday. Bought oil by the crate. Paid in Ilya coin. Didn't drink."*
 
+If Bog's player says Bog sailed on the *Feystar*, Bess knows the name and will not say from where. She doesn't judge; she waters Bog's ale and keeps an eye on the door.
+
+> *"Feystar. Huh. You're a long way from that deck, big lad. Sit down. Water first."*
+
 ### Cobb — warehouse foreman
 One arm. Superstitious about the cellar. Will not go below the third step.
 > *"Rats chewed the rope. They always chew the rope. Buy your own rope."*
@@ -417,7 +459,7 @@ Her second line is a **rumour**, not a plot beat. It does not tick the Soul Tide
 
 | Clue | Where | Check | What it says | Fallback if missed |
 |------|-------|-------|--------------|--------------------|
-| **Old rope, modern knot** | Warehouse cellar | DC 12 Investigation / Tinker's Tools | Someone was here within the month | Cobb mentions "the survey men" who paid cash last month |
+| **Old rope, modern knot** | Warehouse cellar | DC 12 Investigation / Tinker's Tools / sailor (**Bog**, auto) | Someone was here within the month | Bog knows a working knot when he sees one; Cobb mentions "the survey men" who paid cash last month |
 | **Machined stone** | Descent, 40–60 ft | Automatic with stonework or Tinker's Tools | The builders were not what the stories say | Arlen notices the seams and says so out loud |
 | **Frieze (Clue A)** | Descent, 60 ft | DC 11 History/Religion | Ascensionists were civic, not cultic | Arlen's rubbing, or Helena's notebook sketch |
 | **Rubbed faces** | Frieze | DC 13 Investigation | Someone erased the faces — deliberately? | Leave it. It is a question, not a clue |
@@ -469,6 +511,7 @@ All optional. All planted without explanation. None requires a PC to have a part
 
 - **The maker's plate.** If you want a long fuse to the campaign's patron, a brass plate can be found on a construct PC's chassis or inside salvaged frame, stamped **KESSLER & VANE — SALVAGE WORKS**. Do not mention it. Let them find it in Act II or III. **Only with the player's buy-in** — it edits their character's history.
 - **The calibration disc.** In the scree, a palm-sized brass disc with concentric rings, stamped with a tiny falcon-and-calipers. Worthless to Helena (not on the manifest). Priceless in Act IV. Whoever picks it up keeps it. **Do not explain it.**
+- **The disc and the lucky coin.** If Bog is the one who picks up the calibration disc, let Bog weigh it against the coin or the lump of "gold". They are all heavy, all brass-ish, all treasure to someone who wants them to be. Do not tell Bog which is which. If Zook examines it, Zook knows it isn't gold — but not what it is.
 - **The rubbed faces.** Leave unresolved. Water, vandalism, or censorship. Act II answers it.
 - **The prophet.** He says something too close to home for whichever PC engages him, and leaves.
 - **The dream.** Dan's player may open with a dream. Do not supply one, and do not confirm it means anything.
@@ -483,6 +526,9 @@ All optional. All planted without explanation. None requires a PC to have a part
 | **Party spends the whole night shopping** | Fine. That is the beat. Cut the street texture and shorten the rats. The descent still fits. |
 | **Party skips shopping entirely** | Fine. They descend under-equipped. Let the missing healer's kit and pitons matter, without gloating. |
 | **Party tries to keep the frieze a secret** | Fine. Arlen takes a rubbing anyway. The Exchange finds out in Session 3. |
+| **Bog tries to spend the lucky coin or gold lump** | The shopkeeper bites it, laughs, and offers 2 cp. Let Bog keep believing, or let Bog realise — the player's call, not yours. |
+| **Bog drinks before the descent** | Colour, not a penalty. If Bog is properly drunk, Helena sends Bog down last with Arlen and hands over a waterskin. Ten minutes and a short rest shakes it off. |
+| **Bog plays the banjo** | Performance DC 10 if Bog wants something. Success: a rumour, a free drink, or the room singing. Failure: someone complains; the Breakers leave early. No clock tick. |
 | **Party attacks the Breakers in the tavern** | Bess throws them out. The Breakers leave. Tick Cartel Interference **twice**. Helena withdraws the offer unless they fix it. A legitimate path — let it cost them. |
 | **Party goes loud in the cellar** | Tick the charter clock. A customs skiff investigates in 10 minutes. Hide, bribe (10 gp), or talk their way out. |
 | **Someone drops to 0 HP** | Centipedes lose interest. *Spare the Dying*, a healer's kit, or *Cure Wounds* stabilises. If nobody can, Arlen panics and Helena arrives with a kit — furious, and the clock ticks. |
@@ -502,6 +548,7 @@ All optional. All planted without explanation. None requires a PC to have a part
 - *"What does your character think is down there?"*
 - *"Who in this crew do you trust least, and why?"*
 - *"What's the one thing you didn't tell Helena?"*
+- *"What did your character pray for down there — and did it work?"*
 
 **Between sessions:** collect the §1 answers. If Kit's player hasn't chosen a patron, leave it open. Do not write their backstory for them.
 
