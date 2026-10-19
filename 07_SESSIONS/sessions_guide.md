@@ -4,17 +4,26 @@
 
 ## Pacing rule
 - **1 session = 1 dungeon wing OR 1 investigation + 1 beat.** End on door-open, alarm, or arrival.
+- **Full-length nights:** target **~4 hours (240 min)** per session. Exploration, shopping, and downtime are part of the session, not cut scenes — budget time for them.
 - Milestones per `06_ADVENTURE` chapters; no XP tracking needed.
 
 ## Act I (Lv 1–4) — 6 sessions
 | # | Chapter slice | Cliffhanger out |
 |---|---------------|-----------------|
-| 1 | Ch1: Salt-Lantern hire + Warehouse descent 1.1 | Centipede chitter in dark |
+| 1 | Ch1: Salt-Lantern hire + free roam + Warehouse descent 1.1 | Dust furrow; something dragging in the dark |
 | 2 | Ch1: Hall of Records 1.2 (ghoul + bootprints) | Brass door hisses |
 | 3 | Ch1: Scriptorium 1.3 (Oath) → Lv 2 | Dust collapse behind |
 | 4 | Ch2: Sea Cliff Road | Star Chamber doors in sight |
 | 5 | Ch2: Star Chamber puzzle + Codex → Lv 3 | Cartel breach |
 | 6 | Ch2: Ambush escape + Docks Inquest + Seraphel → Lv 4 | Fellowship letters |
+
+**Chapter 1 prep files (full 4-hour nights):**
+
+| Night | File | Runtime |
+|-------|------|---------|
+| 1 | `07_SESSIONS/session_01_three_days_pay.md` — hire, free roam/shopping, descent 1.1 | 240 min |
+| 2 | `07_SESSIONS/session_02_hall_of_records.md` — Hall of Records 1.2, surface breather, brass door | 240 min |
+| 3 | `07_SESSIONS/session_03_the_oath.md` — Scriptorium 1.3, Oath, Tablet, collapse, Lv 2 | 240 min |
 
 ## Act II (Lv 4–8) — 7 sessions
 | # | Slice | Out |

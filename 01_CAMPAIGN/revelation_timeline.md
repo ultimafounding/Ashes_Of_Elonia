@@ -19,6 +19,8 @@ The following matrix controls the disclosure of campaign truths across the six a
 | **6. Truth of the Silence & Avarr**| Distorted Myth<br/>(Gods abandoned mortals) | Academic Debate<br/>(Divine wrath vs apathy) | **CONFIRMED**<br/>(Avarr atrocities; cage of protection) | Metaphysical Context | Philosophical Test | Embodied by Avatar of Last Mercy |
 | **7. The Protected Unknowns** | `[UNRESOLVED]`<br/>Sea Beyond mentioned | `[UNRESOLVED]`<br/>Multiple theories | `[UNRESOLVED]`<br/>Orinth admits ignorance | `[UNRESOLVED]`<br/>Passage beyond unseen | `[UNRESOLVED]`<br/>Prophecy is branching | `[UNRESOLVED]`<br/>Final page left blank |
 
+> **Session numbering** follows `07_SESSIONS/sessions_guide.md` (the 32-session plan). Where a stage lists a range, the evidence can land across those nights; the second number is the fallback if the party misses the first vector.
+
 ---
 
 ## 2. Mystery Deep-Dives & Discovery Stages
@@ -27,9 +29,10 @@ The following matrix controls the disclosure of campaign truths across the six a
 - **Canonical Status:** `[ESTABLISHED CANON]`
 - **Modern Belief:** `[PLAYER-FACING]` Common religious lore portrays the Ascensionists as blasphemous death-worshipers whose dark magic caused the Silence.
 - **The Truth:** `[DM-ONLY]` They were brilliant humanist scholars, physicians, and civic leaders seeking mortal independence and medical self-reliance.
-  - **Stage 1: Foreshadowed (Act I, Session 1–2):** Architectural reliefs in Warehouse Nine depict Ascensionist figures holding sickles, compasses, and botanical scrolls rather than skulls or weapons.
-  - **Stage 2: Learned (Act I, Session 3):** Translating the *Catalogue Codex* reveals hospital budgets, irrigation plans, and treatises on mortal civic dignity.
-  - **Stage 3: Confirmed (Act I, Session 4):** Recovery of the *Oath of the Scriptorium* explicitly declaring their purpose: *"Not to usurp the heavens, but to ensure mortal children walk without weeping when the hearth grows cold."*
+  - **Stage 1: Foreshadowed (Act I, Session 1):** The bas-relief on the Catalogue Descent shows Ascensionist figures holding sickles, scales, a compass, and a child's hand — civic iconography, not skulls or weapons.
+  - **Stage 2: Learned (Act I, Session 2):** The petrified ledger leaf in the Hall of Records gives hospital grain budgets and an inoculation rota: *"Ward Three — fever beds: 40. Tithe: none. Oath-bound."*
+  - **Stage 3: Confirmed (Act I, Session 3):** Recovery of the *Oath of the Scriptorium* explicitly declares their purpose: *"Not to usurp the heavens, but to ensure mortal children walk without weeping when the hearth grows cold."*
+  - *Note:* the *Catalogue Codex* (Session 5, Star Chamber) recontextualises this at continental scale — it is the "answer generates two questions" beat, not the confirmation.
 
 ---
 
@@ -37,9 +40,9 @@ The following matrix controls the disclosure of campaign truths across the six a
 - **Canonical Status:** `[ESTABLISHED CANON]`
 - **Modern Belief:** `[PLAYER-FACING]` Spirits wander because priests are corrupt, or because the gods turned their backs on Elonia.
 - **The Truth:** `[DM-ONLY]` The crisis stems from structural, metaphysical trauma inflicted on the soulways by the ancient catastrophic failure of the Ascension Engine.
-  - **Stage 1: Foreshadowed (Act I & II):** In Port Meridian, sailors speak of drowned ghosts whose faces shatter like glass. In New Ilya, mortality tables show a 14% failure rate in standard cremation releases.
-  - **Stage 2: Learned (Act III, Session 8):** Brother Cael warns — as unconfirmed testimony, not proof — that the soulways were already wounded before the Silence, torn in an unsanctioned attempt to master death.
-  - **Stage 3: Confirmed (Act IV, Session 12):** Within the Bleak Path, the characters physically inspect the soulways. They witness a colossal, crystalized fracture scarred across the ethereal firmament, leaking spirit-light into the abyss.
+  - **Stage 1: Foreshadowed (Act I, Sessions 2–4; Act II):** In Port Meridian, a dying Breaker mutters of *"glass-faced ghosts down by the Reefs"*; a low-tide pool shows a shade whose shadow will not follow. In New Ilya, mortality tables show a 14% failure rate in standard cremation releases.
+  - **Stage 2: Learned (Act III, Session 16):** Brother Cael warns — as unconfirmed testimony, not proof — that the soulways were already wounded before the Silence, torn in an unsanctioned attempt to master death.
+  - **Stage 3: Confirmed (Act IV, Session 22):** Within the Bleak Path, the characters physically inspect the soulways. They witness a colossal, crystalized fracture scarred across the ethereal firmament, leaking spirit-light into the abyss.
 
 ---
 
@@ -47,9 +50,9 @@ The following matrix controls the disclosure of campaign truths across the six a
 - **Canonical Status:** `[DM-ONLY]`
 - **Public Persona:** `[PLAYER-FACING]` A charismatic philanthropist, antiquarian peer, and patron of progress.
 - **The Truth:** `[DM-ONLY]` Seraphel seeks his own apotheosis. He does not seek the return of the Nine Celestine; he is harvesting unpassed souls from the Engine's wound to fuel his transformation into the Tenth god of Elonia.
-  - **Stage 1: Foreshadowed (Act I & II):** Seraphel exhibits obsessive curiosity regarding exact soulway resonance frequencies. He finances the party's expeditions but quietly demands full custody of all technical schematics and conduit keys.
-  - **Stage 2: Investigated (Act III & IV):** In Khar Vareth, the party discovers that the brass siphon-pipes diverting lost souls carry the foundry stamp of House Vane. Archival ledgers show Seraphel has purchased 90% of the continent's refined spirit-glass.
-  - **Stage 3: Confirmed (Act V, Session 15):** The party recovers Seraphel's private astronomical calculations at Nythara. The mathematics prove that the "Return Ritual" inverts divine tethers, funneling the entire celestial reserve directly into a single mortal vessel: Lord Seraphel.
+  - **Stage 1: Foreshadowed (Act I, Session 6):** At the Gilded Docks Inquest Seraphel exhibits obsessive curiosity about exact resonance detail — he asks a piercing question about the mosaic lines and logs the answer privately. In Act II he finances the party's expeditions but quietly demands full custody of all technical schematics and conduit keys.
+  - **Stage 2: Investigated (Act III–IV, Sessions 19–24):** In Khar Vareth, the party discovers that the brass siphon-pipes diverting lost souls carry the foundry stamp of House Vane. Archival ledgers show Seraphel has purchased 90% of the continent's refined spirit-glass.
+  - **Stage 3: Confirmed (Act V, Session 28):** The party recovers Seraphel's private astronomical calculations at Nythara. The mathematics prove that the "Return Ritual" inverts divine tethers, funneling the entire celestial reserve directly into a single mortal vessel: Lord Seraphel.
 
 ---
 
@@ -57,9 +60,9 @@ The following matrix controls the disclosure of campaign truths across the six a
 - **Canonical Status:** `[DM-ONLY]`
 - **Public Persona:** `[PLAYER-FACING]` An eccentric, elderly, tea-brewing monk tending the remote Lantern Chapel.
 - **The Truth:** `[DM-ONLY]` Brother Cael is Orinth, the Laughing Sage, first-awakened of the Celestine. He refused to leave Elonia, living for a millennium as an anonymous mortal witness.
-  - **Stage 1: Foreshadowed (Act III, Session 7):** Cael casual refers to centuries-dead architects by their childhood nicknames. His personal prayer book contains sketches of birds that went extinct 800 years ago. He handles divine fire without taking damage or casting a spell.
-  - **Stage 2: Investigated (Act III, Session 8):** The party finds an unbroken series of chapel logbooks dating back to 42 AS, all written in Cael's distinctive, messy handwriting.
-  - **Stage 3: Confirmed (Act III, Session 9):** When an uncalibrated Pre-Silence covenant seal threatens to obliterate the chapel with radiant backlash, Cael places a bare, ink-stained hand upon it. The seal calms instantly, whispering in ancient Celestine: *"Greeting, Sage. The First Flame remembers you."*
+  - **Stage 1: Foreshadowed (Act III, Sessions 14–16):** Cael casually refers to centuries-dead architects by their childhood nicknames. His personal prayer book contains sketches of birds that went extinct 800 years ago. He handles divine fire without taking damage or casting a spell.
+  - **Stage 2: Investigated (Act III, Session 15):** The party finds an unbroken series of chapel logbooks dating back to 42 AS, all written in Cael's distinctive, messy handwriting.
+  - **Stage 3: Confirmed (Act III, Session 15; confrontation in Session 16):** When an uncalibrated Pre-Silence covenant seal threatens to obliterate the chapel with radiant backlash, Cael places a bare, ink-stained hand upon it. The seal calms instantly, whispering in ancient Celestine: *"Greeting, Sage. The First Flame remembers you."*
 
 ---
 
@@ -67,9 +70,9 @@ The following matrix controls the disclosure of campaign truths across the six a
 - **Canonical Status:** `[ESTABLISHED CANON]`
 - **Public Belief:** `[PLAYER-FACING]` The gods grew disgusted by mortal arrogance and abandoned Elonia in wrath.
 - **The Truth:** `[DM-ONLY]` The horrors of Avarr proved that divine protection created dangerous certainty and moral infancy. Myrraen severed the divine link to force humanity to grow up and bear its own consequences.
-  - **Stage 1: Foreshadowed (Act II):** Fragments of the *Avarr Inquest* in the Athenaeum Null show that the city's executioners prayed fervently to Aurelion and Myrraen while burning dissidents.
-  - **Stage 2: Learned (Act III):** Orinth confesses the heart-wrenching debate of the Last Council: *"Myrraen did not leave because she hated you. She left because she realized that as long as we stood between you and your mistakes, you would never become adults."*
-  - **Stage 3: Confirmed (Act VI):** In the Engine Deep, preserved memory-echoes replay the Last Council in full mythic fidelity, demonstrating the grief and terror with which the Celestine parted.
+  - **Stage 1: Foreshadowed (Act II, Sessions 11–12):** Fragments of the *Avarr Inquest* in the Athenaeum Null show that the city's executioners prayed fervently to Aurelion and Myrraen while burning dissidents.
+  - **Stage 2: Learned (Act III, Sessions 16–17):** Orinth confesses the heart-wrenching debate of the Last Council: *"Myrraen did not leave because she hated you. She left because she realized that as long as we stood between you and your mistakes, you would never become adults."*
+  - **Stage 3: Confirmed (Act VI, Session 31):** In the Engine Deep, preserved memory-echoes replay the Last Council in full mythic fidelity, demonstrating the grief and terror with which the Celestine parted.
 
 ---
 

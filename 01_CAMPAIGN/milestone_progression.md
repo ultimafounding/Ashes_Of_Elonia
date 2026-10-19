@@ -45,18 +45,18 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 
 ### Tier 1: Local Adventurers (Act I — Port Meridian)
 
-#### Level 1 → Level 2: Into the Shattered Vaults
-- **Narrative Milestone:** Breaching the collapsed foundation of Warehouse Nine, surviving the Catalogue Descent's scree and vermin, and reading the boot-worn dust of the Hall of Records for what it is: a modern trail.
-- **World State Shift:** The party earns the professional trust of Helena Voss and junior archivist Arlen Marr. They are officially registered as licensed salvage excavators.
-- **Key Resources:** Access to basic salvage equipment; first fragments of uncatalogued Pre-Silence script.
+#### Level 1 → Level 2: The Witness Scriptorium
+- **Narrative Milestone:** Breaching Warehouse Nine, surviving the Catalogue Descent and the Hall of Records, forcing the brass pneumatic door, translating the *Oath of the Scriptorium*, and recovering the Catalogue Index Tablet.
+- **World State Shift:** The party proves the ancient Ascensionists were civic reformers, earns Helena Voss's professional trust, and learns that a modern competitor — the Breakers — reached the Scriptorium first.
+- **Key Resources:** 2nd-level features unlocked; the Index Tablet points at the Star Chamber.
 
-#### Level 2 → Level 3: The Witness Scriptorium
-- **Narrative Milestone:** Forcing the brass door and translating the *Oath of the Scriptorium*, proving the ancient Ascensionists were legitimate civic reformers — and pocketing the Catalogue Index Tablet.
-- **World State Shift:** The party discovers fresh modern bootprints, snapped lockpicks, and New Ilya lamp-oil in the dust, realizing they are racing an unknown modern competitor.
-- **Key Resources:** 2nd-level spells unlocked; the Index Tablet points at the Star Chamber.
+#### Level 2 → Level 3: The Sea Cliff Road
+- **Narrative Milestone:** Taking Helena's two-day overland charter up the old cliff stairstep, surviving the gale, the crumbled steps, and the reef-crawlers, and reaching the seaward approach to the Star Chamber.
+- **World State Shift:** Warehouse Nine is sealed by the Admiralty after the Scriptorium collapse; the party is committed to the overland route and openly racing the Cartels.
+- **Key Resources:** A reliable route to the lower vault; Cartel survey chits and a prisoner who can name Rorik's buyer.
 
 #### Level 3 → Level 4: The Star Chamber & Seraphel's Patronage
-- **Narrative Milestone:** Walking the Sea Cliff Road, aligning Selyra's Eye, lifting the intact *Catalogue Codex*, defeating the Archive Cartel strike force, and standing trial at the Gilded Docks Inquest — where Lord Seraphel pays their tax and sponsors them.
+- **Narrative Milestone:** Aligning Selyra's Eye, lifting the intact *Catalogue Codex*, defeating the Archive Cartel strike force, and standing trial at the Gilded Docks Inquest — where Lord Seraphel pays their tax and sponsors them.
 - **World State Shift:** Act I concludes. Lord Seraphel sponsors the party, providing travel warrants, lavish stipends, and letters of introduction to the Grand Lyceum of New Ilya.
 - **Key Resources:** Feat / Ability Score Improvement; party gains an elite carriage and formal patron benefits from House Vane.
 

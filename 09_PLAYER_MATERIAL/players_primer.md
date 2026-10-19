@@ -154,7 +154,7 @@ An uneasy peace called the **Concord of Meridian** prevents open continental war
 
 ## 7. The Peoples of Elonia
 
-Humans are the majority (~55%) everywhere except the canopy and the necropolis. Nobody stares at halflings, gnomes, dwarves, elves, dragonborn, or beastfolk in a Coast port - Port Meridian runs on all of them.
+Humans are the majority (~55%) everywhere except the canopy and the necropolis. Nobody stares at halflings, gnomes, dwarves, elves, dragonborn, or beastfolk in a Coast port - Port Meridian runs on all of them. Constructs draw a glance and then a shrug; changelings draw a glance and then a second one.
 
 - **Humans.** The restless rebuilders. Dominant in the League, Ilya, and the Coast. Impatient, ambitious, everywhere.
 - **Elves.** The echo-bearers (~10%). River/high elves hold Lyceum chairs and archive desks and suffer a recognized sadness scholars call *the Melancholy* - grief for a song they barely remember. Canopy/wood elves keep the Verdancy's groves and want no part of your salvage charter.
@@ -163,7 +163,9 @@ Humans are the majority (~55%) everywhere except the canopy and the necropolis. 
 - **Dragonborn.** Descendants of the Elder Era (~4%). Clan-centered coastal and mountain keeps. They regard the Celestine as latecomers and human politics as entertainment. Prized as marines and alchemists.
 - **Tieflings - the ash-born.** Not fiend-spawn in any story worth repeating. Folk wisdom says they are children born near bad places - ruin-zones, ether fractures, laboratory misfires - marked by horns, tails, and strange eyes. The League makes them register. Ilya wants them to sign research waivers. Vareth pities them. The Coast hires them as navigators and salvagers and calls them lucky.
 - **Aasimar - the dawn-echoes.** Very rare. Born with a faint radiance, an old harmonic the nurses can't explain. The Keepers of Dawn revere them. Daily life mostly alienates them.
-- **Beastfolk, orcs, and frontier folk.** Canopy communes, pirate flotillas, legion shock units, deep mines. Thaeron's old lesson follows them: *struggle creates dignity.*
+- **Beastfolk, orcs, and frontier folk.** Canopy communes, pirate flotillas, legion shock units, deep mines. Thaeron's old lesson follows them: *struggle creates dignity.* Bugbears, goblins, and hobgoblins are beastfolk here, not monsters - a bugbear dockhand is unremarkable in the Warrens, and a hobgoblin drill-sergeant is a normal sight on a League parade ground.
+- **Constructs - the brass-born.** Rare, and recent. Foundry-built labour for ruin-work, mining, and salvage, because a construct can be sent where a person cannot and does not need to be paid. Warforged, autognomes, and one-off foundry frames all fall under this. Most are tools with a voice. A few are not, and nobody agrees on when that happens, what causes it, or whether it is a fault to be repaired. The Coast hires them and calls them lucky. Ilya wants to study them. The League wants to know who owns them. If you play one, decide who built you - and whether they are still looking.
+- **Changelings - the borrowed faces.** Rare, and rarely announced. No homeland, no guild, no parish: a changeling is whoever the room needs. Port Meridian's customs service fears them, employs them, and denies doing either. Most changelings keep two or three faces and a real one for people they trust, which is a short list.
 
 Anything rarer than the above needs a one-line explanation and the DM's agreement.
 
@@ -207,10 +209,14 @@ The job is legal, licensed, and - as every salvager over thirty will tell you wh
 
 ## 10. Making a Character
 
-- **System:** D&D 5th Edition (2014), starting at **level 1**. Advancement is by story milestones, not by counting kills.
+- **System:** D&D 5th Edition, **2024 rules** (the 2024 *Player's Handbook*), starting at **level 1**. Advancement is by story milestones, not by counting kills.
+- **Monsters:** the DM uses the **2014 *Monster Manual*** and the stat blocks in this campaign's files. If a monster's wording differs between printings, the DM's block wins.
 - **Ability scores:** Standard array, point buy, or rolled - table's choice, same method for all.
 - **Hit points:** Max at 1st level, then fixed average thereafter (no rolling).
-- **Peoples:** Humans are the majority everywhere. Halflings, gnomes, dwarves, elves, dragonborn, beastfolk, tieflings, and half-orcs are ordinary citizens of Port Meridian. Anything rarer needs a one-line explanation and the DM's agreement.
+- **Origin feats.** Every 2024 background grants one origin feat. Take it; it is part of your build, not a bonus. Your background also sets your ability score increases - if you want a different spread, say so before play and the DM will allow a swap.
+- **Weapon Mastery.** Martial classes get mastery properties at 1st level. Track which weapon has which property on your sheet; the DM will ask.
+- **Multiclassing and feats:** allowed, as written. No optional flanking, no variant encumbrance. Potions may be drunk as a bonus action; feeding one to someone else is an action.
+- **Peoples:** Humans are the majority everywhere. Halflings, gnomes, dwarves, elves, dragonborn, beastfolk (including orcs, goblins, and bugbears), tieflings, and constructs are ordinary citizens of Port Meridian. Changelings and aasimar are rarer and draw a second look. Anything rarer needs a one-line explanation and the DM's agreement.
 - **Classes:** All official options. A few setting notes, not restrictions:
   - *Fighters, rogues, rangers:* guild guards, customs officers, privateers, salvagers, reef-runners. You fit everywhere.
   - *Wizards, artificers, bards (College of Lore):* Lyceum graduates, foundry apprentices, guild cipher-clerks, Vane-funded laboratories. Your diploma is a social weapon.
@@ -220,9 +226,9 @@ The job is legal, licensed, and - as every salvager over thirty will tell you wh
   - *Warlocks:* you hold a bargain with something in the dark - a ruin, a court, a voice, worse. Define it with the DM; assume your character's theory of what it is could be wrong.
   - *Monks:* cloistered orders, penitent houses, Iron Heart gymnasia, Last Light chapels. Every power has one quiet courtyard where people train before dawn.
 - **Alignment:** No evil player characters. The campaign is about hard choices; the party needs to be people who wrestle with them, not people who cause them for fun.
-- **Backgrounds:** Any, reskinned to the Coast. Urchins grew up in the Warrens. Acolytes swept a Dawn chapel or a Myrraenic ward. Sages carry Lyceum letters. Sailors know Bess by name. Criminals know Rorik's lieutenants by reputation and prefer it stays that way.
+- **Backgrounds:** Any, reskinned to the Coast - take the 2024 background and rename it to fit. Urchins grew up in the Warrens. Acolytes swept a Dawn chapel or a Myrraenic ward. Sages carry Lyceum letters. Sailors know Bess by name. Criminals know Rorik's lieutenants by reputation and prefer it stays that way. If no printed background fits, build one with the DM: two skills, one tool, one origin feat, and an ability spread.
 - **Starting gear:** Standard class equipment, plus one salvage tool (crowbar, climber's kit, healer's kit, or scholar's pack). One personal item with no value and no mechanics - a letter, a chit, a dead parent's nail, a pressed ironwood leaf - is encouraged.
-- **Languages:** Common plus any standard choice. Old Elonian (the script of the buried age) is *not* available at 1st level except via the Archivist background feature or DM permission - that's what Arlen is for.
+- **Languages:** Common plus any standard choice. Old Elonian (the script of the buried age) is *not* available at 1st level except via a background that grants it, the DM's permission, or a very good reason in your backstory - that's what Arlen is for.
 
 **Background:**
 
