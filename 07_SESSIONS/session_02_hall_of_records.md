@@ -30,13 +30,26 @@ date: ""
 
 ---
 
+## Carry-Over From Session 1 (2026-10-19)
+
+- **They are at the doorway.** The party ended as the door opened onto the dust room. No one has entered 1.2 yet.
+- **Clue A already landed.** In 1.1 they found municipal records — grain shipments and civic codes — and Arlen's worldview cracked. Do not re-teach "not a death cult"; let the ledger leaf deepen it.
+- **The cellar rope was deliberately cut — by a third party, in a rush, to hide evidence of tampering.** Not the Breakers. This is a separate actor and a cover-up, not a Cartel betrayal. The cut is recent and hurried. What they tampered with is still unknown.
+- **Hidden chests** are somewhere in the dust room. The party knows they exist; contents TBD. **Likely tampering target:** the third party may have opened or re-sealed them before cutting the line. Confirm before play.
+- **Clocks:** Helena's Charter **1/4** (loud rat fight); Cartel Interference **1/3** (hatch left open). No lamps left burning.
+- **Resources:** 2 healing potions, 6 rations, 1 lantern. Dan is down one 1st-level slot (*Cure Wounds* on Zook). Everyone else is full.
+- **Arlen** is alive, hated for his voice and mannerisms, and owes Dan his life without knowing it. Play him exactly as written — do not soften him to make the table like him.
+- **Helena** is still up top, hungover and annoyed. She has not seen them since the descent. The surface breather is also her reckoning.
+
+---
+
 ## The One-Page Version
 
 | # | Beat | Time | Purpose |
 |---|------|------|---------|
 | 0 | Recap + the doorway | 10 min | Re-establish the threshold image |
 | 1 | **Into the dust** — explore the Hall | 45 min | Real exploration; the room earns its name |
-| 2 | **The furrow** — tracks, lockpick, oil-rag | 25 min | The modern-intrusion turn |
+| 2 | **The furrow** — tracks, lockpick, oil-rag, cut rope | 25 min | The modern-intrusion turn |
 | 3 | **The feast** — ghoul + skeletons | 60 min | The night's set-piece fight |
 | 4 | **Aftermath** — the dying Breaker, the ledger leaf | 30 min | Documentary clue + a moral choice |
 | 5 | **Surface breather** — haul, debrief, certify, shop | 50 min | Downtime, shopping, consequences |
@@ -53,9 +66,11 @@ date: ""
 
 - [ ] Read the **Scope** above. The brass door stays shut tonight.
 - [ ] Decide whether you're using the **dying Breaker** (recommended) — he carries the Soul Crisis rumour.
+- [ ] **The cut rope was a third party covering tampering.** Decide what they tampered with and what trace they left. Tamsin wrongly assumes Rorik did it (§4.4).
+- [ ] **Place the hidden chests** and decide their contents (carry-over from Session 1; TBD).
 - [ ] Have the **Hall key** (§3.2) and the **dust rules** (§3.1) in front of you. Exploration is a third of this session.
 - [ ] Have **shop prices** open (§7.4) — they will have money after the haul.
-- [ ] Clocks on scrap paper: **Helena's Charter [ ][ ][ ][ ]**, **Cartel Interference [ ][ ][ ]**.
+- [ ] Clocks on scrap paper: **Helena's Charter [X][ ][ ][ ]** (1/4), **Cartel Interference [X][ ][ ]** (1/3).
 - [ ] Global clocks: Soul Tide 0/6, Convergence 0/8, Censor's Shroud 0/4. **The Soul Tide does not tick tonight** — the Breaker's line is a rumour, not a mechanic.
 - [ ] Know the ghoul/skeleton blocks (§14). This fight can kill a level-1 PC; read the morale note.
 
@@ -71,6 +86,8 @@ Ask the table, in order:
 - *"Who steps in first, and how?"*
 - *"What are you holding?"*
 - *"Is anyone still up top with Helena?"*
+
+**Use the table's own images:** Kit going off the rope and Bog catching him; the clean cut in the cellar line; Dan's *Cure Wounds* glowing in the dark; Arlen's voice, which they all hate. The dust room is the first place the party has to be quiet.
 
 **Do not** roll initiative. The sound is not yet a monster — it is a question.
 
@@ -126,13 +143,15 @@ This beat can run **before** the ghoul (if they sneak past) or **after** (if the
 
 ### 4.1 What the dust holds
 
-| Evidence | Check | What it says |
-|----------|-------|--------------|
-| **Fresh iron boot-heel marks** | DC 13 Survival or Investigation (automatic if they move at half speed) | A modern boot, nailed heel, size and gait of a grown man. **Over** the ancient dust, not under it. Someone walked here within weeks. |
-| **A snapped steel lockpick** | DC 12 Investigation, or automatic when crossing the far third | Modern steel, not bronze. The tip is still in the brass door's mechanism. |
-| **A grease-rag** | DC 12 Investigation, or automatic with **Detect Magic**/a good nose | Smells of **New Ilya lamp oil** — violet-white, distinct from Coast whale oil. The same oil the Breakers bought at the Salt-Lantern. |
-| **The furrow itself** | No check | Straight as a survey line, from the doorway to the far door. Whoever walked it was *working*, not wandering. |
-| **A second set of prints** | DC 15 Investigation (optional) | Smaller, barefoot, and they *stop* at the ghoul's camp. They do not leave. **Say nothing.** It might be a previous victim. It might not. |
+| Evidence                       | Check                                                                  | What it says                                                                                                                             |
+| ------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fresh iron boot-heel marks** | DC 13 Survival or Investigation (automatic if they move at half speed) | A modern boot, nailed heel, size and gait of a grown man. **Over** the ancient dust, not under it. Someone walked here within weeks.     |
+| **A snapped steel lockpick**   | DC 12 Investigation, or automatic when crossing the far third          | Modern steel, not bronze. The tip is still in the brass door's mechanism.                                                                |
+| **A grease-rag**               | DC 12 Investigation, or automatic with **Detect Magic**/a good nose    | Smells of **New Ilya lamp oil** — violet-white, distinct from Coast whale oil. The same oil the Breakers bought at the Salt-Lantern.     |
+| **The furrow itself**          | No check                                                               | Straight as a survey line, from the doorway to the far door. Whoever walked it was *working*, not wandering.                             |
+| **A second set of prints**     | DC 15 Investigation (optional)                                         | Smaller, barefoot, and they *stop* at the ghoul's camp. They do not leave. **Say nothing.** It might be a previous victim. It might not. |
+
+**The cut rope above (carry-over).** Add it as the fourth piece of the intrusion: the old line in Warehouse Nine was severed recently and in a hurry. **A third party did it — not the Breakers — to hide evidence of tampering.** Tamsin Roke did not fall; he was stranded by someone outside Rorik's crew. What the third party tampered with is a live mystery.
 
 ### 4.2 Arlen's reaction `[DM-ONLY]`
 
@@ -165,6 +184,8 @@ Then, if pressed or if he's fading:
 > *"Down by the Reefs, at low tide — glass-faced ghosts. Their shadows don't follow. I saw one. I *saw* one."*
 
 **This is the Soul Crisis rumour `[PLAYER-FACING]`.** It has **no mechanics**. Do not explain it. Do not tick the Soul Tide.
+
+**The cut rope:** Tamsin didn't cut it and doesn't know who did. His first coherent line is *"The line went slack. I thought it was rats."* He assumes Rorik did it — **he's wrong**, and that false lead is useful. If he heard anything above, it was someone moving fast and not answering.
 
 **His fate is the players' choice:** carry him up (slow, ticks the charter clock), leave him with a healer's kit (a coin-flip), or finish him. If they kill him, tick **Cartel Interference** and have Helena find out. If they save him, he becomes a recurring informant in Session 3 and beyond.
 

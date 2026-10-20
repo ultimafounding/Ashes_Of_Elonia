@@ -5,9 +5,8 @@ chapter: "1 — The Shattered Archive"
 session_no: "1"
 level: "1"
 runtime: "4 hrs (240 min)"
-date: ""
+date: "2026-10-19"
 ---
-
 # Session 1: Three Days' Pay
 
 > *"Three days' pay to carry rope and count stones. What could go wrong eighty feet under a warehouse?"*
@@ -261,14 +260,14 @@ Level-1 money is tight. They have **~16–20 gp each** after the advance. Let th
 
 #### Exploration prompts (use 1d6 if the table stalls)
 
-| d6 | What they see |
-|----|---------------|
-| 1 | A customs skiff nosing along the wharf, lantern hooded, looking for something specific |
-| 2 | A child selling hot chestnuts from a brazier, out past when children should be |
-| 3 | Two dockworkers arguing about a drowned man who "sat up in the boat" |
-| 4 | A crate stencilled with a falcon and calipers, waiting on the wrong dock `[DM-ONLY: Vane — optional]` |
-| 5 | A gull on a bollard, watching. It does not move when they pass |
-| 6 | The prophet's voice, two streets over, still shouting |
+| d6  | What they see                                                                                         |
+| --- | ----------------------------------------------------------------------------------------------------- |
+| 1   | A customs skiff nosing along the wharf, lantern hooded, looking for something specific                |
+| 2   | A child selling hot chestnuts from a brazier, out past when children should be                        |
+| 3   | Two dockworkers arguing about a drowned man who "sat up in the boat"                                  |
+| 4   | A crate stencilled with a falcon and calipers, waiting on the wrong dock `[DM-ONLY: Vane — optional]` |
+| 5   | A gull on a bollard, watching. It does not move when they pass                                        |
+| 6   | The prophet's voice, two streets over, still shouting                                                 |
 
 **Candle Row, if they go:** a ragged man shouting at the rain.
 > *"THE TENTH IS COMING! THE SKY IS NOT EMPTY! THE SILENCE WAS A DOOR, NOT A WALL!"*
@@ -389,13 +388,15 @@ If a player pushes past the doorway, describe only this and cut: *the furrow run
 
 ## 4. What This Session Must Accomplish
 
-- [ ] The party is a **crew with a legal charter** — and knows the difference between salvage and antiquities.
-- [ ] They have **spent money and made choices** about the city on their own terms.
-- [ ] They have seen **one piece of evidence** that the old world was not a death cult (the frieze).
-- [ ] They have felt that **someone modern has been here** (the old rope, the rubbed faces, the furrow).
-- [ ] Every player has had **one chance to say who their PC is** — and you wrote the answer down.
-- [ ] The Cartels are a **presence**, not yet an enemy.
-- [ ] **The session stopped at the threshold of 1.2.**
+- [x] The party is a **crew with a legal charter** — and knows the difference between salvage and antiquities.
+- [x] They have **spent money and made choices** about the city on their own terms.
+- [x] They have seen **one piece of evidence** that the old world was not a death cult (the frieze).
+- [x] They have felt that **someone modern has been here** (the old rope, the rubbed faces, the furrow).
+- [x] Every player has had **one chance to say who their PC is** — and you wrote the answer down.
+- [x] The Cartels are a **presence**, not yet an enemy.
+- [x] **The session stopped at the threshold of 1.2.**
+
+> **Actual play (2026-10-19):** the party explored 1.1 (including an improvised archive room and the centipede fight) and ended as the door opened onto the dust room. The stop held. See [[session_01_recap]].
 
 **Do not:** describe the inside of 1.2, name the Engine, reveal the Oath, introduce Seraphel, or explain the Soul Crisis.
 
