@@ -16,6 +16,8 @@ date: ""
 **Covers:** Witness Scriptorium (1.3) in full → collapse → certification, pay, shopping, downtime → Chapter 2 hook
 **Cliffhanger out:** the Scriptorium floor collapses behind them, and a stranger in townhouse livery is writing down their names.
 
+> **Actual play:** see [[session_03_recap]]. The party read the Oath, found **Wren dead with his soul ripped out**, fought and tied up **another Breaker** in the cellar, took the Tablet and leaf, escaped the collapse, and surfaced. The captured Breaker was handed to the magistrates; Tamsin was protected. Arlen **confessed**, was caught carrying **"the precious stone"**, and was forced to throw it back before he **left after a petty threat**. Session ended at the pub without him.
+
 ---
 
 ## Scope — Chapter 1, part 3 of 3
@@ -437,7 +439,7 @@ They have money now: roughly **40–70 gp each** depending on the split and what
 - **HP:** roll or take average, + Constitution modifier.
 - **Dan (Twilight Cleric 2):** *Channel Divinity* (Twilight Sanctuary, Turn Undead), one more spell slot, one more prepared spell.
 - **Zook (Artificer 2):** *Infusions* (4 known, 2 active), *Replicate Magic Item*, one more spell slot.
-- **Kit (Warlock 2):** *Eldritch Invocations* (2), one more spell slot, one more known spell.
+- **John Fantasy (Warlock 2):** *Eldritch Invocations* (2), one more spell slot, one more known spell.
 - **Bog (Monk 2):** *Ki* (2 points), *Unarmored Movement* (+10 ft), *Flurry of Blows*, *Patient Defense*, *Step of the Wind*.
 
 **Downtime for the level-up:** describe it as a night's rest and a morning's practice, not a training montage. Ask each player: *"What does your PC do differently now that they've survived?"*
@@ -566,7 +568,7 @@ A man in townhouse livery with a small book. Polite. Patient. He is counting fac
 >
 > *If the ward wants twelve and the grain is nine, write nine.*
 
-**DM note:** this is a pre-Silence message, still in the tube. It is not from Seraphel, the Cartels, or anyone alive. It is the room's own voice, and it says the same thing the Oath says: **keep an honest account.** Do not explain the Fourth Chair.
+**DM note:** this is a pre-Silence message, still in the tube. It is not from Seraphel, the Cartels, or anyone alive. It is the room's own voice, and it says the same thing the Oath says: **keep an honest account.** Do not explain the Fourth Chair. It is an **optional, non-canonical hook**: keep it only if you intend to follow the thread in Chapter 3, and cut it if it competes with the Tenth.
 
 ### 16.2 The scribe's diary (read-aloud excerpt)
 

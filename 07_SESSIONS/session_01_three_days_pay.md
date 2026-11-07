@@ -62,13 +62,13 @@ These are the players' characters. This section is **mostly mechanical** — wha
 |----|-----------------|----|----|---------|-----------------|------------------------------|
 | **Dan / IRC-10414 "Wanderer"** | Twilight Cleric 1, Warforged | 16 | 8 | 13 | *Eyes of Night* (300 ft darkvision, shareable), *Guidance*, *Spare the Dying*, *Cure Wounds* | Dan's backstory already covers Selyra, the astral accident, and the parish. Nothing needed. |
 | **Zook Scheppen Clang** | Artificer 1, Rock Gnome | 14 | 9 | 15 | Tinker's/Thieves' tools, *Cure Wounds*, *Detect Magic*, Int 20 | What does "autonomise" mean to Zook, and what is the money for? |
-| **Kit** | Warlock 1, Changeling | 12 | 10 | 10 | *Eldritch Blast*, Pact of the Blade, *Lucky* (3 pts) | No backstory on file: who is the patron, and what does Kit want? |
+| **John Fantasy** | Warlock 1, Changeling | 12 | 10 | 10 | *Eldritch Blast*, Pact of the Blade, *Lucky* (3 pts) | No backstory on file: who is the patron, and what does John Fantasy want? |
 | **Bogbrir "Bog"** (Theo) | Monk 1, Bugbear | 17 | 9 | 15 | 17 AC, 5-ft reach, *Sneaky*, *Surprise Attack*, 4 daggers, belaying pin, quarterstaff (also a fishing rod), banjo, prayer beads, a lucky coin, a lump of "pirate gold", *Ship's Passage* | What does Bog pray for when the coin comes out — and what is Bog afraid the beads can't fix? |
 
 **Composition notes (mechanical)**
 - Only Dan and Bog have darkvision. Dan's **Eyes of Night** can cover one other person for 1 hour — make the dark matter, then let Dan solve it.
 - No one reads Old Elonian. **Arlen is the party's only key to the past.** Protect him accordingly; he is also the most killable thing in the dungeon.
-- Two PCs have Thieves' Tools (Zook, Kit). The brass door in 1.3 will be theirs — Session 3.
+- Two PCs have Thieves' Tools (Zook, John Fantasy). The brass door in 1.3 will be theirs — Session 3.
 - Healing is thin (Dan + Zook's *Cure Wounds*). Telegraph danger; do not ambush-kill.
 
 ### Bog — what the new background gives the table

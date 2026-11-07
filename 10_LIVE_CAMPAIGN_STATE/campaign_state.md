@@ -2,15 +2,15 @@
 tags: [live-state, act-1, chapter-1]
 act: "I"
 chapter: "1 — The Shattered Archive"
-last_updated: "2026-10-20"
-last_session: "2026-10-19"
+last_updated: "2026-11-06"
+last_session: "session 3 (play date TBD)"
 ---
 
 # Live Campaign State — Ashes of Elonia
 
-> **Current location:** underground, at the threshold of the **Hall of Records (1.2)**.
-> **Surface:** Helena Voss is still waiting at Warehouse Nine, hungover and annoyed.
-> **In-world time:** the party descended the morning after the Salt-Lantern hire. Exact day count TBD.
+> **Current location:** a **pub in Port Meridian**. Everyone except Arlen is there; Tamsin is with the party.
+> **Surface:** Helena Voss is back in the city; the Scriptorium is collapsed behind the party.
+> **In-world time:** the night after surfacing from the Shattered Archive. Exact date TBD.
 
 ---
 
@@ -18,13 +18,21 @@ last_session: "2026-10-19"
 
 | PC | Player | Class / Species | AC | HP | Passive | Current resources |
 |----|--------|-----------------|----|----|---------|-------------------|
-| **IRC-10414 "Wanderer"** | Dan | Twilight Cleric 1, Warforged | 16 | 8/8 | 13 | **1 of 2 1st-level slots spent** (*Cure Wounds* on Zook); *Eyes of Night* available |
-| **Zook Scheppen Clang** | James | Artificer 1, Rock Gnome | 14 | 9/9 | 15 | Healed by Dan; full |
-| **Kit** | Kit | Warlock 1, Changeling | 12 | 10/10 | 10 | *Lucky* 3/3; pact magic available |
-| **Bogbrir "Bog"** | Theo | Monk 1, Bugbear | 17 | 9/9 | 15 | Sober; full |
+| **IRC-10414 "Wanderer"** | Dan | Twilight Cleric 2, Warforged | 16 | — | 13 | Wearing **Wren's +1 Charisma coat** |
+| **Zook Scheppen Clang** | James | Artificer 2, Rock Gnome | 14 | — | 15 | Hoarding the **120 gp copper** in the captured Breaker's **Bag of Holding**; built Tamsin's peg leg |
+| **Kit** | John Fantasy | Warlock 2, Changeling | 12 | — | 10 | Pink scarf of protection (+1 Constitution); *Lucky* 3/3 |
+| **Bogbrir "Bog"** | Theo | Monk 2, Bugbear | 17 | — | 15 | Survived the ghoul fight in Session 2 |
 
-**Conditions:** none.
+**Conditions:** not tracked.
 **Deaths:** none.
+
+**Level:** **2 — all four PCs leveled up.** Housekeeping not tracked per the table's preference.
+
+### Companion
+
+| Name | Status |
+|------|--------|
+| **Tamsin Roke** | Breaker; peg leg; with the party at the pub. Recognised **Wren's body**. |
 
 ---
 
@@ -32,12 +40,19 @@ last_session: "2026-10-19"
 
 | Item | Qty | Notes |
 |------|-----|-------|
-| Healing potion | 2 | Bought by Helena on the nat 20; both unused |
+| Copper pipe/fittings | 1 hoard | **120 gp certified salvage, ~60 lb**; Zook grabbed it and stores it in the Bag of Holding |
+| Bag of Holding | 1 | Taken by Zook from the **captured Breaker**; currently holds the copper and whatever else was inside |
+| Wren's coat | 1 | Worn by Dan; **+1 Charisma** because it is that cool |
+| Catalogue Index Tablet | 1 | **The party has it.** Taken from the captured Breaker; the plot key is secure |
+| Ledger leaf | 1 | Taken from the captured Breaker; likely Clue B — current possession **[confirm]** |
+| Healing potion | 1 | One left from Session 2 unless used in Session 3 **[confirm]** |
 | Ration pack | 6 | Bought by Helena |
-| Lantern | 1 | Party's own light; nothing left burning below |
-| Notes / rubbings | — | Documentary notes only; no physical salvage |
+| Lantern | 1 | Party's own light |
+| Pink scarf of protection | 1 | Worn by John Fantasy; +1 Constitution |
+| Snapped lockpick halves | 2? | One from Session 2, one ripped from the seal by Bog **[confirm both kept]** |
+| Notes / rubbings | — | Documentary notes; the loose paper in the Scriptorium was destroyed |
 
-**Coin:** Helena paid the charter advance (15 gp each unless the table negotiated 20 — confirm). Personal purchases, if any, are not yet tracked.
+**Coin:** Helena paid the charter advance earlier. Payment/certification for the copper is **[confirm]**.
 
 ---
 
@@ -45,8 +60,8 @@ last_session: "2026-10-19"
 
 | Clock | State | Cause |
 |-------|-------|-------|
-| **Helena's Salvage Charter** | **[X][ ][ ][ ]** 1/4 | Loud rat fight in the cellar |
-| **Archive Cartel Interference** | **[X][ ][ ]** 1/3 | Party left the cellar hatch open |
+| **Helena's Salvage Charter** | **[X][X][ ][ ]** 2/4 | Loud rat fight in Session 1; long rest underground in Session 2. No extra tick for the cellar fight/collapse — they got out clean. |
+| **Archive Cartel Interference** | **[X][ ][ ]** 1/3 | Hatch left open in Session 1. No extra tick for the capture. |
 | **Soul Tide** | 0/6 | No tick |
 | **Convergence** | 0/8 | No tick |
 | **Censor's Shroud** | 0/4 | No tick |
@@ -57,38 +72,55 @@ last_session: "2026-10-19"
 
 | Name | Attitude / status |
 |------|-------------------|
-| **Helena Voss** | Up top at Warehouse Nine, hungover, annoyed, financially overextended. Honoured the deal; keeping score. |
-| **Arlen Marr** | Alive. Saved by Dan from a centipede. Hated by the players for his voice and mannerisms. Worldview cracking after the municipal records. |
-| **The Breakers** | Established as a threat after an Investigation check at the Salt-Lantern. Not yet directly confronted. **They did not cut the rope.** |
-| **Unknown third party** | Cut the cellar line in haste to hide evidence of tampering. Identity, motive, and what they touched are TBD. |
-| **The street prophet** | Ominous; spoke directly to Dan about "the aura coming off him." Wording not recorded. Do not explain. |
-| **Bess** | Not yet revisited. |
-| **Cobb** | Not yet revisited. |
+| **Tamsin Roke** | Breaker; saved by Dan; peg leg built by Zook; with the party at the pub. Recognised **Wren's body** and was **not** handed over to the magistrates. |
+| **Arlen Marr** | Confessed (Clue C), was caught carrying **"the precious stone"** (not the Tablet), and was forced to throw it back. Left after a petty threat — not a villain, just a dick. |
+| **Wren** | Breaker; **dead**, soul ripped out, found in the Scriptorium. Tamsin's survey partner. Dan took his coat. |
+| **The captured Breaker** | Unnamed; beaten, tied up, robbed of the Tablet, leaf, and a **Bag of Holding**; handed **alive to the magistrates**. |
+| **Helena Voss** | On the surface; questioned Arlen; glimpsed the loot but let it go. Payment and the copper are unresolved. |
+| **The Breakers** | Did not cut the rope. Tamsin is one of theirs. Wren was one of theirs. Rorik is still out there. |
+| **Unknown third party** | Cut the cellar line in Session 1 to hide tampering. Whether this was the captured Breaker or someone else is still open. |
+| **The street prophet** | Ominous; spoke to Dan about his aura. Unexplained. |
+| **Bess / Cobb** | Not revisited. |
 
 ---
 
 ## Open Threads
 
-- [ ] **Explore the Hall of Records (1.2).** The door has opened onto the dust room; the ghoul, skeletons, Breaker camp, dust furrow, and ledger leaf are all ahead.
-- [ ] **Find the hidden chests** in the dust room. Contents TBD.
-- [ ] **The cut rope / third party.** A third party severed the cellar line in haste to cover evidence of tampering. Not the Breakers. Find out what they touched.
-- [ ] **Report back to Helena.** She is still up top and has not seen the party since the descent.
-- [ ] **Arlen's survival.** The party nearly let him die; Dan intervened. He owes Dan and does not know it.
-- [ ] **Dan's aura.** The prophet saw something. Dan's player owns the answer.
-- [ ] **Salvage vs. antiquities.** The party knows the law; anything with writing belongs to the Admiralty, not Helena.
+- [x] **Level up to 2** — all four PCs, milestone reached. Housekeeping not tracked.
+- [x] **Wren** — dead, soul ripped out; recognised by Tamsin.
+- [x] **The captured Breaker** — handed alive to the magistrates; Tamsin was protected.
+- [x] **Arlen** — confessed (Clue C), left after a petty threat.
+- [x] **Clocks** — no extra ticks; Charter 2/4, Cartel 1/3.
+- [ ] **The captured Breaker's name/role** — what does he tell the magistrates? Does he implicate Rorik or the party?
+- [ ] **The Bag of Holding** — what else was inside besides the copper?
+- [ ] **The precious stone** — what was it, and where did it go?
+- [ ] **The Tablet and the leaf** — the party has the Tablet; confirm the leaf. Helena glimpsed the loot but let it go.
+- [ ] **Payment/certification** — the copper, Helena's 10%, and the salvage-vs-antiquities law.
+- [ ] **Arlen's threat** — what did he say when he left, and where did he go?
+- [ ] **Wren's body** — did they do anything with it, or leave it in the Scriptorium?
+- [ ] **Tamsin** — how is he handling Wren's death?
+- [ ] **The mimic** — escaped in Session 2; still loose.
+- [ ] **The grate** — unopened in Session 2; whatever is below is still there.
+- [ ] **Dan's aura** — the prophet's warning is still unexplained.
 
 ---
 
 ## DM-Only Notes
 
-- **Cut rope culprit:** decided — a third party, acting in haste, hiding evidence of tampering. **Not the Breakers.** The cut is a rushed cover-up, not a clean job. The open question is what they tampered with: the dust room, the hidden chests, the records, the brass door, or something else.
-- **Hidden chest contents:** TBD before Session 2.
-- **Arlen:** do not soften him to make the table like him. The hatred is aesthetic and fair; play the voice. Dan's intervention is the only warmth.
-- **Helena:** the nat 20 bought two 50 gp potions on a level-1 charter. She is now materially invested in the party's success and embarrassed about it.
+- **Wren's soul was ripped out.** This is a visceral Soul Crisis event. Do not explain the mechanism. Tamsin recognised the body — play the grief, not the joke. Decide what Tamsin does with it.
+- **The captured Breaker is alive in magistrates' custody.** A Breaker carrying a **Bag of Holding** is an operative, not a scavenger. He was the one holding the Tablet, leaf, and Bag. He can testify, lie, or be silenced. Decide who sent him.
+- **Arlen confessed (Clue C), then left after a petty threat.** He was carrying **"the precious stone"** (not the Tablet) and was forced to throw it back. Decide what the stone was, what the threat was, and where he went. He is being a dick, not becoming a villain.
+- **Tamsin** is a companion with a target on his back. He recognised Wren; the magistrates did not get him. Play the tension and the grief.
+- **The copper** is Zook's hoard and the party's payday. The Bag of Holding solves the weight problem; the certification does not.
+- **The Oath** was read from the arch. The loose paper was destroyed by Bog's seal break. The Oath survives on stone; the documents do not.
+- **The party kept the Tablet.** Helena glimpsed the loot but let it go. Chapter 2's plot key is secure; the question is who they tell, and what Helena certifies.
+- **Chapter 2 canon rulings:** the Codex **recontextualises** Ascensionist humanism at continental scale — it is not a second confirmation. The star-glass lens has **no key function**. The CR 3 **Star-Glass Steward** is not the CR 7 **Star-Glass Warden** of Nythara. Level 3 lands at the end of Session 5; level 4 at the end of Session 6. Kael is **CR 2** by default; the CR 4 Enforcer is the level-3/reinforced upgrade.
 
 ---
 
 ## Session Log
 
-- [[session_01_recap]] — 2026-10-19 (this folder)
-- Next: [[session_02_hall_of_records]]
+- [[session_01_recap]] — 2026-10-19
+- [[session_02_recap]] — play date TBD
+- [[session_03_recap]] — play date TBD
+- Next: **Chapter 2 — The Stair and the Star** • prep: [[session_04_sea_cliff_road]] → [[session_05_star_chamber]] → [[session_06_gilded_docks_inquest]]

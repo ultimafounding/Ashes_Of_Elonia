@@ -43,6 +43,8 @@ Subfolder `README.md` files explain each section's purpose and canon authority.
 1. Read only `09_PLAYER_MATERIAL/players_primer.md`. Everything else is spoilers.
 2. Make a level 1 D&D 5e character (milestone leveling, no evil PCs). You start in Port Meridian, hired by salvage factor Helena Voss.
 
+**New players joining mid-campaign:** read `09_PLAYER_MATERIAL/players_primer_new_player.md` instead — it is the same primer plus a Sessions 1–3 recap and level-2 character guidance.
+
 **DMs — run order:**
 1. Read `00_SOURCE_OF_TRUTH/Ashes_of_Elonia_Official_Campaign_Bible_v1.md` — locked canon.
 2. Read `01_CAMPAIGN/` in order: `campaign_overview.md` → `full_story_synopsis.md` → `act_structure.md` → `revelation_timeline.md` → `milestone_progression.md`.

@@ -47,7 +47,7 @@
 
 ## 8. Catalogue Codex + Index Tablet + Annales of Concord
 *Plot documents (25 lb / 3 lb / 8 lb). No magic. Irreplaceable.*
-- Codex: hospital charters, irrigation law, star-charts — humanism proof (Act I).
+- Codex: hospital charters, irrigation law, star-charts — humanism at continental scale (Act I recontextualisation; the Oath is the confirmation).
 - Tablet: Star Chamber key + mosaic reference (Act I–II).
 - Annales: condensed redaction-span chronicle (Act II+). Displaying any under Lantern-light counts as lived evidence (Ch.12).
 - If lost: Cartel fence re-sells leaves next morning (fallback rule), never the whole book.

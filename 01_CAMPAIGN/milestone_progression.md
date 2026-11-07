@@ -50,13 +50,13 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 - **World State Shift:** The party proves the ancient Ascensionists were civic reformers, earns Helena Voss's professional trust, and learns that a modern competitor — the Breakers — reached the Scriptorium first.
 - **Key Resources:** 2nd-level features unlocked; the Index Tablet points at the Star Chamber.
 
-#### Level 2 → Level 3: The Sea Cliff Road
-- **Narrative Milestone:** Taking Helena's two-day overland charter up the old cliff stairstep, surviving the gale, the crumbled steps, and the reef-crawlers, and reaching the seaward approach to the Star Chamber.
-- **World State Shift:** Warehouse Nine is sealed by the Admiralty after the Scriptorium collapse; the party is committed to the overland route and openly racing the Cartels.
-- **Key Resources:** A reliable route to the lower vault; Cartel survey chits and a prisoner who can name Rorik's buyer.
+#### Level 2 → Level 3: The Star Chamber
+- **Narrative Milestone:** Taking Helena's two-day overland charter up the old cliff stairstep, surviving the gale, the crumbled steps, and the reef-crawlers, reaching the Star Chamber, aligning Selyra's Eye, lifting the intact *Catalogue Codex*, and surviving the Cartel breach.
+- **World State Shift:** Warehouse Nine is sealed by the Admiralty after the Scriptorium collapse; the party is committed to the overland route, openly racing the Cartels, and now holds proof that Ascensionist ambition operated at continental scale. The Cartels know their faces.
+- **Key Resources:** A reliable route to the lower vault; Cartel survey chits and a prisoner who can name Rorik's buyer; the Codex, the transit-map rubbing, and the first concrete lead toward the linked nodes.
 
-#### Level 3 → Level 4: The Star Chamber & Seraphel's Patronage
-- **Narrative Milestone:** Aligning Selyra's Eye, lifting the intact *Catalogue Codex*, defeating the Archive Cartel strike force, and standing trial at the Gilded Docks Inquest — where Lord Seraphel pays their tax and sponsors them.
+#### Level 3 → Level 4: The Gilded Docks Inquest & Seraphel's Patronage
+- **Narrative Milestone:** Escaping the collapsing Star Chamber and the Sea Cliff Road, and standing trial at the Gilded Docks Inquest — where Lord Seraphel pays their tax and sponsors them.
 - **World State Shift:** Act I concludes. Lord Seraphel sponsors the party, providing travel warrants, lavish stipends, and letters of introduction to the Grand Lyceum of New Ilya.
 - **Key Resources:** Feat / Ability Score Improvement; party gains an elite carriage and formal patron benefits from House Vane.
 

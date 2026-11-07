@@ -16,6 +16,8 @@ date: ""
 **Covers:** Hall of Records (1.2) in full, a surface breather, and the approach to the brass door
 **Cliffhanger out:** the brass door hisses half-open.
 
+> **Actual play:** see [[session_02_recap]]. The party cleared 1.2, saved Tamsin Roke, took a long rest, and ended at the brass door. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3**.
+
 ---
 
 ## Scope — Chapter 1, part 2 of 3
@@ -33,7 +35,7 @@ date: ""
 ## Carry-Over From Session 1 (2026-10-19)
 
 - **They are at the doorway.** The party ended as the door opened onto the dust room. No one has entered 1.2 yet.
-- **Clue A already landed.** In 1.1 they found municipal records — grain shipments and civic codes — and Arlen's worldview cracked. Do not re-teach "not a death cult"; let the ledger leaf deepen it.
+- **Clue A already landed.** In 1.1 they found municipal records — grain shipments and civic codes - and Arlen's worldview cracked. Do not re-teach "not a death cult"; let the ledger leaf deepen it.
 - **The cellar rope was deliberately cut — by a third party, in a rush, to hide evidence of tampering.** Not the Breakers. This is a separate actor and a cover-up, not a Cartel betrayal. The cut is recent and hurried. What they tampered with is still unknown.
 - **Hidden chests** are somewhere in the dust room. The party knows they exist; contents TBD. **Likely tampering target:** the third party may have opened or re-sealed them before cutting the line. Confirm before play.
 - **Clocks:** Helena's Charter **1/4** (loud rat fight); Cartel Interference **1/3** (hatch left open). No lamps left burning.
@@ -87,7 +89,7 @@ Ask the table, in order:
 - *"What are you holding?"*
 - *"Is anyone still up top with Helena?"*
 
-**Use the table's own images:** Kit going off the rope and Bog catching him; the clean cut in the cellar line; Dan's *Cure Wounds* glowing in the dark; Arlen's voice, which they all hate. The dust room is the first place the party has to be quiet.
+**Use the table's own images:** John Fantasy going off the rope and Bog catching him; the clean cut in the cellar line; Dan's *Cure Wounds* glowing in the dark; Arlen's voice, which they all hate. The dust room is the first place the party has to be quiet.
 
 **Do not** roll initiative. The sound is not yet a monster — it is a question.
 
@@ -111,15 +113,15 @@ The dust is **two feet deep** and preserves everything. That cuts both ways.
 
 ### 3.2 The Hall key
 
-| Area | What's there | Checks / payoffs |
-|------|--------------|------------------|
-| **A. The lectern rows** | Thirty stone desks in dead-straight lines, each holding a fused stack of leaves — petrified parchment, grey as slate. | **DC 12 Investigation:** the leaves are *stacked in order*, not scattered. A filing system. **DC 14 History/Religion:** the catalog marks are numerals, not scripture. |
-| **B. The index wall** | A grid of clay niches, each with a labelled tag on a cord. Most tags are blank or missing. | **DC 13 Investigation:** roughly one niche in five is **empty** — and the dust inside those niches is *older* than the room. Something was taken long ago. **Do not explain.** |
-| **C. The relief frieze** | Scholars in robes with compasses, plumb-lines, and astrolabes, measuring orbits. No altars, no skulls. | **DC 11 History/Religion:** civic astronomy, not worship. Reinforces Clue A. |
-| **D. The collapsed mezzanine** | A spiral stair to a half-floor that fell in. A gap of 15 ft to the surviving ledge. | **DC 13 Athletics/Acrobatics** to climb. From the ledge: the whole room, the far door, and the **ghoul's shape** in the dark before anyone else sees it. Reward the climb with early warning. |
-| **E. The dry sump** | A square cistern, bone-dry, crusted with lime. A rusted grate at the bottom. | **DC 12 Perception:** something metal glints under the grate. **DC 14 Athletics** to lift it. It's a bronze **catalog rod** — a 3-ft measuring rod with graduation marks. Salvage (15 gp) and a useful straightedge. |
-| **F. The Breaker camp** | A bedroll, a dead lamp, an oilskin, a half-eaten ration, and a **survey chit** pinned under a boot. | This is where the ghoul is feeding. See §3.3. |
-| **G. The far door** | Round brass, green with age, half-latched. The source of the hiss. | Session 3. Do not open it tonight. |
+| Area                           | What's there                                                                                                          | Checks / payoffs                                                                                                                                                                                                     |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A. The lectern rows**        | Thirty stone desks in dead-straight lines, each holding a fused stack of leaves — petrified parchment, grey as slate. | **DC 12 Investigation:** the leaves are *stacked in order*, not scattered. A filing system. **DC 14 History/Religion:** the catalog marks are numerals, not scripture.                                               |
+| **B. The index wall**          | A grid of clay niches, each with a labelled tag on a cord. Most tags are blank or missing.                            | **DC 13 Investigation:** roughly one niche in five is **empty** — and the dust inside those niches is *older* than the room. Something was taken long ago. **Do not explain.**                                       |
+| **C. The relief frieze**       | Scholars in robes with compasses, plumb-lines, and astrolabes, measuring orbits. No altars, no skulls.                | **DC 11 History/Religion:** civic astronomy, not worship. Reinforces Clue A.                                                                                                                                         |
+| **D. The collapsed mezzanine** | A spiral stair to a half-floor that fell in. A gap of 15 ft to the surviving ledge.                                   | **DC 13 Athletics/Acrobatics** to climb. From the ledge: the whole room, the far door, and the **ghoul's shape** in the dark before anyone else sees it. Reward the climb with early warning.                        |
+| **E. The dry sump**            | A square cistern, bone-dry, crusted with lime. A rusted grate at the bottom.                                          | **DC 12 Perception:** something metal glints under the grate. **DC 14 Athletics** to lift it. It's a bronze **catalog rod** — a 3-ft measuring rod with graduation marks. Salvage (15 gp) and a useful straightedge. |
+| **F. The Breaker camp**        | A bedroll, a dead lamp, an oilskin, a half-eaten ration, and a **survey chit** pinned under a boot.                   | This is where the ghoul is feeding. See §3.3.                                                                                                                                                                        |
+| **G. The far door**            | Round brass, green with age, half-latched. The source of the hiss.                                                    | Session 3. Do not open it tonight.                                                                                                                                                                                   |
 
 **Arlen's running commentary:** he is delighted, then increasingly quiet. Let him identify the catalog numerals, the filing system, the fact that this is an *administrative* room — and let him go silent when the party reaches the Breaker camp.
 

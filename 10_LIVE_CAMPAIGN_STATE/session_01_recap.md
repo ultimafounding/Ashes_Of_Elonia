@@ -25,8 +25,8 @@ status: "debrief complete"
 |--------|----|-----------------|-------|
 | **Dan** | IRC-10414 "Wanderer" | Twilight Cleric 1, Warforged | Party's darkvision and conscience; interposed for Arlen |
 | **James** | Zook Scheppen Clang | Artificer 1, Rock Gnome | Shopper; dropped to 2 HP in the rat fight |
-| **Kit** | Kit | Warlock 1, Changeling | Fell on the descent; Bog caught him |
-| **Theo** | Bogbrir "Bog" | Monk 1, Bugbear | Drunk for most of the delve; caught Kit |
+| **Kit** | John Fantasy | Warlock 1, Changeling | Fell on the descent; Bog caught him |
+| **Theo** | Bogbrir "Bog" | Monk 1, Bugbear | Drunk for most of the delve; caught John Fantasy |
 
 ---
 
@@ -58,13 +58,13 @@ status: "debrief complete"
 
 ### 5. The descent (improvised)
 - The drop opened onto a **small ledge overlooking a scree pit**. Nobody realised it was scree until they were on it; climbing down called for a **Dex save**.
-- Everyone balanced on the ledge. On the rope, **Kit failed the save and fell** — **Theo/Bog made a Strength check and caught him** on the way down.
+- Everyone balanced on the ledge. On the rope, **John Fantasy failed the save and fell** — **Theo/Bog made a Strength check and caught him** on the way down.
 - *(This replaces the prep's three-pitch Catalogue Descent. It is now table canon.)*
 
 ### 6. The archive room (still 1.1)
 - The party explored a **library-like room** and were surprised there was **no murderous cult imagery** waiting for them.
 - **Statues** caught them off guard. **James** was fascinated by the workmanship.
-- **Kit** looked at the books and found **grain shipments and municipal codes** — not scripture. **Arlen was beside himself; his worldview took a visible hit.**
+- **John Fantasy** looked at the books and found **grain shipments and municipal codes** — not scripture. **Arlen was beside himself; his worldview took a visible hit.**
 - **Dan** tried to pick up a book; it **crumbled**.
 - This room is the table's expanded version of **1.1's civic archive imagery** — Clue A landed hard, earlier and more personally than the prep expected.
 
@@ -142,7 +142,7 @@ The prep and the Chapter 1 overview define these slightly differently. Current s
 - **The cut rope** — a third party, hurried, covering tampering. Not the Breakers. The unknown actor and what they touched are both live mysteries.
 - **The open hatch** — the party left the way in open. Cartel clock is at 1.
 - **The municipal archive** — grain shipments and municipal codes, not a death cult. Clue A has landed; Clue B is still in 1.2.
-- **Kit and Bog** — the catch on the descent is the first real bond in the party.
+- **John Fantasy and Bog** — the catch on the descent is the first real bond in the party.
 - **Zook** — healed, but the rat fight proved level 1 is lethal. Keep telegraphing danger.
 - **The dust-room door** — Session 2 opens on the threshold. The ghoul is on the other side.
 - **Hidden chests** — the dust room contains them; the party has not found them. Decide placement and contents before Session 2.
