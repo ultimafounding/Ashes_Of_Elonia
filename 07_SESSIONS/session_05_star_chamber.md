@@ -24,7 +24,7 @@ date: ""
 
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
-| Session 4 | Morning after → Sea Cliff Road → Star Stair | The cliff door in sight | 2 |
+| Session 4 | Pub that night → next morning → Sea Cliff Road → Star Stair | The cliff door in sight | 2 |
 | **Session 5 (this file)** | **Sea cave → Antechamber → Star Chamber → Codex → Cartel breach → collapse** | **The chamber falling; the Codex in hand** | **→ 3** |
 | Session 6 | Escape → return to Meridian → Gilded Docks Inquest → Seraphel | Fellowship letters; the road to New Ilya | **→ 4** |
 

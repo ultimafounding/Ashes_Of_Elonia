@@ -258,7 +258,7 @@ Helena glimpsed the party's loot and let it go. The session ended in a Port Meri
 
 ## 10. Your Situation
 
-Date: **c. 1,000 AS**. Place: **Port Meridian**, the morning after Session 3. Rain on the windows, salt in the gutters, and a great deal of unfinished business.
+Date: **c. 1,000 AS**. Place: **Port Meridian**, the night Session 3 ended. Rain on the windows, salt in the gutters, and a great deal of unfinished business.
 
 You are joining at the start of **Chapter 2**. The party is level 2, Tamsin is with them, Arlen has vanished, and the Tablet needs translating before the Cartels work out where the next door is.
 

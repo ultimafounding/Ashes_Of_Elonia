@@ -29,7 +29,7 @@
 
 | Night | File | Runtime |
 |-------|------|---------|
-| 4 | `07_SESSIONS/session_04_sea_cliff_road.md` — morning after, pay/shopping, Sea Cliff Road, Star Stair | 240–300 min |
+| 4 | `07_SESSIONS/session_04_sea_cliff_road.md` — pub that night, next morning's pay/shopping, Sea Cliff Road, Star Stair | 240–300 min |
 | 5 | `07_SESSIONS/session_05_star_chamber.md` — sea cave, Antechamber, Selyra's Eye, Codex, Cartel breach, collapse, Lv 3 | 240–300 min |
 | 6 | `07_SESSIONS/session_06_gilded_docks_inquest.md` — escape, return, Gilded Docks Inquest, Seraphel, Lv 4, Act II hook | 240–300 min |
 

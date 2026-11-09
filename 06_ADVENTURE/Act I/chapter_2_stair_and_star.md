@@ -9,7 +9,7 @@
 
 | Night | Session file | Covers | Ends on | Level |
 |-------|--------------|--------|---------|-------|
-| 4 | `07_SESSIONS/session_04_sea_cliff_road.md` | The morning after → Sea Cliff Road → the Star Stair | The cliff door in sight; a Cartel lantern below | 2 |
+| 4 | `07_SESSIONS/session_04_sea_cliff_road.md` | The pub that night → the next morning → Sea Cliff Road → the Star Stair | The cliff door in sight; a Cartel lantern below | 2 |
 | 5 | `07_SESSIONS/session_05_star_chamber.md` | Star Chamber → Selyra's Eye → Codex → Cartel breach | The chamber collapsing; the Codex in hand | **→ 3** |
 | 6 | `07_SESSIONS/session_06_gilded_docks_inquest.md` | Escape → return to Port Meridian → Gilded Docks Inquest → Seraphel | Fellowship letters; the road to New Ilya | **→ 4** |
 
@@ -65,13 +65,14 @@ The road is the only way in. The Cartels know it. So does Tamsin.
 
 ```
 SESSION 4                 SESSION 5                  SESSION 6
-Morning after      →      Star Stair descent   →     Escape / chase
-Sea Cliff Road            Antechamber                Return to Meridian
-Tide Cut                  Selyra's Eye puzzle        Gilded Docks Inquest
-Wind Stair                Codex + mosaic             Seraphel's entrance
-Wrecked mule              Cartel breach              Fellowship
-Reef-crawlers             Collapse                   Level 4
-Drowned shrine            Level 3                    Act II hook
+Pub that night     →      Star Stair descent   →     Escape / chase
+Next morning              Antechamber                Return to Meridian
+Sea Cliff Road            Selyra's Eye puzzle        Gilded Docks Inquest
+Tide Cut                  Codex + mosaic             Seraphel's entrance
+Wind Stair                Cartel breach              Fellowship
+Wrecked mule              Collapse                   Level 4
+Reef-crawlers             Level 3                    Act II hook
+Drowned shrine
 Night camp
 Star Stair (cliffhanger)
 ```

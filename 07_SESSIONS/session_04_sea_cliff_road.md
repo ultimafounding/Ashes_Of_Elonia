@@ -13,7 +13,7 @@ date: ""
 > *"The Archive goes down. The road goes up. Both end under the same stars."*
 
 **Chapter:** [[chapter_2_stair_and_star]] • **Level:** 2 (no level-up this session)
-**Covers:** the morning after → pay, shopping, the prisoner, Arlen's note → the Sea Cliff Road → the Star Stair
+**Covers:** the pub that night → the next morning: pay, shopping, the prisoner, Arlen's note → the Sea Cliff Road → the Star Stair
 **Cliffhanger out:** the cliff door stands half-open below, and a Cartel lantern is moving inside.
 
 > **Actual play carry-over:** the party is level 2 and drinking in a Port Meridian pub. **Wren is dead**, soul ripped out. **Arlen confessed then left after a petty threat.** An **unnamed Breaker** is in magistrates' custody. The **Catalogue Index Tablet** is in party hands. **Tamsin Roke** is with the party. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3**.
@@ -24,7 +24,7 @@ date: ""
 
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
-| **Session 4 (this file)** | Morning after → pay, shopping, prisoner, Arlen's note → Sea Cliff Road → Star Stair | The cliff door in sight; a lantern below | 2 |
+| **Session 4 (this file)** | Pub that night → the next morning: pay, shopping, prisoner, Arlen's note → Sea Cliff Road → Star Stair | The cliff door in sight; a lantern below | 2 |
 | Session 5 | Star Chamber → Selyra's Eye → Codex → Cartel breach → collapse | The chamber falling; the Codex in hand | **→ 3** |
 | Session 6 | Escape → return to Meridian → Gilded Docks Inquest → Seraphel | Fellowship letters; the road to New Ilya | **→ 4** |
 
@@ -36,8 +36,8 @@ date: ""
 
 | # | Beat | Time | Type | Purpose |
 |---|------|------|------|---------|
-| 0 | Recap + the pub morning | 15 min | Social | Re-ground the party; let them breathe |
-| 1 | **The morning after** — pay, shopping, prisoner, Arlen's note | 55 min | Social / city | Resolve Session 3's open threads; gear up |
+| 0 | Recap + the pub that night | 15 min | Social | Re-ground the party; let them breathe |
+| 1 | **The next morning** — pay, shopping, prisoner, Arlen's note | 55 min | Social / city | Resolve Session 3's open threads; gear up |
 | 2 | **The road out** — travel montage and weather | 20 min | Exploration | Establish the coast and the stakes |
 | 3 | **The Tide Cut** — old road, old markers, a choice | 30 min | Exploration / hazard | First taste of the cliff |
 | 4 | **The Wind Stair** — skill challenge | 35 min | Skill challenge | Make the cliff feel earned |
@@ -70,7 +70,7 @@ By the end of tonight, the table should:
 - [ ] Read the **Scope** and §19. The Star Chamber stays shut tonight.
 - [ ] Decide whether **Arlen's translation arrives by courier** (default) or must be bought from **Sella Orr** (fallback). If the party burned Arlen badly, use Sella.
 - [ ] Decide whether the **captured Breaker** will talk. Default: yes, for better treatment, but he lies about one thing.
-- [ ] Have the **shopping list** (§3.7) and **pub rumours** (§3.8) ready. The city half of the night should feel alive.
+- [ ] Have the **shopping list** (§3.7) and **pub rumours** (§3.8) ready. The city half of the session should feel alive.
 - [ ] Have the **road waypoints** (§5–§9) and **weather table** (§4.2) open.
 - [ ] Know the **reef-crawler** and **giant crab** blocks (§15). This is the night's main fight.
 - [ ] Clocks on scrap paper: **Helena's Charter [X][X][ ][ ]** (2/4), **Cartel Interference [X][ ][ ]** (1/3).
@@ -79,26 +79,36 @@ By the end of tonight, the table should:
 
 ---
 
-## 2. Recap and the Pub Morning (15 min)
+## 2. Recap and the Pub — That Night (15 min)
 
-Open in the pub, the morning after. The fire is out. Someone is sweeping. The party has a table, a tab, and a decision.
+Open in the **Salt-Lantern**, the same night Session 3 ended. The rain has not stopped. The fire is burning low, the tab is open, and the pub is quieter than it should be. Tamsin is at the table with a drink he is not finishing. Arlen's chair is still empty.
 
-> *Grey light through salt-streaked glass. The pub smells of stale beer and wet wool. Tamsin is asleep sitting up, peg leg propped on a stool. Outside, the gulls are arguing over something in the harbour.*
+> *The door bangs. Nobody looks up. Somewhere behind the bar, Bess is counting cups that don't need counting. Tamsin's peg leg is propped on the bench beside him, and the whole room is carefully not staring at it.*
 
 **Ask the table, in order:**
 
-- *"Where did your PC sleep?"*
-- *"What did you do with Wren's coat?"*
-- *"Who is watching Tamsin?"*
-- *"What is the first thing you want to do today?"*
+- *"What is the first thing your PC does now that the dust is out of their clothes?"*
+- *"Who buys the next round - and who doesn't drink?"*
+- *"What do you say to Tamsin about Wren, if anything?"*
+- *"Where is the Tablet tonight, and who is holding it?"*
+
+**What the room gives them:**
+
+- **Bess** tops up the fire and says the Warrens are already talking: a hole opened under Warehouse Nine, the Admiralty has sealed the cellar, and nobody agrees whether it was a collapse or a cover-up. She does not know more. She is not asking.
+- Dockhands glance at the copper, the coat, and the peg leg, then find somewhere else to look. Word travels fast in a port; by morning, everyone will have heard a version.
+- **Tamsin** will answer direct questions about Wren, the road, and Rorik - but he is running on grief and cheap beer. Keep it short. Save the full counsel for the morning (§3.4).
+
+**If they want to go back out tonight:** let them. The Exchange is shuttered, the Citadel lockup does not take visitors after dark, and the South Gate is closed until dawn. The city half is a morning job. Tonight is for planning, drinking, and deciding what they are willing to carry.
 
 **Use the table's own images:** Dan in the dead man's coat; Zook counting copper; John Fantasy's pink scarf; Bog's silence; Tamsin's peg leg; Arlen's empty chair.
 
-**Do not** re-run Session 3. The debrief is over. Today is about what comes next.
+**Do not** re-run Session 3. The debrief is over. Tonight is decompression, not a second debrief. End the scene when the party turns in - Bess has rooms above the taproom, and Tamsin takes the back one.
 
 ---
 
-## 3. The Morning After (55 min)
+## 3. The Next Morning (55 min)
+
+The next morning. Grey light through salt-streaked glass. The fire is out. Someone is sweeping. The party has a table, a tab, and a decision.
 
 This is the city half of the session. It is not filler. It is where the party turns loot into capability and learns what they are walking into.
 
@@ -113,7 +123,7 @@ Helena is at Warehouse Nine with a ledger, two porters, and a face like a closed
 - The Scriptorium collapse is being logged as a **structural failure**, not a crime scene.
 - The Admiralty has impounded the warehouse pending an inspection.
 - **The captured Breaker** was handed over and is in the citadel lockup. The magistrates are not sure what to charge him with.
-- **Arlen** left the pub before dawn. He has not been to the Astrolabe — the elite appraisal house on the Antiquities Exchange where he works.
+- **Arlen** has not been seen since the collapse. He has not been to the Astrolabe — the elite appraisal house on the Antiquities Exchange where he works.
 - If anyone asks what the Astrolabe is, Helena snorts: *"Appraisal house. North side of the Exchange. Brass sign, brass manners. They stamp what's legal and file what isn't."*
 - A **man in townhouse livery** was asking after the party at the docks this morning. `[DM-ONLY: Seraphel's page. Do not name him.]`
 
@@ -222,7 +232,7 @@ If the party goes to the Exchange, **Sella Orr** is behind the counter with a lo
 
 **If they mention Arlen:** she goes still. *"He came in at dawn, took a folio from the back room, and left. He looked like a man going to his own funeral."* This is a hook for Session 6.
 
-**If they ask about the "gold man":** she closes the shutter. *"Not here. Not tonight."*
+**If they ask about the "gold man":** she closes the shutter. *"Not here. Not now."*
 
 ### 3.6 The watcher (5 min)
 
@@ -253,8 +263,8 @@ They have roughly **67 gp each**, plus anything they sold. Port Meridian is a po
 | **Waterproof map case** | 5 gp | Common | Keep the Codex dry |
 | **Signal whistle** | 1 gp | Common | Coordinate on the cliff |
 | **Grappling hook** | 2 gp | Common | The sea cave |
-| **Oil of Slipperiness** | 150 gp | Rare | Not available tonight |
-| **Potion of Water Breathing** | 200 gp | Rare | Not available tonight |
+| **Oil of Slipperiness** | 150 gp | Rare | Not available here |
+| **Potion of Water Breathing** | 200 gp | Rare | Not available here |
 
 **Haggling:** DC 12 Persuasion for a 10% discount on one item, or DC 14 for two. Failure raises the price by 10% and the merchant remembers them.
 
@@ -309,9 +319,9 @@ If the party needs money or a reason to stay in the city, these small jobs are a
 
 **DM note:** these are not distractions. They make the city feel real and give the party a chance to earn before the road. Use one or two, not all.
 
-### 3.11 A night in the city (if they delay departure)
+### 3.11 A second night in the city (if they delay departure)
 
-If the party decides to leave at dawn instead of immediately, give them a night. Use these scenes.
+If the party decides to spend another day in the city instead of leaving at once, give them a second night. Use these scenes.
 
 | # | Scene | What happens |
 |---|-------|--------------|
@@ -1079,7 +1089,7 @@ A rough sketch on oilskin:
 
 ### 20.1 The night in one breath
 
-Pub morning → Helena pays them → visit the prisoner → Arlen's note → shop → leave by the South Gate → Tide Cut → Wind Stair → wrecked mule → reef-crawler nest → drowned shrine → camp → Star Stair → lantern in the dark.
+Pub that night → morning → Helena pays them → visit the prisoner → Arlen's note → shop → leave by the South Gate → Tide Cut → Wind Stair → wrecked mule → reef-crawler nest → drowned shrine → camp → Star Stair → lantern in the dark.
 
 If you remember nothing else: **they get paid, they get a guide, they meet the Cartels on the road, and they end at a door that is already open.**
 
