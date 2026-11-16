@@ -11,7 +11,7 @@
 The **Sea Beyond** predates the material universe of Elonia and the Celestine themselves. It is described in ancient scripture and esoteric arcanum not as an expanse of physical water, but as a boundless, unformed state of infinite metaphysical potential and unrealized existence. 
 
 ### Canonical Guardrails:
-- The Nine Celestine emerged or awakened from the Sea Beyond, but its true origin, purpose, nature, and outer boundaries are strictly `[UNRESOLVED]`.
+- The [[the_nine_celestine|Nine Celestine]] emerged or awakened from the Sea Beyond, but its true origin, purpose, nature, and outer boundaries are strictly `[UNRESOLVED]`.
 - The DM must **never** reduce the Sea Beyond to a conventional elemental plane, a simple astral void, or the playground of a "higher creator deity."
 - Whether anything else dwells within the Sea Beyond, or whether other cosmos exist across its expanse, remains an eternal mystery.
 
@@ -52,7 +52,7 @@ Under the ancient covenant, when a mortal body died, the soul separated cleanly 
 - **The Ultimate Afterlife:** What lies beyond the Final Door remains strictly `[UNRESOLVED]`. Neither mortal philosophy nor Celestine revelation defines the soul's ultimate destination.
 
 ### 3.2 The Engine Wound and the Soul Crisis
-During the late Divine Age (c. 1,000 BS), the ancient mortal **Ascensionists** constructed the **Ascension Engine** miles beneath Elonia, attempting to eradicate death by looping mortal souls into eternal self-renewal. When the Engine catastrophically overloaded:
+During the late Divine Age (c. 1,000 BS), the ancient mortal **Ascensionists** constructed the **[[the_engine_deep_and_the_veil|Ascension Engine]]** miles beneath Elonia, attempting to eradicate death by looping mortal souls into eternal self-renewal. When the Engine catastrophically overloaded:
 - The Soulways were torn, warped, and physically crystalized.
 - The damage created **The Bleak Path**—a jagged metaphysical scar where departing souls become jammed in spiritual stasis.
 - **Modern Reality (c. 1,000 AS):** The **Soul Crisis** is not a natural byproduct of the gods' absence. It is the delayed, structural collapse of the soulways caused by the ancient Engine. In the modern era, 20% to 30% of all deceased souls fail to pass, lingering as tortured apparitions, spiritual miasmas, or silent phantoms.
@@ -75,7 +75,7 @@ The Silence was neither divine wrath nor an act of malice. Following the atrocit
 
 ### 4.3 Orinth's Anomaly
 `[DM-ONLY]`
-The Veil was intended to sweep all Celestine beyond. **Orinth, the Laughing Sage, secretly subverted the severance**. By shedding his divine mantle and binding himself into a mortal-passing shell, he remained behind on the material side of the Veil. He resides today as **Brother Cael** at Lantern Chapel, serving as an anonymous witness to mortal history.
+The Veil was intended to sweep all Celestine beyond. **Orinth, the Laughing Sage, secretly subverted the severance**. By shedding his divine mantle and binding himself into a mortal-passing shell, he remained behind on the material side of the Veil. He resides today as **[[brother_cael_orinth|Brother Cael]]** at [[lantern_chapel|Lantern Chapel]], serving as an anonymous witness to mortal history.
 
 ---
 
@@ -85,7 +85,7 @@ The Veil was intended to sweep all Celestine beyond. **Orinth, the Laughing Sage
 Magic in modern Elonia is categorized into two distinct operational paradigms:
 
 ### 5.1 Arcane Magic (The Inherited Sciences)
-Since the Silence, the study of the arcane has become Elonia’s crowning achievement. Arcanists at New Ilya study magical fields as natural laws:
+Since the Silence, the study of the arcane has become Elonia’s crowning achievement. Arcanists at [[new_ilya|New Ilya]] study magical fields as natural laws:
 - Magic operates via ambient ether, geometric runecraft, and ley lines.
 - Wizardry, sorcery, and artificing require no prayers and have advanced modern agriculture, maritime navigation, architecture, and metallurgy.
 

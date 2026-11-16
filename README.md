@@ -2,6 +2,8 @@
 
 > *The gods abandoned the world a thousand years ago. History buried the reasons. Someone intends to unearth them.*
 
+> **Obsidian users:** open [[HOME|the vault map]] for a linked index of every note.
+
 A full-length D&D 5e campaign (levels 1–20) set in Elonia, c. 1,000 years after the Silence.
 
 ## What this is
@@ -15,7 +17,7 @@ A full-length D&D 5e campaign (levels 1–20) set in Elonia, c. 1,000 years afte
 
 Players uncover suppressed history, the Soul Crisis (the dead failing to pass), and a conspiracy behind "divine return."
 
-**DM spoiler:** the patron Lord Seraphel is the Hidden Tenth, harvesting souls for his own apotheosis. Full secrets in `01_CAMPAIGN/full_story_synopsis.md`.
+**DM spoiler:** the patron Lord Seraphel is the Hidden Tenth, harvesting souls for his own apotheosis. Full secrets in [[full_story_synopsis|the Full Story Synopsis]].
 
 ## Repository structure
 
@@ -35,33 +37,33 @@ Ashes_Of_Elonia/
 ├── _templates/             # NPC, location, session-prep templates
 ```
 
-Subfolder `README.md` files explain each section's purpose and canon authority.
+Each subfolder has an index note (for example [[campaign_architecture|Campaign Architecture]] or [[locations_index|Locations Index]]) explaining its purpose and canon authority. Start from [[HOME|the vault map]].
 
 ## How to use
 
 **Players — start here:**
-1. Read only `09_PLAYER_MATERIAL/players_primer.md`. Everything else is spoilers.
+1. Read only [[players_primer|the Player Primer]]. Everything else is spoilers.
 2. Make a level 1 D&D 5e character (milestone leveling, no evil PCs). You start in Port Meridian, hired by salvage factor Helena Voss.
 
-**New players joining mid-campaign:** read `09_PLAYER_MATERIAL/players_primer_new_player.md` instead — it is the same primer plus a Sessions 1–3 recap and level-2 character guidance.
+**New players joining mid-campaign:** read [[players_primer_new_player|the New Player Primer]] instead — it is the same primer plus a Sessions 1–3 recap and level-2 character guidance.
 
 **DMs — run order:**
-1. Read `00_SOURCE_OF_TRUTH/Ashes_of_Elonia_Official_Campaign_Bible_v1.md` — locked canon.
-2. Read `01_CAMPAIGN/` in order: `campaign_overview.md` → `full_story_synopsis.md` → `act_structure.md` → `revelation_timeline.md` → `milestone_progression.md`.
-3. Skim `02_WORLD/` + `03_LOCATIONS/` + `04_NPCS/` + `05_FACTIONS/` for context.
-4. Run `06_ADVENTURE/Act I/` onward. Use `07_SESSIONS/sessions_guide.md` to split chapters into nights.
-5. Track the 3 global clocks in `10_LIVE_CAMPAIGN_STATE/`: Soul Crisis Tide (6), Seraphel's Convergence (8), Censor's Shroud (4).
+1. Read [[Ashes_of_Elonia_Official_Campaign_Bible_v1|the Official Campaign Bible v1]] — locked canon.
+2. Read [[campaign_architecture|Campaign Architecture]] in order: [[campaign_overview|Campaign Overview]] → [[full_story_synopsis|Full Story Synopsis]] → [[act_structure|Act Structure]] → [[revelation_timeline|Revelation Timeline]] → [[milestone_progression|Milestone Progression]].
+3. Skim [[world_index|World]] + [[locations_index|Locations]] + [[npc_index|NPCs]] + [[factions_index|Factions]] for context.
+4. Run [[adventure_index|Adventure]] from Act I onward. Use [[sessions_guide|the Sessions Guide]] to split chapters into nights.
+5. Track the 3 global clocks in [[campaign_state|Live Campaign State]]: Soul Crisis Tide (6), Seraphel's Convergence (8), Censor's Shroud (4).
 
 Built for Obsidian — Markdown mirrors with wikilinks, tags:
 `[ESTABLISHED CANON]` = true, `[DM-ONLY]` = secret truth, `[PLAYER-FACING]` = common knowledge, `[DISPUTED]` = sources disagree, `[UNRESOLVED]` = never answer canonically (Sea Beyond, soul destination, blank final chapter of *Ain Elonar*).
 
 ## Canon rules
 
-1. `00_SOURCE_OF_TRUTH/` wins over all drafts.
+1. [[source_of_truth|Source of Truth]] wins over all drafts.
 2. Don't contradict the Immutable Register: present day c. 1,000 AS; Ascendants ≠ evil cult; Soul Crisis caused by the Ascension Engine, not the gods' departure; Brother Cael is Orinth (witness, never oracle); final chapter is blank until players write it.
 3. Every revelation needs 3 clues (documentary + material + social). Every answer creates 2 new questions.
 
-Safety: establish Lines/Veils + X-Card before Session 0. Heavy themes: death, grief, souls, institutional gaslighting. See `campaign_overview.md` §9.
+Safety: establish Lines/Veils + X-Card before Session 0. Heavy themes: death, grief, souls, institutional gaslighting. See [[campaign_overview|Campaign Overview]] §9.
 
 ## Status & license
 

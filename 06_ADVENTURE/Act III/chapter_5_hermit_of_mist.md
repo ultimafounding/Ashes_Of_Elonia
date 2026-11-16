@@ -1,6 +1,6 @@
 # Chapter 5: The Hermit of the Mist
 > *"Wipe your boots. The mist brings mud, and the floors are a thousand years old."*
-> **Act III • Levels 8–10 • Sites: Fog-Step Ascent, Courtyard, Cell, Scribe's Crypt, Vale**
+> **[[act_III_overview|Act III]] • Levels 8–10 • Sites: Fog-Step Ascent, Courtyard, Cell, Scribe's Crypt, Vale**
 
 ---
 ## 1. Arrival — Fog-Step Ascent

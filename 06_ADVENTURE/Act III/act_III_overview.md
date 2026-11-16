@@ -1,7 +1,7 @@
 # Act III Overview: The Last Light
 
 > *"The gods did not leave in anger. They left in grief — and one of them stayed to wash the floors."*
-> **Adventure Module • Levels 8 through 12 • Hub: Lantern Chapel, Weeping Ridge**
+> **Adventure Module • Levels 8 through 12 • Hub: [[lantern_chapel|Lantern Chapel]], Weeping Ridge**
 
 ---
 
@@ -10,13 +10,13 @@
 - **Level Band:** 8 to 12 (Tier 2/3 transition).
 - **Geographic Setting:** Weeping Ridge — Fog-Step Ascent, Chapel Courtyard, Caretaker's Cell, Altar of the Lantern, Scribe's Crypt, Vale of Remembrance.
 - **Narrative Phase:** Mythic Encounter, Religious Deconstruction, Divine Revelation.
-- **Player-Facing Trajectory `[PLAYER-FACING]`:** Exiles from New Ilya carry the Broken Seal of Solcaris to a remote hermitage. They seek the *Lantern of the Last Light* to authenticate the Seal and decode the Annales.
+- **Player-Facing Trajectory `[PLAYER-FACING]`:** Exiles from [[new_ilya|New Ilya]] carry the Broken Seal of Solcaris to a remote hermitage. They seek the *Lantern of the Last Light* to authenticate the Seal and decode the Annales.
 - **The Core Question:** *Can divine testimony be trusted?*
 - **The Required Turn `[DM-ONLY]`:**
   1. *Cael is Orinth:* 42 AS–present logbooks in one hand + covenant relic calming at his touch prove the hermit is the Laughing Sage.
   2. *Silence recontextualized:* Not wrath or apathy. After Avarr proved protection breeds moral infancy, Myrraen severed the tether to force adulthood. Orinth stayed as witness, not ruler.
-  3. *The warning:* The Silence cracks not from return, but from pressure below — the dead screaming through a wound torn *before* the Silence.
-- **The Patron's Mask:** Seraphel absent in person; present as maps, supplies, warm letters urging *"ask the old monk about the deep ways — and copy any star-marks for my vault."* `[DM-ONLY: misdirect — apparent ally]`.
+  3. *The warning:* The Silence cracks not from return, but from pressure below — the dead screaming through a wound torn *before* [[cosmology_and_metaphysics|the Silence]].
+- **The Patron's Mask:** [[lord_seraphel|Seraphel]] absent in person; present as maps, supplies, warm letters urging *"ask the old monk about the deep ways — and copy any star-marks for my vault."* `[DM-ONLY: misdirect — apparent ally]`.
 
 ---
 
@@ -53,7 +53,7 @@
    - At 4: siege begins (Chapter 6 climax).
 ```
 
-Cael Laws (from `04_NPCS/brother_cael_orinth.md`): tea before theology; questions not answers; never solves mysteries; never saves the party with divinity.
+Cael Laws (from [[brother_cael_orinth|Brother Cael / Orinth]]): tea before theology; questions not answers; never solves mysteries; never saves the party with divinity.
 
 ---
 
@@ -92,4 +92,4 @@ Cael Laws (from `04_NPCS/brother_cael_orinth.md`): tea before theology; question
 ## 5. Act III State Change & Hand-Off to Act IV
 
 - **The World State Shift:** Party knows gods as fallible kin, not masters or deserters. They hold the borrowed Lantern and a decoded Seal.
-- **The Hand-Off:** Cael marks the Khar Vareth road on their map where *"the screams are thickest and the Custodians count truly."* Seraphel's courier meets them at the crag-foot with Vareth letters of introduction — generosity intact.
+- **The Hand-Off:** Cael marks the [[khar_vareth|Khar Vareth]] road on their map where *"the screams are thickest and the Custodians count truly."* Seraphel's courier meets them at the crag-foot with Vareth letters of introduction — generosity intact.

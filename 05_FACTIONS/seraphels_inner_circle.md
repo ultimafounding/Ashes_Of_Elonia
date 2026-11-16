@@ -8,12 +8,12 @@
 ## 1. Executive Summary `[DM-ONLY]`
 
 - **Classification:** Clandestine Transnational Conspiracy & Religious Mass Movement.
-- **Supreme Leader:** **Lord Seraphel of House Vane** (*The Hidden Tenth*).
-- **Chief Lieutenant:** **Arch-Magus Corvin** (Master of the Siphons).
+- **Supreme Leader:** **[[lord_seraphel|Lord Seraphel]] of House Vane** (*The Hidden Tenth*).
+- **Chief Lieutenant:** **[[major_allies_and_rivals|Arch-Magus Corvin]]** (Master of the Siphons).
 - **Public Front:** **The Movement of Return** ("The Returners").
 - **Core Secret Principle:** **Humanity Must Seize Divinity to End Mortal Suffering.**
 - **Symbol:** A golden ring with nine exterior notches surrounding a flawless central diamond (representing the Tenth God).
-- **Public Perception (Act V):** `[PLAYER-FACING]` A transcendent spiritual renaissance. Seraphel is hailed as the holy prophet who has discovered how to break the Silence, reopen the Veil, and welcome the Nine Celestine back to heal the world.
+- **Public Perception ([[act_V_overview|Act V]]):** `[PLAYER-FACING]` A transcendent spiritual renaissance. Seraphel is hailed as the holy prophet who has discovered how to break [[cosmology_and_metaphysics|the Silence]], reopen the Veil, and welcome the [[the_nine_celestine|Nine Celestine]] back to heal the world.
 
 ---
 
@@ -40,16 +40,16 @@ The conspiracy operates on two strictly segregated operational tiers:
 ```
 
 ### The Mechanism of Manipulation
-Seraphel weaponizes genuine mortal grief. Across Elonia, people are exhausted by ten centuries of disease, famine, and the terrifying symptoms of the Soul Crisis. When Seraphel offers them hope—promising that the gods will return on the Winter Solstice—entire city councils hand over their municipal keys, and even devout paladins of the Keepers of Dawn join his processions.
+Seraphel weaponizes genuine mortal grief. Across Elonia, people are exhausted by ten centuries of disease, famine, and the terrifying symptoms of the Soul Crisis. When Seraphel offers them hope—promising that the gods will return on the Winter Solstice—entire city councils hand over their municipal keys, and even devout paladins of the [[the_keepers_of_dawn|Keepers of Dawn]] join his processions.
 
 ---
 
 ## 3. Operations Across the Campaign Spine
 
 1. **Acts I & II (Infiltration & Capital Acquisition):** House Vane uses its massive industrial foundries to forge specialized brass siphon-piping stamped with secret serial codes, disguising them as plumbing and mining parts.
-2. **Act IV (The Great Harvest):** Installing siphon-arrays in the catacombs of Khar Vareth and along regional soulway fractures, pumping unpassed spirits into pressurized storage vials.
+2. **[[act_IV_overview|Act IV]] (The Great Harvest):** Installing siphon-arrays in the catacombs of [[khar_vareth|Khar Vareth]] and along regional soulway fractures, pumping unpassed spirits into pressurized storage vials.
 3. **Act V (The Continental Seizure):** Occupying the Resonant Pylons of Solcaris, the Star Road nexus, and ancient ley-conduits, preparing the geometry for the Winter Solstice convergence.
-4. **Act VI (The Apotheosis Ascent):** Defending the subterranean Engine Deep against all interference as Seraphel mounts the Apotheosis Throne.
+4. **[[act_VI_overview|Act VI]] (The Apotheosis Ascent):** Defending the subterranean [[the_engine_deep_and_the_veil|Engine Deep]] against all interference as Seraphel mounts the Apotheosis Throne.
 
 ---
 

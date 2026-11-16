@@ -1,7 +1,7 @@
 # Location Profile: Khar Vareth & The Bleak Path
 
 > *"In other lands, the dead are buried to be forgotten. In Vareth, the dead are carved into stone to remain citizens forever. But now, the stone is vibrating, and the tombs refuse to sleep."*  
-> **Campaign Hub: Act IV (Levels 12–15) • Dominion of Vareth**
+> **Campaign Hub: [[act_IV_overview|Act IV]] (Levels 12–15) • Dominion of Vareth**
 
 ---
 
@@ -9,7 +9,7 @@
 
 - **Classification:** Sovereign Necropolitan Theocracy & City of Ten Thousand Names.
 - **Population:** ~45,000 living citizens; over 3,000,000 recorded dead in the monumental vaults.
-- **Governance:** The **Conclave of Custodians** (Presided over by High Custodian Moros).
+- **Governance:** The **Conclave of Custodians** (Presided over by High [[major_allies_and_rivals|Custodian Moros]]).
 - **Tone & Aesthetic:** Monumental, somber, austere, and awe-inspiring. Carved directly into the sheer, eight-hundred-foot cliffs of the **Black Basalt Canyon** in the southern desert basin. Towering funerary obelisks, monumental colonnades, and thousands of rock-cut tomb facades line the canyon walls. The air is cool, dry, and fragrant with natron salt, embalming resin, crushed cedar, and myrrh.
 
 ```
@@ -83,7 +83,7 @@ Beneath the deepest vaults of the Necropolis lies the **Threshold of the Etherea
 An active inspection of the brass siphon-pipes (DC 14 Investigation or Smith's Tools) reveals the foundry hallmark:
 > **A stylized rampant falcon clutching a pair of calipers—the personal crest of House Vane, stamped with the foundry serial number *VANE-IL-984*.**
 
-This irrefutable physical proof unmasks Lord Seraphel as the predator who is actively harvesting Elonia's dead.
+This irrefutable physical proof unmasks [[lord_seraphel|Lord Seraphel]] as the predator who is actively harvesting Elonia's dead.
 
 ---
 
@@ -102,6 +102,6 @@ This irrefutable physical proof unmasks Lord Seraphel as the predator who is act
 | 1 | **Twitching Sarcophagus:** A freshly sealed stone sarcophagus begins hammering from the inside in the Hall of Custodians. | The spirit inside is partially siphoned, screaming of a "golden thief with white hair" (Seraphel). |
 | 2 | **Custodian Inquest:** High Custodian Moros summons the party for a confidential midnight consultation regarding the failing records. | Moros shares the alarming demographic statistics of missing souls. |
 | 3 | **House Vane Smugglers:** The party spots four mercenaries loading heavy, lead-lined crates marked "Medical Glass" onto a midnight desert skiff. | The crates contain pressurized spirit-glass canisters filled with harvested souls. |
-| 4 | **Spectral Cold-Snap:** A sudden drop of 40 degrees occurs in the plaza; everyone must succeed on a DC 13 Con save or take 2d6 cold damage as a soul-wave vents. | Environmental demonstration of the escalating Soul Crisis. |
+| 4 | **Spectral Cold-Snap:** A sudden drop of 40 degrees occurs in the plaza; everyone must succeed on a DC 13 Con save or take 2d6 cold damage as a soul-wave vents. | Environmental demonstration of the escalating [[cosmology_and_metaphysics\|Soul Crisis]]. |
 | 5 | **The Nameless Vigil:** A group of outcasts without recorded lineages holds a silent candlelight vigil outside the canyon gate. | Social roleplay highlighting the class prejudices of Vareth society. |
 | 6 | **Arch-Magus Corvin's Spy:** A mechanical brass scarab hovers above the party, relaying their movements back to Seraphel's subterranean base. | Party can destroy or capture the device to track Corvin's frequency. |

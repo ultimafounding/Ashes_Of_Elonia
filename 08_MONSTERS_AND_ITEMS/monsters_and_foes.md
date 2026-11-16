@@ -1,6 +1,6 @@
 # Monsters & Foes: Stat Blocks
 
-> New blocks only. Shared roster lives where noted (no duplicates): Cartel Enforcer (`05_FACTIONS/the_archive_cartels.md`), Zealot + Void-Artificer (`05_FACTIONS/seraphels_inner_circle.md`), Corvin + allies (`04_NPCS/major_allies_and_rivals.md`), Cael (`04_NPCS/brother_cael_orinth.md`), Seraphel public CR 8 + Ascending CR 21 (`04_NPCS/lord_seraphel.md`), Avatar (`04_NPCS/the_avatar_of_the_last_mercy.md`). Reskins noted inline.
+> New blocks only. Shared roster lives where noted (no duplicates): Cartel Enforcer ([[the_archive_cartels|The Archive Cartels]]), Zealot + Void-Artificer ([[seraphels_inner_circle|Seraphel's Inner Circle]]), Corvin + allies ([[major_allies_and_rivals|Major Allies & Rivals]]), Cael ([[brother_cael_orinth|Brother Cael / Orinth]]), Seraphel public CR 8 + Ascending CR 21 ([[lord_seraphel|Lord Seraphel]]), Avatar ([[the_avatar_of_the_last_mercy|Avatar of the Last Mercy]]). Reskins noted inline.
 
 ---
 

@@ -19,7 +19,7 @@ DM REFERENCE • CONTAINS CAMPAIGN SECRETS**
 # How to Use This Bible
 
 This document is the canonical source-of-truth layer for Ashes of
-Elonia. It reconciles the existing player guide, Ain Elonar, and DM
+Elonia. It reconciles the existing player guide, [[Ain_Elonar|Ain Elonar]], and DM
 campaign material while preserving uncertainty where uncertainty is part
 of the setting. It is not yet the session-by-session campaign book.
 
@@ -45,24 +45,24 @@ of the setting. It is not yet the session-by-session campaign book.
 
 ## Immutable Canon Register
 
-- The Ascendants are not inherently evil.
+- The [[the_ascendants|Ascendants]] are not inherently evil.
 
-- Seraphel is the primary antagonist.
+- [[lord_seraphel|Seraphel]] is the primary antagonist.
 
 - Seraphel seeks divinity rather than the return of the gods.
 
 - Myrraen is neither villain nor saint.
 
-- Orinth remains hidden as Brother Cael until the intended campaign
+- Orinth remains hidden as [[brother_cael_orinth|Brother Cael]] until the intended campaign
   revelation.
 
-- The Soul Crisis originates from damage caused by the Ascension Engine.
+- The [[cosmology_and_metaphysics|Soul Crisis]] originates from damage caused by the [[the_engine_deep_and_the_veil|Ascension Engine]].
 
 - The final chapter of Ain Elonar is blank.
 
 - The campaign’s central theme is freedom versus protection.
 
-- The Avatar of the Last Mercy is certainty made manifest.
+- The [[the_avatar_of_the_last_mercy|Avatar of the Last Mercy]] is certainty made manifest.
 
 # I. Campaign Identity
 
@@ -256,7 +256,7 @@ provisional where they conflict with that anchor.
 PLAYER-FACING
 
 Major traditions include the Myrraenic Faith, Penitent Orders, Keepers
-of Dawn, and Church of the Last Light. Modern religion is shaped by
+of Dawn, and [[the_church_of_the_last_light|Church of the Last Light]]. Modern religion is shaped by
 interpretation because public divine certainty vanished with the
 Silence.
 
@@ -304,7 +304,7 @@ chooses more dangerous rather than less.
 DM-ONLY
 
 Orinth alone remained in Elonia after the Silence and now hides as
-Brother Cael, caretaker of Lantern Chapel. He is a witness and keeper of
+Brother Cael, caretaker of [[lantern_chapel|Lantern Chapel]]. He is a witness and keeper of
 context, not an oracle for player decisions. He should not solve
 mysteries the party can solve themselves.
 
@@ -333,25 +333,25 @@ without freedom.
 |----|----|----|
 | Ascendants | Lost history belongs to humanity. | Pluralistic movement; Seraphel’s conspiracy is not the whole organisation. |
 | Church of the Last Light | Choice must remain possible. | Protects Orinth and fragments of true history; deliberately weak politically. |
-| Keepers of Dawn | The ancient divine world is worthy of remembrance and perhaps return. | Provides sincere, ordinary reasons to hope for divine restoration. |
-| Vareth Custodians | The dead must be named and remembered. | Their records expose long-term discrepancies in soul passage. |
-| Archive Cartels | Knowledge has material value. | Preserve and traffic suppressed records for profit. |
-| Dreamkeepers of Nythara | The future is possibility, not a fixed script. | Guard fragments associated with Selyra’s warnings. |
+| [[the_keepers_of_dawn\|Keepers of Dawn]] | The ancient divine world is worthy of remembrance and perhaps return. | Provides sincere, ordinary reasons to hope for divine restoration. |
+| [[the_vareth_custodians\|Vareth Custodians]] | The dead must be named and remembered. | Their records expose long-term discrepancies in soul passage. |
+| [[the_archive_cartels\|Archive Cartels]] | Knowledge has material value. | Preserve and traffic suppressed records for profit. |
+| [[the_dreamkeepers_of_nythara\|Dreamkeepers]] of Nythara | The future is possibility, not a fixed script. | Guard fragments associated with Selyra’s warnings. |
 | Seraphel’s Inner Circle | Humanity can seize the next stage of existence. | Active conspirators enabling Seraphel’s apotheosis. |
 
 # IX. Canonical Locations
 
 | **Location** | **Purpose** | **Core idea** |
 |----|----|----|
-| Port Meridian | Modern starting hub over ancient foundations | What mortals built without gods |
-| Shattered Archive | Early Ascensionist ruin | Forgotten history becomes physical |
-| New Ilya | Centre of scholarship and debate | Truth versus stability |
+| [[port_meridian\|Port Meridian]] | Modern starting hub over ancient foundations | What mortals built without gods |
+| [[chapter_1_shattered_archive\|Shattered Archive]] | Early Ascensionist ruin | Forgotten history becomes physical |
+| [[new_ilya\|New Ilya]] | Centre of scholarship and debate | Truth versus stability |
 | Athenaeum Null | Restricted archive | Who decides what may be known? |
 | Lantern Chapel | Orinth’s hidden sanctuary | What deserves preserving? |
-| Khar Vareth | City of memory and death records | The dead remain part of society |
+| [[khar_vareth\|Khar Vareth]] | City of memory and death records | The dead remain part of society |
 | The Bleak Path | Damaged spiritual transit | Consequences outlive their makers |
 | Nythara | Ruined centre of prophecy | Possibility versus prediction |
-| Vale Myrr | Myrraenic sanctuary and memory locus | Mercy and its limits |
+| [[vale_myrr_and_nythara\|Vale Myrr]] | Myrraenic sanctuary and memory locus | Mercy and its limits |
 | The Star Roads | Reactivating ancient transit network | The past refuses burial |
 | The Engine Deep | Origin point of the Engine wound | Power and consequence |
 | The Open Veil | Climactic metaphysical threshold | The future must be chosen |
@@ -443,7 +443,7 @@ preserves essential truths unavailable to most modern scholarship.
 - Orinth’s involvement may create marginalia and annotations, but these
   should provoke investigation rather than provide solutions.
 
-- The final chapter, “Of What Comes Next”, remains blank. It must not
+- The final chapter, “[[chapter_12_what_comes_next|Of What Comes Next]]”, remains blank. It must not
   acquire an official canonical ending before the players act.
 
 # XV. Continuity Decisions and Reconciliations

@@ -16,7 +16,7 @@ date: ""
 **Covers:** the pub that night → the next morning: pay, shopping, the prisoner, Arlen's note → the Sea Cliff Road → the Star Stair
 **Cliffhanger out:** the cliff door stands half-open below, and a Cartel lantern is moving inside.
 
-> **Actual play carry-over:** the party is level 2 and drinking in a Port Meridian pub. **Wren is dead**, soul ripped out. **Arlen confessed then left after a petty threat.** An **unnamed Breaker** is in magistrates' custody. The **Catalogue Index Tablet** is in party hands. **Tamsin Roke** is with the party. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3**.
+> **Actual play carry-over:** the party is level 2 and drinking in a [[port_meridian|Port Meridian]] pub. **Wren is dead**, soul ripped out. **Arlen confessed then left after a petty threat.** An **unnamed Breaker** is in magistrates' custody. The **Catalogue Index Tablet** is in party hands. **Tamsin Roke** is with the party. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3**.
 
 ---
 
@@ -25,8 +25,8 @@ date: ""
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
 | **Session 4 (this file)** | Pub that night → the next morning: pay, shopping, prisoner, Arlen's note → Sea Cliff Road → Star Stair | The cliff door in sight; a lantern below | 2 |
-| Session 5 | Star Chamber → Selyra's Eye → Codex → Cartel breach → collapse | The chamber falling; the Codex in hand | **→ 3** |
-| Session 6 | Escape → return to Meridian → Gilded Docks Inquest → Seraphel | Fellowship letters; the road to New Ilya | **→ 4** |
+| Session 5 | [[chapter_2_stair_and_star\|Star Chamber]] → Selyra's Eye → Codex → Cartel breach → collapse | The chamber falling; the Codex in hand | **→ 3** |
+| Session 6 | Escape → return to Meridian → [[session_06_gilded_docks_inquest\|Gilded Docks Inquest]] → [[lord_seraphel\|Seraphel]] | Fellowship letters; the road to [[new_ilya\|New Ilya]] | **→ 4** |
 
 **Rule for tonight:** the Star Chamber door does not open. The session ends on the threshold, with the Cartels already inside. Session 5 starts with the descent.
 
@@ -43,7 +43,7 @@ date: ""
 | 4 | **The Wind Stair** — skill challenge | 35 min | Skill challenge | Make the cliff feel earned |
 | 5 | **The Wrecked Mule** — Cartel recovery detail | 35 min | Social / combat | Faction face-time; the "gold man" clue |
 | 6 | **The Reef-Crawler Nest** — fight and rescue | 40 min | Combat | Attrition; a trapped fisherman |
-| 7 | **The Drowned Shrine** — the dead do not pass | 30 min | Lore / choice | Soul Crisis foreshadow |
+| 7 | **The Drowned Shrine** — the dead do not pass | 30 min | Lore / choice | [[cosmology_and_metaphysics\|Soul Crisis]] foreshadow |
 | 8 | **Night camp** — watch, stories, omens | 25 min | Roleplay | Let the party become a crew |
 | 9 | **The Star Stair** — arrival and cliffhanger | 15 min | Exploration | End on the threshold |
 
@@ -280,7 +280,7 @@ Use these while they shop, drink, or ask around. Each is a hook, not a quest.
 | 2 | *"A gold man was asking at the Exchange about a black stone with silver rings."* | True. Seraphel's cutout. |
 | 3 | *"The dead don't pass at the Reefs. My cousin saw a sailor walking into the water with no shadow."* | True. Soul Crisis. |
 | 4 | *"The Admiralty is going to make an example of someone. They've got a Breaker in the cells."* | True. The captured Breaker. |
-| 5 | *"Arlen Marr's been sacked. He was seen carrying a folio out of the Astrolabe."* | Half-true. He took it; he has not been formally sacked yet. |
+| 5 | *"[[major_allies_and_rivals\|Arlen Marr]]'s been sacked. He was seen carrying a folio out of the Astrolabe."* | Half-true. He took it; he has not been formally sacked yet. |
 | 6 | *"There's a fisherman missing off the Sea Cliff Road. Toby something. Good lad."* | True. He is in the reef-crawler nest (§8). |
 
 ### 3.9 Things to Do in Port Meridian
@@ -316,6 +316,7 @@ If the party needs money or a reason to stay in the city, these small jobs are a
 | **Escort** | A fishmonger | Walk her home through the Warrens; a Cartel press-gang is working the street (2× **Thug**) | 20 gp and a rumour |
 | **Translation** | A minor scholar | Translate a pre-Silence deed (DC 13 History or Arlen's note) | 25 gp |
 | **Missing cat** | A child | The cat is in the sewers; there is a **giant rat** and a very angry goose | 5 gp and inspiration |
+
 
 **DM note:** these are not distractions. They make the city feel real and give the party a chance to earn before the road. Use one or two, not all.
 
@@ -390,18 +391,18 @@ Use one or two between waypoints. They are flavour with a small choice.
 
 The road is not just a skill challenge. Give the players something to **do** between waypoints.
 
-| Activity | Check | Result |
-|----------|-------|--------|
-| **Forage** | DC 12 Survival | 1d4 days of food, or a useful herb (healer's kit +1 use) |
-| **Hunt** | DC 13 Survival | A seabird or a rock rabbit; fresh food and a morale boost |
-| **Map the road** | DC 13 Cartographer's Tools or Investigation | A accurate sketch; advantage on the return journey in Session 6 |
-| **Scout ahead** | DC 13 Perception/Stealth | Spot the next waypoint early; avoid a random encounter |
-| **Repair gear** | DC 12 Tinker's Tools or 1 hour | Fix a torn pack, a loose boot, or a frayed rope; no mechanical benefit, but the party is readier |
-| **Cook** | DC 12 Survival | A hot meal; the camp is cheerful, and the night's rest is better |
-| **Tell stories** | No check | A roleplay scene; ask each PC for a story from before the campaign |
-| **Train** | 1 hour | A sparring scene; no mechanical benefit, but it builds character and lets the monk/cleric shine |
-| **Keep watch** | Perception | See §10.3 |
-| **Track the Cartels** | DC 14 Survival | Confirm the Cartel numbers, the mule, and the direction of travel |
+| Activity              | Check                                       | Result                                                                                           |
+| --------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Forage**            | DC 12 Survival                              | 1d4 days of food, or a useful herb (healer's kit +1 use)                                         |
+| **Hunt**              | DC 13 Survival                              | A seabird or a rock rabbit; fresh food and a morale boost                                        |
+| **Map the road**      | DC 13 Cartographer's Tools or Investigation | A accurate sketch; advantage on the return journey in Session 6                                  |
+| **Scout ahead**       | DC 13 Perception/Stealth                    | Spot the next waypoint early; avoid a random encounter                                           |
+| **Repair gear**       | DC 12 Tinker's Tools or 1 hour              | Fix a torn pack, a loose boot, or a frayed rope; no mechanical benefit, but the party is readier |
+| **Cook**              | DC 12 Survival                              | A hot meal; the camp is cheerful, and the night's rest is better                                 |
+| **Tell stories**      | No check                                    | A roleplay scene; ask each PC for a story from before the campaign                               |
+| **Train**             | 1 hour                                      | A sparring scene; no mechanical benefit, but it builds character and lets the monk/cleric shine  |
+| **Keep watch**        | Perception                                  | See §10.3                                                                                        |
+| **Track the Cartels** | DC 14 Survival                              | Confirm the Cartel numbers, the mule, and the direction of travel                                |
 
 **Rule:** a failed activity does not stop the journey. It creates a small complication: a lost hour, a spoiled meal, a twisted ankle, or a rumour that the Cartels are closer than they were.
 
@@ -777,7 +778,7 @@ The camp is a chance for the party to be people, not just adventurers. Use one o
 
 ### 10.6 Dreams and omens (d6 per PC)
 
-If a PC sleeps, roll or choose one. These are atmospheric, not mechanical. Use them to foreshadow Act II without explaining it.
+If a PC sleeps, roll or choose one. These are atmospheric, not mechanical. Use them to foreshadow [[act_II_overview|Act II]] without explaining it.
 
 | d6 | Dream | What it means |
 |----|-------|---------------|
@@ -867,7 +868,7 @@ If the party helps him, he disappears. If they turn him in, the Cartels learn th
 |-------|-------|--------------------|--------|
 | **Helena's Charter** | 2/4 | A loud fight on the road; a day lost; the party is publicly seen with the Tablet; the mule/cart is abandoned in the road | The Admiralty leans on Helena; the Inquest in Session 6 is harder |
 | **Archive Cartel Interference** | 1/3 | Parley with the recovery detail; witnesses left alive; the party's faces are reported; the Scout escapes | The Star Chamber fight in Session 5 is reinforced |
-| **Soul Tide** | 0/6 | Do not tick in Act I | — |
+| **Soul Tide** | 0/6 | Do not tick in [[act_I_overview\|Act I]] | — |
 | **Convergence** | 0/8 | Do not tick in Act I | — |
 | **Censor's Shroud** | 0/4 | Do not tick in Act I | — |
 

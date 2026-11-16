@@ -1,5 +1,7 @@
 # Ashes of Elonia: Player Primer
 > *Everything in this handout is common knowledge. Your character grew up knowing most of it. Nothing in here spoils the mystery - it is what grandmothers, teachers, priests, and dockworkers all agree on.*
+>
+> **Joining mid-campaign?** Read [[players_primer_new_player|the New Player Primer]] — the same primer plus a Sessions 1–3 catch-up and level-2 guidance.
 
 ---
 

@@ -12,20 +12,20 @@ date: "2026-10-19"
 > *"Three days' pay to carry rope and count stones. What could go wrong eighty feet under a warehouse?"*
 
 **Chapter:** [[chapter_1_shattered_archive]] • **Level:** 1 (no level-up this session)
-**Sites:** Salt-Lantern Tavern → the Gilded Docks by night → Warehouse Nine cellar → Catalogue Descent (1.1) → threshold of the Hall of Records (1.2)
+**Sites:** Salt-Lantern Tavern → the Gilded Docks by night → Warehouse Nine cellar → [[chapter_1_shattered_archive|Catalogue Descent]] (1.1) → threshold of the Hall of Records (1.2)
 **Cliffhanger out:** the dust furrow, and something dragging in the dark.
 
 ---
 
 ## Scope — this is Chapter 1, part 1 of 3
 
-**This is not the whole chapter.** Chapter 1 runs across three nights per `07_SESSIONS/sessions_guide.md`. Tonight is the first slice only.
+**This is not the whole chapter.** Chapter 1 runs across three nights per [[sessions_guide|Sessions Guide]]. Tonight is the first slice only.
 
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
 | **Session 1 (this file)** | Hire at the Salt-Lantern → free roam/shopping → cellar → Catalogue Descent (1.1) → **threshold** of 1.2 | The furrow and the sound | 1 |
-| Session 2 — `session_02_hall_of_records.md` | **Hall of Records (1.2)** — the ghoul, the skeletons, the bootprints, the ledger leaf; a surface breather | The brass door hisses | 1 |
-| Session 3 — `session_03_the_oath.md` | **Witness Scriptorium (1.3)** — the Oath, the Tablet, Clue C; certification and downtime on the surface | Dust collapse behind them | **→ 2** |
+| Session 2 — [[session_02_hall_of_records\|Session 2 — What the Dust Remembers]] | **Hall of Records (1.2)** — the ghoul, the skeletons, the bootprints, the ledger leaf; a surface breather | The brass door hisses | 1 |
+| Session 3 — [[session_03_the_oath\|Session 3 — The Oath in the Dust]] | **Witness Scriptorium (1.3)** — the Oath, the Tablet, Clue C; certification and downtime on the surface | Dust collapse behind them | **→ 2** |
 
 **Rule for tonight:** when they reach the Hall of Records, **stop**. Do not describe the room past the furrow, do not place the ghoul, do not let them search the desks. Session 2 opens with them standing in that doorway.
 
@@ -50,7 +50,7 @@ Eight beats. If you only read one section, read this.
 
 **Session goal:** they sign a legal charter, learn the salvage/antiquities law, get to know the city on their own terms, see one piece of evidence that the old world was not a death cult, and feel that *someone modern has already been down here.*
 
-**Do not reveal:** anything inside 1.2, the Oath (Session 3), the Engine, Seraphel, or what the Soul Crisis is.
+**Do not reveal:** anything inside 1.2, the Oath (Session 3), the Engine, [[lord_seraphel|Seraphel]], or what the [[cosmology_and_metaphysics|Soul Crisis]] is.
 
 ---
 
@@ -73,7 +73,7 @@ These are the players' characters. This section is **mostly mechanical** — wha
 
 ### Bog — what the new background gives the table
 
-*Source: `09_PLAYER_MATERIAL/lvl_1_characters/theo_basic_backstory.txt`.*
+*Source: [[theo_basic_backstory|Bog's backstory]].*
 
 Not a script. These are handles; use the ones the player reaches for.
 
@@ -113,7 +113,7 @@ Write the answers down. They are the session's actual material — and they feed
 - [ ] Print or scribble the **charter writ** (handout at the end of this file).
 - [ ] Have the **shop list** (§5) open — the players will want it in Beat 2.
 - [ ] Have the three global clocks on scrap paper: Soul Tide (6), Convergence (8), Censor's Shroud (4). Nothing ticks them tonight.
-- [ ] Know the two Act I clocks: **Helena's Charter [ ][ ][ ][ ]**, **Cartel Interference [ ][ ][ ]**.
+- [ ] Know the two [[act_I_overview|Act I]] clocks: **Helena's Charter [ ][ ][ ][ ]**, **Cartel Interference [ ][ ][ ]**.
 - [ ] Have one blank sheet for player answers: who they are, why they're here, what the money is for.
 - [ ] Read the **Scope** section. Know exactly where the session stops.
 
@@ -132,7 +132,7 @@ Write the answers down. They are the session's actual material — and they feed
 Then, around the table:
 
 - *"Where were each of you when the rain started, and what made you come here tonight?"*
-- *"You've all heard Helena Voss is hiring. What do you need this money for?"*
+- *"You've all heard [[major_allies_and_rivals|Helena Voss]] is hiring. What do you need this money for?"*
 
 One or two sentences each is plenty. Write down what they say.
 
@@ -150,7 +150,7 @@ One or two sentences each is plenty. Write down what they say.
 
 **Read-aloud:**
 
-> *The Salt-Lantern smells of brine, wet wool, and the one honest thing in Port Meridian: lamp oil. A tiefling with a privateer's shoulders is drying glasses behind the bar. In the corner, three men in oilskins are not drinking. Everyone else is.*
+> *The Salt-Lantern smells of brine, wet wool, and the one honest thing in [[port_meridian|Port Meridian]]: lamp oil. A tiefling with a privateer's shoulders is drying glasses behind the bar. In the corner, three men in oilskins are not drinking. Everyone else is.*
 
 **Staging**
 - **Bess** behind the bar. Waters the ale, never the oil.
@@ -249,7 +249,7 @@ Level-1 money is tight. They have **~16–20 gp each** after the advance. Let th
 | Item | Price | Notes |
 |------|-------|-------|
 | Muffled picks + pitons | 25 gp | Advantage on Stealth while mining; DC 10 Athletics holds scree |
-| New Ilya lamp oil, sealed | 5 gp | Burns violet-white. **Smell is a clue later** |
+| [[new_ilya\|New Ilya]] lamp oil, sealed | 5 gp | Burns violet-white. **Smell is a clue later** |
 | Cartel acid vial | 50 gp | Melts bronze locks. Fumes DC 11 Con or poisoned 1 min. Black market |
 | Silence-scroll | 75 gp | 10 ft silence, 1 min. Not tonight |
 | Forged customs chit | 10 gp | +5 Deception vs a port inspector once, then burns |
@@ -510,8 +510,8 @@ Her second line is a **rumour**, not a plot beat. It does not tick the Soul Tide
 
 All optional. All planted without explanation. None requires a PC to have a particular backstory.
 
-- **The maker's plate.** If you want a long fuse to the campaign's patron, a brass plate can be found on a construct PC's chassis or inside salvaged frame, stamped **KESSLER & VANE — SALVAGE WORKS**. Do not mention it. Let them find it in Act II or III. **Only with the player's buy-in** — it edits their character's history.
-- **The calibration disc.** In the scree, a palm-sized brass disc with concentric rings, stamped with a tiny falcon-and-calipers. Worthless to Helena (not on the manifest). Priceless in Act IV. Whoever picks it up keeps it. **Do not explain it.**
+- **The maker's plate.** If you want a long fuse to the campaign's patron, a brass plate can be found on a construct PC's chassis or inside salvaged frame, stamped **KESSLER & VANE — SALVAGE WORKS**. Do not mention it. Let them find it in [[act_II_overview|Act II]] or III. **Only with the player's buy-in** — it edits their character's history.
+- **The calibration disc.** In the scree, a palm-sized brass disc with concentric rings, stamped with a tiny falcon-and-calipers. Worthless to Helena (not on the manifest). Priceless in [[act_IV_overview|Act IV]]. Whoever picks it up keeps it. **Do not explain it.**
 - **The disc and the lucky coin.** If Bog is the one who picks up the calibration disc, let Bog weigh it against the coin or the lump of "gold". They are all heavy, all brass-ish, all treasure to someone who wants them to be. Do not tell Bog which is which. If Zook examines it, Zook knows it isn't gold — but not what it is.
 - **The rubbed faces.** Leave unresolved. Water, vandalism, or censorship. Act II answers it.
 - **The prophet.** He says something too close to home for whichever PC engages him, and leaves.

@@ -1,7 +1,7 @@
 # Act IV Overview: The Missing Dead
 
 > *"The dead are not departing. Someone is collecting them."*
-> **Adventure Module • Levels 12 through 15 • Hub: Khar Vareth**
+> **Adventure Module • Levels 12 through 15 • Hub: [[khar_vareth|Khar Vareth]]**
 
 ---
 
@@ -10,7 +10,7 @@
 - **Level Band:** 12 to 15 (Tier 3: Masters of the Realm).
 - **Geographic Setting:** Khar Vareth — Gate of Bone, Plaza of Names, Hall of Custodians, Embalming Terraces, Great Necropolis; metaphysical Bleak Path.
 - **Narrative Phase:** Metaphysical Horror, Cosmic Mortality, The Great Betrayal.
-- **Player-Facing Trajectory `[PLAYER-FACING]`:** Lantern-bearers welcomed by the Custodians to diagnose failing passage. Corpses twitch, names weep dew, cremation releases fail. Seraphel arrives as donor with "stabilization apparatus."
+- **Player-Facing Trajectory `[PLAYER-FACING]`:** Lantern-bearers welcomed by the Custodians to diagnose failing passage. Corpses twitch, names weep dew, cremation releases fail. [[lord_seraphel|Seraphel]] arrives as donor with "stabilization apparatus."
 - **The Core Question:** *Why are the dead failing to pass?*
 - **The Required Turn `[DM-ONLY]`:**
   1. *Origin CONFIRMED:* The soulway chasm is an ancient Engine-fracture, not divine absence. Wound predates Silence; Lantern + Scribe dictation converge here.
@@ -81,7 +81,7 @@ Global: **Seraphel's Tenth Convergence** +2 if Reservoir ships; +1 if party lets
 └────────────────────┴──────────────────┴─────────────────┴──────────────┘
 ```
 
-**Revelation discipline:** Engine→Soul Crisis link CONFIRMED. Seraphel-as-harvester CONFIRMED via hardware, not monologue. Cael distant (letter only). Myrraen/Avarr backgrounded. Sea Beyond/final destination/Myrraen's rightness stay `[UNRESOLVED]`.
+**Revelation discipline:** Engine→[[cosmology_and_metaphysics|Soul Crisis]] link CONFIRMED. Seraphel-as-harvester CONFIRMED via hardware, not monologue. Cael distant (letter only). Myrraen/Avarr backgrounded. Sea Beyond/final destination/Myrraen's rightness stay `[UNRESOLVED]`.
 
 ---
 

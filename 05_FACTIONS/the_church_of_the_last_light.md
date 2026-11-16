@@ -9,7 +9,7 @@
 
 - **Classification:** Ascetic Monastic Fellowship & Hermit Network.
 - **Founding Era:** c. 42 AS (Formed in the early Age of Ashes).
-- **Spiritual Anchor:** **Brother Cael** (Orinth, the Laughing Sage) at **Lantern Chapel**.
+- **Spiritual Anchor:** **[[brother_cael_orinth|Brother Cael]]** (Orinth, the Laughing Sage) at **[[lantern_chapel|Lantern Chapel]]**.
 - **Core Principle:** **Choice Must Remain Possible.**
 - **Symbol:** A simple, unadorned iron lantern with an open shutter, casting light upon a path.
 - **Public Perception:** `[PLAYER-FACING]` A humble, harmless monastic order of mendicant friars who maintain roadside shelters in mountain passes, brew herbal teas, bury forgotten travelers, and preach that mortals should cherish questions more than easy answers.
@@ -19,7 +19,7 @@
 ## 2. Organization & The Philosophy of Weakness
 
 `[DM-ONLY]`
-Unlike the wealthy Keepers of Dawn or the politically powerful Council of Deans, the Church of the Last Light is **deliberately weak politically**:
+Unlike the wealthy [[the_keepers_of_dawn|Keepers of Dawn]] or the politically powerful Council of Deans, the Church of the Last Light is **deliberately weak politically**:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -59,7 +59,7 @@ Having observed the horrors of Avarr—where moral certainty turned a great civi
 ### Resources Available to Allied Adventurers
 - **Safe Houses:** Complete immunity from arrest within their secluded mountain hermitages; local magistrates consider raiding a Last Light hospice to be bad luck.
 - **Healing & Rest:** Unlimited access to herbal medicine, hot food, and restorative teas that remove exhaustion and psychic stress.
-- **Uncensored Lore:** Copies of ancient regional chronicles that bypass the redactions of New Ilya.
+- **Uncensored Lore:** Copies of ancient regional chronicles that bypass the redactions of [[new_ilya|New Ilya]].
 
 ### Faction NPC Archetype: Friar of the Last Light (CR 3)
 *Medium Humanoid, Any Good Alignment*  

@@ -1,6 +1,6 @@
 # Chapter 9: The Prophet of Return
 > *"You carry pipes and ledgers to a festival. They carry candles. Be kind. Be exact. Be unmoved."*
-> **Act V • Levels 15–16 • Sites: Solcaris Resonant Pylons, Whispering Wastes, Dreamkeeper waystation**
+> **[[act_V_overview|Act V]] • Levels 15–16 • Sites: Solcaris Resonant Pylons, Whispering Wastes, Dreamkeeper waystation**
 
 ---
 ## 1. Solcaris Under Occupation

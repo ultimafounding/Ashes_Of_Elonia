@@ -59,7 +59,7 @@ status: "debrief complete"
 ### 5. The descent (improvised)
 - The drop opened onto a **small ledge overlooking a scree pit**. Nobody realised it was scree until they were on it; climbing down called for a **Dex save**.
 - Everyone balanced on the ledge. On the rope, **John Fantasy failed the save and fell** — **Theo/Bog made a Strength check and caught him** on the way down.
-- *(This replaces the prep's three-pitch Catalogue Descent. It is now table canon.)*
+- *(This replaces the prep's three-pitch [[chapter_1_shattered_archive|Catalogue Descent]]. It is now table canon.)*
 
 ### 6. The archive room (still 1.1)
 - The party explored a **library-like room** and were surprised there was **no murderous cult imagery** waiting for them.

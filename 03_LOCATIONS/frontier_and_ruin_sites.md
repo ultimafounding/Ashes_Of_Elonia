@@ -22,7 +22,7 @@ Beyond the populated urban hubs and sovereign capitals of Elonia lie the physica
 - **Key Features:**
   - **The Shattered Sun-Dome:** A fallen dome four hundred feet across, radiating ambient radiant heat. Mundane metals left here glow red-hot within minutes.
   - **The Resonant Pylons:** Twelve colossal obelisks of golden alloy arranged in a mathematical circle. Built during the First Covenant to stabilize continental ley-lines.
-- **The Act V Threat `[DM-ONLY]`:** In Act V, Lord Seraphel’s vanguard seizes the Pylons, installing siphon-nodes to invert their solar resonance into soul-funnels feeding the Engine Deep.
+- **The [[act_V_overview|Act V]] Threat `[DM-ONLY]`:** In Act V, [[lord_seraphel|Lord Seraphel]]’s vanguard seizes the Pylons, installing siphon-nodes to invert their solar resonance into soul-funnels feeding the [[the_engine_deep_and_the_veil|Engine Deep]].
 
 ---
 
@@ -38,7 +38,7 @@ Beyond the populated urban hubs and sovereign capitals of Elonia lie the physica
 ---
 
 ### 3. The Star Roads Network (The Subterranean Arteries)
-- **Region:** Subterranean Elonia (Spanning from Port Meridian to Nythara and the Engine Deep).
+- **Region:** Subterranean Elonia (Spanning from [[port_meridian|Port Meridian]] to Nythara and the Engine Deep).
 - **Historic Architects:** Orinth, Selyra, and the ancient mortal engineers.
 - **Tone & Landscape:** Smooth, subterranean tubes bored through solid bedrock, paved with iridescent, luminous **Star-Glass**. Completely silent, sterile, and free of dust.
 - **Key Features:**

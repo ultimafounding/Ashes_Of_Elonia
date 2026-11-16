@@ -1,6 +1,6 @@
 # Chapter 8: The Siphon Vaults
 > *"Brass where there should be starlight. Invoices where there should be prayers."*
-> **Act IV • Levels 13–15 • Site: Bleak Path — Threshold, Chasm, Siphon-Arrays, Reservoir Vault**
+> **[[act_IV_overview|Act IV]] • Levels 13–15 • Site: Bleak Path — Threshold, Chasm, Siphon-Arrays, Reservoir Vault**
 
 ---
 ## 1. Threshold of Pale Dust (projection acclimation)
@@ -15,12 +15,12 @@ Hundreds of polished pipes, valve-regulators, soul-funnels tapped into wound-edg
 - **Sabotage options:** Vess's valve order (DC 16 Thieves'/Arcana per array, 3 arrays) or brute force (AC 19, 60 HP each, psychic backlash 3d8). Each disabled array: vortex eases visibly; Corvin clock -1 if fast (<5 rounds).
 
 ## 4. Reservoir Vault + Corvin (boss, Lv 14–15)
-Processing chamber: spirit-glass condensers, transit tubes north. **Arch-Magus Corvin** (CR 11, see allies/rivals file) + 2x **Vane Stokers (Fire Elemental-lite: use Azer stats)** + 1x **Null Archivist** (records, flees with copy if ignored).
+Processing chamber: spirit-glass condensers, transit tubes north. **[[major_allies_and_rivals|Arch-Magus Corvin]]** (CR 11, see allies/rivals file) + 2x **Vane Stokers (Fire Elemental-lite: use Azer stats)** + 1x **Null Archivist** (records, flees with copy if ignored).
 - **Corvin tactics:** Soul-Siphon Rifle from catwalk, *Wall of Force* to split Lantern-bearer, orders stokers to load final shipment. Offers once: *"The master gives death purpose. Stand down and be archons."*
 - **Detonation:** At 40 HP or all arrays disabled, Corvin triggers relay charges (3 rounds, audible). DC 17 to disarm each (2 charges) or evacuate with proof. Blast: 8d10 force + chasm surge (DC 17 Con or 2 exhaustions). He plane-shifts with ledger-copy; leaves orders-case behind if rushed (smoking-gun paper: *"Convergence requires northern stock by solstice — S."*).
 - **Take:** Stamped pipe section (10 lb), invoices, 1x sealed spirit-glass vial (evidence; do not open — Custodians bury it), Corvin's orders.
 
 ## 5. Aftermath
 Snap back to bodies; Sefra weeping with relief/grief. Moros reads stamp in silence, then: *"Then the sky-gold is a thief's lantern. May the Door judge him — and forgive us for trusting coin."* Custodians grant bone-seal writs (advantage vs Vareth law) but cannot field armies.
-- Surfacing news: riders from every road — Seraphel proclaims the Return; Winter Solstice; white-and-gold everywhere.
-- **Milestones:** Siphon proof seized → **Level 14**. Survive blast + expose Vane to Moros → **Level 15**. Open Act V.
+- Surfacing news: riders from every road — [[lord_seraphel|Seraphel]] proclaims the Return; Winter Solstice; white-and-gold everywhere.
+- **Milestones:** Siphon proof seized → **Level 14**. Survive blast + expose Vane to Moros → **Level 15**. Open [[act_V_overview|Act V]].

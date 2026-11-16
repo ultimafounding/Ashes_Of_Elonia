@@ -7,15 +7,15 @@
 ## 1. Executive Summary & Premise
 
 `[ESTABLISHED CANON]`
-**Ashes of Elonia** is a full-length, mythic-fantasy campaign for Dungeons & Dragons 5th Edition spanning levels 1 through 20. Anchored in the present day at **c. 1,000 AS** (After the Silence), the campaign charts a world that has spent ten centuries rebuilding in the aftermath of divine abandonment. Civilization has flourished through mortal ingenuity, arcane scholarship, and secular governance. Yet beneath the thriving city-states and universities lie the fractured foundations of an epoch erased by catastrophe and deliberate silence.
+**Ashes of Elonia** is a full-length, mythic-fantasy campaign for Dungeons & Dragons 5th Edition spanning levels 1 through 20. Anchored in the present day at **c. 1,000 AS** (After [[cosmology_and_metaphysics|the Silence]]), the campaign charts a world that has spent ten centuries rebuilding in the aftermath of divine abandonment. Civilization has flourished through mortal ingenuity, arcane scholarship, and secular governance. Yet beneath the thriving city-states and universities lie the fractured foundations of an epoch erased by catastrophe and deliberate silence.
 
 `[DM-ONLY]`
-The campaign begins as an archaeological salvage expedition beneath the coastal metropolis of Port Meridian. Gradually and inexorably, it transforms:
+The campaign begins as an archaeological salvage expedition beneath the coastal metropolis of [[port_meridian|Port Meridian]]. Gradually and inexorably, it transforms:
 1. An isolated archaeological anomaly becomes an investigation into systematic historical suppression.
 2. An inquiry into suppressed history exposes an empire-wide metaphysical failure: the **Soul Crisis**, wherein the dead are failing to pass beyond.
-3. The Soul Crisis is revealed to be neither natural nor caused by the departure of the gods, but an ancient wound inflicted by mortal ambition—the catastrophic **Ascension Engine**.
-4. The campaign's greatest patron and peer, the brilliant scholar **Seraphel**, is revealed to be covertly exploiting this soul-drain to fuel his own ascension as the **Hidden Tenth**.
-5. The campaign resolves not in an ordained divine restoration, but at the threshold of the **Open Veil**, where the characters must defeat manifest certainty itself (the **Avatar of the Last Mercy**) and author the unwritten future of humanity.
+3. The Soul Crisis is revealed to be neither natural nor caused by the departure of the gods, but an ancient wound inflicted by mortal ambition—the catastrophic **[[the_engine_deep_and_the_veil|Ascension Engine]]**.
+4. The campaign's greatest patron and peer, the brilliant scholar **[[lord_seraphel|Seraphel]]**, is revealed to be covertly exploiting this soul-drain to fuel his own ascension as the **Hidden Tenth**.
+5. The campaign resolves not in an ordained divine restoration, but at the threshold of the **Open Veil**, where the characters must defeat manifest certainty itself (the **[[the_avatar_of_the_last_mercy|Avatar of the Last Mercy]]**) and author the unwritten future of humanity.
 
 ---
 
@@ -50,19 +50,19 @@ To preserve the delicate distinction between table knowledge, historical fact, D
 
 ### Hierarchy of Authority
 1. **Tier 1 — Locked Canon:** Explicit definitive rulings from `00_SOURCE_OF_TRUTH/Ashes_of_Elonia_Official_Campaign_Bible_v1.docx`. Overrides all draft or ambiguous text.
-2. **Tier 2 — `Ain Elonar.docx`:** Primary authority for ancient history, mythic narrative, and the Nine Celestine *within the context of in-universe historical and mythic scholarship*.
+2. **Tier 2 — `Ain Elonar.docx`:** Primary authority for ancient history, mythic narrative, and the [[the_nine_celestine|Nine Celestine]] *within the context of in-universe historical and mythic scholarship*.
 3. **Tier 3 — Campaign Master Architecture (`01_CAMPAIGN/`):** Authoritative narrative architecture, act pacing, revelation timetables, and continuity rules derived from Tier 1 & 2.
 4. **Tier 4 — Player-Facing Material (`09_PLAYER_MATERIAL/`):** Reflects what modern Elonians believe. Contains partial truths, folk myths, and state-sanctioned redactions.
 
 ### The Immutable Canon Register
 - **Anchor Year:** The present campaign begins at **c. 1,000 AS**.
-- **The Ascendants:** A diverse, pluralistic modern movement of historians, archaeologists, and philosophers seeking recovered truth—**not an evil cult**.
+- **The [[the_ascendants|Ascendants]]:** A diverse, pluralistic modern movement of historians, archaeologists, and philosophers seeking recovered truth—**not an evil cult**.
 - **The Ancient Ascensionists:** Ancient reformers and magi who sought mortal self-reliance. Distinct from modern Ascendants.
 - **Seraphel, the Hidden Tenth:** The primary antagonist. Charismatic, intellectually peerless, and genuinely philanthropic. Privately seeks **his own apotheosis** into divinity, exploiting "divine return" rhetoric as camouflage.
 - **Myrraen, the Last Mercy:** Neither saint nor villain. Severed the divine link during the Silence because she believed perpetual divine shelter was infantalizing mortals.
-- **Brother Cael / Orinth:** The Laughing Sage alone remained behind on Elonia. Disguised as humble caretaker Brother Cael at Lantern Chapel. He is a witness and questioner, **never a puzzle-solver or oracle for the PCs**.
+- **[[brother_cael_orinth|Brother Cael]] / Orinth:** The Laughing Sage alone remained behind on Elonia. Disguised as humble caretaker Brother Cael at [[lantern_chapel|Lantern Chapel]]. He is a witness and questioner, **never a puzzle-solver or oracle for the PCs**.
 - **The Soul Crisis:** Originates from physical and spiritual damage inflicted on the soulways by the ancient **Ascension Engine**, *not* from the departure of the gods.
-- **The Blank Final Chapter:** The concluding chapter of the mythic codex *Ain Elonar* ("Of What Comes Next") is physically and metaphysically **blank**. No canonical ending exists prior to player decisions at the gaming table.
+- **The Blank Final Chapter:** The concluding chapter of the mythic codex *[[Ain_Elonar|Ain Elonar]]* ("[[chapter_12_what_comes_next|Of What Comes Next]]") is physically and metaphysically **blank**. No canonical ending exists prior to player decisions at the gaming table.
 - **The Avatar of the Last Mercy:** The climactic metaphysical manifestation of **certainty without doubt**—protective compassion stripped of mortal choice.
 
 ### The Protected Unknowns `[UNRESOLVED]`
@@ -82,7 +82,7 @@ Before session one, players and their characters understand the world through th
 - **The Age of Ashes:** The three centuries following the Silence were marked by famine, war, and collapse as miracle-dependent infrastructure failed.
 - **The Modern Renaissance:** Over the last seven centuries, mortals built secular civilizations through science, arcana, trade, and law. The Five Great Powers (Aurelian League, Republic of Ilya, The Verdancy, The Free Coast, Dominion of Vareth) maintain geopolitical balance.
 - **The Ruins:** Remnants of the Pre-Silence world (the "First Concord") litter the landscape. Excavating them is lucrative, politically sensitive, and perilous.
-- **Religious Life:** Faith exists through interpretive traditions (the Myrraenic Faith, Keepers of Dawn, Church of the Last Light). Divine magic is rare, channeled through echoes, memory, and personal conviction rather than direct divine dialogue.
+- **Religious Life:** Faith exists through interpretive traditions (the Myrraenic Faith, [[the_keepers_of_dawn|Keepers of Dawn]], [[the_church_of_the_last_light|Church of the Last Light]]). Divine magic is rare, channeled through echoes, memory, and personal conviction rather than direct divine dialogue.
 - **The Taboo of Return:** Speculation that the gods might return is widely viewed as fringe heresy, radical hope, or dangerous nostalgia.
 
 ---
@@ -159,7 +159,7 @@ To maintain dramatic momentum across the six acts, the DM tracks three overarchi
 
 - **Lines and Veils:** Establish prior to Session 0. Non-negotiable hard lines include sexual violence, harm to children, and gratuitous torture. Veils are recommended for explicit body horror during soulway distortions.
 - **The X-Card / Pause & Resume:** Table tools to halt or steer scenes that evoke personal trauma.
-- **The Bleak Path Briefing:** In Act IV, characters interact directly with the souls of the unpassed dead. The DM should check in with players regarding grief and the loss of loved ones prior to running these sequences.
+- **The Bleak Path Briefing:** In [[act_IV_overview|Act IV]], characters interact directly with the souls of the unpassed dead. The DM should check in with players regarding grief and the loss of loved ones prior to running these sequences.
 
 ---
 

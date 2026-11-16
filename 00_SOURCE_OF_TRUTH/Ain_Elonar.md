@@ -19,7 +19,7 @@ The oldest myths agree on this truth: the world waited. Whether it
 waited by design, by chance, or through some purpose hidden beyond
 understanding, no wisdom of god or mortal has ever answered. Yet in
 every ancient account - from the earliest temple inscriptions to the
-final writings preserved before the Silence - the same reality remains.
+final writings preserved before [[cosmology_and_metaphysics|the Silence]] - the same reality remains.
 The world was not made by the Nine. The Nine came to it.
 
 How they came is not known. The oldest priests spoke of the Sea Beyond,
@@ -373,7 +373,7 @@ philosophies emerging from its libraries as thousands traveled there
 seeking wisdom.
 
 Among all the cities of the ancient age, none became more beloved than
-Vale Myrr. Situated between forests and rivers, Vale Myrr grew around a
+[[vale_myrr_and_nythara|Vale Myrr]]. Situated between forests and rivers, Vale Myrr grew around a
 sanctuary founded by Myrraen herself. It possessed no walls, which
 shocked foreign visitors. When neighboring rulers questioned the wisdom
 of this decision, Myrraen is said to have replied, *"Those who seek
@@ -947,7 +947,7 @@ sacrifices were necessary.
 Thus began the descent. Entire populations vanished into increasingly
 dangerous experiments. Thousands died, then tens of thousands, and still
 the project continued. For the architects genuinely believed they stood
-upon the threshold of salvation. The horror of the Ascension Engine was
+upon the threshold of salvation. The horror of the [[the_engine_deep_and_the_veil|Ascension Engine]] was
 not malice; it was conviction.
 
 The first god to understand the danger was Varek, and what he discovered
@@ -1386,7 +1386,7 @@ Nine are believed to have emerged.
 
 *c. Unknown Duration*
 
-- **The Awakening:** The Nine Celestine awaken. Orinth becomes the first
+- **The Awakening:** The [[the_nine_celestine|Nine Celestine]] awaken. Orinth becomes the first
   known god to gain self-awareness; Selyra dreams the stars; Varek
   introduces mortality to the world.
 
@@ -1717,7 +1717,7 @@ history.*
 - **The Hidden God:** Orinth wanders Elonia in secret, his power greatly
   diminished.
 
-- **The Last Light:** The secretive Church of the Last Light forms to
+- **The Last Light:** The secretive [[the_church_of_the_last_light|Church of the Last Light]] forms to
   preserve the truth of the remaining god and historical memory.
 
 - **Mythologization:** True history fades into legend; the Celestine are
@@ -1764,7 +1764,7 @@ history.*
 
 *c. 1,100 AS*
 
-- **The Threshold:** The Ascendants actively seek methods to breach the
+- **The Threshold:** The [[the_ascendants|Ascendants]] actively seek methods to breach the
   Veil and recall the gods.
 
 - **The Keeper's Vigil:** The Church of the Last Light works quietly to

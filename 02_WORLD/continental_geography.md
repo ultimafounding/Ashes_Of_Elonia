@@ -37,7 +37,7 @@ The continent of **Elonia** spans roughly two thousand miles from its glaciated 
 ### 2.1 The Free Coast & Meridian Bay
 `[PLAYER-FACING]`
 - **Landscape:** A warm, temperate coastal shelf dominated by barrier islands, rocky peninsulas, salt marshes, and sprawling natural harbors.
-- **Key Features:** **Port Meridian**, the bustling cosmopolitan maritime hub built atop layered Pre-Silence foundations; the **Shattered Reefs**, where ancient aqueducts plunge directly into the ocean.
+- **Key Features:** **[[port_meridian|Port Meridian]]**, the bustling cosmopolitan maritime hub built atop layered Pre-Silence foundations; the **Shattered Reefs**, where ancient aqueducts plunge directly into the ocean.
 - **Climate:** Mediterranean. Mild, humid winters; long, sun-drenched summers marked by sudden afternoon sea-squalls.
 - **Strategic Value:** The primary commercial lung of Elonia. Nearly all maritime trade between the five powers flows through the Free Coast.
 
@@ -46,7 +46,7 @@ The continent of **Elonia** spans roughly two thousand miles from its glaciated 
 ### 2.2 The Lyceum Basin & The River Ilya
 `[PLAYER-FACING]`
 - **Landscape:** Vast, rolling alluvial plains fed by the wide, placid **River Ilya**, opening into the Gulf of Scholars. Cultivated fields of blue flax and terraced vineyards surround pristine ivory cities.
-- **Key Features:** **New Ilya**, the towering university-capital built upon the ruins of ancient Ilyanor; the **Sunken Conclave**, an ancient marble amphitheater now partially submerged by the river.
+- **Key Features:** **[[new_ilya|New Ilya]]**, the towering university-capital built upon the ruins of ancient Ilyanor; the **Sunken Conclave**, an ancient marble amphitheater now partially submerged by the river.
 - **Climate:** Cool, maritime temperate. Frequent river fogs, crisp autumns, and gentle, overcast winters.
 - **Strategic Value:** The intellectual and technological powerhouse of the continent.
 
@@ -73,7 +73,7 @@ The continent of **Elonia** spans roughly two thousand miles from its glaciated 
 ### 2.5 The Vareth Dune-Sea & The Ashen Lowlands
 `[PLAYER-FACING]`
 - **Landscape:** A vast, wind-scoured southern basin of pale white sands, black basalt cliffs, and subterranean cenotes.
-- **Key Features:** **Khar Vareth**, the colossal necropolis-city built into a sheer canyon of black stone; the **Plaza of Ten Thousand Names**, a massive funerary forum; the entrance to the **Bleak Basin**.
+- **Key Features:** **[[khar_vareth|Khar Vareth]]**, the colossal necropolis-city built into a sheer canyon of black stone; the **Plaza of Ten Thousand Names**, a massive funerary forum; the entrance to the **Bleak Basin**.
 - **Climate:** Arid desert. Scorching daytime temperatures exceeding 110°F; freezing desert nights; frequent howling sandstorms that unearth ancient tombs.
 - **Strategic Value:** The center of funerary scholarship, embalming industries, and ancestral records.
 
@@ -83,8 +83,8 @@ The continent of **Elonia** spans roughly two thousand miles from its glaciated 
 `[ESTABLISHED CANON]`
 - **Landscape:** A jagged, cloud-shrouded mountain range cutting across central Elonia. Glacial waterfalls cascade down sheer granite cliffs into mist-filled valleys.
 - **Key Features:**
-  - **Lantern Chapel:** A solitary, ancient stone hermitage perched on a wind-beaten crag, tended by Brother Cael `[DM-ONLY]`.
-  - **Vale Myrr:** An isolated, hidden alpine valley guarded by natural wards. Inside, perpetual spring reigns, preserving the radiant flora of Myrraen's ancient sanctuary.
+  - **[[lantern_chapel|Lantern Chapel]]:** A solitary, ancient stone hermitage perched on a wind-beaten crag, tended by [[brother_cael_orinth|Brother Cael]] `[DM-ONLY]`.
+  - **[[vale_myrr_and_nythara|Vale Myrr]]:** An isolated, hidden alpine valley guarded by natural wards. Inside, perpetual spring reigns, preserving the radiant flora of Myrraen's ancient sanctuary.
 - **Climate:** Alpine. Freezing winds, heavy snow on the high peaks, and perpetual, dense supernatural fog in the passes.
 
 ---
@@ -102,7 +102,7 @@ Beneath the physical surface of Elonia lies an ancient, forgotten network of tra
 ### 3.2 The Engine Deep
 `[DM-ONLY]`
 - Located miles beneath the central geological bedrock of Elonia.
-- A cyclopean subterranean cavern complex housing the titanic brass gears, ley-capacitors, and soul-funnels of the ancient **Ascension Engine**.
+- A cyclopean subterranean cavern complex housing the titanic brass gears, ley-capacitors, and soul-funnels of the ancient **[[the_engine_deep_and_the_veil|Ascension Engine]]**.
 - Gravity, time, and spatial dimensions warp near the central core, where the metaphysical wound of the soulways vents raw spiritual energy.
 
 ---
@@ -110,7 +110,7 @@ Beneath the physical surface of Elonia lies an ancient, forgotten network of tra
 ## 4. Environmental Anomalies Post-Silence
 
 `[PLAYER-FACING]`
-Following the Silence in 0 AS, several localized environmental phenomena plague the wilderness:
+Following [[cosmology_and_metaphysics|the Silence]] in 0 AS, several localized environmental phenomena plague the wilderness:
 - **The Ash-Fogs:** Sporadic, low-hanging gray mists that drain torchlight and cause compass needles to spin wildly.
 - **Soulway Resonance Wells:** Certain ancient ruins hum with an audible, low-frequency vibration that causes headaches, nosebleeds, and mild hallucinations in living mortals.
 - **Memory Shards:** Rare crystalline stones found in riverbeds that, when heated, briefly emit auditory echoes of ancient conversations spoken during the Divine Age.

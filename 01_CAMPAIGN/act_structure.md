@@ -9,11 +9,11 @@
 
 | Act | Title | Levels | Hub & Region | Core Dramatic Question | The Required Turn |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **I** | **Embers Beneath the Ashes** | 1–4 | Port Meridian | *Were the ancient Ascensionists monsters?* | They were legitimate human reformers; someone modern has tampered with their ruins. |
-| **II** | **The Forgotten Age** | 4–8 | New Ilya | *Who erased the truth of the Silence?* | History was deliberately sanitized by universities and magistrates; the Ascension Engine existed. |
-| **III** | **The Last Light** | 8–12 | Lantern Chapel | *Can divine testimony be trusted?* | Brother Cael is the god Orinth; divine protection became a cage that led to the Silence. |
-| **IV** | **The Missing Dead** | 12–15 | Khar Vareth | *Why are the dead failing to pass?* | The Soul Crisis stems from the ancient Engine wound, and someone modern is siphoning the dead. |
-| **V** | **The Returners** | 15–18 | Continental | *Are the ancient gods truly returning?* | The "Return" is a fraudulent front; Seraphel is harvesting souls for his own apotheosis. |
+| **I** | **Embers Beneath the Ashes** | 1–4 | [[port_meridian\|Port Meridian]] | *Were the ancient Ascensionists monsters?* | They were legitimate human reformers; someone modern has tampered with their ruins. |
+| **II** | **The Forgotten Age** | 4–8 | [[new_ilya\|New Ilya]] | *Who erased the truth of [[cosmology_and_metaphysics\|the Silence]]?* | History was deliberately sanitized by universities and magistrates; the [[the_engine_deep_and_the_veil\|Ascension Engine]] existed. |
+| **III** | **The Last Light** | 8–12 | [[lantern_chapel\|Lantern Chapel]] | *Can divine testimony be trusted?* | [[brother_cael_orinth\|Brother Cael]] is the god Orinth; divine protection became a cage that led to the Silence. |
+| **IV** | **The Missing Dead** | 12–15 | [[khar_vareth\|Khar Vareth]] | *Why are the dead failing to pass?* | The Soul Crisis stems from the ancient Engine wound, and someone modern is siphoning the dead. |
+| **V** | **The Returners** | 15–18 | Continental | *Are the ancient gods truly returning?* | The "Return" is a fraudulent front; [[lord_seraphel\|Seraphel]] is harvesting souls for his own apotheosis. |
 | **VI** | **The Last Mercy** | 18–20 | The Engine Deep & Open Veil | *Who holds the right to author the future?* | Defeat manifest certainty (the Avatar); author the blank final chapter of history. |
 
 ---
@@ -24,17 +24,17 @@
 - **Narrative Phase:** Archaeological Discovery & Local Wonder.
 - **Level Band:** 1–4 (Tier 1: Local Adventurers).
 - **Primary Hub:** Port Meridian (Warehouse Nine, The Gilded Docks, Antiquities Exchange).
-- **Core Adventure Sites:** The Shattered Archive, The Catalogue Descent, The Witness Scriptorium, The Star Chamber.
+- **Core Adventure Sites:** The Shattered Archive, The Catalogue Descent, The [[chapter_1_shattered_archive|Witness Scriptorium]], The [[chapter_2_stair_and_star|Star Chamber]].
 - **Thematic Question:** *What was buried beneath the modern world, and why?*
 
 ### 2. Player-Facing Trajectory `[PLAYER-FACING]`
-The party begins as hired specialists, excavators, and guards contracted by salvage merchant **Helena Voss** and junior archivist **Arlen Marr**. They are tasked with clearing collapsed subterranean tunnels beneath a waterfront warehouse in Port Meridian. The public belief is that beneath the city lie crude Pre-Silence crypts or lairs of ancient subterranean vermin.
+The party begins as hired specialists, excavators, and guards contracted by salvage merchant **[[major_allies_and_rivals|Helena Voss]]** and junior archivist **Arlen Marr**. They are tasked with clearing collapsed subterranean tunnels beneath a waterfront warehouse in Port Meridian. The public belief is that beneath the city lie crude Pre-Silence crypts or lairs of ancient subterranean vermin.
 
 ### 3. Key Dramatis Personae & Factions
 - **Helena Voss:** Pragmatic salvage contractor. Cares about salvage rights, permits, and coin.
 - **Arlen Marr:** Sincere, nervous junior scholar. Passionate about recovering pre-Silence truth.
-- **Lord Seraphel:** Introduced as a visiting aristocratic philanthropist and patron of the Ascendants. Polite, generous, sharp-witted, and genuinely encouraging.
-- **Archive Cartels:** Ruthless black-market traffickers who deal in forbidden antiquities.
+- **Lord Seraphel:** Introduced as a visiting aristocratic philanthropist and patron of the [[the_ascendants|Ascendants]]. Polite, generous, sharp-witted, and genuinely encouraging.
+- **[[the_archive_cartels|Archive Cartels]]:** Ruthless black-market traffickers who deal in forbidden antiquities.
 - **The Ascendants:** Portrayed as eager, diverse independent scholars.
 
 ### 4. The Required Turn `[DM-ONLY]`
@@ -43,7 +43,7 @@ The players expect the ancient Ascensionists to be typical evil necromancers or 
 ### 5. Act Climax & State Change
 - **Climactic Encounter:** A race to secure the *Catalogue Codex* in the Star Chamber against a strike team dispatched by the Archive Cartels, culminating in the collapse of the upper vaults.
 - **World-State Change:** The party proves their mettle and recovers incontrovertible Pre-Silence documents. Municipal magistrates attempt to seize the find, but Lord Seraphel steps in, uses his immense wealth and legal influence to protect the party, and awards them a full academic fellowship in New Ilya.
-- **Hand-Off to Act II:** Seraphel invites the party to travel with him to the Great University of New Ilya to authenticate the *Catalogue Codex* at the central archives.
+- **Hand-Off to [[act_II_overview|Act II]]:** Seraphel invites the party to travel with him to the Great University of New Ilya to authenticate the *Catalogue Codex* at the central archives.
 
 ---
 
@@ -63,7 +63,7 @@ Arriving in the shining ivory towers of New Ilya, the party enters a world of in
 - **Dean Arcturus Vale:** Master of the Great Library. A strict institutionalist who believes dangerous knowledge must be quarantined to protect public tranquility.
 - **Lysa Corren:** A radical, underground Ascendant scholar fighting against university censorship.
 - **Lord Seraphel:** The party's steadfast champion. He funds their research, secures library access, and laments the narrow-mindedness of the conservative deans.
-- **The Keepers of Dawn:** A conservative religious order that views inquiry into the Silence as blasphemous hubris.
+- **The [[the_keepers_of_dawn|Keepers of Dawn]]:** A conservative religious order that views inquiry into the Silence as blasphemous hubris.
 - **The Inquisitors of the Athenaeum Null:** Armed censors tasked with confiscating unauthorized historical texts.
 
 ### 4. The Required Turn `[DM-ONLY]`
@@ -72,7 +72,7 @@ The party infiltrates the sealed subterranean vaults of the **Athenaeum Null**. 
 ### 5. Act Climax & State Change
 - **Climactic Encounter:** The party is ambushed inside the Athenaeum Null by elite censors. They must escape through the flooded catacombs while safeguarding the *Annales of Concord* and the *Broken Seal of Solcaris*.
 - **World-State Change:** The party becomes persona non grata among New Ilya's academic establishment. Seraphel uses his private estate to shelter them, but informs them that the seal they recovered can only be authenticated by one surviving relic: the legendary *Lantern of the Last Light*, kept at an ancient hermitage in the mist-shrouded Weeping Ridge.
-- **Hand-Off to Act III:** The party flees New Ilya into the frontier crags, following Seraphel's maps toward the secluded sanctuary known as Lantern Chapel.
+- **Hand-Off to [[act_III_overview|Act III]]:** The party flees New Ilya into the frontier crags, following Seraphel's maps toward the secluded sanctuary known as Lantern Chapel.
 
 ---
 
@@ -90,11 +90,11 @@ The characters journey into the isolated mountains, arriving at **Lantern Chapel
 
 ### 3. Key Dramatis Personae & Factions
 - **Brother Cael:** Mild-mannered, humorous, and deeply perceptive. He asks probing questions about why the party wants the truth, but never gives direct answers or solves their puzzles.
-- **The Church of the Last Light:** A tiny, impoverished monastic order dedicated to maintaining candles in the dark and preserving free inquiry.
+- **The [[the_church_of_the_last_light|Church of the Last Light]]:** A tiny, impoverished monastic order dedicated to maintaining candles in the dark and preserving free inquiry.
 - **Shadows of the Forgotten:** Formless psychic entities born from suppressed historical memory that besiege the chapel on moonless nights.
 
 ### 4. The Required Turn `[DM-ONLY]`
-Through meticulous investigation of Cael's personal ledgers (which span eight centuries in identical handwriting) and a moment where an ancient Celestine ward reacts exclusively to his touch, the players pierce his disguise: **Brother Cael is Orinth, the Laughing Sage—one of the Nine Celestine who secretly stayed behind**.
+Through meticulous investigation of Cael's personal ledgers (which span eight centuries in identical handwriting) and a moment where an ancient Celestine ward reacts exclusively to his touch, the players pierce his disguise: **Brother Cael is Orinth, the Laughing Sage—one of the [[the_nine_celestine|Nine Celestine]] who secretly stayed behind**.
 
 When confronted, Orinth does not strike them down or claim divine majesty. He weeps, laughs, and serves them more tea. He confirms the staggering reality:
 1. The Celestine did not leave out of anger or abandonment.
@@ -105,7 +105,7 @@ When confronted, Orinth does not strike them down or claim divine majesty. He we
 ### 5. Act Climax & State Change
 - **Climactic Encounter:** A siege of Lantern Chapel by night-horrors drawn to the divine light. With the party fighting on the parapets, Orinth allows them to borrow the *Lantern of the Last Light*, trusting mortal courage over divine intervention.
 - **World-State Change:** The party's understanding of the cosmos is permanently re-anchored. They now know the gods are neither all-knowing despots nor absent parents, but fallible powers who broke the world trying to protect it. Orinth points them toward the southern desert city of Khar Vareth, where the screams of the unpassed dead are thickest.
-- **Hand-Off to Act IV:** Armed with the Lantern and Orinth's blessing, the party journeys south to investigate the mortuary towers of Khar Vareth.
+- **Hand-Off to [[act_IV_overview|Act IV]]:** Armed with the Lantern and Orinth's blessing, the party journeys south to investigate the mortuary towers of Khar Vareth.
 
 ---
 
@@ -119,7 +119,7 @@ When confronted, Orinth does not strike them down or claim divine majesty. He we
 - **Thematic Question:** *What happens when death itself breaks down, and who profits from the wreckage?*
 
 ### 2. Player-Facing Trajectory `[PLAYER-FACING]`
-In Khar Vareth, mortality is an exact science. The **Vareth Custodians** have recorded every birth and death for a millennium. But recently, their rituals have collapsed. Ghosts crowd the streets; bodies sit upright during embalming; the vast metaphysical conduit known as the soulway is jammed with spiritual agony. The party descends into the crypts to repair the funerary conduits.
+In Khar Vareth, mortality is an exact science. The **[[the_vareth_custodians|Vareth Custodians]]** have recorded every birth and death for a millennium. But recently, their rituals have collapsed. Ghosts crowd the streets; bodies sit upright during embalming; the vast metaphysical conduit known as the soulway is jammed with spiritual agony. The party descends into the crypts to repair the funerary conduits.
 
 ### 3. Key Dramatis Personae & Factions
 - **High Custodian Moros:** Chief mortuary necrologist of Vareth. Exhausted, terrified, and desperate for outside aid.
@@ -135,7 +135,7 @@ Examining the hallmark metallurgical runes and serial stamps on the machinery, t
 ### 5. Act Climax & State Change
 - **Climactic Encounter:** The party confronts Seraphel's elite retrieval force inside the Siphon-Vaults beneath Khar Vareth. Seraphel's trusted lieutenant, Arch-Magus Corvin, detonates the local relays to cover his escape, nearly collapsing the boundary between life and death.
 - **World-State Change:** The facade shatters. The party realizes their greatest patron and friend is the architect of the greatest crime in modern history. They race to the surface to expose him, only to discover that Seraphel has already departed for the capital, having launched his masterstroke.
-- **Hand-Off to Act V:** The party receives urgent reports from across the continent: Seraphel has made a public proclamation that the Celestine are returning, whipping the population into religious frenzy.
+- **Hand-Off to [[act_V_overview|Act V]]:** The party receives urgent reports from across the continent: Seraphel has made a public proclamation that the Celestine are returning, whipping the population into religious frenzy.
 
 ---
 
@@ -152,9 +152,9 @@ Examining the hallmark metallurgical runes and serial stamps on the machinery, t
 Elonia is consumed by wildfire hysteria. Proclaiming the dawn of the "First Concord Returned," Seraphel's organization—now openly calling themselves **The Returners**—announces that the ancient gods have heard humanity's prayers and will break through the Veil on the night of the Winter Solstice. Kings, senators, and commoners embrace Seraphel as the savior of the world. Denouncing him brings accusations of treason and blasphemy.
 
 ### 3. Key Dramatis Personae & Factions
-- **Lord Seraphel (The Prophet of Return):** Radiating charismatic authority, clothed in white and gold. He argues that humanity has suffered enough in the dark, and that he is merely the humble herald of restoration.
+- **Lord Seraphel (The [[chapter_9_prophet_of_return|Prophet of Return]]):** Radiating charismatic authority, clothed in white and gold. He argues that humanity has suffered enough in the dark, and that he is merely the humble herald of restoration.
 - **Seraphel's Inner Circle:** Fanatical archmages, paladins, and scholars who believe that whatever the moral cost, godhood is humanity's rightful inheritance.
-- **The Dreamkeepers of Nythara:** An elusive order guarding Selyra's ancient prophecies, who possess the navigational keys to the Star Roads.
+- **The [[the_dreamkeepers_of_nythara|Dreamkeepers]] of Nythara:** An elusive order guarding Selyra's ancient prophecies, who possess the navigational keys to the Star Roads.
 - **The Loyal Allied Front:** A desperate coalition assembled by the party—including Brother Cael, Helena Voss, Lysa Corren, and surviving Custodians.
 
 ### 4. The Required Turn `[DM-ONLY]`
@@ -164,7 +164,7 @@ Instead, Seraphel's mathematical array inverts the Veil's pressure. It uses the 
 ### 5. Act Climax & State Change
 - **Climactic Encounter:** The Battle of the Star Road Nexus. The party assaults the central conduit hub, battling Seraphel's high vanguard to seize the *Keys of Nythara* and breach the subterranean seal to the world's deep roots.
 - **World-State Change:** The ritual begins. The sky above Elonia turns to fractured gold and violet; the stars shudder; tectonic tremors shake the continents as the dormant Ascension Engine awakens. The party plunges into the subterranean abyss, following the ley-conduits toward the world's lowest point.
-- **Hand-Off to Act VI:** The party descends into the abyssal vaults of **The Engine Deep**, where the fate of reality will be settled.
+- **Hand-Off to [[act_VI_overview|Act VI]]:** The party descends into the abyssal vaults of **The Engine Deep**, where the fate of reality will be settled.
 
 ---
 
@@ -190,7 +190,7 @@ The party battles **Seraphel, the Ascending Tenth**. In an epic multi-stage conf
 
 #### Phase 3: The Manifestation of Certainty (Level 20)
 With Seraphel's conduits shattered, the enormous pressure of the wounded soulways tears a colossal rift in the Veil: **The Open Veil**. 
-From the tear emerges the climactic cosmic entity: the **Avatar of the Last Mercy**.
+From the tear emerges the climactic cosmic entity: the **[[the_avatar_of_the_last_mercy|Avatar of the Last Mercy]]**.
 
 `[ESTABLISHED CANON]`
 The Avatar is **not evil Myrraen**. It is **protective compassion stripped of doubt—certainty made manifest**. Sensing the cosmic agony of humanity, it seeks to envelop all of Elonia in an immutable, eternal crystalline stasis: a paradise where no pain can ever exist, because no mortal will ever have the ability to make a choice.
@@ -203,7 +203,7 @@ The party fights the Avatar not as slayers of a demon, but as champions of morta
 
 Upon the defeat of the Avatar, the metaphysical rift stabilizes. Trapped souls flow freely into the Great Passage; the hum of the Engine ceases forever. 
 
-Standing before the quiet, shimmering threshold of the Veil, the party is joined by **Brother Cael (Orinth)**. The god sets the ancient codex *Ain Elonar* upon a stone pedestal. The final chapter, **"Of What Comes Next,"** lies open and blank.
+Standing before the quiet, shimmering threshold of the Veil, the party is joined by **Brother Cael (Orinth)**. The god sets the ancient codex *[[Ain_Elonar|Ain Elonar]]* upon a stone pedestal. The final chapter, **"[[chapter_12_what_comes_next|Of What Comes Next]],"** lies open and blank.
 
 Orinth bows his head to the characters and speaks:
 > *"The Nine shaped the earth, but we could not govern your hearts. Seraphel sought to rule you; Myrraen sought to shield you. But neither gods nor scholars have the right to write this final page. You have carried humanity's burden through fire and ash. The pen is yours."*

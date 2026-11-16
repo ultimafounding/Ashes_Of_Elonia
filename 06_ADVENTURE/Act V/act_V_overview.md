@@ -10,11 +10,11 @@
 - **Level Band:** 15 to 18 (Tier 3/4 transition).
 - **Geographic Setting:** Ruins of Solcaris, Whispering Wastes, Star Road transit network; Observatory of Nythara (Silver Horns).
 - **Narrative Phase:** World-Scale Crisis, Fanaticism, Race Against Apotheosis.
-- **Player-Facing Trajectory `[PLAYER-FACING]`:** The continent celebrates. Seraphel the Prophet fills plazas; councils surrender keys; paladins march. The party are traitors, killjoys, heretics — carrying stamped pipes and invoices no crowd wants to read.
+- **Player-Facing Trajectory `[PLAYER-FACING]`:** The continent celebrates. [[lord_seraphel|Seraphel]] the Prophet fills plazas; councils surrender keys; paladins march. The party are traitors, killjoys, heretics — carrying stamped pipes and invoices no crowd wants to read.
 - **The Core Question:** *Are the ancient gods truly returning?*
 - **The Required Turn `[DM-ONLY]`:**
   1. *Fraudulent front:* Nythara calculations prove the Solstice ritual does not summon the Nine — it **inverts** the Veil, fusing harvested souls + ambient ether into **one vessel: Seraphel**.
-  2. *Tenth-node geometry:* Star Road conduits converge on the Engine Deep dais, not the sky.
+  2. *Tenth-node geometry:* Star Road conduits converge on the [[the_engine_deep_and_the_veil|Engine Deep]] dais, not the sky.
 - **The Enemy's Shape:** Two tiers — grieving public (never mock) + Inner Circle architects (Corvin, zealot vanguard, void-artificers). Fight the geometry, not the grieving.
 
 ---
@@ -81,7 +81,7 @@ Winter Solstice = hard timer: 14 days from Act V start. Each long rest or wasted
 └────────────────────┴──────────────────┴─────────────────┴──────────────┘
 ```
 
-**Revelation discipline:** Apotheosis CONFRONTED (named, evidenced). Soul Crisis = continental emergency. Cael = moral anchor (letters, no manifestation). Selyra = possibility not fate. Sea Beyond/final destination/Myrraen's rightness/blank chapter stay `[UNRESOLVED]`.
+**Revelation discipline:** Apotheosis CONFRONTED (named, evidenced). [[cosmology_and_metaphysics|Soul Crisis]] = continental emergency. Cael = moral anchor (letters, no manifestation). Selyra = possibility not fate. Sea Beyond/final destination/Myrraen's rightness/blank chapter stay `[UNRESOLVED]`.
 
 ---
 

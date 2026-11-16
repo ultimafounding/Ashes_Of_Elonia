@@ -9,7 +9,7 @@
 
 - **Classification:** Transnational Criminal Syndicate, Black-Market Antiquities Cartel & Salvage Guild.
 - **Founding Era:** c. 400 AS (Formed during the economic rise of the Free Coast).
-- **Headquarters:** Secret auction vaults beneath the **Antiquities Exchange** in Port Meridian, with covert branches in New Ilya and Solcaris Nova.
+- **Headquarters:** Secret auction vaults beneath the **[[port_meridian|Antiquities Exchange]]** in Port Meridian, with covert branches in [[new_ilya|New Ilya]] and Solcaris Nova.
 - **Supreme Factor:** **Vance Rorik** ("The Ledger Master").
 - **Core Principle:** **Knowledge and Relics Possess Material Market Value.**
 - **Symbol:** A split bronze coin over an open lockpick.
@@ -21,8 +21,8 @@
 
 `[ESTABLISHED CANON]`
 The Archive Cartels serve three distinct narrative and tactical roles across the campaign:
-1. **The Rivals of Act I:** In Port Meridian, the Cartels operate competing salvage teams racing Helena Voss and the party to loot the Shattered Archive. They have no interest in historical preservation; they rip illuminated pages out of codices to sell to private collectors.
-2. **The Unwitting Accomplices of House Vane:** Lord Seraphel’s agents use the Cartels to acquire rare Pre-Silence alloy pipes, star-glass lenses, and ancient seals. The Cartels sell to House Vane enthusiastically because Seraphel pays triple market rates in pure gold, completely indifferent to what he uses the artifacts for.
+1. **The Rivals of [[act_I_overview|Act I]]:** In Port Meridian, the Cartels operate competing salvage teams racing [[major_allies_and_rivals|Helena Voss]] and the party to loot the [[chapter_1_shattered_archive|Shattered Archive]]. They have no interest in historical preservation; they rip illuminated pages out of codices to sell to private collectors.
+2. **The Unwitting Accomplices of House Vane:** [[lord_seraphel|Lord Seraphel]]’s agents use the Cartels to acquire rare Pre-Silence alloy pipes, star-glass lenses, and ancient seals. The Cartels sell to House Vane enthusiastically because Seraphel pays triple market rates in pure gold, completely indifferent to what he uses the artifacts for.
 3. **The Black-Market Pipeline:** If the party misses crucial clues or ancient keys in ruins, the Cartels provide a natural fallback vector: the missing leaf or token appears on the black auction block in Port Meridian or New Ilya the following week.
 
 ---

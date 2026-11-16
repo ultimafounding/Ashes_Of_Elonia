@@ -1,13 +1,13 @@
 # Chapter 10: The Clock That Lies
 > *"The heavens do not lie. The hands placed over them do."*
-> **Act V • Levels 16–18 • Site: Nythara — Stair, Sanctuary, Pools, Clock, Nexus**
+> **[[act_V_overview|Act V]] • Levels 16–18 • Site: Nythara — Stair, Sanctuary, Pools, Clock, Nexus**
 
 ---
 ## 1. Stair of Eclipses (3,000 steps, sub-zero)
 DC 15 Con per hour or exhaustion (Dreamkeeper seals grant advantage). Glacial wyrm circles (social: DC 18 Persuasion/History — *"we climb to unmake a throne, not take one"* — or CR 13 combat avoided by offering Memory Leaf). Stalker-automaton at step 2,000 (1x **Shield Guardian + Lightning Bolt**, star-glass core = pylon-key socket).
 
 ## 2. Roofless Sanctuary + Mirror Pools (possibility, not fate)
-Blindfolded Dreamkeepers admit key-bearers only. Pools: DC 16 Wis — branching skies, one bloodied; failure: disoriented (stunned 1 round, haunted 1 day). Doctrine spoken once: *"Selyra saw branchings. Seraphel prunes to one."* Front +1 if party kneels to no vision (humility rite).
+Blindfolded [[the_dreamkeepers_of_nythara|Dreamkeepers]] admit key-bearers only. Pools: DC 16 Wis — branching skies, one bloodied; failure: disoriented (stunned 1 round, haunted 1 day). Doctrine spoken once: *"Selyra saw branchings. [[lord_seraphel|Seraphel]] prunes to one."* Front +1 if party kneels to no vision (humility rite).
 
 ## 3. Celestial Clock — Inversion Decrypt (apotheosis CONFRONTED)
 Seraphel's charts + matrix engine. Skill challenge (5 successes before 3 fails, DC 17 Arcana/Religion/Investigation aidable):
@@ -24,4 +24,4 @@ Subterranean star-glass platform warming up. **Inner Circle line:** 2x Void-Arti
 - **Opening the shaft:** Keys turned → vertical plunge ignites violet-gold. Sky above cracks. No persuasion left to do. Jump.
 
 ## 5. Milestone
-Decrypt + hold Nexus → **Level 17**, then **Level 18** on the plunge lip. Open Act VI. Convergence locked — carry current value into Deep.
+Decrypt + hold Nexus → **Level 17**, then **Level 18** on the plunge lip. Open [[act_VI_overview|Act VI]]. Convergence locked — carry current value into Deep.

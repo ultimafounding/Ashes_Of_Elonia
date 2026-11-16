@@ -3,20 +3,112 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:00_SOURCE_OF_TRUTH",
+      "color": {
+        "a": 1,
+        "rgb": 15249483
+      }
+    },
+    {
+      "query": "path:01_CAMPAIGN",
+      "color": {
+        "a": 1,
+        "rgb": 14248795
+      }
+    },
+    {
+      "query": "path:02_WORLD",
+      "color": {
+        "a": 1,
+        "rgb": 5223333
+      }
+    },
+    {
+      "query": "path:03_LOCATIONS",
+      "color": {
+        "a": 1,
+        "rgb": 7323507
+      }
+    },
+    {
+      "query": "path:04_NPCS",
+      "color": {
+        "a": 1,
+        "rgb": 10976214
+      }
+    },
+    {
+      "query": "path:05_FACTIONS",
+      "color": {
+        "a": 1,
+        "rgb": 14715708
+      }
+    },
+    {
+      "query": "path:06_ADVENTURE",
+      "color": {
+        "a": 1,
+        "rgb": 5938144
+      }
+    },
+    {
+      "query": "path:07_SESSIONS",
+      "color": {
+        "a": 1,
+        "rgb": 5227496
+      }
+    },
+    {
+      "query": "path:08_MONSTERS_AND_ITEMS",
+      "color": {
+        "a": 1,
+        "rgb": 13660083
+      }
+    },
+    {
+      "query": "path:09_PLAYER_MATERIAL",
+      "color": {
+        "a": 1,
+        "rgb": 10211162
+      }
+    },
+    {
+      "query": "path:10_LIVE_CAMPAIGN_STATE",
+      "color": {
+        "a": 1,
+        "rgb": 14703226
+      }
+    },
+    {
+      "query": "path:_templates",
+      "color": {
+        "a": 1,
+        "rgb": 9079434
+      }
+    },
+    {
+      "query": "path:HOME",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4834998930964822,
-  "close": false
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 0.9,
+  "lineSizeMultiplier": 0.8,
+  "collapse-forces": false,
+  "centerStrength": 0.45,
+  "repelStrength": 12,
+  "linkStrength": 0.8,
+  "linkDistance": 200,
+  "scale": 0.05267489711934149,
+  "close": true
 }

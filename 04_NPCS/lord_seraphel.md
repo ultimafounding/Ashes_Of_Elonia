@@ -7,7 +7,7 @@
 
 ## 1. Character Overview
 
-- **Full Name & Titles:** Lord Seraphel of House Vane; High Patron of the Ascendants; Benefactor of the Grand Lyceum; The Prophet of Return; *The Hidden Tenth*.
+- **Full Name & Titles:** Lord Seraphel of House Vane; High Patron of the [[the_ascendants|Ascendants]]; Benefactor of the Grand Lyceum; The [[chapter_9_prophet_of_return|Prophet of Return]]; *The Hidden Tenth*.
 - **Appearance:** In his early forties; strikingly elegant, with silver-threaded platinum hair, calm slate-gray eyes, and impeccable posture. Wears tailored robes of midnight-blue velvet and silver silk, fastened with a simple brass brooch bearing the Vane falcon with calipers. Speaks in a warm, resonant, measured baritone.
 - **Canonical Role:** `[DM-ONLY]` The primary antagonist of *Ashes of Elonia*.
 - **Public Alignment:** Neutral Good (Philosopher-Philanthropist).
@@ -21,7 +21,7 @@
 Lord Seraphel is the most beloved intellectual aristocrat in the Republic of Ilya. A self-made scholar and heir to the Vane mercantile foundries, he donates millions of gold pieces to archaeological salvage, finances university scholarships for impoverished students, and publicly advocates for uncovering the true history of the Divine Age. He is polite, generous, patient with fools, and fiercely defends young researchers against reactionary censors.
 
 ### The Secret Reality `[DM-ONLY]`
-Seraphel is a monster born of pure intellect and absolute certainty. Decades ago, while exploring ancient subterranean foundations, he discovered the surviving conduits of the ancient **Ascension Engine** and realized the truth of the **Soul Crisis**: millions of unpassed human souls were trapped in the fractured soulways.
+Seraphel is a monster born of pure intellect and absolute certainty. Decades ago, while exploring ancient subterranean foundations, he discovered the surviving conduits of the ancient **[[the_engine_deep_and_the_veil|Ascension Engine]]** and realized the truth of the **[[cosmology_and_metaphysics|Soul Crisis]]**: millions of unpassed human souls were trapped in the fractured soulways.
 
 Instead of seeking to repair the damage or begging for the return of the ancient gods, Seraphel arrived at a chilling conclusion:
 1. The ancient Celestine were cowardly, negligent caretakers who abandoned mortals after failing them.
@@ -68,10 +68,10 @@ Instead of seeking to repair the damage or begging for the return of the ancient
 - **Mannerisms:** Never raises his voice; never sneers or behaves like a cartoon villain. He listens with complete attention, tilting his head slightly, validating the party's arguments before dissecting them.
 - **The Philosophy of Compassion:** Seraphel genuinely hates suffering. He views himself as a surgeon making a terrible, necessary incision to save a dying patient.
 - **Dialogue Triggers:**
-  - *When meeting the party in Act I:* *"The past does not belong to the magistrates, my friends. It belongs to anyone with the courage to bring a lamp into the dark. Consider my purse at your disposal."*
-  - *When debating Dean Arcturus Vale in Act II:* *"Ignorance has never protected a single soul, Dean. It merely guarantees that when the ceiling falls, we die in the dark."*
-  - *When confronted in Act IV:* *"You think me a thief? Those souls were screaming in crystalline stasis, going nowhere! I did not break the soulways—the ancient reformers broke them. I am simply building an engine to turn their grief into our salvation."*
-  - *Atop the Apotheosis Dais in Act VI:* *"Look at history! A thousand years of plague, famine, and petty kings butchering each other for borderlines. If I ascend, no child will ever starve. I will be the shield Myrraen was too cowardly to remain."*
+  - *When meeting the party in [[act_I_overview|Act I]]:* *"The past does not belong to the magistrates, my friends. It belongs to anyone with the courage to bring a lamp into the dark. Consider my purse at your disposal."*
+  - *When debating Dean [[major_allies_and_rivals|Arcturus Vale]] in [[act_II_overview|Act II]]:* *"Ignorance has never protected a single soul, Dean. It merely guarantees that when the ceiling falls, we die in the dark."*
+  - *When confronted in [[act_IV_overview|Act IV]]:* *"You think me a thief? Those souls were screaming in crystalline stasis, going nowhere! I did not break the soulways—the ancient reformers broke them. I am simply building an engine to turn their grief into our salvation."*
+  - *Atop the Apotheosis Dais in [[act_VI_overview|Act VI]]:* *"Look at history! A thousand years of plague, famine, and petty kings butchering each other for borderlines. If I ascend, no child will ever starve. I will be the shield Myrraen was too cowardly to remain."*
 
 ---
 

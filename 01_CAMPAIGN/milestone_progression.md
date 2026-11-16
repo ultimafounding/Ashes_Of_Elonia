@@ -46,9 +46,9 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 ### Tier 1: Local Adventurers (Act I — Port Meridian)
 
 #### Level 1 → Level 2: The Witness Scriptorium
-- **Narrative Milestone:** Breaching Warehouse Nine, surviving the Catalogue Descent and the Hall of Records, forcing the brass pneumatic door, translating the *Oath of the Scriptorium*, and recovering the Catalogue Index Tablet.
-- **World State Shift:** The party proves the ancient Ascensionists were civic reformers, earns Helena Voss's professional trust, and learns that a modern competitor — the Breakers — reached the Scriptorium first.
-- **Key Resources:** 2nd-level features unlocked; the Index Tablet points at the Star Chamber.
+- **Narrative Milestone:** Breaching Warehouse Nine, surviving the [[chapter_1_shattered_archive|Catalogue Descent]] and the Hall of Records, forcing the brass pneumatic door, translating the *Oath of the Scriptorium*, and recovering the Catalogue Index Tablet.
+- **World State Shift:** The party proves the ancient Ascensionists were civic reformers, earns [[major_allies_and_rivals|Helena Voss]]'s professional trust, and learns that a modern competitor — the Breakers — reached the Scriptorium first.
+- **Key Resources:** 2nd-level features unlocked; the Index Tablet points at the [[chapter_2_stair_and_star|Star Chamber]].
 
 #### Level 2 → Level 3: The Star Chamber
 - **Narrative Milestone:** Taking Helena's two-day overland charter up the old cliff stairstep, surviving the gale, the crumbled steps, and the reef-crawlers, reaching the Star Chamber, aligning Selyra's Eye, lifting the intact *Catalogue Codex*, and surviving the Cartel breach.
@@ -56,8 +56,8 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 - **Key Resources:** A reliable route to the lower vault; Cartel survey chits and a prisoner who can name Rorik's buyer; the Codex, the transit-map rubbing, and the first concrete lead toward the linked nodes.
 
 #### Level 3 → Level 4: The Gilded Docks Inquest & Seraphel's Patronage
-- **Narrative Milestone:** Escaping the collapsing Star Chamber and the Sea Cliff Road, and standing trial at the Gilded Docks Inquest — where Lord Seraphel pays their tax and sponsors them.
-- **World State Shift:** Act I concludes. Lord Seraphel sponsors the party, providing travel warrants, lavish stipends, and letters of introduction to the Grand Lyceum of New Ilya.
+- **Narrative Milestone:** Escaping the collapsing Star Chamber and the Sea Cliff Road, and standing trial at the [[session_06_gilded_docks_inquest|Gilded Docks Inquest]] — where [[lord_seraphel|Lord Seraphel]] pays their tax and sponsors them.
+- **World State Shift:** [[act_I_overview|Act I]] concludes. Lord Seraphel sponsors the party, providing travel warrants, lavish stipends, and letters of introduction to the Grand Lyceum of [[new_ilya|New Ilya]].
 - **Key Resources:** Feat / Ability Score Improvement; party gains an elite carriage and formal patron benefits from House Vane.
 
 ---
@@ -76,13 +76,13 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 
 #### Level 6 → Level 7: The Infiltration of Athenaeum Null
 - **Narrative Milestone:** Passing the Iron Antechamber, reading the redaction desks and crucible slag of the Scriptorium of Ashes, and opening the lead-glass cases: the Ascension Papers (the Engine existed and failed) and the Inquest of Avarr.
-- **World State Shift:** The party identifies the existence of the *Ascension Engine*. Its full consequence stays buried — one sealed passage, read once.
+- **World State Shift:** The party identifies the existence of the *[[the_engine_deep_and_the_veil|Ascension Engine]]*. Its full consequence stays buried — one sealed passage, read once.
 - **Key Resources:** Recovery of the *Broken Seal of Solcaris* and the *Annales of Concord*; university censors initiate active surveillance and legal warrants against the party.
 
 #### Level 7 → Level 8: Escape from the Ivory Spire
 - **Narrative Milestone:** Refusing or enduring Dean Vale's amnesty offer, escaping the ambush of the Athenaeum Inquisitors, surviving the flooded catacombs beneath New Ilya, and securing safe harbor at Seraphel's country villa.
-- **World State Shift:** Act II concludes. The party leaves civilized safety behind, designated outlaws by the Republic of Ilya, heading into the rugged crags of the Weeping Ridge.
-- **Key Resources:** 4th-level spells unlocked; Seraphel gifts the party masterwork survival gear and navigational maps to Lantern Chapel.
+- **World State Shift:** [[act_II_overview|Act II]] concludes. The party leaves civilized safety behind, designated outlaws by the Republic of Ilya, heading into the rugged crags of the Weeping Ridge.
+- **Key Resources:** 4th-level spells unlocked; Seraphel gifts the party masterwork survival gear and navigational maps to [[lantern_chapel|Lantern Chapel]].
 
 #### Level 8 → Level 9: The Threshold of Lantern Chapel (Start of Act III)
 - **Narrative Milestone:** Climbing the Fog-Step Ascent under the chiming ward, earning hearth-right through labor and honest questions, and assembling two of the three vectors: the 42 AS–present logbooks in one hand, the Seal calming at a bare touch, the architect called by a childhood nickname.
@@ -90,8 +90,8 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 - **Key Resources:** Cael's hearth: bitter mint tea and ice-cold well-water (advantage on saves against charm and illusion for 24 hours); character downtime.
 
 #### Level 9 → Level 10: The Sage Unmasked
-- **Narrative Milestone:** Confronting Brother Cael with the evidence and hearing him set down the kettle: he is Orinth, the Laughing Sage — followed by the Vale cairns, the Scribe's final dictation, and the first supervised Lantern trials.
-- **World State Shift:** The party learns the devastating truth of the Silence: Myrraen enacted it to break mortal dependence following the horrors of Avarr. No verdict is offered, and none is permitted.
+- **Narrative Milestone:** Confronting [[brother_cael_orinth|Brother Cael]] with the evidence and hearing him set down the kettle: he is Orinth, the Laughing Sage — followed by the Vale cairns, the Scribe's final dictation, and the first supervised Lantern trials.
+- **World State Shift:** The party learns the devastating truth of [[cosmology_and_metaphysics|the Silence]]: Myrraen enacted it to break mortal dependence following the horrors of Avarr. No verdict is offered, and none is permitted.
 - **Key Resources:** 5th-level spells (*Raise Dead*, *Greater Restoration*, *Teleportation Circle*); the crowded stair seen under Lantern-light — investigated, never confirmed.
 
 #### Level 10 → Level 11: The Last Council Telling
@@ -101,7 +101,7 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 
 #### Level 11 → Level 12: The Siege of the Last Light
 - **Narrative Milestone:** Repelling the Unpassed Tide across six rounds on the parapets while Cael holds wards with staff and *Sanctuary*, then placing willing hands on the Lantern beside him and answering his question honestly.
-- **World State Shift:** Act III concludes. Orinth formally loans the Lantern to the party, marks the Khar Vareth road, and writes to High Custodian Moros — sending them south to investigate the screaming soulways.
+- **World State Shift:** [[act_III_overview|Act III]] concludes. Orinth formally loans the Lantern to the party, marks the [[khar_vareth|Khar Vareth]] road, and writes to High Custodian Moros — sending them south to investigate the screaming soulways.
 - **Key Resources:** Attunement to the *Lantern of the Last Light* (loaned, not given); party aura buffs against necrotic corruption.
 
 ---
@@ -120,7 +120,7 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 
 #### Level 14 → Level 15: The Unmasking of House Vane
 - **Narrative Milestone:** Disabling the siphon-arrays, defeating Arch-Magus Corvin in the Reservoir Vault, surviving his relay detonation, and laying stamp, invoices, and orders before High Custodian Moros.
-- **World State Shift:** Act IV concludes. The party unmasks their greatest ally as the mastermind behind the soul-drain. Seraphel flees to launch the public "Returner" movement.
+- **World State Shift:** [[act_IV_overview|Act IV]] concludes. The party unmasks their greatest ally as the mastermind behind the soul-drain. Seraphel flees to launch the public "Returner" movement.
 - **Key Resources:** 7th-level spells (*Plane Shift*, *Teleport*, *Resurrection*); bone-seal writs of Vareth — honor, not armies.
 
 #### Level 15 → Level 16: The Resonant Pylons of Solcaris (Start of Act V)
@@ -130,12 +130,12 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 
 #### Level 16 → Level 17: The Observatory of Nythara
 - **Narrative Milestone:** Climbing the Stair of Eclipses, kneeling to no vision in the Mirror Pools, and decrypting the Celestial Clock matrix: the vectors point inward-down, the soul budget line-items one vessel, the margin reads *"Nine thrones, one seat."*
-- **World State Shift:** The party gains the unwavering support of the Dreamkeepers and decrypts the access codes to the subterranean Star Roads.
+- **World State Shift:** The party gains the unwavering support of the [[the_dreamkeepers_of_nythara|Dreamkeepers]] and decrypts the access codes to the subterranean Star Roads.
 - **Key Resources:** 8th-level spells (online since level 15: *Antimagic Field*, *Sunburst*, *Mind Blank*); acquisition of the *Keys of Nythara*.
 
 #### Level 17 → Level 18: The Battle of the Star Road Nexus
 - **Narrative Milestone:** Storming the subterranean transit hub beneath the Whispering Wastes, holding five rounds while three keys turn, desyncing the tethers, and breaching the abyssal shaft as the sky fractures gold-violet.
-- **World State Shift:** Act V concludes. The sky across Elonia fractures into auroras of spirit-fire as the ancient Ascension Engine awakens. The countdown to apotheosis begins.
+- **World State Shift:** [[act_V_overview|Act V]] concludes. The sky across Elonia fractures into auroras of spirit-fire as the ancient Ascension Engine awakens. The countdown to apotheosis begins.
 - **Key Resources:** Ability Score Improvement / Feat; 9th-level spells (*Wish*, *True Resurrection*, *Mass Heal*, *Foresight*) online at level 17 as the party falls into the Deep.
 
 ---
@@ -148,6 +148,6 @@ In *Ashes of Elonia*, character advancement is governed strictly by narrative mi
 - **Key Resources:** Each severed tether bought a Crucible-shield; each violent one fed the Veil's strain. Both ledgers come due.
 
 #### Level 19 → Level 20: The Unwritten Future (Campaign Climax)
-- **Narrative Milestone:** Defeating the **Avatar of the Last Mercy** at the threshold of the Open Veil — answering every claim of stasis with lived evidence from Acts I–V, then declaring mortal agency aloud — rejecting the stasis of forced certainty, and stabilizing the soulways.
-- **World State Shift:** The campaign reaches its permanent climax. The party stands with Orinth before the blank final chapter of *Ain Elonar*, authoring the irreversible destiny of Elonia. No ending is canon before they choose it.
+- **Narrative Milestone:** Defeating the **[[the_avatar_of_the_last_mercy|Avatar of the Last Mercy]]** at the threshold of the Open Veil — answering every claim of stasis with lived evidence from Acts I–V, then declaring mortal agency aloud — rejecting the stasis of forced certainty, and stabilizing the soulways.
+- **World State Shift:** The campaign reaches its permanent climax. The party stands with Orinth before the blank final chapter of *[[Ain_Elonar|Ain Elonar]]*, authoring the irreversible destiny of Elonia. No ending is canon before they choose it.
 - **Key Resources:** Maximum 20th-level pinnacle; the pen itself.

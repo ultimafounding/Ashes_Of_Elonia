@@ -8,11 +8,11 @@ date: ""
 
 # Session <% tp.file.title %>: <% tp.file.cursor(1) %>
 
-**Chapter:** [[<% tp.file.cursor(2) %>]] • **Level:** <% tp.file.cursor(3) %>
-**Last time:** [[<% tp.file.cursor(4) %>]]
+**Chapter:** <% tp.file.cursor(2) %> • **Level:** <% tp.file.cursor(3) %>
+**Last time:** <% tp.file.cursor(4) %>
 
 ## Prep checklist
-- [ ] Pull chapter file; note DCs/clocks
+- [ ] Pull chapter file; note DCs/clocks (see [[sessions_guide|Sessions Guide]])
 - [ ] Stage 1 combat + 1 clue vector minimum
 - [ ] Clock triggers armed: <!-- Convergence / Soul / Shroud conditions -->
 - [ ] End 15 min early for recap
@@ -30,5 +30,5 @@ date: ""
 ## Clocks
 - [ ] advanced / [ ] held — notes:
 
-## Recap (paste to `10_LIVE_CAMPAIGN_STATE/` after)
+## Recap (paste to [[live_state_index|Live Campaign State]] after)
 -

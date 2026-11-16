@@ -1,7 +1,7 @@
 # Act I Overview: Embers Beneath the Ashes
 
 > *"The docks smell of brine and tar. The gold in the taverns is new, but the stones beneath the cellar are older than the kingdom."*  
-> **Adventure Module • Levels 1 through 4 • Hub: Port Meridian**
+> **Adventure Module • Levels 1 through 4 • Hub: [[port_meridian|Port Meridian]]**
 
 ---
 
@@ -14,8 +14,8 @@
 - **The Core Question:** *Were the ancient Ascensionists monsters, and who erased their records?*
 - **The Required Turn `[DM-ONLY]`:**
   1. *Historical Epiphany:* Primary archival evidence recovered from the scriptorium proves that the ancient Ascensionists were **not** a profane death-cult. They were brilliant humanist reformers seeking medicine, civil engineering, and liberation from divine dependence.
-  2. *The Modern Intrusion:* Fresh bootprints, modern lockpicks, and chemical residue from New Ilya lamps prove that **someone in the modern era surveyed these sealed vaults within the past month**.
-- **The Patron's Entrance:** Lord Seraphel appears as a benevolent aristocratic savior. He intervenes during a municipal inquest on the docks, defends the party’s salvage rights, and awards them a full academic fellowship in New Ilya.
+  2. *The Modern Intrusion:* Fresh bootprints, modern lockpicks, and chemical residue from [[new_ilya|New Ilya]] lamps prove that **someone in the modern era surveyed these sealed vaults within the past month**.
+- **The Patron's Entrance:** [[lord_seraphel|Lord Seraphel]] appears as a benevolent aristocratic savior. He intervenes during a municipal inquest on the docks, defends the party’s salvage rights, and awards them a full academic fellowship in New Ilya.
 
 ---
 
@@ -84,5 +84,5 @@ To ensure the party uncovers the core truths regardless of path:
 
 ## 5. Act I State Change & Hand-Off to Act II
 
-- **The World State Shift:** The party emerges from Warehouse Nine with the intact *Catalogue Codex* and primary evidence of Pre-Silence humanism. The Archive Cartels are thwarted, but Admiralty magistrates attempt to seize the artifacts.
+- **The World State Shift:** The party emerges from Warehouse Nine with the intact *Catalogue Codex* and primary evidence of Pre-Silence humanism. The [[the_archive_cartels|Archive Cartels]] are thwarted, but Admiralty magistrates attempt to seize the artifacts.
 - **The Hand-Off:** Lord Seraphel arrives on the docks in his personal carriage, exercises legal jurisdiction under the Concord of Meridian, and pays the Admiralty their clearance tax. He congratulates the party on their scholarship and invites them to travel with his retinue to the Great University of New Ilya to authenticate the codex at the Grand Lyceum.

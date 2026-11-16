@@ -22,8 +22,8 @@
 `[ESTABLISHED CANON]`
 The Dreamkeepers exist to guard against the greatest intellectual danger of prophecy: **the poison of fixed certainty**.
 1. **Selyra’s Warning:** Ancient scriptures preserved by the Dreamkeepers record that during the Waning Age, Selyra wept for nine days and nights upon the summit of Nythara because mortals were turning prophecies into self-fulfilling prisons. She taught her disciples: *"The moment a mortal believes the future is already written, they surrender the right to choose."*
-2. **Opposition to Seraphel:** In Act V, the Dreamkeepers become vital allies. While the rest of Elonia is swept up in religious hysteria by Seraphel's "Prophecy of Return," the Dreamkeepers look through their dark reflection pools and recognize the mathematical geometry of an **inversion ritual**.
-3. **Keepers of the Transit Keys:** The Dreamkeepers guard the ancient **Keys of Nythara**—the crystal command-rods required to calibrate the subterranean Star Roads and open the direct descent into the Engine Deep.
+2. **Opposition to [[lord_seraphel|Seraphel]]:** In [[act_V_overview|Act V]], the Dreamkeepers become vital allies. While the rest of Elonia is swept up in religious hysteria by Seraphel's "Prophecy of Return," the Dreamkeepers look through their dark reflection pools and recognize the mathematical geometry of an **inversion ritual**.
+3. **Keepers of the Transit Keys:** The Dreamkeepers guard the ancient **Keys of Nythara**—the crystal command-rods required to calibrate the subterranean Star Roads and open the direct descent into the [[the_engine_deep_and_the_veil|Engine Deep]].
 
 ---
 

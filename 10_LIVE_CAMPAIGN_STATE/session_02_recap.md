@@ -20,14 +20,14 @@ status: "complete"
 ## As Played
 
 ### 1. Into the dust
-- The party entered the Hall of Records **carefully** — dust discipline held.
+- The party entered the [[chapter_1_shattered_archive|Hall of Records]] **carefully** — dust discipline held.
 - **Bog threw the gnome (Zook) at the grate.** It shifted some dust, but not enough to destroy the room's evidence.
 - The grate **could not be opened** — a **critical failure**. Whatever was under it stayed under it.
 
 ### 2. The Breaker camp
 - They crossed the Hall and reached the **Breaker camp**.
 - **Dan cast *Spare the Dying*** on the dying Breaker. **Tamsin Roke survived.**
-- Tamsin gave them **information about Rorik** and the **glass-faced ghosts**. That is the Soul Crisis rumour in play; it still has no mechanics and must not be explained.
+- Tamsin gave them **information about Rorik** and the **glass-faced ghosts**. That is the [[cosmology_and_metaphysics|Soul Crisis]] rumour in play; it still has no mechanics and must not be explained.
 - They found the **snapped steel lockpick half** — modern steel, proof someone contemporary worked the brass door. The party understands the message: **someone modern has been here.**
 
 ### 3. The ghoul

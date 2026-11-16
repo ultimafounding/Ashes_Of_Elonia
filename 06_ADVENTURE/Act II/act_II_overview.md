@@ -1,6 +1,6 @@
 # Act II Overview: The Forgotten Age
 
-> *"In New Ilya, the shelves are full and the history is empty."*
+> *"In [[new_ilya|New Ilya]], the shelves are full and the history is empty."*
 > **Adventure Module • Levels 4 through 8 • Hub: New Ilya**
 
 ---
@@ -10,12 +10,12 @@
 - **Level Band:** 4 to 8 (Tier 2: Heroes of the Realm).
 - **Geographic Setting:** New Ilya — Grand Lyceum, Scriptorium of the Blue Rose, Sunken Conclave, Under-Canals; subterranean Athenaeum Null.
 - **Narrative Phase:** Academic Espionage, Political Intrigue, Institutional Suppression.
-- **Player-Facing Trajectory `[PLAYER-FACING]`:** Fellowship recipients from Port Meridian arrive to authenticate the Catalogue Codex at the Grand Lyceum. They expect scholarly debate, publication, and prestige.
-- **The Core Question:** *Who erased the truth of the Silence?*
+- **Player-Facing Trajectory `[PLAYER-FACING]`:** Fellowship recipients from [[port_meridian|Port Meridian]] arrive to authenticate the Catalogue Codex at the Grand Lyceum. They expect scholarly debate, publication, and prestige.
+- **The Core Question:** *Who erased the truth of [[cosmology_and_metaphysics|the Silence]]?*
 - **The Required Turn `[DM-ONLY]`:**
   1. *Deliberate redaction:* The 1,200 BS–0 AS gap in every public stack is not fire-loss. Bonded scribes in the Athenaeum Null razor and burn it by policy.
   2. *The Engine LEARNED:* Sealed originals (Ascension Papers) prove a continent-scale machine was built beneath the earth and failed catastrophically, wounding reality. Name it once, in one sealed document — then leave it buried.
-- **The Patron's Hold:** Seraphel funds, defends, and houses the party while quietly demanding custody of all technical schematics and conduit keys `[DM-ONLY: Convergence +1 each handover]`.
+- **The Patron's Hold:** [[lord_seraphel|Seraphel]] funds, defends, and houses the party while quietly demanding custody of all technical schematics and conduit keys `[DM-ONLY: Convergence +1 each handover]`.
 
 ---
 
@@ -89,4 +89,4 @@ Global: **Soul Crisis Tide** foreshadow (mortality-table discrepancies, lantern-
 ## 5. Act II State Change & Hand-Off to Act III
 
 - **The World State Shift:** Party escapes the Athenaeum Null with the *Annales of Concord* and the *Broken Seal of Solcaris*. They are persona non grata — warrants, excommunication from the stacks.
-- **The Hand-Off:** Seraphel shelters them at his estate, then delivers the Act III hook: the Seal can only be authenticated by the *Lantern of the Last Light* at Lantern Chapel, Weeping Ridge — with his maps, supplies, and blessing.
+- **The Hand-Off:** Seraphel shelters them at his estate, then delivers the [[act_III_overview|Act III]] hook: the Seal can only be authenticated by the *Lantern of the Last Light* at [[lantern_chapel|Lantern Chapel]], Weeping Ridge — with his maps, supplies, and blessing.

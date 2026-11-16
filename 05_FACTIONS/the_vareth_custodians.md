@@ -10,7 +10,7 @@
 - **Classification:** Funerary Guild, Necrological Bureaucracy & Judicial Order of Death.
 - **Founding Era:** Continuous lineage dating back to the First Covenant (c. 3,500 BS).
 - **Patron Celestine:** **Varek, Keeper of the Final Door**.
-- **Headquarters:** The Hall of Custodians in **Khar Vareth** (Dominion of Vareth).
+- **Headquarters:** The Hall of Custodians in **[[khar_vareth|Khar Vareth]]** (Dominion of Vareth).
 - **Core Principle:** **The Dead Must Be Named and Remembered.**
 - **Symbol:** A balanced bronze scale weighing a granite tablet against a white feather.
 - **Public Perception:** A solemn, deeply respected guild of embalmers, stone-cutters, genealogists, and grave-wardens. Across southern Elonia, they ensure that every human soul receives proper funerary rites, that their debts are discharged, and that their deeds are recorded in family vaults.
@@ -21,9 +21,9 @@
 
 `[ESTABLISHED CANON]`
 The Vareth Custodians are the scientific and metaphysical canary in the coal mine:
-1. **The Statistical Discovery:** Because the Custodians have recorded every death for a millennium with clerical precision, they were the **first institution in Elonia to detect the Soul Crisis**. Beginning around 650 AS, their scribes noted that corpses were requiring more natron salt to remain peaceful, and that ancestral communication rituals (*Speak with Dead*) were returning fragmented static.
-2. **The Breaking Point (1,000 AS):** In the present day, High Custodian Moros’s secret ledgers show an unprecedented failure rate: over 30% of souls passing through Khar Vareth are becoming trapped in the ethereal borderlands of the Bleak Path.
-3. **The Vulnerability to House Vane:** Desperate to stabilize their screaming catacombs, the Custodians accepted massive financial grants and arcane "ventilation machinery" from **Lord Seraphel of House Vane**—unaware that Seraphel was installing siphon-arrays to actively harvest those trapped spirits.
+1. **The Statistical Discovery:** Because the Custodians have recorded every death for a millennium with clerical precision, they were the **first institution in Elonia to detect the [[cosmology_and_metaphysics|Soul Crisis]]**. Beginning around 650 AS, their scribes noted that corpses were requiring more natron salt to remain peaceful, and that ancestral communication rituals (*Speak with Dead*) were returning fragmented static.
+2. **The Breaking Point (1,000 AS):** In the present day, High [[major_allies_and_rivals|Custodian Moros]]’s secret ledgers show an unprecedented failure rate: over 30% of souls passing through Khar Vareth are becoming trapped in the ethereal borderlands of the Bleak Path.
+3. **The Vulnerability to House Vane:** Desperate to stabilize their screaming catacombs, the Custodians accepted massive financial grants and arcane "ventilation machinery" from **[[lord_seraphel|Lord Seraphel]] of House Vane**—unaware that Seraphel was installing siphon-arrays to actively harvest those trapped spirits.
 
 ---
 

@@ -20,10 +20,10 @@
 ## 2. Thematic Function in the Campaign
 
 `[ESTABLISHED CANON]`
-The Keepers of Dawn serve an essential dramatic purpose in *Ashes of Elonia*: **they provide sincere, noble, and understandable reasons to mourn the Silence and desire the return of the gods.**
+The Keepers of Dawn serve an essential dramatic purpose in *Ashes of Elonia*: **they provide sincere, noble, and understandable reasons to mourn [[cosmology_and_metaphysics|the Silence]] and desire the return of the gods.**
 - They are **not cartoonish villains or corrupt inquisitors**. They see the real tragedy of modern Elonia: disease that mortal medicine cannot cure, wars between selfish mortal kings, and the existential terror of a godless sky.
 - Their members include dedicated knights who throw themselves between monsters and civilians, and hospital chaplains who spend their lives tending plague wards.
-- **Their Fatal Flaw:** **The Craving for Certainty.** Because they yearn desperately for moral clarity, they are deeply vulnerable to ideological manipulation. In Act V, when Seraphel announces the "First Concord Returned," many Keepers of Dawn enthusiastically embrace his crusade, convinced that their prayers have finally been answered.
+- **Their Fatal Flaw:** **The Craving for Certainty.** Because they yearn desperately for moral clarity, they are deeply vulnerable to ideological manipulation. In [[act_V_overview|Act V]], when [[lord_seraphel|Seraphel]] announces the "First Concord Returned," many Keepers of Dawn enthusiastically embrace his crusade, convinced that their prayers have finally been answered.
 
 ---
 

@@ -1,7 +1,7 @@
 # Location Profile: New Ilya & The Athenaeum Null
 
 > *"In New Ilya, questions are currency, debate is entertainment, and the truth is meticulously edited by men in velvet robes."*  
-> **Campaign Hub: Act II (Levels 4–8) • Republic of Ilya**
+> **Campaign Hub: [[act_II_overview|Act II]] (Levels 4–8) • Republic of Ilya**
 
 ---
 
@@ -9,7 +9,7 @@
 
 - **Classification:** Sovereign Academic Magocracy & Continental University-Capital.
 - **Population:** ~90,000 (Human 50%, High Elf 20%, Gnome 15%, Halfling 10%, Other 5%).
-- **Governance:** The **Council of Deans** (Presided over by Chancellor Varis and Dean Arcturus Vale).
+- **Governance:** The **Council of Deans** (Presided over by Chancellor Varis and Dean [[major_allies_and_rivals|Arcturus Vale]]).
 - **Tone & Aesthetic:** Ivory, sapphire, and bronze. Built upon the river delta where the River Ilya meets the Gulf of Scholars, New Ilya is a city of floating lecture barges, terraced university quads, blue-glazed ceramic domes, and soaring aqueducts. Arcane street-lanterns glow with perpetual cold blue flame.
 
 ```
@@ -43,8 +43,8 @@
 - **Description:** An ancient Pre-Silence marble amphitheater situated directly in the riverbed. Half-submerged by clear river water, it was once where Orinth walked among ancient philosophers. Today, radical students and dissident scholars hold clandestine night symposiums upon its damp stone benches.
 
 ### 4. House Vane Estate & Botanical Gardens
-- **Description:** The lavish urban villa of **Lord Seraphel**. Surrounded by private arboretums, private astronomical observatories, and high-walled courtyards.
-- **The Salon of the Hidden Tenth:** Seraphel hosts nightly banquets for the intellectual elite. In his private study, hidden behind a false bookcase, lie detailed metallurgical schematics of the ancient Ascension Engine and maps tracking soulway stress points across the continent `[DM-ONLY]`.
+- **Description:** The lavish urban villa of **[[lord_seraphel|Lord Seraphel]]**. Surrounded by private arboretums, private astronomical observatories, and high-walled courtyards.
+- **The Salon of the Hidden Tenth:** Seraphel hosts nightly banquets for the intellectual elite. In his private study, hidden behind a false bookcase, lie detailed metallurgical schematics of the ancient [[the_engine_deep_and_the_veil|Ascension Engine]] and maps tracking soulway stress points across the continent `[DM-ONLY]`.
 
 ### 5. The Under-Canals & Alchemical Refineries
 - **Description:** Beneath the pristine ivory bridges lies a shadowy underbelly of brackish drainage canals, alchemical waste outlets, and crowded tenement shacks.
@@ -87,7 +87,7 @@ If confronted, **Dean Arcturus Vale** does not apologize for the Athenaeum Null.
 ## 4. Local Factions in New Ilya
 
 - **The Council of Deans:** Conservative institutionalists dedicated to social order, academic prestige, and quarantine of dangerous truth.
-- **The Underground Ascendants (Lysa Corren's Cell):** Academic dissidents risking execution to smuggle forbidden histories out of restricted vaults.
+- **The Underground [[the_ascendants|Ascendants]] (Lysa Corren's Cell):** Academic dissidents risking execution to smuggle forbidden histories out of restricted vaults.
 - **The Magisterial Censors:** Armed arcane inquisitors who enforce scholarly redactions and eliminate intellectual leaks.
 - **House Vane (Lord Seraphel):** The principal financial benefactor of the university, secretly manipulating both the Deans and the dissidents.
 
@@ -97,7 +97,7 @@ If confronted, **Dean Arcturus Vale** does not apologize for the Athenaeum Null.
 
 | d6  | Academic & Urban Encounter                                                                                                                                       | Mechanical / Social Hook                                                                |
 | :-- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
-| 1   | **Heated Lyceum Debate:** Two philosophy masters bicker over whether the Silence was an act of mercy or cowardice.                                               | A crowd gathers; a charismatic student slips a banned pamphlet into a PC's pocket.      |
+| 1   | **Heated Lyceum Debate:** Two philosophy masters bicker over whether [[cosmology_and_metaphysics\|the Silence]] was an act of mercy or cowardice.                                               | A crowd gathers; a charismatic student slips a banned pamphlet into a PC's pocket.      |
 | 2   | **Magisterial Censor Patrol:** Four silver-masked inquisitors stop the party, scanning their luggage with a *Detect Magic & Antiquities* rod.                    | DC 14 Deception or Sleight of Hand to conceal contraband scrolls.                       |
 | 3   | **Alchemical Canal Leak:** An arcane spill in the Under-Canals creates a patch of living psychic slime that mimics voices of the dead.                           | Combat / Hazard encounter showcasing bizarre magical fallout.                           |
 | 4   | **Lysa Corren's Signal:** A chalk-mark of a cracked hourglass appears on a PC's door, directing them to a midnight rendezvous at the Sunken Conclave.            | Hook leading directly to the Athenaeum Null infiltration.                               |

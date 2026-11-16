@@ -1,7 +1,7 @@
 # Location Profile: Vale Myrr & The Observatory of Nythara
 
 > *"In Nythara, mortals watched the stars to see what might be. In Vale Myrr, they laid down their swords to heal. Both places now stand empty, remembering the day the silence fell."*  
-> **Mythic Sanctuaries: Act V (Levels 15–18) • Central Mountains & Silver Peaks**
+> **Mythic Sanctuaries: [[act_V_overview|Act V]] (Levels 15–18) • Central Mountains & Silver Peaks**
 
 ---
 
@@ -11,7 +11,7 @@
 - **Classification:** Ancient Celestial Sanctuary & Astrological Observatory of Selyra.
 - **Location:** At the eight-thousand-foot frozen pinnacle of the **Silver Horns** in northern Elonia.
 - **Tone & Aesthetic:** Roofless crystal spires, freezing winds, starlight, and absolute, breathless quiet. Built from translucent quartz and polished silver granite. Dark, perfectly still reflection pools sit exposed to the elements, never freezing despite sub-zero temperatures.
-- **Guardians:** The **Dreamkeepers of Nythara**, an ascetic monastic order who wear blindfolds of woven silver thread and record astronomical movements.
+- **Guardians:** The **[[the_dreamkeepers_of_nythara|Dreamkeepers]] of Nythara**, an ascetic monastic order who wear blindfolds of woven silver thread and record astronomical movements.
 
 ```
                          THE CELESTIAL PINNACLE OF NYTHARA
@@ -35,11 +35,11 @@
 - **1.1 The Stair of Eclipses:** Three thousand narrow marble steps climbing a wind-sheer glacial ridge. Cold environmental hazards (DC 15 Con save or suffer exhaustion without cold weather protection).
 - **1.2 The Roofless Sanctuary:** The grand observatory hall. Selyra’s temple was deliberately constructed without a roof so that no mortal gaze would ever be separated from the stars.
 - **1.3 The Mirror Pools:** Seven perfectly circular pools filled with pitch-black, enchanted mineral water. When a mortal peers into the water, they do not see their reflection; they witness **branching visions of what could be** (DC 16 Wisdom save to interpret without psychic disorientation).
-- **1.4 Selyra's Celestial Clock:** A colossal, interlocking brass-and-diamond astrolabe tracking the alignment of the material plane, the Veil, and the Sea Beyond.
-- **1.5 The Star Road Transit Nexus:** An ancient subterranean platform of inlaid star-glass beneath the observatory floor. When unlocked using the *Keys of Nythara*, it opens an instant dimensional transit portal leading directly into the subterranean abyss of **The Engine Deep**.
+- **1.4 Selyra's Celestial Clock:** A colossal, interlocking brass-and-diamond astrolabe tracking the alignment of the material plane, the Veil, and the [[cosmology_and_metaphysics|Sea Beyond]].
+- **1.5 The Star Road Transit Nexus:** An ancient subterranean platform of inlaid star-glass beneath the observatory floor. When unlocked using the *Keys of Nythara*, it opens an instant dimensional transit portal leading directly into the subterranean abyss of **The [[the_engine_deep_and_the_veil|Engine Deep]]**.
 
 ### 1.3 The Astrological Unmasking `[DM-ONLY]`
-Within the Celestial Clock chamber, the party discovers Lord Seraphel’s personal star-charts and mathematical calculations left behind by his researchers.
+Within the Celestial Clock chamber, the party discovers [[lord_seraphel|Lord Seraphel]]’s personal star-charts and mathematical calculations left behind by his researchers.
 - **The Decryption:** Solving the astronomical matrix reveals the staggering truth of Seraphel's Convergence Ritual:
   - The ritual is timed to the upcoming Winter Solstice.
   - The geometry does **not** draw the Celestine back across the Veil.

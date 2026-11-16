@@ -2,6 +2,8 @@
 > *Everything in this handout is common knowledge. Your character grew up knowing most of it. Nothing in here spoils the mystery - it is what grandmothers, teachers, priests, and dockworkers all agree on.*
 >
 > **New here?** Section 9 catches you up on Sessions 1–3, Section 10 explains where the party is right now, and Section 11 covers character creation for a level-2 newcomer.
+>
+> **Want the plain handout?** [[players_primer|Player Primer]] is the original, without the catch-up sections.
 
 ---
 

@@ -7,9 +7,9 @@
 
 ## 1. Character Overview
 
-- **Known Identities:** Brother Cael (Caretaker of Lantern Chapel); Orinth (The Laughing Sage, First-Awakened of the Celestine, The Master of Questions).
+- **Known Identities:** Brother Cael (Caretaker of [[lantern_chapel|Lantern Chapel]]); Orinth (The Laughing Sage, First-Awakened of the Celestine, The Master of Questions).
 - **Physical Appearance (Mortal Shell):** Appears as an elderly, weathered human monk in his late sixties or seventies. Thin, slightly stooped frame, wrinkled walnut skin, bright twinkling hazel eyes that crinkle with laughter, and wild gray hair tied back with hemp cord. Wears patched, faded brown woolen robes stained with tea and walnut ink. His hands are calloused from chopping mountain firewood, with black ink permanently ingrained beneath the fingernails.
-- **Canonical Role:** `[DM-ONLY]` The sole Celestine who refused to cross beyond the Veil during the Silence (0 AS).
+- **Canonical Role:** `[DM-ONLY]` The sole Celestine who refused to cross beyond the Veil during [[cosmology_and_metaphysics|the Silence]] (0 AS).
 - **Public Alignment:** Neutral Good (Humble Hermit Monk).
 - **True Alignment:** Chaotic Good (Transcendent Champion of Free Choice).
 
@@ -18,7 +18,7 @@
 ## 2. Public Persona vs. DM Truth
 
 ### What the World Believes `[PLAYER-FACING]`
-Brother Cael is an eccentric, solitary hermit tending the ancient, impoverished **Lantern Chapel** in the misty Weeping Ridge. He belongs to the *Church of the Last Light*, a tiny monastic fellowship that values keeping candles burning in forgotten places. Travelers know him as a harmless, slightly deaf old monk who brews terribly bitter mountain mint tea and tells rambling, funny stories about dead architects.
+Brother Cael is an eccentric, solitary hermit tending the ancient, impoverished **Lantern Chapel** in the misty Weeping Ridge. He belongs to the *[[the_church_of_the_last_light|Church of the Last Light]]*, a tiny monastic fellowship that values keeping candles burning in forgotten places. Travelers know him as a harmless, slightly deaf old monk who brews terribly bitter mountain mint tea and tells rambling, funny stories about dead architects.
 
 ### The Divine Reality `[DM-ONLY]`
 Brother Cael is **Orinth, the Laughing Sage**—the first god to awaken from the Sea Beyond. When Myrraen severed the celestial tethers during the Silence, Orinth realized that complete abandonment would leave mortals in desperate terror, while staying as a ruler would maintain their dependence. 
@@ -52,15 +52,15 @@ Do not reveal Cael through an abrupt confession. The players must deduce his ide
 
 ## 4. Key Dialogue Triggers & Roleplay Moments
 
-- **When First Meeting the Party (Act III, Session 7):**  
+- **When First Meeting the Party ([[act_III_overview|Act III]], Session 7):**  
   *"Wipe your boots, wipe your boots! The mist brings in terrible mud. Sit by the stove. I’ve only got mint tea, and I warn you, it tastes like boiled weeds, but it keeps the frost out of your knuckles."*
 - **When Asked About the Great Silence:**  
   *"People think the gods were angry. Gods don't leave when they're angry—anger makes people shout and build monuments. People leave when they're terrified. And nothing is more terrifying to a parent than watching their child make a mistake they cannot prevent."*
 - **The Unmasking Scene (Act III, Session 9):**  
   *Cael sets down the tea kettle. He looks at the party with ancient, bottomless sorrow and quiet wonder:*  
   *"A thousand years. I've washed these stone floors for a thousand years waiting for someone with the eyes to notice. You counted the years in the margins, didn't you? Clever mortals. Don't kneel. Please. If I wanted people to kneel, I would have kept the golden robes."*
-- **Handing Forth Ain Elonar (Act VI Climax):**  
-  *"The Nine shaped the stone, but we could not govern your hearts. Seraphel sought to rule you; Myrraen sought to shield you. But neither gods nor scholars hold the right to author this final page. The pen is yours."*
+- **Handing Forth [[Ain_Elonar|Ain Elonar]] ([[act_VI_overview|Act VI]] Climax):**  
+  *"The Nine shaped the stone, but we could not govern your hearts. [[lord_seraphel|Seraphel]] sought to rule you; Myrraen sought to shield you. But neither gods nor scholars hold the right to author this final page. The pen is yours."*
 
 ---
 

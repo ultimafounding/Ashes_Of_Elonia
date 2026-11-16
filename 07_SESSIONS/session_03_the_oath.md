@@ -13,7 +13,7 @@ date: ""
 > *"We keep account, we mend bone, we measure star — that no prayer need be spent for bread."*
 
 **Chapter:** [[chapter_1_shattered_archive]] • **Level:** 1 → **2** at the end
-**Covers:** Witness Scriptorium (1.3) in full → collapse → certification, pay, shopping, downtime → Chapter 2 hook
+**Covers:** [[chapter_1_shattered_archive|Witness Scriptorium]] (1.3) in full → collapse → certification, pay, shopping, downtime → Chapter 2 hook
 **Cliffhanger out:** the Scriptorium floor collapses behind them, and a stranger in townhouse livery is writing down their names.
 
 > **Actual play:** see [[session_03_recap]]. The party read the Oath, found **Wren dead with his soul ripped out**, fought and tied up **another Breaker** in the cellar, took the Tablet and leaf, escaped the collapse, and surfaced. The captured Breaker was handed to the magistrates; Tamsin was protected. Arlen **confessed**, was caught carrying **"the precious stone"**, and was forced to throw it back before he **left after a petty threat**. Session ended at the pub without him.
@@ -28,7 +28,7 @@ date: ""
 | Session 2 | Hall of Records (1.2) → surface breather → brass door | The door hisses | 1 |
 | **Session 3 (this file)** | **Witness Scriptorium (1.3)** → Oath, Clue C, Tablet → collapse → certification and downtime | Chapter 2 hook | **→ 2** |
 
-**Rule for tonight:** the Scriptorium is the last room of Chapter 1. Do not open the Sea Cliff Road, the Star Chamber, or the Inquest. The session ends with the party on the surface, paid, level 2, and pointed at Chapter 2.
+**Rule for tonight:** the Scriptorium is the last room of Chapter 1. Do not open the Sea Cliff Road, the [[chapter_2_stair_and_star|Star Chamber]], or the Inquest. The session ends with the party on the surface, paid, level 2, and pointed at Chapter 2.
 
 ---
 
@@ -56,7 +56,7 @@ date: ""
 ## 1. Pre-Session Checklist (15 minutes)
 
 - [ ] Read **Scope** and §15 (trimming). The session must not spill into Chapter 2.
-- [ ] Decide whether **Wren** (the trapped Breaker) is alive. Recommended: yes. He is the hiss, and he carries the Soul Crisis rumour.
+- [ ] Decide whether **Wren** (the trapped Breaker) is alive. Recommended: yes. He is the hiss, and he carries the [[cosmology_and_metaphysics|Soul Crisis]] rumour.
 - [ ] Decide the **complication** in Beat 5: Breaker scouts (faction) or stirges (attrition). Default to scouts if the table likes talking; stirges if they need a short, sharp fight.
 - [ ] Have the **Oath text** and **Arlen's confession** in front of you. Do not paraphrase the Oath.
 - [ ] Have the **shop list** and **downtime menu** ready — they will have money and a night.
@@ -232,7 +232,7 @@ Then, quieter:
 
 **This is Clue C.** It is the **social vector** for the chapter's central revelation, and it is also the first crack in Arlen's loyalty.
 
-**Do not** have him confess everything. He does not know about the Engine, Seraphel, or the Cartels' buyer. He knows the Exchange is **lying by omission** and he is complicit.
+**Do not** have him confess everything. He does not know about the Engine, [[lord_seraphel|Seraphel]], or the Cartels' buyer. He knows the Exchange is **lying by omission** and he is complicit.
 
 **If the party threatens him:** he tells them anyway, then goes quiet. He is not brave, but he is not a liar by choice.
 
@@ -371,7 +371,7 @@ Helena takes inventory in the rain, by lantern, and writes down everything — i
 **She is not bluffing, and she is not turning them in.** She is giving them a chance to be honest with her. What she does next depends on their answer:
 
 - **If they declare it:** she logs it, and the party gets a **finder's fee** (25 gp) but the Admiralty impounds the Tablet. Chapter 2 then requires them to petition for access, or steal it back, or let Seraphel "sponsor authentication" — all viable.
-- **If they hide it:** she writes *"black stone, uncertified"* and says nothing more. The party keeps the Tablet, but the lie sits between them and Helena. Tick **Censor's Shroud**? **No** — global clocks do not tick in Act I. Instead, note it: **Helena remembers.**
+- **If they hide it:** she writes *"black stone, uncertified"* and says nothing more. The party keeps the Tablet, but the lie sits between them and Helena. Tick **Censor's Shroud**? **No** — global clocks do not tick in [[act_I_overview|Act I]]. Instead, note it: **Helena remembers.**
 - **If they lie badly (DC 12 Deception vs her Insight +5):** she knows, and says only: *"Don't make me choose between you and my licence."*
 
 ### 9.2 At the Brass Astrolabe
@@ -457,7 +457,7 @@ Arlen decodes the Tablet overnight (or in the morning, if he is alive; if he is 
 - The only way down now is the **Sea Cliff Road**, a two-day overland charter.
 - She has already filed for it. *"I'm not letting Rorik get there first."*
 
-**End the session on the road out of Port Meridian**, or on the party's decision to go. Do not run the Sea Cliff Road tonight.
+**End the session on the road out of [[port_meridian|Port Meridian]]**, or on the party's decision to go. Do not run the Sea Cliff Road tonight.
 
 ---
 

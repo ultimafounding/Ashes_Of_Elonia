@@ -42,7 +42,7 @@ The most defining sociological rift in modern Elonia (c. 1,000 AS) is not merely
 ```
 
 ### The Cultural Friction
-- **The Human Perspective:** Humans view the Silence as ancient history. They rebuilt the world, forged the Five Powers, engineered modern arcana, and feel entitled to govern the continent through dynamic innovation. They often view elves and dwarves as paralyzed by nostalgic grief and archaic tradition.
+- **The Human Perspective:** Humans view [[cosmology_and_metaphysics|the Silence]] as ancient history. They rebuilt the world, forged the Five Powers, engineered modern arcana, and feel entitled to govern the continent through dynamic innovation. They often view elves and dwarves as paralyzed by nostalgic grief and archaic tradition.
 - **The Elder Perspective (Elves & Dwarves):** For an elder elf or venerable dwarf in 1,000 AS, the Silence is not distant mythology. An elf’s grandmother personally walked the marble avenues of Solcaris or studied under Orinth in Ilyanor. Elder folk often view human institutions as reckless, amnesiac children playing with matchsticks around the ruins of an uncomprehended catastrophe.
 
 ---
@@ -54,7 +54,7 @@ The most defining sociological rift in modern Elonia (c. 1,000 AS) is not merely
 ### 3.1 Humans (The Restless Rebuilders)
 - **Demographic Share:** ~55% of the continental population.
 - **Cultural Standing:** Dominant demographic across the Aurelian League, Republic of Ilya, and Free Coast.
-- **Social Character:** Driven, adaptable, politically ambitious, and impatient. Humans are the primary driving force behind both the ancient Ascensionists and the modern Ascendants. They dominate mercantile syndicates, mercenary charters, and secular universities.
+- **Social Character:** Driven, adaptable, politically ambitious, and impatient. Humans are the primary driving force behind both the ancient Ascensionists and the modern [[the_ascendants|Ascendants]]. They dominate mercantile syndicates, mercenary charters, and secular universities.
 
 ---
 
@@ -78,7 +78,7 @@ The most defining sociological rift in modern Elonia (c. 1,000 AS) is not merely
 ### 3.4 Halflings & Gnomes (The Hearth & The Clockwork)
 - **Demographic Share:** ~11% of the continental population.
 - **Halflings (The Riverfolk):** Prominent throughout the agrarian plains and riverways of the Republic of Ilya and Free Coast. They control river transport guilds, agricultural supply lines, and trade hospitality. They are practical survivalists who avoided the philosophical hubris of Avarr.
-- **Gnomes (The Inquisitive):** Concentrated in New Ilya and Port Meridian. Renowned as chronometer-makers, cryptographers, and salvage artificers. Gnomish scholars are among the few who study the mechanical wreckage of the ancient Ascensionists without religious dread.
+- **Gnomes (The Inquisitive):** Concentrated in [[new_ilya|New Ilya]] and [[port_meridian|Port Meridian]]. Renowned as chronometer-makers, cryptographers, and salvage artificers. Gnomish scholars are among the few who study the mechanical wreckage of the ancient Ascensionists without religious dread.
 
 ---
 
@@ -96,7 +96,7 @@ The most defining sociological rift in modern Elonia (c. 1,000 AS) is not merely
   - **Social Treatment:** Feared in the Aurelian League as omens of spiritual corruption; analyzed in New Ilya as clinical curiosities; pitied in Vareth as having "frayed soul-threads." Along the Free Coast, they are embraced as lucky navigators and daring salvagers.
 - **Aasimar (*The Dawn-Echoes*):**
   - Born with rare, lingering harmonic resonance to the ancient Celestine. They do not receive divine visions, but emit a subtle radiant aura.
-  - **Social Treatment:** Revered by the Keepers of Dawn as holy prodigies, but deeply alienated in daily life. `[DM-ONLY]` Their radiant presence inadvertently triggers violent resonance spikes when near Seraphel's soul-siphons.
+  - **Social Treatment:** Revered by the [[the_keepers_of_dawn|Keepers of Dawn]] as holy prodigies, but deeply alienated in daily life. `[DM-ONLY]` Their radiant presence inadvertently triggers violent resonance spikes when near [[lord_seraphel|Seraphel]]'s soul-siphons.
 
 ---
 
@@ -141,7 +141,7 @@ graph TD
 ---
 
 ### 4.3 The Dominion of Vareth: The Politics of Ancestry
-- **The Great Tablet:** A citizen's legal standing in Khar Vareth is determined by how many centuries their family bloodline has been recorded on the monumental tablets of the Necropolis.
+- **The Great Tablet:** A citizen's legal standing in [[khar_vareth|Khar Vareth]] is determined by how many centuries their family bloodline has been recorded on the monumental tablets of the Necropolis.
 - **The Reality:** Ancient dwarven stone-cutter clans and venerable human mortuary dynasties sit at the apex of society.
 - **Prejudices:** 
   - Immigrants, wanderers, and orphans whose lineages are unrecorded are known as **The Nameless**. While not physically harmed, they are barred from ancestral vaults and treated with pity and quiet spiritual condescension, as people who will "dissolve into forgotten ash upon death."

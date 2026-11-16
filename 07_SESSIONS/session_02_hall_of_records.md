@@ -13,7 +13,7 @@ date: ""
 > *"Dust lies like snow. Something has walked here."*
 
 **Chapter:** [[chapter_1_shattered_archive]] • **Level:** 1 (no level-up this session)
-**Covers:** Hall of Records (1.2) in full, a surface breather, and the approach to the brass door
+**Covers:** [[chapter_1_shattered_archive|Hall of Records]] (1.2) in full, a surface breather, and the approach to the brass door
 **Cliffhanger out:** the brass door hisses half-open.
 
 > **Actual play:** see [[session_02_recap]]. The party cleared 1.2, saved Tamsin Roke, took a long rest, and ended at the brass door. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3**.
@@ -67,7 +67,7 @@ date: ""
 ## 1. Pre-Session Checklist (15 minutes)
 
 - [ ] Read the **Scope** above. The brass door stays shut tonight.
-- [ ] Decide whether you're using the **dying Breaker** (recommended) — he carries the Soul Crisis rumour.
+- [ ] Decide whether you're using the **dying Breaker** (recommended) — he carries the [[cosmology_and_metaphysics|Soul Crisis]] rumour.
 - [ ] **The cut rope was a third party covering tampering.** Decide what they tampered with and what trace they left. Tamsin wrongly assumes Rorik did it (§4.4).
 - [ ] **Place the hidden chests** and decide their contents (carry-over from Session 1; TBD).
 - [ ] Have the **Hall key** (§3.2) and the **dust rules** (§3.1) in front of you. Exploration is a third of this session.
@@ -149,7 +149,7 @@ This beat can run **before** the ghoul (if they sneak past) or **after** (if the
 | ------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Fresh iron boot-heel marks** | DC 13 Survival or Investigation (automatic if they move at half speed) | A modern boot, nailed heel, size and gait of a grown man. **Over** the ancient dust, not under it. Someone walked here within weeks.     |
 | **A snapped steel lockpick**   | DC 12 Investigation, or automatic when crossing the far third          | Modern steel, not bronze. The tip is still in the brass door's mechanism.                                                                |
-| **A grease-rag**               | DC 12 Investigation, or automatic with **Detect Magic**/a good nose    | Smells of **New Ilya lamp oil** — violet-white, distinct from Coast whale oil. The same oil the Breakers bought at the Salt-Lantern.     |
+| **A grease-rag**               | DC 12 Investigation, or automatic with **Detect Magic**/a good nose    | Smells of **[[new_ilya\|New Ilya]] lamp oil** — violet-white, distinct from Coast whale oil. The same oil the Breakers bought at the Salt-Lantern.     |
 | **The furrow itself**          | No check                                                               | Straight as a survey line, from the doorway to the far door. Whoever walked it was *working*, not wandering.                             |
 | **A second set of prints**     | DC 15 Investigation (optional)                                         | Smaller, barefoot, and they *stop* at the ghoul's camp. They do not leave. **Say nothing.** It might be a previous victim. It might not. |
 
@@ -270,7 +270,7 @@ Then, quieter:
 
 This is **Clue B** and **Mystery 1, Stage 2** — `[ESTABLISHED CANON]`. The Ascensionists were civic administrators. Say it plainly, once, and let it land.
 
-**If the players ask the obvious question** — *"then why does everyone say they were a death cult?"* — Arlen has no answer. Helena, if present, says: *"Because someone wrote the other version first."* Do not elaborate. That is Act II.
+**If the players ask the obvious question** — *"then why does everyone say they were a death cult?"* — Arlen has no answer. Helena, if present, says: *"Because someone wrote the other version first."* Do not elaborate. That is [[act_II_overview|Act II]].
 
 ### 6.3 Optional: the catalog rod and the empty niches
 
@@ -278,7 +278,7 @@ If they found the bronze rod (§3.2 E), Arlen can match its graduations to the i
 
 > *"That's not rot. That's a *gap*."*
 
-**Do not** connect it to the Ascendants' pamphlet yet. Let the players do it.
+**Do not** connect it to the [[the_ascendants|Ascendants]]' pamphlet yet. Let the players do it.
 
 ---
 
@@ -342,7 +342,7 @@ They now have roughly **25–40 gp each** (advance + haul share + Helena's bonus
 
 | Activity | What it does |
 |----------|--------------|
-| **Carouse** | DC 12 Persuasion/Performance. On a success, learn one dockside rumour (roll 1d6 on the Port Meridian table). On a failure, wake up with a hangover and a 5 gp tab |
+| **Carouse** | DC 12 Persuasion/Performance. On a success, learn one dockside rumour (roll 1d6 on the [[port_meridian\|Port Meridian]] table). On a failure, wake up with a hangover and a 5 gp tab |
 | **Research** | DC 13 Investigation/History at the Astrolabe or a parish library. Learn one true thing about the old city — e.g. that the pre-Silence city had a *civic* hospital system |
 | **Gossip** | DC 12 Insight with dockhands. Learn that Rorik's crew has been buying New Ilya oil by the crate |
 | **Worship / parish** | Dan's home ground. Sister Marda's line about the dead not passing; no mechanics |
@@ -404,7 +404,7 @@ They go back down at dusk or the next morning. The cellar is not as they left it
 - [ ] They know **someone else is using their hole in the ground**.
 - [ ] The brass door is **still shut**.
 
-**Do not:** open the door, reveal the Oath, name the Engine, introduce Seraphel, explain the Soul Crisis, or confirm the empty niches mean censorship.
+**Do not:** open the door, reveal the Oath, name the Engine, introduce [[lord_seraphel|Seraphel]], explain the Soul Crisis, or confirm the empty niches mean censorship.
 
 ---
 

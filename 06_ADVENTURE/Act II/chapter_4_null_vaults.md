@@ -1,6 +1,6 @@
 # Chapter 4: The Null Vaults
 > *"Below the library that remembers everything is the library that remembers truly."*
-> **Act II • Levels 6–8 • Site: The Athenaeum Null (pump plunge → Antechamber → Ashes → Nullity → Solcaris)**
+> **[[act_II_overview|Act II]] • Levels 6–8 • Site: The Athenaeum Null (pump plunge → Antechamber → Ashes → Nullity → Solcaris)**
 
 ---
 ## 1. Approach — Under-Canal Pump Station
@@ -21,7 +21,7 @@ Rows of desks; scribes razor pages into silver crucibles. Do not harm scribes if
 - **The Ascension Papers `[DM-ONLY: Engine LEARNED]`:** Single bound folio, one passage to read aloud once:
   > *"The Engine breathes beneath the provinces. Conduit the Ninth failed at Solcaris; the lower ways tore like wet linen. We sealed what we could. Let no hand restart it."*
   Close the book. No further explanation. Allow Arlen a stunned silence.
-- **The Inquest of Avarr (foreshadow Act III):** Execution orders signed by praying magistrates invoking Aurelion and Myrraen. *"They burned while praying. The gods said nothing."* File under debate, not conclusion.
+- **The Inquest of Avarr (foreshadow [[act_III_overview|Act III]]):** Execution orders signed by praying magistrates invoking Aurelion and Myrraen. *"They burned while praying. The gods said nothing."* File under debate, not conclusion.
 - **Encounter (drain resources, not boss):** 1x **Null Archivist (Mage, abjuration, CR 6)** + 1x **Censor** arrive on timer (6 rounds after entry). Archivist fights to destroy cases, not to kill — targets glass with *Shatter*.
 
 ### 4.4 Vault of Solcaris (Broken Seal)
@@ -33,6 +33,6 @@ Alarm sounds; **Dean Vale** arrives with 4x Inquisitors at 4.2 as party exits. V
 - **If captured:** Vale seizes copies, party keeps originals via Lysa swap — never total loss (fallback rule).
 
 ## 4. Aftermath & Exile
-Warrants posted by dawn; Lyceum fellowship revoked. Seraphel opens his estate: hot food, physicians, lawyers, masterwork field gear + crag maps (per register). Studies the Seal *reverently, briefly*, returns it. Presses once on schematic custody, accepts refusal gracefully.
-- **Hand-off:** *"The Seal is dead metal without the Lantern that lit it. My maps mark Lantern Chapel, Weeping Ridge. Take my carriage as far as the crags."* Supplies + letters + Arlen begs to come (take him if party wants).
+Warrants posted by dawn; Lyceum fellowship revoked. [[lord_seraphel|Seraphel]] opens his estate: hot food, physicians, lawyers, masterwork field gear + crag maps (per register). Studies the Seal *reverently, briefly*, returns it. Presses once on schematic custody, accepts refusal gracefully.
+- **Hand-off:** *"The Seal is dead metal without the Lantern that lit it. My maps mark [[lantern_chapel|Lantern Chapel]], Weeping Ridge. Take my carriage as far as the crags."* Supplies + letters + Arlen begs to come (take him if party wants).
 - **Milestones:** Seize Annales + Seal → **Level 7**. Escape + accept exile → **Level 8**. Open Act III.

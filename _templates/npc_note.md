@@ -22,4 +22,4 @@ status: alive
 ## At the table
 - Voice/manner:
 - Dialogue trigger:
-- Stat block: <!-- link to 04_NPCS or 08_MONSTERS_AND_ITEMS -->
+- Stat block: [[rules_and_bestiary|Monsters & Foes]] or [[npc_index|NPC Index]]

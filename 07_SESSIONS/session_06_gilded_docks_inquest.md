@@ -13,7 +13,7 @@ date: ""
 > *"The past does not belong to the magistrates, my friends. It belongs to anyone with the courage to bring a lamp into the dark."*
 
 **Chapter:** [[chapter_2_stair_and_star]] • **Level:** 3 → **4** at the end
-**Covers:** escape from the Star Stair → return to Port Meridian → the Gilded Docks Inquest → Seraphel's patronage → the road to New Ilya
+**Covers:** escape from the Star Stair → return to [[port_meridian|Port Meridian]] → the Gilded Docks Inquest → [[lord_seraphel|Seraphel]]'s patronage → the road to [[new_ilya|New Ilya]]
 **Cliffhanger out:** the fellowship letters are signed, the carriage is waiting, and the road to New Ilya is open.
 
 > **Actual play carry-over:** the party is on the cliff with the Codex, level 3. **Wren is dead.** **Arlen is estranged but useful.** **Tamsin** may be with them. **The captured Breaker** may be an ally or a bargaining chip. **Kael** may be alive, dead, or a tentative contact. Clocks: **Helena's Charter** and **Cartel Interference** as adjusted.
@@ -25,10 +25,10 @@ date: ""
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
 | Session 4 | Pub that night → next morning → Sea Cliff Road → Star Stair | The cliff door in sight | 2 |
-| Session 5 | Star Chamber → Codex → Cartel breach → collapse | The chamber falling; the Codex in hand | → 3 |
+| Session 5 | [[chapter_2_stair_and_star\|Star Chamber]] → Codex → Cartel breach → collapse | The chamber falling; the Codex in hand | → 3 |
 | **Session 6 (this file)** | **Escape → return to Meridian → Inquest → Seraphel → fellowship** | **The road to New Ilya** | **→ 4** |
 
-**Rule for tonight:** this is the social and legal climax of Act I. The chase is the opener, not the whole night. Give the Inquest room to breathe. End with the party on the road, not in a fight.
+**Rule for tonight:** this is the social and legal climax of [[act_I_overview|Act I]]. The chase is the opener, not the whole night. Give the Inquest room to breathe. End with the party on the road, not in a fight.
 
 ---
 
@@ -43,7 +43,7 @@ date: ""
 | 4 | **The Gilded Docks Inquest** — charges and trial | 55 min | Social / skill challenge | The chapter's legal climax |
 | 5 | **Seraphel's entrance** — the patron | 30 min | Social | The campaign's central manipulation |
 | 6 | **Fellowship** — letters, pay, downtime | 30 min | Downtime | Reward and relationships |
-| 7 | **The road to New Ilya** — Act II hook | 15 min | Transition | End the chapter |
+| 7 | **The road to New Ilya** — [[act_II_overview\|Act II]] hook | 15 min | Transition | End the chapter |
 
 **Base total: 240 min.** Optional evidence scenes (§5.3b), trial layers (§5.7), downtime (§7.3–7.7), and the travel montage (§8.3) push a full night to 5 hours. Trimming notes in §16.
 
@@ -59,7 +59,7 @@ By the end of tonight, the table should:
 - Have **level 4** and a clear road to **New Ilya**.
 - Have closed the **Act I clocks** and opened **Act II**.
 
-**Do not:** reveal Seraphel's true nature, name the Engine, explain the Soul Crisis, or run the Grand Lyceum. That is Act II.
+**Do not:** reveal Seraphel's true nature, name the Engine, explain the [[cosmology_and_metaphysics|Soul Crisis]], or run the Grand Lyceum. That is Act II.
 
 ---
 
@@ -304,7 +304,7 @@ If they picked it up on the cliff, a **DC 13 Investigation** reveals a maker's m
 
 | Witness | What they say | Risk |
 |---------|---------------|------|
-| **Helena Voss** | The charter was for salvage; the party acted to prevent loss; the site was unsafe | She risks her licence |
+| **[[major_allies_and_rivals\|Helena Voss]]** | The charter was for salvage; the party acted to prevent loss; the site was unsafe | She risks her licence |
 | **Tamsin Roke** | The Cartels left Wren to die; Rorik's crew was looting | He is a Breaker; the court may not believe him |
 | **Arlen Marr** | The Exchange was told to log the find as cult debris; he refused | He risks his career |
 | **The captured Breaker** | Rorik's orders; the gold man; the route | He wants a reduced sentence |
@@ -547,7 +547,7 @@ Seraphel offers:
 - He already knows about the Star Chamber. His agents have been watching since the Scriptorium.
 - He wants the Codex because it is a **technical document**, not a historical one. The transit map is a schematic.
 - He does not want the ancient gods to return. He wants to become a god himself.
-- **Do not reveal any of this.** Play the warm, brilliant patron. The betrayal lands in Act IV.
+- **Do not reveal any of this.** Play the warm, brilliant patron. The betrayal lands in [[act_IV_overview|Act IV]].
 
 ### 6.5 The party's choice
 
@@ -884,7 +884,7 @@ Tired, professional, and not sorry.
 **Tactics:** covers the road; flees at half HP.
 
 ### Kael, Cartel Salvage Captain (CR 2) — if alive
-Use the block in `session_05_star_chamber.md` §14.
+Use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]] §14.
 
 ### Admiralty Guard (CR 1/2) — 2×
 *Medium Humanoid, lawful neutral*
@@ -922,7 +922,7 @@ Use the block in `session_05_star_chamber.md` §14.
 ### 12.3 The fellowship letter
 
 > **THE GRAND LYCEUM, NEW ILYA**
-> *By the hand of Lord Seraphel of House Vane, Patron of the Ascendants, Benefactor of the Lyceum:*
+> *By the hand of Lord Seraphel of House Vane, Patron of the [[the_ascendants|Ascendants]], Benefactor of the Lyceum:*
 > *The bearers are admitted as Fellows of the Grand Lyceum, with all rights of study, residence, and access to the public collections.*
 > *They are commended for the recovery of the Catalogue Codex and for their courage in the dark.*
 > *Stipend: 100 gold pieces each, paid on arrival.*

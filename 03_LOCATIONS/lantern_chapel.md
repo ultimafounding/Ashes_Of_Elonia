@@ -1,7 +1,7 @@
 # Location Profile: Lantern Chapel & The Weeping Ridge
 
 > *"The chapel is cold, the stone is rough, and the wind never quite ceases. But inside, water boils on an iron stove, and an old man pours tea for anyone who knocks."*  
-> **Campaign Hub: Act III (Levels 8–12) • The Weeping Ridge**
+> **Campaign Hub: [[act_III_overview|Act III]] (Levels 8–12) • The Weeping Ridge**
 
 ---
 
@@ -9,7 +9,7 @@
 
 - **Classification:** Ancient Monastic Hermitage & Relic Sanctuary.
 - **Location:** Perched upon a jagged granite crag six thousand feet up in the misty **Weeping Ridge** of central Elonia.
-- **Inhabitants:** Exactly one resident monk: **Brother Cael**, aided occasionally by visiting pilgrims from the **Church of the Last Light**.
+- **Inhabitants:** Exactly one resident monk: **[[brother_cael_orinth|Brother Cael]]**, aided occasionally by visiting pilgrims from the **[[the_church_of_the_last_light|Church of the Last Light]]**.
 - **Tone & Aesthetic:** Austere, wind-scoured, timeless, and peaceful. Slate-roofed stone buildings constructed from coarse grey fieldstones, surrounded by mountain heather and stunted alpine pines. The air smells of wet slate, ozone, woodsmoke, and brewing mint tea. Perpetual supernatural mist curls around the lower foundations.
 
 ```
@@ -87,8 +87,8 @@ During the climax of Act III, the chapel is besieged by **The Unpassed Tide**—
 | d6 | Hermitage & Mountain Encounter | Mechanical / Social Hook |
 | :--- | :--- | :--- |
 | 1 | **Brother Cael's Tea Time:** Cael invites the party to sit by the hearth and asks each character to share their greatest unasked question. | Roleplay scene; characters gain inspiration for thoughtful answers. |
-| 2 | **The Lost Pilgrim:** An exhausted young initiate from the Church of the Last Light arrives half-frozen, bearing a letter from Lysa Corren. | Delivers urgent updates regarding New Ilya’s crackdown. |
+| 2 | **The Lost Pilgrim:** An exhausted young initiate from the Church of the Last Light arrives half-frozen, bearing a letter from [[major_allies_and_rivals\|Lysa Corren]]. | Delivers urgent updates regarding [[new_ilya\|New Ilya]]’s crackdown. |
 | 3 | **Specter of the Crags:** A restless spirit from the ancient Fall of Harad Veyr wanders into the cloister, seeking its forgotten name. | Can be put to peace using a DC 14 History check or the Lantern’s light. |
 | 4 | **The Storm-Eagle:** A colossal golden eagle (an ancient beast of Aurelion) lands on the parapet, stares intently at Cael, and screeches before flying west. | Foreshadowing divine stirrings beyond the Veil. |
 | 5 | **Night Shadow Stalker:** A shadowy predator born from suppressed history stalks the perimeter of the cairn garden. | Stealth / Combat encounter testing party vigilance at high altitude. |
-| 6 | **The Memory Shard:** A loose stone in the courtyard floor vibrates, echoing a faint recording of Selyra’s voice weeping for the future. | Lore discovery linking to Act V at Nythara. |
+| 6 | **The Memory Shard:** A loose stone in the courtyard floor vibrates, echoing a faint recording of Selyra’s voice weeping for the future. | Lore discovery linking to [[act_V_overview\|Act V]] at Nythara. |

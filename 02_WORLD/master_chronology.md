@@ -9,12 +9,12 @@
 
 `[ESTABLISHED CANON]`
 Elonian historiography is divided into two primary epochs demarcated by the **Silence**:
-- **BS (Before the Silence):** The ancient mythic and divine eras of the First Covenant, the Nine Cities, and the Ascensionists.
+- **BS (Before [[cosmology_and_metaphysics|the Silence]]):** The ancient mythic and divine eras of the First Covenant, the Nine Cities, and the Ascensionists.
 - **AS (After the Silence):** The modern era of mortal reconstruction, secular nations, and the five great powers.
 
 ### Canonical Anchor Ruling
 `[ESTABLISHED CANON]`
-Earlier drafts and regional texts contain conflicting references between "c. 1,100 AS" and "exactly one thousand years after the Abandonment." **The Official Campaign Bible locks the Present Day at c. 1,000 AS.** All downstream records, campaign clocks, and character backgrounds are anchored to this date.
+Earlier drafts and regional texts contain conflicting references between "c. 1,100 AS" and "exactly one thousand years after the Abandonment." **The [[Ashes_of_Elonia_Official_Campaign_Bible_v1|Official Campaign Bible]] locks the Present Day at c. 1,000 AS.** All downstream records, campaign clocks, and character backgrounds are anchored to this date.
 
 ---
 
@@ -61,7 +61,7 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
   - **Solcaris:** Gleaming white stone beside the Sea of Glass, founded upon Aurelion's principle that law must be stronger than kings.
   - **Ilyanor:** The city of blue-tiled spires, founded upon Orinth's belief that knowledge is sacred because it can be questioned.
   - **Nythara:** The roofless mountain city of dark reflection pools, where Selyra's stargazers read possibility.
-  - **Vale Myrr:** The wall-less sanctuary city in the broad river basin, embodying Myrraen’s faith in radical mercy.
+  - **[[vale_myrr_and_nythara|Vale Myrr]]:** The wall-less sanctuary city in the broad river basin, embodying Myrraen’s faith in radical mercy.
   - **Harad Veyr:** Thaeron's fortress city where martial strength is taught as defensive responsibility.
   - **The Living Groves of Elyndra:** Vast settlements cultivated in balance with primordial ecosystems.
   - **Vareth-Tor:** The basalt necropolis of Varek, preserving the names and lineages of the dead.
@@ -95,7 +95,7 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
 - They develop secular medicine, advanced clockwork engineering, and non-divine arcana.
 
 #### c. 1,000 BS: The Ascension Engine Project `[ESTABLISHED CANON]` `[DM-ONLY]`
-- Seeking to overcome the ultimate vulnerability of mortality—death itself—the Ascensionists construct the titanic **Ascension Engine** deep beneath the central bedrock of Elonia.
+- Seeking to overcome the ultimate vulnerability of mortality—death itself—the Ascensionists construct the titanic **[[the_engine_deep_and_the_veil|Ascension Engine]]** deep beneath the central bedrock of Elonia.
 - The Engine is designed to weave human souls into an eternal, self-sustaining loop.
 
 #### 980 – 950 BS: The Catastrophe of the Engine & The Soulway Fracture
@@ -103,7 +103,7 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
 - The ancient **Soulways**—the metaphysical pathways of natural passage—sustain massive, permanent structural trauma. Varek intervenes to halt the overload, but the spiritual fabric of Elonia is permanently scarred.
 
 #### 901 BS: The Last Council
-- The Nine Celestine convene in agonizing debate over the fate of Elonia.
+- The [[the_nine_celestine|Nine Celestine]] convene in agonizing debate over the fate of Elonia.
 - Aurelion demands martial law; Thaeron demands mortals suffer their own consequences; Selyra warns of doom if they stay.
 - Myrraen makes her fateful decision: divine protection has become a cage. To save humanity, the gods must leave.
 
@@ -114,7 +114,7 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
 #### 0 AS: The Abandonment & The Erection of the Veil `[ESTABLISHED CANON]`
 - Myrraen channels her immense divine authority and severs the celestial link to Elonia.
 - The **Veil** is drawn across the cosmos. Eight of the Nine Celestine are drawn beyond.
-- **Orinth’s Secret Defiance:** `[DM-ONLY]` Refusing to abandon humanity to despair, Orinth strips himself of his divine majesty and remains behind on Elonia in secret, taking the identity of humble **Brother Cael**.
+- **Orinth’s Secret Defiance:** `[DM-ONLY]` Refusing to abandon humanity to despair, Orinth strips himself of his divine majesty and remains behind on Elonia in secret, taking the identity of humble **[[brother_cael_orinth|Brother Cael]]**.
 
 ---
 
@@ -122,7 +122,7 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
 
 #### 0 – 100 AS: The Years of Ash & The Fall of the Nine Cities `[ESTABLISHED CANON]`
 - With miracle-based agriculture and magical systems abruptly severed, continent-wide famine, disease, and resource wars erupt.
-- Solcaris collapses; Harad Veyr is abandoned; Avarr's ruins become haunted wastelands. Ilyanor alone endures — its universities adapt, becoming the foundation of a new civilization (cf. Ain Elonar).
+- Solcaris collapses; Harad Veyr is abandoned; Avarr's ruins become haunted wastelands. Ilyanor alone endures — its universities adapt, becoming the foundation of a new civilization (cf. [[Ain_Elonar|Ain Elonar]]).
 
 #### 0 – 300 AS: The Age of Ashes
 - Mortals endure brutal centuries of survival. Gradually, secular institutions, crop rotation, mortal medicine, and independent arcane traditions are born from necessity.
@@ -133,19 +133,19 @@ Earlier drafts and regional texts contain conflicting references between "c. 1,1
   - The *Republic of Ilya* rebuilds around the Grand Lyceum.
   - The *Dominion of Vareth* restores funerary science.
   - *The Verdancy* establishes arboreal druidic confederacies.
-  - *The Free Coast* transforms maritime trade through Port Meridian.
+  - *The Free Coast* transforms maritime trade through [[port_meridian|Port Meridian]].
 
 #### c. 650 AS: The Resurfacing Soul Crisis `[DM-ONLY]`
 - The ancient wound inflicted by the Ascension Engine begins to manifest measurably.
-- In Khar Vareth, scribes record a 15% to 25% failure rate in peaceful soul transit. Spirits linger as tortured phantoms.
+- In [[khar_vareth|Khar Vareth]], scribes record a 15% to 25% failure rate in peaceful soul transit. Spirits linger as tortured phantoms.
 - The Republic of Ilya and Aurelian League establish secret censorship units (including the *Athenaeum Null*) to suppress news of the failing soulways.
 
 #### c. 850 AS: The Modern Ascendants Emerge `[ESTABLISHED CANON]`
-- A new, pluralistic historical and archaeological movement arises, taking the ancient name **The Ascendants**. Unlike their ancient predecessors, modern Ascendants are historians, antiquarians, and scholars seeking recovered truth.
+- A new, pluralistic historical and archaeological movement arises, taking the ancient name **The [[the_ascendants|Ascendants]]**. Unlike their ancient predecessors, modern Ascendants are historians, antiquarians, and scholars seeking recovered truth.
 - *Canon note: `Ain Elonar` dates proto-"First Ascendant" circles to c. 1,020 AS on its old c. 1,100 AS anchor (pre-reconciliation draft). Per Bible v1 the present is locked at c. 1,000 AS; the movement's formal founding is fixed here at c. 850 AS.*
 
 #### c. 970 AS: Seraphel Discovers the Wound `[DM-ONLY]`
-- Lord Seraphel of House Vane discovers surviving subterranean conduits of the Ascension Engine.
+- [[lord_seraphel|Lord Seraphel]] of House Vane discovers surviving subterranean conduits of the Ascension Engine.
 - Realizing that millions of unpassed souls are trapped within the wound, Seraphel begins constructing covert brass siphon-arrays to harvest the spiritual power for his own planned apotheosis.
 
 #### c. 1,000 AS: Present Day (The Convergence Horizon) `[ESTABLISHED CANON]`

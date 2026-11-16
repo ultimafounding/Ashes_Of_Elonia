@@ -16,7 +16,7 @@ date: ""
 **Covers:** the sea cave → the Antechamber of Measures → Selyra's Eye → the Catalogue Codex → the Cartel breach → the collapse
 **Cliffhanger out:** the chamber is falling, the tide is rising, and the Cartels are still between the party and the road.
 
-> **Actual play carry-over:** the party is at the Star Stair, level 2. **Wren is dead.** **Arlen is estranged but sent the translation.** **Tamsin** may be with them. **The captured Breaker** may have given them the Cartel route. The **Tablet** is in party hands. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3** (adjust for Session 4 choices).
+> **Actual play carry-over:** the party is at the Star Stair, level 2. **They came down loudly — the Cartels heard them and are alerted** (they do not yet know who, or how many). **Wren is dead.** **Arlen is estranged but sent the translation.** **Tamsin** may be with them. **The captured Breaker** may have given them the Cartel route. The **Tablet** is in party hands. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3** (adjust for Session 4 choices). The noise does **not** tick a clock.
 
 ---
 
@@ -25,10 +25,10 @@ date: ""
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
 | Session 4 | Pub that night → next morning → Sea Cliff Road → Star Stair | The cliff door in sight | 2 |
-| **Session 5 (this file)** | **Sea cave → Antechamber → Star Chamber → Codex → Cartel breach → collapse** | **The chamber falling; the Codex in hand** | **→ 3** |
-| Session 6 | Escape → return to Meridian → Gilded Docks Inquest → Seraphel | Fellowship letters; the road to New Ilya | **→ 4** |
+| **Session 5 (this file)** | **Sea cave → Antechamber → [[chapter_2_stair_and_star\|Star Chamber]] → Codex → Cartel breach → collapse** | **The chamber falling; the Codex in hand** | **→ 3** |
+| Session 6 | Escape → return to Meridian → [[session_06_gilded_docks_inquest\|Gilded Docks Inquest]] → [[lord_seraphel\|Seraphel]] | Fellowship letters; the road to [[new_ilya\|New Ilya]] | **→ 4** |
 
-**Rule for tonight:** the chamber is the session. Do not run the Inquest, Seraphel's entrance, or the return to Port Meridian. End in the collapse or on the cliff outside.
+**Rule for tonight:** the chamber is the session. Do not run the Inquest, Seraphel's entrance, or the return to [[port_meridian|Port Meridian]]. End in the collapse or on the cliff outside.
 
 ---
 
@@ -36,8 +36,8 @@ date: ""
 
 | # | Beat | Time | Type | Purpose |
 |---|------|------|------|---------|
-| 0 | Recap + the door | 15 min | Social | Re-establish the threshold |
-| 1 | **The sea cave** — tide, sentry, optional cache | 25 min | Exploration / stealth | The Cartels are inside |
+| 0 | Recap + the door — and who heard them | 15 min | Social | Re-establish the threshold, then the silence |
+| 1 | **The sea cave** — tide, alerted sentry, optional cache | 25 min | Exploration / social | The Cartels know someone is coming |
 | 2 | **The Antechamber of Measures** — calibration room | 35 min | Exploration / trap | Show the ancients were scientists |
 | 3 | **Selyra's Eye** — the ring puzzle | 45 min | Puzzle | The chapter's centrepiece |
 | 4 | **The Codex and the mosaic** — the payoff | 30 min | Lore / discovery | The humanist thesis and the transit map |
@@ -60,14 +60,15 @@ By the end of tonight, the table should:
 - Have paid a **price** for the Codex: resources, loot, a prisoner, or a promise.
 - Reach **level 3**.
 
-**Do not:** name the Engine, explain the Soul Crisis, reveal Seraphel, or run the Inquest.
+**Do not:** name the Engine, explain the [[cosmology_and_metaphysics|Soul Crisis]], reveal Seraphel, or run the Inquest.
 
 ---
 
 ## 1. Pre-Session Checklist (15 minutes)
 
 - [ ] Read the **Scope** and §17. The Inquest is next session.
-- [ ] Decide whether the **Cartels inside** are Kael's crew (default) or a smaller advance team. If the party parleyed on the road, Kael is suspicious but not hostile.
+- [ ] **The Cartels are alerted.** The party was loud on the stair. Play the sentry as warned, not bored; Kael has had time to shade the lantern and take cover.
+- [ ] Decide whether the **Cartels inside** are Kael's crew (default) or a smaller advance team. If the party parleyed on the road, Kael is suspicious but not hostile — and now also forewarned.
 - [ ] Decide whether **Tamsin** is with them. If yes, he is a guide, an extra body, and a liability.
 - [ ] Have the **puzzle** (§4.3), **Codex excerpts** (§5.2), and **mosaic** (§5.4) ready. Do not paraphrase the Codex; let the players read.
 - [ ] Have the **Cartel offer** and **Kael's dialogue** in front of you. He should be likable enough to bargain with.
@@ -80,20 +81,36 @@ By the end of tonight, the table should:
 
 ## 2. Recap and the Door (15 min)
 
-Open at the half-open brass door. The lantern is still moving inside.
+Open on the half-open brass door — and on the silence the party caused.
 
-> *The door is warm. The air beyond is dry, cold, and smells of ink and old stone. Somewhere inside, a voice says, "—not the books. The glass. Rorik said the glass." Another voice answers, and the lantern light shifts.*
+They came down the Star Stair talking, arguing, or simply not caring how far sound carries in a cave. It carried. The voices inside have stopped.
+
+> *The door is warm. The air beyond is dry, cold, and smells of ink and old stone. The lantern light that was moving a minute ago is gone — shaded, not doused. A boot scuffs on stone. Then a voice, carefully casual: "That you, Perrin? You're early."*
+>
+> *Nobody answers. The silence stretches.*
 
 **Ask the table:**
 
+- *"What were you saying on the stair? Who said it loudest?"*
 - *"Who is closest to the door?"*
 - *"Who is holding the Tablet?"*
 - *"Where is Tamsin?"*
 - *"What did you do with the mule?"*
 
-**If they rescued Toby:** he is outside with the mule, or waiting at the cliff top. He can hold the rope, carry the Codex, or raise an alarm. Decide before play.
+**What their noise changed:**
 
-**Do not** roll initiative yet. The Cartels have not noticed the party.
+| A minute ago | Now |
+|---|---|
+| The Cartels were arguing about the glass | They are quiet, behind cover, listening |
+| The sentry was bored at the door | He is off the door-line, crossbow cocked, calling out |
+| Kael was stripping the plinth | Kael has the strongbox and his hammer within reach |
+| The party could have chosen surprise | Surprise is gone; the next move is talk, bluff, or a hard push |
+
+They do **not** know how many the party are, and they do **not** know about the **Tablet**. They know someone came down the stair, and they are not amateurs.
+
+**If they rescued Toby:** he is outside with the mule, or waiting at the cliff top. He can hold the rope, carry the Codex, or — if the party is loud again — give away their position a second time.
+
+**Do not** roll initiative yet. The Cartels are alerted, not committed. A conversation through the door is still the likeliest next beat, and the sentry opens it with a name.
 
 ---
 
@@ -109,14 +126,19 @@ The cave is **60 ft wide, 40 ft deep**, with a **shingle floor**, a **tidal pool
 
 ### 3.2 The sentry
 
-A **Cartel Scout** is posted just inside the door, bored and cold. He has a lantern, a crossbow, and a flask.
+A **Cartel Scout** is posted just inside the door — but he is no longer bored. He heard the party on the stair, shaded his lantern, and moved off the door-line. He is behind the door frame with his crossbow trained on the entrance. He has a flask, a whistle, and a bad temper.
+
+He opens with the same line the party heard through the door: **"That you, Perrin?"** Then he waits, and the party has one breath to answer.
 
 **Options:**
 
-- **Sneak past (DC 13 Stealth):** the party reaches the door without alerting him. If they take him out quietly (DC 14 Stealth + an attack, or DC 13 Deception to send him away), the Cartels inside are unaware.
-- **Talk (DC 13 Persuasion/Deception):** he thinks they are the relief crew. He complains about Rorik, the tide, and the "big man." He can be bribed (10 gp) or persuaded to leave (DC 15).
-- **Fight:** he is a Scout (CR 1/2). He shouts if he can; if he shouts, the Cartels inside prepare (see §6.6).
-- **Avoid:** there is a **seaward entrance** at low tide (DC 14 Athletics to climb the rocks) that bypasses the sentry but leads to the tidal pool and the reef-crawlers.
+- **Talk your way in (DC 15 Deception):** claim to be the relief crew. **DC 13** if they use the name **Perrin**, show a Cartel chit, or mention Rorik. On a failure he does not attack immediately — he shouts for Kael, and the Cartels inside come forward ready.
+- **Persuade him to stand down (DC 16 Persuasion):** with a bribe of **15+ gp** or a promise to cover his watch. On a success he steps aside, warns them Kael is "not in a buying mood," and leaves through the seaward crack. He takes the bribe with him.
+- **Take him quietly (DC 17 Stealth + an attack):** only if something distracts him first — Toby, a thrown stone, the signal whistle, or a PC who stays out of the lantern light. Without a distraction, he sees them coming and there is **no surprise round**.
+- **Fight:** he is a Scout (CR 1/2). He is already alerted and behind cover, so he gets the first shot; he shouts on his first turn. When he shouts, Kael comes forward with the crew — run §6.1 early, at the bronze door, not the plinth.
+- **Avoid:** there is a **seaward entrance** at low tide (**DC 14 Athletics** to climb the rocks) that bypasses the sentry entirely — and bypasses the alert. It leads to the tidal pool and the reef-crawlers.
+
+**He is not a fool.** A bad lie gets a crossbow bolt, not a second chance. But he is also cold, underpaid, and does not want to die in a cave for Rorik's glass.
 
 **What the sentry knows:**
 
@@ -144,7 +166,7 @@ The sea cave is more than a corridor. Give the players something to investigate 
 |----------|-------|--------|
 | **Read the tide-line** | DC 12 Survival | Predict the next surge; advantage on the tide clock |
 | **Search the shingle** | DC 13 Investigation | A drowned Cartel satchel: 10 gp, a dry tinderbox, a **signal whistle** |
-| **Listen at the door** | DC 12 Perception | Two voices; one says "the glass," the other says "Rorik." |
+| **Listen at the door** | DC 10 Perception | No voices now. A crossbow being cocked, a whispered *"get Kael,"* and something heavy dragged behind a pillar |
 | **Study the door** | DC 13 Investigation | The mechanism is damaged; it can be jammed open (DC 12 Thieves' Tools) to keep their exit clear |
 | **Speak to the sea** | DC 13 Religion/Arcana | A Selyran tide-prayer; a PC can ask for a sign. The tide answers with a single cold wave. No mechanics. |
 | **Fish** | DC 12 Survival | A small catch; fresh food and a moment of calm |
@@ -337,7 +359,7 @@ The floor mosaic shows **Port Meridian** as a bright node, joined by **copper-ve
 
 If the party **forces the plinth** or **damages the dome**, a **Star-Glass Steward** (CR 3 construct) activates in the wall niche. It is not hostile unless the Codex is removed by force.
 
-> **Canon check:** this is a lesser chamber-construct. It is **not** the CR 7 Star-Glass Warden of Nythara in `08_MONSTERS_AND_ITEMS/monsters_and_foes.md`. Keep the names distinct and do not imply a shared origin yet.
+> **Canon check:** this is a lesser chamber-construct. It is **not** the CR 7 Star-Glass Warden of Nythara in [[monsters_and_foes|Monsters & Foes]]. Keep the names distinct and do not imply a shared origin yet.
 
 The Cartels have stripped the loose glass but have not forced the plinth or damaged the dome. That is why the Steward has not woken for them.
 
@@ -360,7 +382,7 @@ The chamber is the chapter's centrepiece. Do not let it become a single puzzle r
 |---|----------|-------|--------|
 | 1 | **Identify the constellations** | DC 13 Arcana/History | Name the Eye, the Helm, and the Plough; advantage on the puzzle |
 | 2 | **Trace the copper lines** | DC 14 Investigation | One line runs north, toward New Ilya; another is scratched out |
-| 3 | **Copy the mosaic** | DC 14 Cartographer's Tools or Investigation | A rubbing or sketch; evidence for the Inquest and a plot item for Act II |
+| 3 | **Copy the mosaic** | DC 14 Cartographer's Tools or Investigation | A rubbing or sketch; evidence for the Inquest and a plot item for [[act_II_overview\|Act II]] |
 | 4 | **Read the Codex aloud** | No check | Let a player read an excerpt; the table will remember it |
 | 5 | **Compare the Codex to the mosaic** | DC 13 History | The Codex describes the *principle*; the mosaic shows the *network* |
 | 6 | **Study the plinth** | DC 14 Investigation | A hidden drawer; the star-chart cylinder |
@@ -418,7 +440,7 @@ If a player becomes obsessed with the phrase **"the Fourth Chair,"** use this. I
 - The antechamber ledger has the same phrase.
 - The Steward says: *"A seat at a table that is no longer here."*
 - **DC 15 History:** the pre-Silence city had **four chairs** of civic authority: Measures, Wards, Grain, and a fourth that was **never named** in public records.
-- **Do not explain, and do not connect it to Seraphel or the Tenth.** Keep it unresolved in Act I. If the party asks Arlen, he says: *"I don't know. That's what frightens me."* If the thread would muddy the Tenth reveal, drop it.
+- **Do not explain, and do not connect it to Seraphel or the Tenth.** Keep it unresolved in [[act_I_overview|Act I]]. If the party asks Arlen, he says: *"I don't know. That's what frightens me."* If the thread would muddy the Tenth reveal, drop it.
 
 ---
 
@@ -426,7 +448,7 @@ If a player becomes obsessed with the phrase **"the Fourth Chair,"** use this. I
 
 ### 6.1 The arrival
 
-The Cartels breach as the Codex lifts — or earlier, if the party triggered the trap or failed the puzzle three times.
+The Cartels breach as the Codex lifts — or earlier, if the party triggered the trap, failed the puzzle three times, or let the sentry shout. In that last case Kael comes forward to the **bronze door** with the crew, and the offer happens there instead of at the plinth.
 
 **Kael, Cartel Salvage Captain**, comes through the collapsed shaft with **a Thug and a Scout**; a second Thug follows if the party is reinforced. He is a big man with a hammer, a ledger, and a tired voice.
 
@@ -892,7 +914,7 @@ A palm-sized cylinder of black stone and silver, etched with concentric rings. W
 **Tactics:** offers a deal once; fights defensively; targets the Codex carrier; surrenders at 10 HP if the Thugs are down.
 
 ### Cartel Enforcer (CR 4) — if the party is level 3 or reinforced
-Use the block in `05_FACTIONS/the_archive_cartels.md`. Replace Kael if you want a harder fight. Do not use both.
+Use the block in [[the_archive_cartels|The Archive Cartels]]. Replace Kael if you want a harder fight. Do not use both.
 
 ### Cartel Thug (CR 1/2) — 2×
 *Medium Humanoid, neutral evil*

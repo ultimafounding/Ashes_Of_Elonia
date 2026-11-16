@@ -1,6 +1,6 @@
 # The Nine Celestine: Pantheon of Elonia
 
-> *"Nine awakened from the Sea Beyond. Eight departed beyond the Veil. One remains in the dust."*  
+> *"Nine awakened from the [[cosmology_and_metaphysics|Sea Beyond]]. Eight departed beyond the Veil. One remains in the dust."*  
 > **World Architecture • Theological & Divine Dossiers**
 
 ---
@@ -23,7 +23,7 @@ The **Nine Celestine** are the transcendent entities who awakened into Elonia du
 ### 1. Myrraen, the Last Mercy
 *The Weeping Dawn, The Unbroken Shield, The Last Mercy*
 - **Domains & Principles:** Mercy, compassion, healing, sanctuary, protective love.
-- **Ancient Seat:** **Vale Myrr**, the valley of eternal blossom and healing springs.
+- **Ancient Seat:** **[[vale_myrr_and_nythara|Vale Myrr]]**, the valley of eternal blossom and healing springs.
 - **Canonical Stance:** `[ESTABLISHED CANON]` `[DM-ONLY]` Believed that divine protection had become a suffocating cage. Following the horrors of Avarr—where atrocities were committed by mortals convinced of divine sanction—Myrraen realized mortals would never achieve true moral adulthood as long as gods sheltered them from consequences. She enacted the Silence in 0 AS. **Neither saint nor villain.**
 - **Modern Faith:** *The Myrraenic Order* is Elonia’s largest hospitaler and charitable faith. They wear grey vestments and run hospices, unaware that their patron goddess deliberately severed contact with them.
 - **5e Mechanical Resonance:** Life Domain, Peace Domain, Oath of Redemption.
@@ -36,9 +36,9 @@ The **Nine Celestine** are the transcendent entities who awakened into Elonia du
 - **Domains & Principles:** Law, civilization, solar order, civic duty, authority, architecture.
 - **Ancient Seat:** **Solcaris**, the radiant marble city of towers and senate domes.
 - **Canonical Stance:** `[ESTABLISHED CANON]` Held that power creates absolute responsibility. Believed that humanity was fragile and required eternal, structured paternal guidance. Viewed mortal self-determination without divine law as an inevitable descent into chaos.
-- **Modern Faith:** The ideological foundation of the **Aurelian League**. Cults of Aurelion (the *Keepers of Dawn*) operate as austere legalistic orders advocating for strict civic discipline and the hopeful return of divine rule.
+- **Modern Faith:** The ideological foundation of the **Aurelian League**. Cults of Aurelion (the *[[the_keepers_of_dawn|Keepers of Dawn]]*) operate as austere legalistic orders advocating for strict civic discipline and the hopeful return of divine rule.
 - **5e Mechanical Resonance:** Order Domain, Light Domain, Oath of Devotion, Oath of the Crown.
-- **Stance at Last Council:** Bitterly opposed the Silence; demanded tighter divine martial control over mortals after the Ascension Engine crisis.
+- **Stance at Last Council:** Bitterly opposed the Silence; demanded tighter divine martial control over mortals after the [[the_engine_deep_and_the_veil|Ascension Engine]] crisis.
 
 ---
 
@@ -47,7 +47,7 @@ The **Nine Celestine** are the transcendent entities who awakened into Elonia du
 - **Domains & Principles:** Prophecy, dreams, night, astronomy, navigation, possibility.
 - **Ancient Seat:** **Nythara**, the celestial observatory mountain and crystal spires.
 - **Canonical Stance:** `[ESTABLISHED CANON]` Selyra looked into branching timelines and realized that **certainty is fatal**. The more clearly a prophecy is spoken, the more mortals twist themselves into monsters trying to fulfill or avert it. She learned to distrust fixed futures, championing possibility over fate.
-- **Modern Faith:** Guarded by the reclusive **Dreamkeepers of Nythara**. Sailors, navigators, and astronomers whisper prayers to her silver crescent when reading the night sky.
+- **Modern Faith:** Guarded by the reclusive **[[the_dreamkeepers_of_nythara|Dreamkeepers]] of Nythara**. Sailors, navigators, and astronomers whisper prayers to her silver crescent when reading the night sky.
 - **5e Mechanical Resonance:** Twilight Domain, Knowledge Domain, Circle of Stars.
 - **Stance at Last Council:** Supported Myrraen's Silence, warning that every future where the gods remained ended in total spiritual stagnation.
 
@@ -80,7 +80,7 @@ The **Nine Celestine** are the transcendent entities who awakened into Elonia du
 - **Domains & Principles:** Death, passage, remembrance, funerary rites, the preservation of names.
 - **Ancient Seat:** **Vareth-Tor**, the ancient city of tombs and basalt spires.
 - **Canonical Stance:** `[ESTABLISHED CANON]` `[DM-ONLY]` Understood that boundaries give mortal existence its beauty. Varek was the first Celestine to detect the catastrophic spiritual trauma caused by the Ascension Engine. He wept for the trapped souls and worked tirelessly to ease their transit.
-- **Modern Faith:** The spiritual patron of the **Dominion of Vareth** and the **Vareth Custodians**. In Vareth, honoring Varek is an exact science of record-keeping, ensuring no human being dies unrecorded.
+- **Modern Faith:** The spiritual patron of the **Dominion of Vareth** and the **[[the_vareth_custodians|Vareth Custodians]]**. In Vareth, honoring Varek is an exact science of record-keeping, ensuring no human being dies unrecorded.
 - **5e Mechanical Resonance:** Grave Domain, Death Domain, Oath of the Watchers.
 - **Stance at Last Council:** Warned the pantheon that departing would leave the Engine's soulway fracture untended, but conceded that divine interference could tear the soulways completely apart.
 
@@ -91,8 +91,8 @@ The **Nine Celestine** are the transcendent entities who awakened into Elonia du
 - **Domains & Principles:** Knowledge, philosophy, curiosity, invention, skepticism, laughter.
 - **Ancient Seat:** **Ilyanor**, the ancient university-city of blue tiles and aqueducts.
 - **Canonical Stance:** `[ESTABLISHED CANON]` `[DM-ONLY]` First to awaken from the Sea Beyond. Valued questions infinitely more than answers. Believed that imposed certainty kills curiosity. **Alone among the Nine, Orinth refused to depart beyond the Veil during the Silence.**
-- **The Living Truth:** He lives today in deep obscurity as **Brother Cael**, the tea-brewing caretaker of Lantern Chapel in the Weeping Ridge. He refuses to act as an oracle, serving only as a quiet witness to mortal choices.
-- **Modern Faith:** Revered in New Ilya by philosophers, researchers, and cartographers. His small monastic sect, the **Church of the Last Light**, maintains quiet lanterns in forgotten places.
+- **The Living Truth:** He lives today in deep obscurity as **[[brother_cael_orinth|Brother Cael]]**, the tea-brewing caretaker of [[lantern_chapel|Lantern Chapel]] in the Weeping Ridge. He refuses to act as an oracle, serving only as a quiet witness to mortal choices.
+- **Modern Faith:** Revered in [[new_ilya|New Ilya]] by philosophers, researchers, and cartographers. His small monastic sect, the **[[the_church_of_the_last_light|Church of the Last Light]]**, maintains quiet lanterns in forgotten places.
 - **5e Mechanical Resonance:** Knowledge Domain, Trickery Domain, Lore Bardic traditions.
 - **Stance at Last Council:** Argued that neither staying to rule nor abandoning mortals was correct; stayed behind in secret to walk beside them.
 
@@ -122,8 +122,8 @@ The **Nine Celestine** are the transcendent entities who awakened into Elonia du
 
 ## 3. The Heresy of the "Hidden Tenth" `[DM-ONLY]`
 
-In ancient texts, only Nine Celestine are recorded. However, in the modern era, **Lord Seraphel** has begun propagating esoteric scholarly fragments suggesting the existence of a missing "Tenth Celestine."
+In ancient texts, only Nine Celestine are recorded. However, in the modern era, **[[lord_seraphel|Lord Seraphel]]** has begun propagating esoteric scholarly fragments suggesting the existence of a missing "Tenth Celestine."
 
 ### The Reality of Seraphel's Claim
 - **The Lie:** Seraphel claims that ancient records were suppressed to erase a Tenth God who represented mortal apotheosis and pure human triumph.
-- **The Truth:** There was **never** a Tenth Celestine. The pantheon numbered exactly Nine. Seraphel invented the metaphysical framework of the "Tenth" to prepare the intellectual and theological soil for his own planned apotheosis atop the Ascension Engine in Act VI.
+- **The Truth:** There was **never** a Tenth Celestine. The pantheon numbered exactly Nine. Seraphel invented the metaphysical framework of the "Tenth" to prepare the intellectual and theological soil for his own planned apotheosis atop the Ascension Engine in [[act_VI_overview|Act VI]].

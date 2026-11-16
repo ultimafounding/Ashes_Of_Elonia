@@ -1,7 +1,7 @@
 # NPC Dossier & Boss Profile: The Avatar of the Last Mercy
 
 > *"Do not weep, little children of dust. No sword shall strike you again. No hunger shall gnaw you. No choice shall lead you into grief. Rest now, in the perfection that knows no tomorrow."*  
-> **Campaign Cosmic Antagonist • Act VI Climax (Level 20) • The Open Veil**
+> **Campaign Cosmic Antagonist • [[act_VI_overview|Act VI]] Climax (Level 20) • The Open Veil**
 
 ---
 
@@ -10,7 +10,7 @@
 - **Classification:** Cosmic Manifestation of Divine Certainty / Transcendent Avatar.
 - **Canonical Status:** `[ESTABLISHED CANON]` `[DM-ONLY]`
 - **The Core Truth:** The Avatar is **not evil Myrraen**, nor is it a demon, fiend, or twisted horror. It is **protective compassion stripped of doubt—certainty made manifest**.
-- **Why It Manifests:** When Seraphel’s siphon-network is severed atop the Apotheosis Dais, the sudden back-pressure of 500,000 released souls tears the fragile fabric of the Veil wide open. Sensing the cosmic agony and existential exhaustion of Elonia, the surviving divine resonance of the Last Mercy coalesces into a singular, overwhelming metaphysical mandate: **save humanity from itself forever**.
+- **Why It Manifests:** When [[lord_seraphel|Seraphel]]’s siphon-network is severed atop the Apotheosis Dais, the sudden back-pressure of 500,000 released souls tears the fragile fabric of the Veil wide open. Sensing the cosmic agony and existential exhaustion of Elonia, the surviving divine resonance of the Last Mercy coalesces into a singular, overwhelming metaphysical mandate: **save humanity from itself forever**.
 - **The Thematic Conflict:** The Avatar represents **Absolute Protection Without Freedom**. It does not want to destroy mortals; it wants to wrap Elonia in an immutable, eternal crystalline stasis—a painless golden sleep where no living being will ever feel grief, disease, starvation, or sorrow again... because no mortal will ever have the ability to make a choice.
 
 ---
@@ -98,6 +98,6 @@ If the Avatar is reduced to 0 hit points, it does not die or vanish. Instead, it
 
 The battle with the Avatar cannot be won by brute damage alone. To permanently pacify the entity:
 1. The party must reduce its Mythic hit points to 0.
-2. In the final round, a character must deliver a declaration of mortal agency (e.g., using an action to present the unblemished codex *Ain Elonar* or holding aloft the *Lantern of the Last Light*), declaring humanity’s acceptance of suffering and responsibility.
+2. In the final round, a character must deliver a declaration of mortal agency (e.g., using an action to present the unblemished codex *[[Ain_Elonar|Ain Elonar]]* or holding aloft the *Lantern of the Last Light*), declaring humanity’s acceptance of suffering and responsibility.
 3. Upon doing so, the Avatar does not scream or dissolve in gore; it sighs softly, touches the character’s brow with tears of golden light, and whispers:  
    *"Then walk, children. Walk into the dark... and build your own dawn."*

@@ -21,25 +21,25 @@ In **c. 1,000 AS**, the continent of Elonia is balanced among **Five Great Power
 - **Government:** A constitutional martial republic governed by the **Senate of Archons** and the **Lord Protector**.
 - **Cultural Identity:** `[PLAYER-FACING]` Honor, duty, civic sacrifice, and codified law. The League views itself as the sole legitimate heir to the civil order established by Aurelion. Its cities feature gleaming white stone plazas, triumphal arches, and flawless paved roads.
 - **Military:** The **Aurelian Legions**, the continent's most disciplined heavy infantry, supported by the **Knights of the Solar Aegis** and battlefield abjurers.
-- **Stance on Antiquities & Religion:** Extremely conservative. The League operates the **Prefecture of Antiquities**, which confiscates unapproved Pre-Silence artifacts. They sponsor the *Keepers of Dawn*, preaching that if humanity maintains perfect civic righteousness, the golden age of divine harmony will return.
-- **Internal Vulnerability:** `[DM-ONLY]` Rigid legalism masks growing social inequality. Reformist factions within the Senate secretly collaborate with the Ascendants to challenge the military aristocracy.
+- **Stance on Antiquities & Religion:** Extremely conservative. The League operates the **Prefecture of Antiquities**, which confiscates unapproved Pre-Silence artifacts. They sponsor the *[[the_keepers_of_dawn|Keepers of Dawn]]*, preaching that if humanity maintains perfect civic righteousness, the golden age of divine harmony will return.
+- **Internal Vulnerability:** `[DM-ONLY]` Rigid legalism masks growing social inequality. Reformist factions within the Senate secretly collaborate with the [[the_ascendants|Ascendants]] to challenge the military aristocracy.
 
 ---
 
 ### 2.2 The Republic of Ilya
 *The Sovereign Academies, The City of Questions*
-- **Capital:** **New Ilya** (Built over the ancient university-spires of Ilyanor)
+- **Capital:** **[[new_ilya|New Ilya]]** (Built over the ancient university-spires of Ilyanor)
 - **Government:** A meritocratic magocracy governed by the **Council of Deans** (heads of the Grand Lyceum’s eight faculties) and the **Consul of Commerce**.
 - **Cultural Identity:** `[PLAYER-FACING]` Knowledge, debate, free inquiry, and cutting-edge arcane engineering. In Ilya, social standing is determined by academic degrees, published treatises, and patent ownership. Its riverfront canals are crowded with floating lecture halls and alchemical laboratories.
 - **Military:** The **Magisterial Guard**, supported by arcane skyships, golem-automatons, and mercenary battalions hired from the Free Coast.
-- **Stance on Antiquities & Religion:** Champion of secular progress. The Republic officially views the Silence as humanity's liberation from divine coddling.
-- **The Secret Shame:** `[DM-ONLY]` While publicly preaching freedom of inquiry, the Council of Deans operates the **Athenaeum Null**—an elite, black-budget censorship division that ruthlessly scrubs records of the Ascension Engine to prevent panic over the failing soulways. House Vane (led by Lord Seraphel) holds massive financial sway over the Republic's senate.
+- **Stance on Antiquities & Religion:** Champion of secular progress. The Republic officially views [[cosmology_and_metaphysics|the Silence]] as humanity's liberation from divine coddling.
+- **The Secret Shame:** `[DM-ONLY]` While publicly preaching freedom of inquiry, the Council of Deans operates the **Athenaeum Null**—an elite, black-budget censorship division that ruthlessly scrubs records of the [[the_engine_deep_and_the_veil|Ascension Engine]] to prevent panic over the failing soulways. House Vane (led by [[lord_seraphel|Lord Seraphel]]) holds massive financial sway over the Republic's senate.
 
 ---
 
 ### 2.3 The Dominion of Vareth
 *The Silent Realm, The Keepers of the Names*
-- **Capital:** **Khar Vareth** (The Great Basalt Necropolis)
+- **Capital:** **[[khar_vareth|Khar Vareth]]** (The Great Basalt Necropolis)
 - **Government:** A solemn bureaucratic theocracy governed by the **Conclave of Custodians** and the **High Scribe of the Dead**.
 - **Cultural Identity:** `[PLAYER-FACING]` Ancestral veneration, memory, architecture of stone, and mortal dignity. In Vareth, the living consider themselves merely temporary caretakers for the dead. Every citizen’s lineage, virtues, and debts are engraved onto monumental stone tablets within the family vaults.
 - **Military:** The **Scythe of Vareth** (disciplined halberdiers) and **Grave-Wardens** specialized in abjuration and protective necromancy.
@@ -61,11 +61,11 @@ In **c. 1,000 AS**, the continent of Elonia is balanced among **Five Great Power
 
 ### 2.5 The Free Coast
 *The Guilded Ports, The Haven of the Open Horizon*
-- **Principal Metropolis:** **Port Meridian**
+- **Principal Metropolis:** **[[port_meridian|Port Meridian]]**
 - **Government:** An oligarchic maritime league governed by the **High Admiralty Council** and the **Merchant Guilds**.
 - **Cultural Identity:** `[PLAYER-FACING]` Unfettered trade, personal reinvention, privateering, and absolute freedom of movement. If you have gold and a seaworthy hull, no magistrate will ask your origin or religion. Port Meridian is a dizzying swirl of sailors, scholars, smugglers, and fortune-seekers.
 - **Military:** Massive naval armada of armed merchantmen, privateers, and elite sellsword companies (e.g., *The Iron Compass*).
-- **Stance on Antiquities & Religion:** Purely commercial. Pre-Silence ruins beneath their docks are treated as corporate salvage assets. They harbor the most active branches of both the **Ascendants** and the black-market **Archive Cartels**.
+- **Stance on Antiquities & Religion:** Purely commercial. Pre-Silence ruins beneath their docks are treated as corporate salvage assets. They harbor the most active branches of both the **Ascendants** and the black-market **[[the_archive_cartels|Archive Cartels]]**.
 
 ---
 

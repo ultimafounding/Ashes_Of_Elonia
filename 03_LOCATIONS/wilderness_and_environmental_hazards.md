@@ -48,14 +48,14 @@ Travel beyond the patrolled roads of the Five Great Powers requires contending w
 ---
 
 ### Hazard 2: Soulway Seisms (Spiritual Shockwaves)
-- **Description:** When the damaged soulways beneath the earth buckle under the pressure of Seraphel's siphons, they vent raw spiritual energy upward through geological fault lines.
+- **Description:** When the damaged soulways beneath the earth buckle under the pressure of [[lord_seraphel|Seraphel]]'s siphons, they vent raw spiritual energy upward through geological fault lines.
 - **Sensory Cues:** Dogs and horses bark in terror; glass vibrates; hair stands on end; compass needles spin counter-clockwise.
 - **Mechanical Effect:** When a seism occurs, creatures on the ground must make a **DC 15 Dexterity saving throw** or be knocked prone as the earth shakes. Simultaneously, all creatures must make a **DC 15 Wisdom saving throw**, taking **18 (4d10) psychic damage** on a failure, or half as much on a success, as the psychic scream of trapped souls tears through their consciousness.
 
 ---
 
 ### Hazard 3: Memory Storms (Chrono-Echoes)
-- **Description:** In regions where divine power was once concentrated (Vale Myrr, the ruins of Solcaris, the Ash-Plains of Avarr), time does not flow in a straight line. Atmospheric tempests of golden and violet light swirl into living mirages.
+- **Description:** In regions where divine power was once concentrated ([[vale_myrr_and_nythara|Vale Myrr]], the ruins of Solcaris, the Ash-Plains of Avarr), time does not flow in a straight line. Atmospheric tempests of golden and violet light swirl into living mirages.
 - **Mechanical Effect:** When caught in a Memory Storm, the landscape shifts into a scene from the Divine Age (e.g., the burning of Avarr, or Celestine armies marching).
 - **Trial of Will:** Each character must make a **DC 16 Charisma saving throw**. 
   - *Failure:* The character is incapacitated for 1d4 rounds, paralyzed by overwhelming emotional grief and disorientation as they relive an ancient mortal’s final moments.
@@ -64,14 +64,14 @@ Travel beyond the patrolled roads of the Five Great Powers requires contending w
 ---
 
 ### Hazard 4: Spirit-Frost (Necrotic Cold)
-- **Description:** Unlike normal alpine frost, Spirit-Frost occurs where the ethereal plane bleeds into the material world in deep shadows, high mountain passes, or the catacombs of Khar Vareth. It manifests as black, crystalline rime that burns the skin like acid.
+- **Description:** Unlike normal alpine frost, Spirit-Frost occurs where the ethereal plane bleeds into the material world in deep shadows, high mountain passes, or the catacombs of [[khar_vareth|Khar Vareth]]. It manifests as black, crystalline rime that burns the skin like acid.
 - **Mechanical Effect:** Mundane winter clothing provides no protection. A creature exposed to Spirit-Frost must make a **DC 15 Constitution saving throw** every 4 hours. 
   - *Failure:* The creature takes **10 (3d6) cold damage** and **10 (3d6) necrotic damage**, and its maximum hit points are reduced by the necrotic damage taken until it finishes a Long Rest near consecrated warmth.
 
 ---
 
 ### Hazard 5: Void-Sinks (Inverted Gravity Pockets)
-- **Description:** Anomalies resulting from the ancient Ascension Engine's spatial warping. They appear as shimmering, spherical distortions 20 to 60 feet in diameter where dust, pebbles, and water fall *upward*.
+- **Description:** Anomalies resulting from the ancient [[the_engine_deep_and_the_veil|Ascension Engine]]'s spatial warping. They appear as shimmering, spherical distortions 20 to 60 feet in diameter where dust, pebbles, and water fall *upward*.
 - **Mechanical Effect:** Entering a Void-Sink requires a **DC 17 Strength saving throw**. On a failure, the creature falls upward 60 feet into the sky or against a subterranean ceiling, taking falling damage. Spells requiring line-of-sight are deflected by 45 degrees when passing through the zone.
 
 ---
@@ -119,4 +119,4 @@ Roll once per day of wilderness travel between civilized hubs:
 | 5 | **Aurelian Patrol Checkpoint:** A fortified wooden blockhouse garrisoned by League legionaries. | Inspection for antiquities, travel permits, and contraband. |
 | 6 | **Memory Storm Flurry:** A golden temporal squall replays an ancient Celestine argument. | Provides historical context regarding Myrraen and Aurelion. |
 | 7 | **Torn Ley-Line Static:** Arcane compasses fail; magical items glow erratically; spellcasters roll on Wild Magic table. | Tactical complication before entering a dungeon site. |
-| 8 | **The Solitary Pilgrim:** A lone friar of the Church of the Last Light walking with a tin kettle. | Offers mint tea, herbal poultices, and rumors regarding Brother Cael. |
+| 8 | **The Solitary Pilgrim:** A lone friar of the [[the_church_of_the_last_light\|Church of the Last Light]] walking with a tin kettle. | Offers mint tea, herbal poultices, and rumors regarding [[brother_cael_orinth\|Brother Cael]]. |

@@ -8,8 +8,8 @@
 ## 1. Executive Summary `[ESTABLISHED CANON]`
 
 - **Classification:** Transnational Intellectual, Archaeological, and Philosophical Fellowship.
-- **Founding Era:** c. 850 AS (Modern Rebirth; proto-circles in *Ain Elonar* use the superseded c. 1,100 AS anchor).
-- **Headquarters:** Autonomous Regional Lodges in New Ilya, Port Meridian, Solcaris Nova, and Khar Vareth.
+- **Founding Era:** c. 850 AS (Modern Rebirth; proto-circles in *[[Ain_Elonar|Ain Elonar]]* use the superseded c. 1,100 AS anchor).
+- **Headquarters:** Autonomous Regional Lodges in [[new_ilya|New Ilya]], [[port_meridian|Port Meridian]], Solcaris Nova, and [[khar_vareth|Khar Vareth]].
 - **Core Motto:** *"Ex Cineribus Veritas"* (From the Ashes, Truth).
 - **Public Perception:** `[PLAYER-FACING]` A respected, sprawling association of antiquarians, university researchers, excavation factors, and freethinkers who locate, translate, and preserve Pre-Silence relics.
 
@@ -20,9 +20,9 @@
 `[ESTABLISHED CANON]`
 1. **Not an Evil Cult:** The Ascendants are **not** a cabal of dark necromancers or chaos cultists. The overwhelming majority of its members are sincere historians, field engineers, linguists, and humanist philosophers.
 2. **Distinct from Ancient Ascensionists:** 
-   - *The Ancient Ascensionists (c. 1,000 BS):* The Pre-Silence reformers who constructed the catastrophic Ascension Engine.
+   - *The Ancient Ascensionists (c. 1,000 BS):* The Pre-Silence reformers who constructed the catastrophic [[the_engine_deep_and_the_veil|Ascension Engine]].
    - *The Modern Ascendants (c. 1,000 AS):* The contemporary scholarly movement recovering ancient history.
-3. **Seraphel's Parasitic Conspiracy:** Lord Seraphel is the movement’s most prominent patron and benefactor, but his covert conspiracy for personal apotheosis is **unknown** to ordinary members. Membership in the Ascendants does not imply guilt or complicity in Seraphel’s crimes.
+3. **Seraphel's Parasitic Conspiracy:** [[lord_seraphel|Lord Seraphel]] is the movement’s most prominent patron and benefactor, but his covert conspiracy for personal apotheosis is **unknown** to ordinary members. Membership in the Ascendants does not imply guilt or complicity in Seraphel’s crimes.
 
 ---
 

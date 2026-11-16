@@ -25,7 +25,7 @@
 
 ## 4. Memory Leaves
 *Wondrous item, uncommon (consumable)*
-- Golden aspen leaves holding one mortal's sensory memory (Vale Myrr grove). Press to brow, action: experience 1 minute of their shelter, grief, or joke.
+- Golden aspen leaves holding one mortal's sensory memory ([[vale_myrr_and_nythara|Vale Myrr]] grove). Press to brow, action: experience 1 minute of their shelter, grief, or joke.
 - Effect: remove 1 level of exhaustion or gain inspiration (once per leaf). Clerics/paladins brushing one at need: restore spell slots of 5th or lower (1/day max, Vale Myrr onward at DM discretion).
 - Central Leaf (Chair of Silence): Myrraen's parting memory. No boon — only the quote. Never duplicate it.
 
@@ -35,21 +35,21 @@
 - 1/day: *Sanctuary* vs undead/fiends only (DC 15). Token cracks if used to bar a willing soul's passage — Custodians notice.
 
 ## 6. Book of Unasked Questions
-*Wondrous item, rare (Orinth's gift, at DM discretion — Act III onward)*
+*Wondrous item, rare (Orinth's gift, at DM discretion — [[act_III_overview|Act III]] onward)*
 - Blank-paged journal in Cael's hand. Writing a genuine question overnight yields no answer — instead advantage on the next Investigation/Insight check pursuing it.
 - 1/week: ask the Book about a sealed text; it replies with the right *question* to ask the text's keeper (never the contents).
 
 ## 7. Crown of Avarr
 *Wondrous item, legendary (requires attunement; cleanse first)*
-- Found tarnished in the Engine Deep (Act VI, at DM discretion). Uncleansed: +2 Int, disadvantage on Wis saves, whispers of certainty.
+- Found tarnished in the [[the_engine_deep_and_the_veil|Engine Deep]] ([[act_VI_overview|Act VI]], at DM discretion). Uncleansed: +2 Int, disadvantage on Wis saves, whispers of certainty.
 - Cleansed (Lantern + Vale cairn-rite, 1 hr): +2 Wis, immunity to charm/frightened from celestials/fiends, 1/day *Mind Blank* (self only).
 - Wearing it unconsecrated into the Open Veil: Avatar targets you first. It remembers Avarr.
 
 ## 8. Catalogue Codex + Index Tablet + Annales of Concord
 *Plot documents (25 lb / 3 lb / 8 lb). No magic. Irreplaceable.*
-- Codex: hospital charters, irrigation law, star-charts — humanism at continental scale (Act I recontextualisation; the Oath is the confirmation).
-- Tablet: Star Chamber key + mosaic reference (Act I–II).
-- Annales: condensed redaction-span chronicle (Act II+). Displaying any under Lantern-light counts as lived evidence (Ch.12).
+- Codex: hospital charters, irrigation law, star-charts — humanism at continental scale ([[act_I_overview|Act I]] recontextualisation; the Oath is the confirmation).
+- Tablet: [[chapter_2_stair_and_star|Star Chamber]] key + mosaic reference (Act I–II).
+- Annales: condensed redaction-span chronicle ([[act_II_overview|Act II]]+). Displaying any under Lantern-light counts as lived evidence (Ch.12).
 - If lost: Cartel fence re-sells leaves next morning (fallback rule), never the whole book.
 
 ## 9. Spirit-Glass Vials & Condensers

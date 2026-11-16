@@ -8,11 +8,11 @@
 ## 1. Helena Voss (Salvage Factor of Port Meridian)
 
 ### 1.1 Overview & Role `[PLAYER-FACING]`
-- **Role:** Primary patron and employer in Act I (Levels 1–4).
+- **Role:** Primary patron and employer in [[act_I_overview|Act I]] (Levels 1–4).
 - **Identity:** A shrewd, weathered human woman in her late forties. Former privateer navigator turned licensed salvage contractor. Wears salt-stained leather, carries a brass spyglass, and never touches an ancient artifact without recording its exact context in her leather notebook.
 - **Wants:** Professional reputation, legitimate salvage permits, and historical provenance. She refuses to falsify certainty to make a quick sale.
 - **Pressure Point:** Becoming complicit in illegal Cartel looting or watching young salvagers die in unmapped ruins.
-- **Campaign Function:** Introduces the party to the Shattered Archive beneath Warehouse Nine; connects them to Arlen Marr and Lord Seraphel.
+- **Campaign Function:** Introduces the party to the [[chapter_1_shattered_archive|Shattered Archive]] beneath Warehouse Nine; connects them to Arlen Marr and [[lord_seraphel|Lord Seraphel]].
 
 ### 1.2 Helena Voss 5e Stat Block (CR 4)
 *Medium Humanoid (Human), True Neutral*  
@@ -31,7 +31,7 @@
 - **Role:** Investigative companion, researcher, or ambitious rival in Acts I and II.
 - **Identity:** An eager, nervous, sharp-eyed human scholar in his late twenties. Disheveled brown hair, ink-stained spectacles, and worn woolen coat. Highly observant; notices exit routes, appraisal marks, and covert buyers.
 - **Wants:** Academic recognition and enough independent success to choose his own research projects without groveling before conservative deans.
-- **Campaign Function:** Deciphers ancient High Elonian script for the party in Act I; warns them of library surveillance in New Ilya.
+- **Campaign Function:** Deciphers ancient High Elonian script for the party in Act I; warns them of library surveillance in [[new_ilya|New Ilya]].
 
 ### 2.2 Arlen Marr 5e Stat Block (CR 2)
 *Medium Humanoid (Human), Neutral Good*  
@@ -48,10 +48,10 @@
 ## 3. Dean Arcturus Vale (Master of the Great Library)
 
 ### 3.1 Overview & Role `[PLAYER-FACING]`
-- **Role:** Institutional obstructionist and primary antagonist of Act II (New Ilya).
+- **Role:** Institutional obstructionist and primary antagonist of [[act_II_overview|Act II]] (New Ilya).
 - **Identity:** An austere, dignified high elf with sharp cheekbones, steely blue eyes, and embroidered azure robes trimmed in silver fox fur. Speaks with icy, measured authority.
 - **Wants:** Institutional stability and public tranquility. Believes that quarantined truth is the only wall preventing social collapse.
-- **DM Truth `[DM-ONLY]`:** Vale is **not evil or corrupt**. He operates the Athenaeum Null because he knows that the soulways were fractured by mortal hubris. He sincerely believes that public knowledge of the Soul Crisis would cause continent-wide madness.
+- **DM Truth `[DM-ONLY]`:** Vale is **not evil or corrupt**. He operates the Athenaeum Null because he knows that the soulways were fractured by mortal hubris. He sincerely believes that public knowledge of the [[cosmology_and_metaphysics|Soul Crisis]] would cause continent-wide madness.
 - **Roleplay Key:** Always cites precedent, legal charters, and second-order consequences.
 
 ### 3.2 Dean Arcturus Vale 5e Stat Block (CR 9)
@@ -93,7 +93,7 @@
 ## 5. High Custodian Moros (Master of the Dead)
 
 ### 5.1 Overview & Role `[PLAYER-FACING]`
-- **Role:** Essential ally and patron in Act IV (Khar Vareth).
+- **Role:** Essential ally and patron in [[act_IV_overview|Act IV]] ([[khar_vareth|Khar Vareth]]).
 - **Identity:** An elderly, dignified human necrologist with silver-streaked dark hair, clad in solemn gray linen robes and bronze signet rings of Varek.
 - **Wants:** Preserving the names of the dead, restoring peaceful passage, and preventing the collapse of the soulways.
 - **Campaign Function:** Welcomes the party into Khar Vareth; reveals the horrifying statistical failure in soul transit; helps them cross into the Bleak Path.

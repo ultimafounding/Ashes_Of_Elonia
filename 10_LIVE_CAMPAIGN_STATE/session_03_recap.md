@@ -13,7 +13,7 @@ status: "debrief in progress"
 > *"We keep account, we mend bone, we measure star — that no prayer need be spent for bread."*
 
 **Prep:** [[session_03_the_oath]] • **Next:** Chapter 2
-**Ended:** in a Port Meridian pub — everyone except Arlen; Tamsin is with the party
+**Ended:** in a [[port_meridian|Port Meridian]] pub — everyone except Arlen; Tamsin is with the party
 
 > **Status:** running log. Entries marked **[confirm]** need a ruling before they become canon.
 
@@ -79,13 +79,13 @@ status: "debrief in progress"
 
 - **Helena's Salvage Charter: [X][X][ ][ ] = 2/4** — no extra tick. They got out clean.
 - **Archive Cartel Interference: [X][ ][ ] = 1/3** — no extra tick.
-- Global clocks: still 0 (Act I rule).
+- Global clocks: still 0 ([[act_I_overview|Act I]] rule).
 
 ---
 
 ## Divergences / Canon Impacts
 
-1. **Wren was the dead Breaker.** His soul was ripped out, Tamsin recognised him, and Dan took his coat. This is a direct, visceral Soul Crisis manifestation — do not explain the mechanism yet.
+1. **Wren was the dead Breaker.** His soul was ripped out, Tamsin recognised him, and Dan took his coat. This is a direct, visceral [[cosmology_and_metaphysics|Soul Crisis]] manifestation — do not explain the mechanism yet.
 2. **The captured Breaker is someone else.** Unnamed, alive, handed to the magistrates. He was the one holding the Tablet, leaf, and Bag of Holding; he had already looted the Scriptorium.
 3. **The Tablet and leaf came from the captured Breaker**, not the desk.
 4. **Bog destroyed the loose paper** by ripping the pick out of the seal. The Oath survived on stone; the documents did not.

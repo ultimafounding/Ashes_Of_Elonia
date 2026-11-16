@@ -1,7 +1,7 @@
 # Location Profile: The Engine Deep & The Open Veil
 
 > *"Miles beneath the earth, the machine that broke heaven still hums. Brass gears the size of cathedrals turn in the dark, bathed in the screaming light of stolen souls."*  
-> **Campaign Climax: Act VI (Levels 18–20) • The Abyssal Bedrock**
+> **Campaign Climax: [[act_VI_overview|Act VI]] (Levels 18–20) • The Abyssal Bedrock**
 
 ---
 
@@ -9,7 +9,7 @@
 
 - **Classification:** Ancient Titan-Scale Subterranean Laboratory & Metaphysical Tear.
 - **Location:** Situated miles beneath the central geological bedrock of Elonia, directly accessible via the subterranean Star Roads or abyssal elevator conduits from the lowest mines.
-- **Builders:** The ancient mortal **Ascensionists** (c. 1,000 BS); recently refurbished and weaponized by **Lord Seraphel of House Vane**.
+- **Builders:** The ancient mortal **Ascensionists** (c. 1,000 BS); recently refurbished and weaponized by **[[lord_seraphel|Lord Seraphel]] of House Vane**.
 - **Tone & Aesthetic:** Cyclopean, terrifying, industrialized, and mythic. A cavern so colossal it possesses its own internal weather—static lightning storm-clouds and acid rain. Massive brass flywheels, miles of humming copper pipes, pneumatic pistons the width of towers, and glowing glass tubes carrying liquidized soul-light illuminate the darkness with sickly violet and radiant gold.
 
 ```
@@ -44,8 +44,8 @@
 
 ### 2. The Four Ley-Tethers
 - **Description:** Four massive, pulsating conduits of translucent spirit-glass that enter the cavern from the cardinal directions, channeling harvested souls from across Elonia:
-  - *The Northern Tether* (New Ilya Siphon)
-  - *The Southern Tether* (Khar Vareth Siphon)
+  - *The Northern Tether* ([[new_ilya|New Ilya]] Siphon)
+  - *The Southern Tether* ([[khar_vareth|Khar Vareth]] Siphon)
   - *The Eastern Tether* (Solcaris Pylon Siphon)
   - *The Western Tether* (Meridian Coastal Siphon)
 - **Tactical Objective:** To weaken Seraphel prior to the final duel, the party must sever or unseat these four conduits. Each conduit has AC 19, 150 HP, and retaliates with a *Chain Lightning* pulse (DC 18 Dex save, 10d8 lightning) when struck.
@@ -60,8 +60,8 @@
 
 ### 5. The Open Veil & The Threshold of Possibility
 - **Description:** Behind the Apotheosis Throne, the fabric of the material universe has torn wide open. A colossal vertical fissure of pearlescent, liquid light exposes the boundary beyond the cosmos.
-- **The Manifestation:** When Seraphel falls and his soul-siphons shatter, the sudden release of cosmic pressure triggers the manifestation of the **Avatar of the Last Mercy**.
-- **The Final Pedestal:** At the edge of the tear stands a plain, weathered stone lectern. Upon it rests the living mythic codex **Ain Elonar**, held open to the final, completely blank chapter: *"Of What Comes Next."*
+- **The Manifestation:** When Seraphel falls and his soul-siphons shatter, the sudden release of cosmic pressure triggers the manifestation of the **[[the_avatar_of_the_last_mercy|Avatar of the Last Mercy]]**.
+- **The Final Pedestal:** At the edge of the tear stands a plain, weathered stone lectern. Upon it rests the living mythic codex **[[Ain_Elonar|Ain Elonar]]**, held open to the final, completely blank chapter: *"[[chapter_12_what_comes_next|Of What Comes Next]]."*
 
 ---
 
@@ -89,4 +89,4 @@ graph TD
 
 1. **Stage 1 — The Mortal Duel:** Defeat Seraphel, demonstrating that brilliant intellect and sincere conviction do not justify tyrannical authority.
 2. **Stage 2 — The Cosmic Test:** Overcome the Avatar of the Last Mercy, demonstrating that humanity chooses the pain and triumph of freedom over the gilded cage of forced safety.
-3. **Stage 3 — The Inscription:** Standing before the Open Veil, with Brother Cael (Orinth) at their side, the party chooses Elonia's permanent metaphysical future and speaks the words that close the codex.
+3. **Stage 3 — The Inscription:** Standing before the Open Veil, with [[brother_cael_orinth|Brother Cael]] (Orinth) at their side, the party chooses Elonia's permanent metaphysical future and speaks the words that close the codex.

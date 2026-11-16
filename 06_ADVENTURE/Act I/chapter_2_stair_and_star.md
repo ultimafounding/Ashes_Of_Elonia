@@ -1,7 +1,7 @@
 # Chapter 2: The Stair and the Star
 
 > *"The Archive goes down. The road goes up. Both end under the same stars."*
-> **Act I • Levels 2–4 • Sites: Sea Cliff Road, Star Chamber, Gilded Docks Inquest**
+> **[[act_I_overview|Act I]] • Levels 2–4 • Sites: Sea Cliff Road, Star Chamber, [[session_06_gilded_docks_inquest|Gilded Docks Inquest]]**
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Night | Session file | Covers | Ends on | Level |
 |-------|--------------|--------|---------|-------|
-| 4 | `07_SESSIONS/session_04_sea_cliff_road.md` | The pub that night → the next morning → Sea Cliff Road → the Star Stair | The cliff door in sight; a Cartel lantern below | 2 |
-| 5 | `07_SESSIONS/session_05_star_chamber.md` | Star Chamber → Selyra's Eye → Codex → Cartel breach | The chamber collapsing; the Codex in hand | **→ 3** |
-| 6 | `07_SESSIONS/session_06_gilded_docks_inquest.md` | Escape → return to Port Meridian → Gilded Docks Inquest → Seraphel | Fellowship letters; the road to New Ilya | **→ 4** |
+| 4 | [[session_04_sea_cliff_road\|Session 4 — The Road Above the Sea]] | The pub that night → the next morning → Sea Cliff Road → the Star Stair | The cliff door in sight; a Cartel lantern below | 2 |
+| 5 | [[session_05_star_chamber\|Session 5 — The Star Chamber]] | Star Chamber → Selyra's Eye → Codex → Cartel breach | The chamber collapsing; the Codex in hand | **→ 3** |
+| 6 | [[session_06_gilded_docks_inquest\|Session 6 — The Gilded Docks Inquest]] | Escape → return to [[port_meridian\|Port Meridian]] → Gilded Docks Inquest → [[lord_seraphel\|Seraphel]] | Fellowship letters; the road to [[new_ilya\|New Ilya]] | **→ 4** |
 
 **Chapter goal:** turn the party from hired salvage hands into people with a name, a patron, and a target on their backs.
 
@@ -50,7 +50,7 @@ The road is the only way in. The Cartels know it. So does Tamsin.
 
 | Name | Role | Wants | Pressure point |
 |------|------|-------|----------------|
-| **Helena Voss** | Salvage factor; charter holder | A clean, legitimate claim and no dead young people | Her licence; her crew; the Admiralty |
+| **[[major_allies_and_rivals\|Helena Voss]]** | Salvage factor; charter holder | A clean, legitimate claim and no dead young people | Her licence; her crew; the Admiralty |
 | **Tamsin Roke** | Breaker; companion; peg leg | To know why Wren was left; to be useful | Grief; his old crew; Rorik's reach |
 | **Arlen Marr** | Scholar; estranged | Recognition without complicity | Pride; fear; the Exchange's retaliation |
 | **Sella Orr** | Senior appraiser, Brass Astrolabe | Provenance and quiet | Someone she will not name |
@@ -101,7 +101,7 @@ The Sea Cliff Road runs **six miles** south of Port Meridian along the old basal
 | 2 | **The Wind Stair** | Skill challenge | Make the cliff feel earned |
 | 3 | **The Wrecked Mule** | Social / evidence | Cartel presence; the "gold man" clue |
 | 4 | **The Reef-Crawler Nest** | Combat | Attrition; a nest with something in it |
-| 5 | **The Drowned Shrine** | Lore / Soul Crisis | The dead are not passing; no explanation |
+| 5 | **The Drowned Shrine** | Lore / [[cosmology_and_metaphysics\|Soul Crisis]] | The dead are not passing; no explanation |
 | 6 | **The Star Stair** | Arrival / cliffhanger | The Cartels are already here |
 
 ### 5.3 Clues on the road
@@ -179,7 +179,7 @@ The floor mosaic shows **Port Meridian** as a bright node, joined by **copper-ve
 
 As the Codex lifts, the Cartels breach from the old shaft:
 
-- **1× Kael, Cartel Salvage Captain (CR 2)** — use the block in `session_05_star_chamber.md`; if the party is level 3 or reinforced, upgrade to the **Cartel Enforcer (CR 4)** in `05_FACTIONS/the_archive_cartels.md`.
+- **1× Kael, Cartel Salvage Captain (CR 2)** — use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]]; if the party is level 3 or reinforced, upgrade to the **Cartel Enforcer (CR 4)** in [[the_archive_cartels|The Archive Cartels]].
 - **1× Thug (CR 1/2)**.
 - **1× Scout (CR 1/2)** on the ledge with a crossbow — the lookout, who fires once and flees.
 
@@ -232,7 +232,7 @@ He is warm, peer-like, and curious. He asks one piercing question about the mosa
 
 - **100 gp stipend each.**
 - **Letters of fellowship** to the Grand Lyceum.
-- **Travel with Seraphel's retinue** to New Ilya (Act II hook).
+- **Travel with Seraphel's retinue** to New Ilya ([[act_II_overview|Act II]] hook).
 - **A patron's attention** — flattering and dangerous.
 
 ---
@@ -314,7 +314,7 @@ The chapter ends with the party on the road to **New Ilya**, carrying (or escort
 2. Someone modern has been **looting and suppressing** their records.
 3. The **transit map** shows connections across the continent — and someone wants it badly enough to kill for it.
 
-**Act II opens with the Grand Lyceum audience** and the discovery that the archive's history has been *edited*. See `06_ADVENTURE/Act II/chapter_3_edited_past.md`.
+**Act II opens with the Grand Lyceum audience** and the discovery that the archive's history has been *edited*. See [[chapter_3_edited_past|Chapter 3 — The Edited Past]].
 
 ---
 
@@ -334,12 +334,12 @@ The chapter ends with the party on the road to **New Ilya**, carrying (or escort
 
 ## 15. Canon Guardrails
 
-These are the lines Chapter 2 must not cross, checked against the bible, `01_CAMPAIGN/revelation_timeline.md`, `01_CAMPAIGN/milestone_progression.md`, and `08_MONSTERS_AND_ITEMS/`.
+These are the lines Chapter 2 must not cross, checked against the bible, [[revelation_timeline|Revelation Timeline]], [[milestone_progression|Milestone Progression]], and `08_MONSTERS_AND_ITEMS/`.
 
 - **The Codex recontextualises, it does not re-confirm.** The Oath in Chapter 1 is the Act I confirmation of Ascensionist humanism. The Codex shows the *scale* of their ambition — continental, linked, systemic. It is the "answer generates two questions" beat, not a second proof.
-- **The star-glass lens has no key function.** Canon is explicit (`relics_and_artifacts.md` §10). It can sharpen a view or focus a light, but it never opens a lock or solves a ring by itself. Vane buyers overpay for the story, not the function.
-- **The Star-Glass Steward is not the Star-Glass Warden.** The CR 7 Warden is Nythara's stair guardian (`monsters_and_foes.md`). The CR 3 Steward is a lesser chamber-construct. Do not imply a shared origin yet.
-- **The Returners are not named in Act I.** Seraphel's public front belongs to Act V. In Chapter 2 he offers access to "Ascendant scholars," not the Returners.
+- **The star-glass lens has no key function.** Canon is explicit ([[relics_and_artifacts|Relics & Artifacts]] §10). It can sharpen a view or focus a light, but it never opens a lock or solves a ring by itself. Vane buyers overpay for the story, not the function.
+- **The Star-Glass Steward is not the Star-Glass Warden.** The CR 7 Warden is Nythara's stair guardian ([[monsters_and_foes|Monsters & Foes]]). The CR 3 Steward is a lesser chamber-construct. Do not imply a shared origin yet.
+- **The Returners are not named in Act I.** Seraphel's public front belongs to [[act_V_overview|Act V]]. In Chapter 2 he offers access to "Ascendant scholars," not the Returners.
 - **Seraphel is foreshadowed, not exposed.** The Lyceum letter is a procedural snub, not an accusation. The party should leave Act I trusting him, or at least owing him.
-- **Level timing:** Session 4 ends at level 2; Session 5 ends at level 3; Session 6 ends at level 4. This matches the table's agreed three-night split and `milestone_progression.md`.
+- **Level timing:** Session 4 ends at level 2; Session 5 ends at level 3; Session 6 ends at level 4. This matches the table's agreed three-night split and [[milestone_progression|Milestone Progression]].
 - **The Fourth Chair and the star-chart cylinder are optional hooks.** They are not required by the act plan. Use them only if the table enjoys the mystery; cut them if they compete with the Engine or the Tenth.

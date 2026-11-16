@@ -8,9 +8,9 @@ last_session: "session 3 (play date TBD)"
 
 # Live Campaign State — Ashes of Elonia
 
-> **Current location:** a **pub in Port Meridian**. Everyone except Arlen is there; Tamsin is with the party.
-> **Surface:** Helena Voss is back in the city; the Scriptorium is collapsed behind the party.
-> **In-world time:** the night after surfacing from the Shattered Archive. Exact date TBD.
+> **Current location:** a **pub in [[port_meridian|Port Meridian]]**. Everyone except Arlen is there; Tamsin is with the party.
+> **Surface:** [[major_allies_and_rivals|Helena Voss]] is back in the city; the Scriptorium is collapsed behind the party.
+> **In-world time:** the night after surfacing from the [[chapter_1_shattered_archive|Shattered Archive]]. Exact date TBD.
 
 ---
 
@@ -20,7 +20,7 @@ last_session: "session 3 (play date TBD)"
 |----|--------|-----------------|----|----|---------|-------------------|
 | **IRC-10414 "Wanderer"** | Dan | Twilight Cleric 2, Warforged | 16 | — | 13 | Wearing **Wren's +1 Charisma coat** |
 | **Zook Scheppen Clang** | James | Artificer 2, Rock Gnome | 14 | — | 15 | Hoarding the **120 gp copper** in the captured Breaker's **Bag of Holding**; built Tamsin's peg leg |
-| **Kit** | John Fantasy | Warlock 2, Changeling | 12 | — | 10 | Pink scarf of protection (+1 Constitution); *Lucky* 3/3 |
+| **John Fantasy** | Kit | Warlock 2, Changeling | 12 | — | 10 | Pink scarf of protection (+1 Constitution); *Lucky* 3/3 |
 | **Bogbrir "Bog"** | Theo | Monk 2, Bugbear | 17 | — | 15 | Survived the ghoul fight in Session 2 |
 
 **Conditions:** not tracked.
@@ -107,7 +107,7 @@ last_session: "session 3 (play date TBD)"
 
 ## DM-Only Notes
 
-- **Wren's soul was ripped out.** This is a visceral Soul Crisis event. Do not explain the mechanism. Tamsin recognised the body — play the grief, not the joke. Decide what Tamsin does with it.
+- **Wren's soul was ripped out.** This is a visceral [[cosmology_and_metaphysics|Soul Crisis]] event. Do not explain the mechanism. Tamsin recognised the body — play the grief, not the joke. Decide what Tamsin does with it.
 - **The captured Breaker is alive in magistrates' custody.** A Breaker carrying a **Bag of Holding** is an operative, not a scavenger. He was the one holding the Tablet, leaf, and Bag. He can testify, lie, or be silenced. Decide who sent him.
 - **Arlen confessed (Clue C), then left after a petty threat.** He was carrying **"the precious stone"** (not the Tablet) and was forced to throw it back. Decide what the stone was, what the threat was, and where he went. He is being a dick, not becoming a villain.
 - **Tamsin** is a companion with a target on his back. He recognised Wren; the magistrates did not get him. Play the tension and the grief.
@@ -123,4 +123,4 @@ last_session: "session 3 (play date TBD)"
 - [[session_01_recap]] — 2026-10-19
 - [[session_02_recap]] — play date TBD
 - [[session_03_recap]] — play date TBD
-- Next: **Chapter 2 — The Stair and the Star** • prep: [[session_04_sea_cliff_road]] → [[session_05_star_chamber]] → [[session_06_gilded_docks_inquest]]
+- Next: **Chapter 2 — [[chapter_2_stair_and_star|The Stair and the Star]]** • prep: [[session_04_sea_cliff_road]] → [[session_05_star_chamber]] → [[session_06_gilded_docks_inquest]]

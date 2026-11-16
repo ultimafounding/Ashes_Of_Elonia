@@ -17,5 +17,5 @@ hub: false
 - Twist trigger (DC / check):
 
 ## Table
-- Random encounter (d6): <!-- link gazetteer table -->
+- Random encounter (d6): roll on [[master_locations_gazetteer|Master Locations Gazetteer]]
 - Factions present:

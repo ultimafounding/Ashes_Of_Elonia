@@ -11,27 +11,27 @@
 | # | Chapter slice | Cliffhanger out |
 |---|---------------|-----------------|
 | 1 | Ch1: Salt-Lantern hire + free roam + Warehouse descent 1.1 | Dust furrow; something dragging in the dark |
-| 2 | Ch1: Hall of Records 1.2 (ghoul + bootprints) | Brass door hisses |
+| 2 | Ch1: [[chapter_1_shattered_archive\|Hall of Records]] 1.2 (ghoul + bootprints) | Brass door hisses |
 | 3 | Ch1: Scriptorium 1.3 (Oath) → Lv 2 | Dust collapse behind |
-| 4 | Ch2: Sea Cliff Road | Star Chamber door half-open; a lantern inside |
+| 4 | Ch2: Sea Cliff Road | [[chapter_2_stair_and_star\|Star Chamber]] door half-open; a lantern inside |
 | 5 | Ch2: Star Chamber puzzle + Codex → Lv 3 | Chamber collapsing; Codex in hand |
-| 6 | Ch2: Ambush escape + Docks Inquest + Seraphel → Lv 4 | Fellowship letters |
+| 6 | Ch2: Ambush escape + Docks Inquest + [[lord_seraphel\|Seraphel]] → Lv 4 | Fellowship letters |
 
 **Chapter 1 prep files (full 4-hour nights):**
 
 | Night | File | Runtime |
 |-------|------|---------|
-| 1 | `07_SESSIONS/session_01_three_days_pay.md` — hire, free roam/shopping, descent 1.1 | 240 min |
-| 2 | `07_SESSIONS/session_02_hall_of_records.md` — Hall of Records 1.2, surface breather, brass door | 240 min |
-| 3 | `07_SESSIONS/session_03_the_oath.md` — Scriptorium 1.3, Oath, Tablet, collapse, Lv 2 | 240 min |
+| 1 | [[session_01_three_days_pay\|Session 1 — Three Days' Pay]] — hire, free roam/shopping, descent 1.1 | 240 min |
+| 2 | [[session_02_hall_of_records\|Session 2 — What the Dust Remembers]] — Hall of Records 1.2, surface breather, brass door | 240 min |
+| 3 | [[session_03_the_oath\|Session 3 — The Oath in the Dust]] — Scriptorium 1.3, Oath, Tablet, collapse, Lv 2 | 240 min |
 
 **Chapter 2 prep files (expanded 4–5 hour nights):**
 
 | Night | File | Runtime |
 |-------|------|---------|
-| 4 | `07_SESSIONS/session_04_sea_cliff_road.md` — pub that night, next morning's pay/shopping, Sea Cliff Road, Star Stair | 240–300 min |
-| 5 | `07_SESSIONS/session_05_star_chamber.md` — sea cave, Antechamber, Selyra's Eye, Codex, Cartel breach, collapse, Lv 3 | 240–300 min |
-| 6 | `07_SESSIONS/session_06_gilded_docks_inquest.md` — escape, return, Gilded Docks Inquest, Seraphel, Lv 4, Act II hook | 240–300 min |
+| 4 | [[session_04_sea_cliff_road\|Session 4 — The Road Above the Sea]] — pub that night, next morning's pay/shopping, Sea Cliff Road, Star Stair | 240–300 min |
+| 5 | [[session_05_star_chamber\|Session 5 — The Star Chamber]] — sea cave, Antechamber, Selyra's Eye, Codex, Cartel breach, collapse, Lv 3 | 240–300 min |
+| 6 | [[session_06_gilded_docks_inquest\|Session 6 — The Gilded Docks Inquest]] — escape, return, the inquest, Seraphel, Lv 4, [[act_II_overview\|Act II]] hook | 240–300 min |
 
 **Chapter 2 design rule:** each night has at least one exploration beat, one social beat, and one combat or hazard beat, plus optional side activities. If the table moves fast, use the extra scenes; if it moves slow, use the trimming notes at the end of each file.
 
