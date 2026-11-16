@@ -16,18 +16,18 @@ Chambers 1.1–1.3 are an Ascensionist civic archive (c. 1,100 BS), not a cult c
 ### 1.1 The Catalogue Descent (steep rubble incline, dim)
 **Read-aloud:** *Rope creaks above. Broken steps fall eighty feet into dark that smells of wet lime and old paper.*
 - **Hazard:** Loose scree. DC 12 Dex save or slide 20 ft, 1d6 bludgeoning. Pitons + DC 10 Athletics negates.
-- **Encounter (Lv 1):** 2x **Giant Centipedes** + 1x **Giant Rat swarm-flavor** nesting in timber shoring. Timbers creak — DC 13 Perception warns.
+- **Encounter (Lv 1):** 2x [[monsters_and_foes#Giant Centipede (CR 1/4)|Giant Centipedes]] + 1x [[monsters_and_foes#Giant Rat (CR 1/8)|Giant Rat]] swarm-flavour nesting in timber shoring. Timbers creak — DC 13 Perception warns.
 - **Clue A (Environmental):** Bas-relief of robed figures with sickles, scales, compasses tending fields/hospitals — no skulls. DC 11 History/Religion: not cult iconography.
 
 ### 1.2 Hall of Records (lectern rows, dust 2 ft deep)
 **Read-aloud:** *Stone desks in dead-straight rows. Dust lies like snow. Something has walked here — a furrow cuts the dust to the far door.*
 - **Exploration:** Dust preserves tracks. DC 13 Survival/Investigation: **fresh iron boot-heel marks over ancient dust** + broken modern steel lockpick + grease-rag smelling of [[new_ilya|New Ilya]] lamp oil `[DM-ONLY: modern surveyors]`.
-- **Encounter (Lv 1–2):** 1x **Ghoul (tunnel-scourge, weakened: HP 15, no paralysis on first round)** + 2x **Skeletons (reassembled archive servitors, non-magical)**. Ghoul gorges on old Breaker left behind — wears Cartel split-coin token (fallback Vector C).
+- **Encounter (Lv 1–2):** 1x [[monsters_and_foes#Ghoul, Tunnel-Scourge (CR 1)|Ghoul, tunnel-scourge]] (weakened) + 2x [[monsters_and_foes#Skeleton (CR 1/4)|Skeletons]] (reassembled archive servitors, non-magical). Ghoul gorges on old Breaker left behind — wears Cartel split-coin token (fallback Vector C).
 - **Clue B (Documentary):** Petrified ledger leaf: hospital grain budgets, inoculation rota. Arlen translates in 10 min: *"Ward Three — fever beds: 40. Tithe: none. Oath-bound."*
 
 ### 1.3 Witness Scriptorium (sealed brass pneumatic door, jammed)
 **Read-aloud:** *A round brass door, green with age, hisses half-open. Inside: a dry reading room. Ink-pots still stoppered. A vow cut deep above the desk.*
-- **Door:** DC 14 Strength (crowbar advantage) or DC 13 Thieves' Tools (Cartel pick snapped inside gives advantage to notice). Failure by 5+: hiss alerts 1.2 survivors/restless stirge.
+- **Door:** DC 14 Strength (crowbar advantage) or DC 13 Thieves' Tools (Cartel pick snapped inside gives advantage to notice). Failure by 5+: hiss alerts 1.2 survivors/restless [[monsters_and_foes#Stirge (CR 1/8)|stirge]].
 - **The Oath of the Scriptorium `[ESTABLISHED CANON]`:** High Elonian inscription. Arlen needs 30 min + DC 13 History aid:
   > *"Not to usurp the heavens, but to ensure mortal children walk without weeping when the hearth grows cold. We keep account, we mend bone, we measure star — that no prayer need be spent for bread."*
   Effect: **CONFIRMS Mystery 1 Stage 3** — Ascensionists were humanist reformers.

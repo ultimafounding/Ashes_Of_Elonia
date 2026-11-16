@@ -13,10 +13,15 @@ date: ""
 > *"A dome of lapis and silver wire. Constellations burn cold overhead. On a stone plinth, a book bound in salt-swollen oak — dustless, as if the room held its breath for a thousand years."*
 
 **Chapter:** [[chapter_2_stair_and_star]] • **Level:** 2 → **3** at the end
-**Covers:** the sea cave → the Antechamber of Measures → Selyra's Eye → the Catalogue Codex → the Cartel breach → the collapse
+**Covers:** the sea cave → the [[#4. The Antechamber of Measures (35 min)|Antechamber]] of Measures → [[#5.3 Selyra's Eye — the alignment lock|Selyra's Eye]] → the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Catalogue Codex]] → the [[the_archive_cartels|Cartel]] breach → the collapse
 **Cliffhanger out:** the chamber is falling, the tide is rising, and the Cartels are still between the party and the road.
 
 > **Actual play carry-over:** the party is at the Star Stair, level 2. **They came down loudly — the Cartels heard them and are alerted** (they do not yet know who, or how many). **Wren is dead.** **Arlen is estranged but sent the translation.** **Tamsin** may be with them. **The captured Breaker** may have given them the Cartel route. The **Tablet** is in party hands. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3** (adjust for Session 4 choices). The noise does **not** tick a clock.
+
+> **Set-up —** [[#The One-Page Version|Overview]] • [[#Session Goals|Goals]] • [[#1. Pre-Session Checklist (15 minutes)|1 Checklist]]
+> **Run —** [[#2. Recap and the Door (15 min)|2 Recap]] • [[#3. The Sea Cave (25 min)|3 Sea Cave]] • [[#4. The Antechamber of Measures (35 min)|4 Antechamber]] • [[#5. The Star Chamber (45 min)|5 Star Chamber]] • [[#6. The Cartel Breach (45 min)|6 Cartel Breach]] • [[#7. The Collapse (30 min)|7 Collapse]] • [[#8. Level 3 (15 min)|8 Level 3]]
+> **Reference —** [[#9. Clocks|9 Clocks]] • [[#10. NPCs at the Table|10 NPCs]] • [[#11. Treasure|11 Treasure]] • [[#12. Handouts|12 Handouts]] • [[#13. If / Then|13 If/Then]] • [[#14. Encounter Blocks|14 Encounters]] • [[#15. Closing the Night|15 Closing]] • [[#16. What This Session Must Accomplish|16 Must Accomplish]] • [[#17. Expansion & Trimming|17 Trimming]] • [[#18. Puzzle Handout — Selyra's Eye|18 Puzzle]] • [[#19. DM Quick Reference|19 Quick Ref]] • [[#20. The Cartel Crew|20 Cartel Crew]]
+> [[#Session 5: The Star Chamber|↑ back to top]]
 
 ---
 
@@ -24,11 +29,11 @@ date: ""
 
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
-| Session 4 | Pub that night → next morning → Sea Cliff Road → Star Stair | The cliff door in sight | 2 |
-| **Session 5 (this file)** | **Sea cave → Antechamber → [[chapter_2_stair_and_star\|Star Chamber]] → Codex → Cartel breach → collapse** | **The chamber falling; the Codex in hand** | **→ 3** |
+| Session 4 | Pub that night → next morning → [[chapter_2_stair_and_star\|Sea Cliff Road]] → Star Stair | The cliff door in sight | 2 |
+| **Session 5 (this file)** | **Sea cave → [[#4. The Antechamber of Measures (35 min)\|Antechamber]] → [[chapter_2_stair_and_star\|Star Chamber]] → [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] → [[the_archive_cartels\|Cartel]] breach → collapse** | **The chamber falling; the Codex in hand** | **→ 3** |
 | Session 6 | Escape → return to Meridian → [[session_06_gilded_docks_inquest\|Gilded Docks Inquest]] → [[lord_seraphel\|Seraphel]] | Fellowship letters; the road to [[new_ilya\|New Ilya]] | **→ 4** |
 
-**Rule for tonight:** the chamber is the session. Do not run the Inquest, Seraphel's entrance, or the return to [[port_meridian|Port Meridian]]. End in the collapse or on the cliff outside.
+**Rule for tonight:** the chamber is the session. Do not run the Inquest, [[lord_seraphel|Seraphel]]'s entrance, or the return to [[port_meridian|Port Meridian]]. End in the collapse or on the cliff outside.
 
 ---
 
@@ -37,15 +42,15 @@ date: ""
 | # | Beat | Time | Type | Purpose |
 |---|------|------|------|---------|
 | 0 | Recap + the door — and who heard them | 15 min | Social | Re-establish the threshold, then the silence |
-| 1 | **The sea cave** — tide, alerted sentry, optional cache | 25 min | Exploration / social | The Cartels know someone is coming |
-| 2 | **The Antechamber of Measures** — calibration room | 35 min | Exploration / trap | Show the ancients were scientists |
-| 3 | **Selyra's Eye** — the ring puzzle | 45 min | Puzzle | The chapter's centrepiece |
-| 4 | **The Codex and the mosaic** — the payoff | 30 min | Lore / discovery | The humanist thesis and the transit map |
-| 5 | **The Cartel breach** — Kael's offer | 45 min | Social / combat | The night's set-piece |
+| 1 | **The sea cave** — tide, alerted sentry, optional cache | 25 min | Exploration / social | The [[the_archive_cartels\|Cartels]] know someone is coming |
+| 2 | **The [[#4. The Antechamber of Measures (35 min)\|Antechamber]] of Measures** — calibration room | 35 min | Exploration / trap | Show the ancients were scientists |
+| 3 | **[[#5.3 Selyra's Eye — the alignment lock\|Selyra's Eye]]** — the ring puzzle | 45 min | Puzzle | The chapter's centrepiece |
+| 4 | **The [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] and the mosaic** — the payoff | 30 min | Lore / discovery | The humanist thesis and the transit map |
+| 5 | **The Cartel breach** — [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]]'s offer | 45 min | Social / combat | The night's set-piece |
 | 6 | **The collapse** — escape with the Codex | 30 min | Skill challenge | Cost and climax |
 | 7 | **Level 3 + cliffhanger** | 15 min | Milestone | End on the run |
 
-**Base total: 240 min.** Optional sections (§3.4, §4.6, §5.7–5.10, §7.7–7.10) push a full night to 5 hours. Trimming notes in §17. If you run a tight 3 hours, cut the sea cave to one stealth check and the Antechamber to the lens and the chart.
+**Base total: 240 min.** Optional sections ([[#3.4 Cave activities|§3.4]], [[#4.6 Antechamber activities|§4.6]], [[#5.7 Things to Do in the Star Chamber|§5.7]]–5.10, [[#7.7 Extra encounters in the dark|§7.7]]–7.10) push a full night to 5 hours. Trimming notes in [[#17. Expansion & Trimming|§17]]. If you run a tight 3 hours, cut the sea cave to one stealth check and the Antechamber to the lens and the chart.
 
 ---
 
@@ -53,29 +58,29 @@ date: ""
 
 By the end of tonight, the table should:
 
-- Have **entered the Star Chamber** and solved (or forced) Selyra's Eye.
-- Have the **Catalogue Codex** in hand — and understand why it matters.
+- Have **entered the [[#5. The Star Chamber (45 min)|Star Chamber]]** and solved (or forced) [[#5.3 Selyra's Eye — the alignment lock|Selyra's Eye]].
+- Have the **[[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Catalogue Codex]]** in hand — and understand why it matters.
 - Have seen the **transit map** and drawn their own conclusions.
-- Have faced the **Cartels** as people, not just stat blocks.
+- Have faced the **[[the_archive_cartels|Cartels]]** as people, not just stat blocks.
 - Have paid a **price** for the Codex: resources, loot, a prisoner, or a promise.
 - Reach **level 3**.
 
-**Do not:** name the Engine, explain the [[cosmology_and_metaphysics|Soul Crisis]], reveal Seraphel, or run the Inquest.
+**Do not:** name the Engine, explain the [[cosmology_and_metaphysics|Soul Crisis]], reveal [[lord_seraphel|Seraphel]], or run the Inquest.
 
 ---
 
 ## 1. Pre-Session Checklist (15 minutes)
 
-- [ ] Read the **Scope** and §17. The Inquest is next session.
-- [ ] **The Cartels are alerted.** The party was loud on the stair. Play the sentry as warned, not bored; Kael has had time to shade the lantern and take cover.
+- [ ] Read the **Scope** and [[#17. Expansion & Trimming|§17]]. The Inquest is next session.
+- [ ] **The [[the_archive_cartels|Cartels]] are alerted.** The party was loud on the stair. Play the sentry as warned, not bored; [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] has had time to shade the lantern and take cover.
 - [ ] Decide whether the **Cartels inside** are Kael's crew (default) or a smaller advance team. If the party parleyed on the road, Kael is suspicious but not hostile — and now also forewarned.
-- [ ] Decide whether **Tamsin** is with them. If yes, he is a guide, an extra body, and a liability.
-- [ ] Have the **puzzle** (§4.3), **Codex excerpts** (§5.2), and **mosaic** (§5.4) ready. Do not paraphrase the Codex; let the players read.
+- [ ] Decide whether **[[chapter_2_stair_and_star|Tamsin]]** is with them. If yes, he is a guide, an extra body, and a liability.
+- [ ] Have the **puzzle** ([[#4.3 The trap|§4.3]]), **[[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] excerpts** ([[#5.2 The room key|§5.2]]), and **mosaic** ([[#5.4 The Catalogue Codex|§5.4]]) ready. Do not paraphrase the Codex; let the players read.
 - [ ] Have the **Cartel offer** and **Kael's dialogue** in front of you. He should be likable enough to bargain with.
-- [ ] Know the **Cartel Salvage Captain** block (§14). This is the main fight.
-- [ ] Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3** (or as adjusted).
+- [ ] Know the [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Cartel Salvage Captain]] block. This is the main fight.
+- [ ] Clocks: **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s Charter 2/4**, **Cartel Interference 1/3** (or as adjusted).
 - [ ] Global clocks: **Soul Tide 0/6, Convergence 0/8, Censor's Shroud 0/4.** Nothing ticks tonight.
-- [ ] Level-up notes ready (§12). 2024 rules; monsters stay on 2014 blocks.
+- [ ] Level-up notes ready ([[#12. Handouts|§12]]). 2024 rules; monsters stay on 2014 blocks.
 
 ---
 
@@ -93,17 +98,17 @@ They came down the Star Stair talking, arguing, or simply not caring how far sou
 
 - *"What were you saying on the stair? Who said it loudest?"*
 - *"Who is closest to the door?"*
-- *"Who is holding the Tablet?"*
-- *"Where is Tamsin?"*
+- *"Who is holding the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]]?"*
+- *"Where is [[chapter_2_stair_and_star|Tamsin]]?"*
 - *"What did you do with the mule?"*
 
 **What their noise changed:**
 
 | A minute ago | Now |
 |---|---|
-| The Cartels were arguing about the glass | They are quiet, behind cover, listening |
+| The [[the_archive_cartels\|Cartels]] were arguing about the glass | They are quiet, behind cover, listening |
 | The sentry was bored at the door | He is off the door-line, crossbow cocked, calling out |
-| Kael was stripping the plinth | Kael has the strongbox and his hammer within reach |
+| [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]] was stripping the plinth | Kael has the strongbox and his hammer within reach |
 | The party could have chosen surprise | Surprise is gone; the next move is talk, bluff, or a hard push |
 
 They do **not** know how many the party are, and they do **not** know about the **Tablet**. They know someone came down the stair, and they are not amateurs.
@@ -126,17 +131,17 @@ The cave is **60 ft wide, 40 ft deep**, with a **shingle floor**, a **tidal pool
 
 ### 3.2 The sentry
 
-A **Cartel Scout** is posted just inside the door — but he is no longer bored. He heard the party on the stair, shaded his lantern, and moved off the door-line. He is behind the door frame with his crossbow trained on the entrance. He has a flask, a whistle, and a bad temper.
+A **[[the_archive_cartels|Cartel]] Scout** is posted just inside the door — but he is no longer bored. He heard the party on the stair, shaded his lantern, and moved off the door-line. He is behind the door frame with his crossbow trained on the entrance. He has a flask, a whistle, and a bad temper.
 
 He opens with the same line the party heard through the door: **"That you, Perrin?"** Then he waits, and the party has one breath to answer.
 
 **Options:**
 
-- **Talk your way in (DC 15 Deception):** claim to be the relief crew. **DC 13** if they use the name **Perrin**, show a Cartel chit, or mention Rorik. On a failure he does not attack immediately — he shouts for Kael, and the Cartels inside come forward ready.
+- **Talk your way in (DC 15 Deception):** claim to be the relief crew. **DC 13** if they use the name **Perrin**, show a Cartel chit, or mention [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]]. On a failure he does not attack immediately — he shouts for [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]], and the Cartels inside come forward ready.
 - **Persuade him to stand down (DC 16 Persuasion):** with a bribe of **15+ gp** or a promise to cover his watch. On a success he steps aside, warns them Kael is "not in a buying mood," and leaves through the seaward crack. He takes the bribe with him.
 - **Take him quietly (DC 17 Stealth + an attack):** only if something distracts him first — Toby, a thrown stone, the signal whistle, or a PC who stays out of the lantern light. Without a distraction, he sees them coming and there is **no surprise round**.
-- **Fight:** he is a Scout (CR 1/2). He is already alerted and behind cover, so he gets the first shot; he shouts on his first turn. When he shouts, Kael comes forward with the crew — run §6.1 early, at the bronze door, not the plinth.
-- **Avoid:** there is a **seaward entrance** at low tide (**DC 14 Athletics** to climb the rocks) that bypasses the sentry entirely — and bypasses the alert. It leads to the tidal pool and the reef-crawlers.
+- **Fight:** he is a Scout (CR 1/2). He is already alerted and behind cover, so he gets the first shot; he shouts on his first turn. When he shouts, Kael comes forward with the crew — run [[#6.1 The arrival|§6.1]] early, at the bronze door, not the plinth.
+- **Avoid:** there is a **seaward entrance** at low tide (**DC 14 Athletics** to climb the rocks) that bypasses the sentry entirely — and bypasses the alert. It leads to the tidal pool and the [[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawlers]].
 
 **He is not a fool.** A bad lie gets a crossbow bolt, not a second chance. But he is also cold, underpaid, and does not want to die in a cave for Rorik's glass.
 
@@ -149,14 +154,14 @@ He opens with the same line the party heard through the door: **"That you, Perri
 
 ### 3.3 Cave points of interest
 
-| # | Feature | Check | Payoff |
-|---|---------|-------|--------|
-| 1 | **Tidal pool** | DC 12 Perception | Something glints under the water: a **star-glass shard** (25 gp) and a **drowned Cartel boot** |
-| 2 | **Old shrine niche** | DC 13 Religion/History | A pre-Silence **tide-prayer** to Selyra; the party can leave an offering for advantage on one navigation check |
-| 3 | **Cartel cache** | DC 13 Investigation | A waterproof satchel: 2 **healing potions**, 20 gp, a **signal whistle**, and a **note from Rorik** (handout §12.4) |
-| 4 | **Shingle bank** | DC 12 Survival | Tracks: four men, a mule, and something dragged. The Cartels are inside. |
-| 5 | **The brass door** | DC 13 Investigation | Fresh pry marks; the door was forced within the last day. The mechanism is damaged but usable. |
-| 6 | **Seaward crack** | DC 14 Athletics | A narrow climb to a second entrance; leads to the tidal pool and a **reef-crawler** (optional) |
+| #   | Feature              | Check                  | Payoff                                                                                                              |
+| --- | -------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Tidal pool**       | DC 12 Perception       | Something glints under the water: a **[[relics_and_artifacts#10. Star-Glass Lens\|star-glass shard]]** (25 gp) and a **drowned Cartel boot**                      |
+| 2   | **Old shrine niche** | DC 13 Religion/History | A pre-Silence **tide-prayer** to Selyra; the party can leave an offering for advantage on one navigation check      |
+| 3   | **Cartel cache**     | DC 13 Investigation    | A waterproof satchel: 2 **healing potions**, 20 gp, a **signal whistle**, and a **note from Rorik** (handout [[#12.4 Rorik's note (from the cave cache)\|§12.4]]) |
+| 4   | **Shingle bank**     | DC 12 Survival         | Tracks: four men, a mule, and something dragged. The Cartels are inside.                                            |
+| 5   | **The brass door**   | DC 13 Investigation    | Fresh pry marks; the door was forced within the last day. The mechanism is damaged but usable.                      |
+| 6   | **Seaward crack**    | DC 14 Athletics        | A narrow climb to a second entrance; leads to the tidal pool and a **reef-crawler** (optional)                      |
 
 ### 3.4 Cave activities
 
@@ -170,7 +175,7 @@ The sea cave is more than a corridor. Give the players something to investigate 
 | **Study the door** | DC 13 Investigation | The mechanism is damaged; it can be jammed open (DC 12 Thieves' Tools) to keep their exit clear |
 | **Speak to the sea** | DC 13 Religion/Arcana | A Selyran tide-prayer; a PC can ask for a sign. The tide answers with a single cold wave. No mechanics. |
 | **Fish** | DC 12 Survival | A small catch; fresh food and a moment of calm |
-| **Mark the exit** | No check | Chalk, rope, or a lantern; advantage on the escape in §7 |
+| **Mark the exit** | No check | Chalk, rope, or a lantern; advantage on the escape in [[#7. The Collapse (30 min)\|§7]] |
 | **Collect star-glass** | DC 14 Investigation | A shard in the pool (25 gp); cold to the touch |
 
 ### 3.5 The tide clock
@@ -199,15 +204,15 @@ A low vaulted room, **30 ft by 20 ft**, with **six stone benches**, **measuring 
 
 ### 4.2 Points of interest
 
-| # | Feature | Check | Payoff |
-|---|---------|-------|--------|
-| 1 | **The benches** | DC 12 Investigation | The grooves are **sighting lines**; the room was used for practical astronomy |
-| 2 | **The measuring rods** | DC 13 History/Arcana | Calibration tools, not weapons; one rod is **silver-inlaid** (25 gp) |
-| 3 | **The clay tags** | DC 12 Investigation | Intake dates, ward numbers, grain weights; a **filing system** |
-| 4 | **The niches** | DC 13 Investigation | Most are looted; one still holds a **star-glass lens** (25 gp) and a **scroll of Lesser Restoration** |
-| 5 | **The calibration chart** | DC 14 History | A wall chart of star positions; the **Eye, Helm, and Plough** are circled in red |
-| 6 | **The Cartel bedrolls** | No check | Three bedrolls, a cold lamp, a half-eaten meal, and a **ledger** with Cartel accounts |
-| 7 | **The bronze door** | DC 12 Investigation | Not locked; the Cartels left it open. Beyond: the Star Chamber. |
+| #   | Feature                                          | Check                | Payoff                                                                                                                                              |
+| --- | ------------------------------------------------ | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **The benches**                                  | DC 12 Investigation  | The grooves are **sighting lines**; the room was used for practical astronomy                                                                       |
+| 2   | **The measuring rods**                           | DC 13 History/Arcana | Calibration tools, not weapons; one rod is **silver-inlaid** (25 gp)                                                                                |
+| 3   | **The clay tags**                                | DC 12 Investigation  | Intake dates, ward numbers, grain weights; a **filing system**                                                                                      |
+| 4   | **The niches**                                   | DC 13 Investigation  | Most are looted; one still holds a **[[relics_and_artifacts#10. Star-Glass Lens\|star-glass lens]]** (25 gp) and a **scroll of Lesser Restoration** |
+| 5   | **The calibration chart**                        | DC 14 History        | A wall chart of star positions; the **Eye, Helm, and Plough** are circled in red                                                                    |
+| 6   | **The [[the_archive_cartels\|Cartel]] bedrolls** | No check             | Three bedrolls, a cold lamp, a half-eaten meal, and a **ledger** with Cartel accounts                                                               |
+| 7   | **The bronze door**                              | DC 12 Investigation  | Not locked; the Cartels left it open. Beyond: the [[#5. The Star Chamber (45 min)\|Star Chamber]].                                                  |
 
 ### 4.3 The trap
 
@@ -217,7 +222,7 @@ The floor between the benches is a **pressure plate** — old, but still armed. 
 **Disarm:** DC 13 Thieves' Tools or DC 14 Investigation (jam the mechanism).
 **Trigger:** a **counterweight** drops a stone slab from the ceiling. **DC 13 Dex save**, **2d6 bludgeoning**, and the slab blocks the door for **1 round** (DC 15 Athletics to lift).
 
-**If the party triggers it:** the noise carries into the Star Chamber. Kael sends the Scout to investigate. This is a complication, not a disaster.
+**If the party triggers it:** the noise carries into the Star Chamber. [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] sends the Scout to investigate. This is a complication, not a disaster.
 
 ### 4.4 The Cartel ledger
 
@@ -225,7 +230,7 @@ The ledger is a **merchant's account book** with entries like:
 
 > *"Two crates star-glass — 240 gp. One black stone — 400 gp, pending. Books — burn. Scholar — do not touch. Payment: Vane mark, triple rate."*
 
-**DC 14 Insight:** the handwriting is not Rorik's. The "Vane mark" is a falcon and calipers. `[DM-ONLY: Seraphel's cutout. Do not confirm.]`
+**DC 14 Insight:** the handwriting is not [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]]'s. The "Vane mark" is a falcon and calipers. `[DM-ONLY: [[lord_seraphel|Seraphel]]'s cutout. Do not confirm.]`
 
 **If they take the ledger:** it is evidence for the Inquest in Session 6. It can also be sold to Sella for 50 gp — but she will burn it.
 
@@ -261,54 +266,102 @@ A **circular chamber, 50 ft across**, with a **dome of lapis and silver wire**. 
 
 **Read-aloud:**
 
-> *The dome is a sky made of stone. Constellations burn cold overhead — not painted, but inlaid in silver wire, and moving. The floor is a map. At the centre, on a plinth of black stone, a book waits. It is dustless. The room has been holding its breath.*
+> *The dome is a sky made of stone. Constellations burn cold overhead — not painted, but inlaid in silver wire, and moving. The floor is a map. At the centre, on a plinth of black stone, a book waits. It is dustless. The room has been holding its breath.* 
 
 ### 5.2 The room key
 
-| Area | What's there | Checks / payoffs |
-|------|--------------|------------------|
-| **A. The dome** | Constellations in silver wire; three are brighter: the **Eye**, the **Helm**, the **Plough** | DC 13 Arcana/History: these are Selyran star-signs, not gods |
-| **B. The three rings** | Silver rings set into the floor, each with eight star-signs; they rotate | DC 12 Investigation to understand; see §5.3 |
-| **C. The plinth** | Black stone, warm; the Codex on top; a **silver seam** around the base | DC 14 Investigation: the seam is a lock; the rings are the key |
-| **D. The floor mosaic** | A map of Port Meridian and five inland nodes, joined by copper lines | DC 13 Investigation/Navigator's Tools: it is a **transit map**, not a trade map |
-| **E. The wall niches** | Six niches, mostly empty; one holds a **star-glass lens** and a **clay tag** | DC 12 Investigation: the Cartels missed it |
-| **F. The dry fountain** | A conduit hub, dry, with copper veins running into the floor | DC 14 Arcana: the room is **connected** to something deeper; do not explain |
-| **G. The Cartel camp** | Three bedrolls, a lantern, a pry bar, and a **half-packed crate** of star-glass | Loot: 2 star-glass shards, 40 gp, a **crowbar** |
-| **H. The collapsed shaft** | A rough hole in the south wall, shored with modern timber | The Cartels' entrance; **DC 13 Athletics** to climb; leads up to Warehouse Nine |
-| **I. The hidden compartment** | Under the plinth, a **stone drawer** with a **star-chart cylinder** | DC 15 Investigation; the cylinder is a Chapter 3 hook, not a Chapter 2 answer |
+| Area                          | What's there                                                                                                                                            | Checks / payoffs                                                                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **A. The dome**               | Constellations in silver wire; three are brighter: the **Eye**, the **Helm**, the **Plough**                                                            | DC 13 Arcana/History: these are Selyran star-signs, not gods                                                                               |
+| **B. The three rings**        | Concentric silver rings in the floor, each engraved with the same twelve star-signs; each turns                                                         | DC 12 Investigation to understand; see [[#5.3 Selyra's Eye — the alignment lock\|§5.3]]                                                    |
+| **C. The plinth**             | Black stone, warm; the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] on top; a **silver seam** around the base | DC 14 Investigation: the seam is a lock; the rings are the key                                                                             |
+| **D. The floor mosaic**       | A map of [[port_meridian\|Port Meridian]] and five inland nodes, joined by copper lines                                                                 | DC 13 Investigation/Navigator's Tools: it is a **transit map**, not a trade map                                                            |
+| **E. The wall niches**        | Six niches, mostly empty; one holds a **[[relics_and_artifacts#10. Star-Glass Lens\|star-glass lens]]** and a **clay tag**                              | DC 12 Investigation: the [[the_archive_cartels\|Cartels]] missed it                                                                        |
+| **F. The dry fountain**       | A conduit hub, dry, with copper veins running into the floor                                                                                            | DC 14 Arcana: the room is **connected** to something deeper; do not explain                                                                |
+| **G. The Cartel camp**        | Three bedrolls, a lantern, a pry bar, and a **half-packed crate** of star-glass                                                                         | Loot: 2 star-glass shards, 40 gp, a **crowbar**                                                                                            |
+| **H. The collapsed shaft**    | A rough hole in the south wall, shored with modern timber                                                                                               | The Cartels' entrance; **DC 13 Athletics** to climb; leads up to [[port_meridian#2. The Salvage Warrens & Warehouse Nine\|Warehouse Nine]] |
+| **I. The hidden compartment** | Under the plinth, a **stone drawer** with a **star-chart cylinder**                                                                                     | DC 15 Investigation; the cylinder is a Chapter 3 hook, not a Chapter 2 answer                                                              |
 
-### 5.3 Selyra's Eye — the puzzle
+### 5.3 Selyra's Eye — the alignment lock
 
-The three rings must be aligned to match the Tablet:
+**What it is.** The plinth has no hinge. A **silver seam** runs round its base, and the three floor rings are the tumblers. Each ring is engraved with the same **twelve star-signs** and turns with a low grind. The lock opens when all three rings are set to the right sign against the **north notch** — a small silver triangle inlaid in the floor at the foot of the plinth.
 
-- **The Eye** at the top.
-- **The Helm** to the left.
-- **The Plough** to the right.
+> **The rule in one line:** one sign per ring, three rings, and the sky above tells you which three.
 
-**How to solve:**
+---
 
-1. **Read the Tablet:** it shows the alignment. If Arlen's note is in hand, this is automatic.
-2. **Read the dome:** the three bright signs match the rings. **DC 13 Arcana/History** identifies them.
-3. **Read the antechamber chart:** the circled signs confirm the alignment. **DC 12 Investigation** if they searched the room.
-4. **Use the star-glass lens:** it is **not a key** — canon is explicit that it has no key function — but focusing it on the dome throws the three bright signs into sharp relief. **Advantage on the next Arcana/History check** to identify the alignment. It does not turn a ring.
+#### The answer — never say this out loud
 
-**Mechanics:**
+| Ring       | Sign           | Where it sits in the dome |
+| ---------- | -------------- | ------------------------- |
+| **Inner**  | **The Eye**    | left / west               |
+| **Middle** | **The Helm**   | zenith, straight up       |
+| **Outer**  | **The Plough** | left / west               |
 
-- Rotating a ring takes **one action**. A PC can rotate one ring per turn.
-- **Wrong alignment:** the ring locks and **1d8 radiant damage** arcs through the handler. The dome grinds. **Three wrong alignments** alert the Cartels (§6.6).
-- **Correct alignment:** the ring clicks; a constellation brightens. All three correct: the plinth opens with a **deep click**, dust falls, and the Codex is accessible.
-- **Forcing the plinth:** **DC 18 Athletics**. Success: the plinth opens, but the Codex takes **1d4 damage** (one excerpt is torn; choose one). Failure by 5+: the plinth cracks and the room begins to collapse early.
-- **Knock:** the plinth is not a door. The spell fails, but it reveals the seam and grants **advantage** on the next Investigation check.
-- **Dispel Magic:** the rings are not magical in a way the spell can unpick. It suppresses the backlash for **1 round**, allowing one free rotation.
+The [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]] shows the three signs in a line in that order. The dome shows the same three burning brighter than the rest. Both point to the same answer; either alone is enough.
 
-**Hints if the table is stuck:**
+---
 
-- Tamsin: *"Wren said the Eye goes at the top. He was always right about the sky."*
-- The antechamber chart is circled in red.
-- The dome's three bright signs pulse when a ring is close.
-- A PC with the **Sailor** or **Sage** background recognises the star-signs.
+#### What the room gives them
 
-**Do not** let the puzzle kill the session. If they are stuck after 10 minutes, let the lens grant advantage again, or have Tamsin remember Wren's note.
+| Clue                             | Where                                                     | Check                                                                                                                                                 | What it yields                                                      |
+| -------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **The Tablet**                   | party inventory                                           | none, if translated ([[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]]'s note or [[chapter_2_stair_and_star\|Sella Orr]]) | the three signs, in order                                           |
+| **The dome**                     | overhead                                                  | **DC 13 Arcana or History**                                                                                                                           | these are Selyran star-signs, not gods — and which three are bright |
+| **The calibration chart**        | [[#4. The Antechamber of Measures (35 min)\|Antechamber]] | **DC 14 History**                                                                                                                                     | the same three circled in red                                       |
+| **The star-glass lens**          | niche E, [[#5.2 The room key\|§5.2]]                      | none                                                                                                                                                  | advantage on the Arcana/History check — **it never turns a ring**   |
+| **The Steward**                  | niche, if woken friendly                                  | **DC 12 History or Religion**                                                                                                                         | names the signs, not the Engine                                     |
+| **A Sailor, Sage, or Cleric PC** | —                                                         | passive                                                                                                                                               | recognises the star-signs on sight                                  |
+
+Independent sources, so no single failed roll can stall the room.
+
+---
+
+#### Turning the rings
+
+- **One ring per action.** Describe the grind; the dome answers.
+- **The feedback is the puzzle.** Turn a ring to its true sign and it **clicks**; the matching constellation brightens above. Nothing else happens. No roll needed to turn a ring.
+- **A wrong sign resists, then locks** — **1d8 radiant** snaps through whoever is holding it unless they let go.
+- **Do not punish exploring.** Only call for the backlash when they deliberately set a ring to a sign they have already ruled out, or when they force a ring with something coming down the shaft. Trial and error is the intended play, not a trap.
+
+**When all three click:** the seam splits with a **deep click**, dust falls from the dome, and the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] is free on the plinth.
+
+---
+
+#### If they get it wrong
+
+- Each locked ring grinds the dome louder. **Three wrong settings** and the noise carries into the antechamber — the Cartels hear it and the collapse begins early ([[#6.6 The collapse begins|§6.6]]).
+- The backlash is a **warning**, not a punishment: describe the heat, the smell of scorched leather, the ring refusing to move.
+
+---
+
+#### Ways around the lock
+
+| Approach | Check | Result |
+|----------|-------|--------|
+| **Force the plinth** | **DC 18 Athletics** | It opens. The Codex takes **1d4 damage** — one excerpt is torn (you choose which) |
+| Fail that by 5+ | — | The plinth cracks and the room begins to collapse early |
+| ***Knock*** | — | Not a door. The spell fails, but the seam glows: **advantage** on the next Investigation |
+| ***Dispel Magic*** | — | Cannot unpick the rings, but suppresses the backlash for **1 round** — one free rotation |
+| **The Steward** | conversation | Gives the order if treated as a person rather than a lock |
+
+---
+
+#### If the table is stuck
+
+Use one per few minutes, in this order:
+
+1. [[chapter_2_stair_and_star|Tamsin]]: *"[[session_03_the_oath#13. NPCs at the Table|Wren]] said the Eye goes at the top. He was always right about the sky."*
+2. The bright signs **pulse** when a ring comes near its true sign.
+3. The lens grants advantage again — it is a tool, not a one-shot.
+4. A Sailor, Sage, or Cleric PC simply recognises the signs.
+5. The Steward offers the order, for courtesy rather than coin.
+
+**Never let it stall.** After ten minutes the plinth can always be forced. The night continues with a torn page, a woken Steward, or early Cartels — never with a dead stop.
+
+> **Say:** *"What are you doing with the rings?"* — **not** *"Roll Investigation to solve the puzzle."*
+
+---
 
 ### 5.4 The Catalogue Codex
 
@@ -336,7 +389,7 @@ The Codex is a **book bound in salt-swollen oak**, 25 lb, with **brass corner-pi
 
 **What this changes `[ESTABLISHED CANON — Mystery 1, Act I → Act II]:`** the Oath already **confirmed** that the Ascensionists were civic humanists. The Codex does not confirm it again. It **recontextualises** that humanism at continental scale: hospitals, grain accounts, aqueducts, and star-measured nodes joined into one system. This is the *"answer generates two questions"* beat. **Do not** explain who suppressed it or why.
 
-**If a PC is a cleric:** the language echoes a Myrraenic hospital vow. It was **orthodoxy once**.
+**If a PC is a cleric:** the language echoes a [[the_church_of_the_last_light|Myrraenic]] hospital vow. It was **orthodoxy once**.
 **If a PC is an artificer or mason:** the aqueduct and star-measurement notes are practical engineering, not poetry.
 **If a PC is a warlock:** John Fantasy's patron is silent, but the room feels **watched** — not hostile, just observed.
 
@@ -348,16 +401,16 @@ The floor mosaic shows **Port Meridian** as a bright node, joined by **copper-ve
 
 - **DC 11 Navigator's Tools or Intelligence:** the lines are not roads; they are **conduits**.
 - **DC 13 History:** the map predates the city by centuries; Port Meridian was built on top of an older node.
-- **DC 14 Investigation:** the scratched-out line once ran **north**, toward New Ilya.
+- **DC 14 Investigation:** the scratched-out line once ran **north**, toward [[new_ilya|New Ilya]].
 - **DC 15 Arcana:** the map is **warm** in the same places the Tablet is warm. It is a circuit, not a picture.
 
-**Helena's line (if she is present, or via a PC):** *"That's not a trade map. That's a machine plan."*
+**[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s line (if she is present, or via a PC):** *"That's not a trade map. That's a machine plan."*
 
 **Do not name the Engine.** Do not explain the nodes. Let the players draw their own conclusions.
 
 ### 5.6 Optional: the star-glass steward
 
-If the party **forces the plinth** or **damages the dome**, a **Star-Glass Steward** (CR 3 construct) activates in the wall niche. It is not hostile unless the Codex is removed by force.
+If the party **forces the plinth** or **damages the dome**, a **[[monsters_and_foes#Star-Glass Steward (CR 3)|Star-Glass Steward]]** (CR 3 construct) activates in the wall niche. It is not hostile unless the Codex is removed by force.
 
 > **Canon check:** this is a lesser chamber-construct. It is **not** the CR 7 Star-Glass Warden of Nythara in [[monsters_and_foes|Monsters & Foes]]. Keep the names distinct and do not imply a shared origin yet.
 
@@ -369,7 +422,7 @@ The Cartels have stripped the loose glass but have not forced the plinth or dama
 
 - **Show the Tablet (DC 10):** it recognises the index and stands down.
 - **Speak the Oath (DC 12 History/Religion):** it bows and opens the plinth.
-- **Fight:** use the **Star-Glass Steward** block (§14). It is a hard fight, not a lethal one; it stops at 0 HP and shatters.
+- **Fight:** use the [[monsters_and_foes#Star-Glass Steward (CR 3)|Star-Glass Steward]] block. It is a hard fight, not a lethal one; it stops at 0 HP and shatters.
 - **Ignore it:** it follows the party and repeats the phrase. It does not attack unless they take the Codex without accounting for it.
 
 **Reward for resolving peacefully:** the Steward gives them the **star-chart cylinder** from the hidden compartment. It says: *"The next door is not here."* That is a Chapter 3 hook.
@@ -388,7 +441,7 @@ The chamber is the chapter's centrepiece. Do not let it become a single puzzle r
 | 6 | **Study the plinth** | DC 14 Investigation | A hidden drawer; the star-chart cylinder |
 | 7 | **Test the rings** | DC 12 Investigation | Learn the backlash rule before touching the wrong ring |
 | 8 | **Listen at the shaft** | DC 13 Perception | Cartel voices; numbers, names, and the word "stone" |
-| 9 | **Search the Cartel camp** | DC 12 Investigation | 40 gp, 2 star-glass shards, a pry bar, a letter from Rorik |
+| 9 | **Search the Cartel camp** | DC 12 Investigation | 40 gp, 2 star-glass shards, a pry bar, a letter from [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]] |
 | 10 | **Pray / reflect** | No check | A quiet moment; ask each PC what the room makes them feel |
 | 11 | **Map the escape** | DC 13 Investigation | Advantage on the collapse escape |
 | 12 | **Speak to the Steward** | DC 12 History/Religion | It explains the Oath's purpose without naming the Engine |
@@ -400,7 +453,7 @@ The chamber is the chapter's centrepiece. Do not let it become a single puzzle r
 If the party explores beyond the main chamber, use these small spaces. Each is optional and each has a risk.
 
 #### A. The flooded gallery
-A low corridor off the Star Chamber, knee-deep in seawater. It leads to a **collapsed office** with a **waterproof chest**: 50 gp, a **potion of water breathing** (one dose), and a **clay tablet** with a list of names. The names are pre-Silence ward clerks. One name is circled: **"Selyra — do not enter."** `[DM-ONLY: a Selyran priest, not the goddess. Do not explain.]`
+A low corridor off the [[#5. The Star Chamber (45 min)|Star Chamber]], knee-deep in seawater. It leads to a **collapsed office** with a **waterproof chest**: 50 gp, a **potion of water breathing** (one dose), and a **clay tablet** with a list of names. The names are pre-Silence ward clerks. One name is circled: **"Selyra — do not enter."** `[DM-ONLY: a Selyran priest, not the goddess. Do not explain.]`
 
 **Hazard:** the tide rises; **DC 13 Athletics** to get back before the corridor floods.
 
@@ -440,7 +493,7 @@ If a player becomes obsessed with the phrase **"the Fourth Chair,"** use this. I
 - The antechamber ledger has the same phrase.
 - The Steward says: *"A seat at a table that is no longer here."*
 - **DC 15 History:** the pre-Silence city had **four chairs** of civic authority: Measures, Wards, Grain, and a fourth that was **never named** in public records.
-- **Do not explain, and do not connect it to Seraphel or the Tenth.** Keep it unresolved in [[act_I_overview|Act I]]. If the party asks Arlen, he says: *"I don't know. That's what frightens me."* If the thread would muddy the Tenth reveal, drop it.
+- **Do not explain, and do not connect it to [[lord_seraphel|Seraphel]] or the Tenth.** Keep it unresolved in [[act_I_overview|Act I]]. If the party asks Arlen, he says: *"I don't know. That's what frightens me."* If the thread would muddy the Tenth reveal, drop it.
 
 ---
 
@@ -448,7 +501,7 @@ If a player becomes obsessed with the phrase **"the Fourth Chair,"** use this. I
 
 ### 6.1 The arrival
 
-The Cartels breach as the Codex lifts — or earlier, if the party triggered the trap, failed the puzzle three times, or let the sentry shout. In that last case Kael comes forward to the **bronze door** with the crew, and the offer happens there instead of at the plinth.
+The [[the_archive_cartels|Cartels]] breach as the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] lifts — or earlier, if the party triggered the trap, failed the puzzle three times, or let the sentry shout. In that last case [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] comes forward to the **bronze door** with the crew, and the offer happens there instead of at the plinth.
 
 **Kael, Cartel Salvage Captain**, comes through the collapsed shaft with **a Thug and a Scout**; a second Thug follows if the party is reinforced. He is a big man with a hammer, a ledger, and a tired voice.
 
@@ -458,15 +511,15 @@ The Cartels breach as the Codex lifts — or earlier, if the party triggered the
 
 - **400 gp** for the Codex, paid on the spot from a strongbox.
 - **Safe passage** out of the cave.
-- **A lie:** he will not let them keep the star-glass or the transit map. He wants the Codex intact, not a copy — and the glass besides.
+- **A lie:** he will not let them keep the [[relics_and_artifacts#10. Star-Glass Lens|star-glass]] or the transit map. He wants the Codex intact, not a copy — and the glass besides.
 - **A truth:** he does not want to kill them. He is a professional, not a fanatic.
 
 **If they negotiate:**
 
 - **DC 14 Persuasion:** he goes to **600 gp** and lets them keep the star-glass lens.
-- **DC 16 Persuasion:** he admits Rorik is not the real buyer. *"There's a gold man. Pays triple. I don't ask."*
+- **DC 16 Persuasion:** he admits [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] is not the real buyer. *"There's a gold man. Pays triple. I don't ask."*
 - **DC 13 Intimidation:** he backs off, but the Scout marks their faces. **+1 Cartel Interference.**
-- **DC 15 Deception:** convince him the Admiralty is already outside. He panics and withdraws — but takes the strongbox and reports them.
+- **DC 15 Deception:** convince him the [[port_meridian#5. The Admiralty Citadel|Admiralty]] is already outside. He panics and withdraws — but takes the strongbox and reports them.
 
 **If they refuse:** Kael sighs, sets the strongbox down, and says: *"I didn't want to do this on an empty stomach."* He topples a pillar. **The collapse begins.**
 
@@ -475,11 +528,11 @@ The Cartels breach as the Codex lifts — or earlier, if the party triggered the
 ### 6.3 The fight
 
 **Default encounter (level 2, hard):**
-- **1× Kael, Cartel Salvage Captain** (CR 2) — see §14.
-- **1× Cartel Thug** (CR 1/2).
-- **1× Cartel Scout** (CR 1/2) — the lookout. He fires once, then runs for the shaft; he does not join the melee.
+- **1× [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael, Cartel Salvage Captain]]** (CR 2).
+- **1× [[monsters_and_foes#Cartel Thug (CR 1/2)|Cartel Thug]]** (CR 1/2).
+- **1× [[monsters_and_foes#Cartel Scout (CR 1/2)|Cartel Scout]]** (CR 1/2) — the lookout. He fires once, then runs for the shaft; he does not join the melee.
 
-**Reinforcements:** add a **second Thug** if Tamsin or Toby is fighting alongside the party. If the party is level 3, use the Enforcer variant in §6.3b instead. The goal is a hard fight the party can win or escape, not a stand-and-die.
+**Reinforcements:** add a **second Thug** if [[chapter_2_stair_and_star|Tamsin]] or Toby is fighting alongside the party. If the party is level 3, use the Enforcer variant in [[#6.3b Cartel crew variants|§6.3b]] instead. The goal is a hard fight the party can win or escape, not a stand-and-die.
 
 **If Cartel Interference is 3:** add **2 more Thugs** or a second Scout. If the party has Tamsin and Toby, they can even the odds.
 
@@ -565,7 +618,7 @@ If the party wants to deal with Kael, make it a **three-round negotiation**, not
 
 ### 6.6 The collapse begins
 
-If Kael topples a pillar, or if the fight lasts **4 rounds**, the chamber begins to fail. Move to §7 immediately. Do not finish the fight as a clean victory; the collapse is the real climax.
+If Kael topples a pillar, or if the fight lasts **4 rounds**, the chamber begins to fail. Move to [[#7. The Collapse (30 min)|§7]] immediately. Do not finish the fight as a clean victory; the collapse is the real climax.
 
 ---
 
@@ -591,11 +644,11 @@ Track **5 rounds**. Each round, a hazard and a choice.
 
 **What they can carry:**
 
-- **The Codex** (25 lb): requires one free hand or a pack. A PC carrying it has **disadvantage** on Acrobatics checks.
-- **The star-glass lens** (1 lb): easy.
+- **The [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]]** (25 lb): requires one free hand or a pack. A PC carrying it has **disadvantage** on Acrobatics checks.
+- **The [[relics_and_artifacts#10. Star-Glass Lens|star-glass lens]]** (1 lb): easy.
 - **The pre-Silence coinage** (200 gp, heavy): counts as 20 lb; drop it or slow down.
-- **A wounded ally:** Tamsin, Toby, or a surrendered Thug. Carrying them halves speed.
-- **A Cartel prisoner:** Kael or a Thug. They know the shaft route; they are also a liability.
+- **A wounded ally:** [[chapter_2_stair_and_star|Tamsin]], Toby, or a surrendered Thug. Carrying them halves speed.
+- **A [[the_archive_cartels|Cartel]] prisoner:** [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] or a Thug. They know the shaft route; they are also a liability.
 
 **Do not** kill a PC in the collapse without a save. If a PC is trapped, give the others a **DC 13 Athletics** check to free them; failure costs **1d6** and one item, not a death.
 
@@ -651,7 +704,7 @@ The collapse is a choice about **what matters**. Put the following on the table 
 
 End on the cliff top, wet, exhausted, with the Codex. The tide is in. The Cartels are behind them. And a **signal flare** goes up over the bay — a thin line of violet light. Someone is answering.
 
-**Do not** run the return to Port Meridian. That is Session 6.
+**Do not** run the return to [[port_meridian|Port Meridian]]. That is Session 6.
 
 **Ask the table:**
 
@@ -668,7 +721,7 @@ If the party lingers, explores the side rooms, or takes a short rest, use one of
 A wounded **Thug** from Kael's crew is trapped under a fallen beam. He is not a threat. He can be:
 
 - **Rescued:** **DC 13 Athletics** to lift the beam; he answers one question and leaves.
-- **Questioned:** **DC 12 Intimidation/Persuasion**; he confirms Rorik's boat is coming at dawn.
+- **Questioned:** **DC 12 Intimidation/Persuasion**; he confirms [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]]'s boat is coming at dawn.
 - **Ignored:** he dies. No mechanical consequence, but the table will remember.
 
 #### B. The star-glass pool
@@ -695,7 +748,7 @@ If your table hates puzzles, or if the dice turn, use one of these. The chapter 
 | **Brute force** | DC 18 Athletics | Damages the Codex (one excerpt lost) |
 | **Knock** | The spell reveals the seam | Advantage on the next check |
 | **Dispel Magic** | Suppresses the backlash for 1 round | One free rotation |
-| **Tamsin's memory** | He remembers Wren's notes | Solves one ring, but he is shaken |
+| **Tamsin's memory** | He remembers [[session_03_the_oath\|Wren]]'s notes | Solves one ring, but he is shaken |
 | **A PC's background** | Sailor, Sage, or Cleric recognises the signs | Advantage on all three checks |
 | **The Cartels** | Let Kael's crew solve it for them | They take the Codex; the party must steal it back |
 
@@ -707,9 +760,9 @@ If the Cartels pursue the party out of the chamber, run the escape as a **chase*
 
 **Zones:**
 
-1. **The Star Chamber** — collapsing; falling stone, tilting floor.
-2. **The Antechamber** — the pressure plate, the bronze door, the Cartel bedrolls.
-3. **The Sea Cave** — the tide, the shingle, the brass door.
+1. **The [[#5. The Star Chamber (45 min)|Star Chamber]]** — collapsing; falling stone, tilting floor.
+2. **The [[#4. The Antechamber of Measures (35 min)|Antechamber]]** — the pressure plate, the bronze door, the Cartel bedrolls.
+3. **The [[#3. The Sea Cave (25 min)|Sea Cave]]** — the tide, the shingle, the brass door.
 4. **The Seaward Crack** — a narrow climb, slick with spray.
 5. **The Cliff Top** — the mule, the road, the weather.
 
@@ -748,7 +801,7 @@ If the Star-Glass Steward is friendly, it can give the party a **lore scene**. I
 
 ## 8. Level 3 (15 min)
 
-**Trigger:** recover the Codex and survive the collapse. If the Codex is lost or destroyed, they still level if they saw the mosaic and survived — the milestone is **understanding**, not possession.
+**Trigger:** recover the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] and survive the collapse. If the Codex is lost or destroyed, they still level if they saw the mosaic and survived — the milestone is **understanding**, not possession.
 
 **What each PC gains:** their class features for level 3. Housekeeping is not tracked at this table — each player updates their own sheet. The milestone is the only thing the DM needs to record.
 
@@ -760,7 +813,7 @@ If you want the level-up to feel earned, give each PC a short scene on the cliff
 
 | PC | Scene prompt | What it means |
 |----|--------------|---------------|
-| **Dan** | He holds the coat of a dead man and the light of a god he cannot see. *"What do you say to Wren?"* | The cleric's faith is tested by a death he could not prevent |
+| **Dan** | He holds the coat of a dead man and the light of a god he cannot see. *"What do you say to [[session_03_the_oath\|Wren]]?"* | The cleric's faith is tested by a death he could not prevent |
 | **Zook** | He counts the copper by lantern light, then stops. *"What is the money for?"* | The artificer decides what he is building toward |
 | **John Fantasy** | He looks at the sea and the mask he wears. *"Who are you when no one is watching?"* | The warlock's patron is silent, and that is its own answer |
 | **Bog** | He sits still while the others talk. *"What did the dark teach you?"* | The monk finds a centre in the collapse |
@@ -777,30 +830,32 @@ The Codex is not just loot. It changes what the party can **do** in Act II. Make
 |-----------|-----------------|
 | **Hospital rolls** | The party can argue for public access to the Lyceum's medical archives |
 | **Quarantine law** | A legal precedent against the "dangerous knowledge" argument |
-| **Grain accounts** | Evidence that the pre-Silence city fed its poor; a political weapon in New Ilya |
+| **Grain accounts** | Evidence that the pre-Silence city fed its poor; a political weapon in [[new_ilya\|New Ilya]] |
 | **Star-charts** | A way to read the transit map; the first step toward the Engine |
 | **Aqueduct gradients** | A lead on the under-city; useful in Act II's pump station |
 | **The Fourth Chair** | Optional hook only; the Lyceum may recognise it — if you choose to keep this thread |
 | **The margin note** | The chapter's thesis in one line: *"If the gods close the granary, we will build our own."* |
 
-**If the party copies pages:** they have leverage even if the Codex is impounded. **If they don't:** they are dependent on Seraphel's custody. That is a real choice.
+**If the party copies pages:** they have leverage even if the Codex is impounded. **If they don't:** they are dependent on [[lord_seraphel|Seraphel]]'s custody. That is a real choice.
 
 **If they give the Codex to Seraphel:** he is delighted, and the party loses direct access. They can still study it at the Lyceum, but always with his scholars watching.
-**If they keep it:** they have the prize, but the Admiralty and the Cartels both want it. Act II starts with pressure.
+**If they keep it:** they have the prize, but the [[port_meridian#5. The Admiralty Citadel|Admiralty]] and the [[the_archive_cartels|Cartels]] both want it. Act II starts with pressure.
 
 ---
+
+> **Reference —** [[#9. Clocks|9 Clocks]] • [[#10. NPCs at the Table|10 NPCs]] • [[#11. Treasure|11 Treasure]] • [[#12. Handouts|12 Handouts]] • [[#13. If / Then|13 If/Then]] • [[#14. Encounter Blocks|14 Encounters]] • [[#15. Closing the Night|15 Closing]] • [[#16. What This Session Must Accomplish|16 Must Accomplish]] • [[#17. Expansion & Trimming|17 Trimming]] • [[#18. Puzzle Handout — Selyra's Eye|18 Puzzle]] • [[#19. DM Quick Reference|19 Quick Ref]] • [[#20. The Cartel Crew|20 Cartel Crew]]
 
 ## 9. Clocks
 
 | Clock | Start | Tick tonight if... | At max |
 |-------|-------|--------------------|--------|
-| **Helena's Charter** | 2/4 | A loud fight; the chamber collapse; a day lost; the party is seen with the Codex | The Inquest in Session 6 is harder; the Admiralty leans on Helena |
-| **Archive Cartel Interference** | 1/3 | Kael escapes; the Scout escapes; a deal is made; the party's faces are reported; the Cartel dead are left in the open | The Cartel pursuit in Session 6 is reinforced |
+| **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]]'s Charter** | 2/4 | A loud fight; the chamber collapse; a day lost; the party is seen with the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] | The Inquest in Session 6 is harder; the [[port_meridian#5. The Admiralty Citadel\|Admiralty]] leans on Helena |
+| **Archive [[the_archive_cartels\|Cartel]] Interference** | 1/3 | [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]] escapes; the Scout escapes; a deal is made; the party's faces are reported; the Cartel dead are left in the open | The Cartel pursuit in Session 6 is reinforced |
 | **Soul Tide** | 0/6 | Do not tick in Act I | — |
 | **Convergence** | 0/8 | Do not tick in Act I | — |
 | **Censor's Shroud** | 0/4 | Do not tick in Act I | — |
 
-**Note:** the collapse is a **Charter** pressure, not a punishment. If the Charter reaches 4, the Inquest is hostile but Seraphel still intervenes.
+**Note:** the collapse is a **Charter** pressure, not a punishment. If the Charter reaches 4, the Inquest is hostile but [[lord_seraphel|Seraphel]] still intervenes.
 
 ---
 
@@ -835,12 +890,12 @@ Young, bored, and out of his depth.
 
 | Item | Value / weight | Notes |
 |------|----------------|-------|
-| **Catalogue Codex** | Plot artifact, 25 lb | The chapter's key; needs protection |
-| **Star-glass lens** | 25 gp | Cold; sharpens the dome's light for a puzzle check. **No key function** — Vane buyers overpay for the story |
-| **Star-glass shards** | 25 gp each | 2 in the Cartel crate; a buyer would pay more |
-| **Scroll of Lesser Restoration** | 150 gp | Antechamber niche |
+| **[[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Catalogue Codex]]** | Plot artifact, 25 lb | The chapter's key; needs protection |
+| **[[relics_and_artifacts#10. Star-Glass Lens\|Star-glass]] lens** | 25 gp | Cold; sharpens the dome's light for a puzzle check. **No key function** — Vane buyers overpay for the story |
+| **Star-glass shards** | 25 gp each | 2 in the [[the_archive_cartels\|Cartel]] crate; a buyer would pay more |
+| **Scroll of Lesser Restoration** | 150 gp | [[#4. The Antechamber of Measures (35 min)\|Antechamber]] niche |
 | **Pre-Silence coinage** | 200 gp | Heavy; collectors pay double |
-| **Cartel strongbox** | 400 gp | Kael's offer money; if he dies or flees, it is on the floor |
+| **Cartel strongbox** | 400 gp | [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]]'s offer money; if he dies or flees, it is on the floor |
 | **Cartel ledger** | Evidence | Useful at the Inquest; Sella would burn it |
 | **Star-chart cylinder** | Plot hook | Hidden under the plinth; Chapter 3 |
 | **Silver-inlaid measuring rod** | 25 gp | Antechamber; a curiosity |
@@ -866,7 +921,7 @@ Young, bored, and out of his depth.
 
 > *"Kael — the glass first, the book second. If the scholar is there, leave him. The gold man wants him alive. Burn the rest. — R."*
 
-**DC 14 Insight:** "the scholar" is Arlen. Someone is protecting him. Do not confirm why.
+**DC 14 Insight:** "the scholar" is [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]. Someone is protecting him. Do not confirm why.
 
 ### 12.5 The star-chart cylinder
 
@@ -882,13 +937,13 @@ A palm-sized cylinder of black stone and silver, etched with concentric rings. W
 
 | Situation | Response |
 |-----------|----------|
-| **They solve the puzzle first try** | Reward them with time: they hear Kael coming and can prepare an ambush. |
+| **They solve the puzzle first try** | Reward them with time: they hear [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]] coming and can prepare an ambush. |
 | **They fail the puzzle three times** | Kael arrives early, at the worst moment. Do not make the puzzle unwinnable. |
-| **They force the plinth** | The Codex is damaged (one excerpt lost). The Steward may activate. |
+| **They force the plinth** | The [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] is damaged (one excerpt lost). The Steward may activate. |
 | **They attack the Steward** | It fights defensively and stops at 0 HP. It does not pursue. |
-| **They accept Kael's offer** | They get 400 gp and safe passage, but lose the Codex. Seraphel still intervenes in Session 6, with conditions. |
-| **They sell Kael a copy** | He takes it and leaves. He discovers the trick in Session 6; **+1 Cartel Interference**. |
-| **They turn Kael against Rorik** | He helps them escape, then disappears. He can reappear in Act II as a contact. |
+| **They accept Kael's offer** | They get 400 gp and safe passage, but lose the Codex. [[lord_seraphel\|Seraphel]] still intervenes in Session 6, with conditions. |
+| **They sell Kael a copy** | He takes it and leaves. He discovers the trick in Session 6; **+1 [[the_archive_cartels\|Cartel]] Interference**. |
+| **They turn Kael against [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]]** | He helps them escape, then disappears. He can reappear in Act II as a contact. |
 | **They kill Kael** | The Cartels lose a captain. Rorik takes it personally. **+1 Cartel Interference.** |
 | **Kael escapes** | He reports them. The Session 6 pursuit is reinforced. |
 | **They leave the Codex** | The chamber collapses on it. Seraphel still intervenes, but the fellowship is conditional; Act II starts with a search for another copy. |
@@ -900,51 +955,20 @@ A palm-sized cylinder of black stone and silver, etched with concentric rings. W
 
 ## 14. Encounter Blocks
 
-### Kael, Cartel Salvage Captain (CR 2) — default
-*Medium Humanoid (Human), neutral evil*
-**AC** 14 (chain shirt) • **HP** 45 (7d8+14) • **Speed** 30 ft.
-**STR** 16 (+3) **DEX** 12 (+1) **CON** 14 (+2) **INT** 12 (+1) **WIS** 11 (+0) **CHA** 13 (+1)
-**Saving Throws** Str +5, Con +4 • **Skills** Athletics +5, Deception +3, Intimidation +3, Investigation +3
-**Senses** passive 10 • **Languages** Common, thieves' cant
-**Dirty Fighting (1/turn):** when Kael hits with a melee weapon, the target makes a **DC 12 Con save** or is blinded until the end of its next turn.
-**Actions — Multiattack:** Kael makes two attacks: one **Warhammer** and one **Dagger**.
-**Warhammer:** +5 to hit, 5 ft., 7 (1d8+3) bludgeoning; **Versatile** 8 (1d10+3).
-**Dagger:** +5 to hit, 5 ft. or 20/60 ft., 5 (1d4+3) piercing.
-**Topple Pillar (1/encounter):** Kael makes a **DC 15 Athletics** check to knock a pillar into the exit. On a success, the collapse begins.
-**Tactics:** offers a deal once; fights defensively; targets the Codex carrier; surrenders at 10 HP if the Thugs are down.
+> Full stat blocks: [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael, Cartel Salvage Captain]] • [[monsters_and_foes#Cartel Thug (CR 1/2)|Cartel Thug]] • [[monsters_and_foes#Cartel Scout (CR 1/2)|Cartel Scout]] • [[monsters_and_foes#Star-Glass Steward (CR 3)|Star-Glass Steward]]. Numbers below are the at-the-table version.
+
+| Creature | # | AC | HP | Attacks | Saves / traits | Tactics |
+|---|---|---|---|---|---|---|
+| [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael, Cartel Salvage Captain]] | 1 | 14 | 45 | Multiattack Warhammer +5 · 7 (1d8+3) **and** Dagger +5 · 5 (1d4+3) | Dirty Fighting (1/turn): DC 12 Con or blinded to end of its next turn · Topple Pillar (1/encounter) DC 15 Athletics | Offers a deal once; fights defensively; targets the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] carrier; surrenders at 10 HP if the Thugs are down. |
+| [[monsters_and_foes#Cartel Thug (CR 1/2)\|Cartel Thug]] | 2 | 11 | 32 | Multiattack 2× Mace +4 · 5 (1d6+2); heavy crossbow +2 · 5 (1d10) | Intimidation +2; passive 10 | Grab the Codex and run; surrender at 10 HP. |
+| [[monsters_and_foes#Cartel Scout (CR 1/2)\|Cartel Scout]] | 1 | 13 | 16 | Multiattack 2× Shortsword +4 · 5 (1d6+2), or 2× Longbow +4 · 6 (1d8+2) | Stealth +6, Perception +5; passive 15 | The lookout. Fires once, then runs for the shaft and warns [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]]; does not join the melee. |
+| [[monsters_and_foes#Star-Glass Steward (CR 3)\|Star-Glass Steward]] (optional) | 1 | 15 | 45 | Multiattack 2× Glass Blade +4 · 6 (1d8+2) + 3 (1d6) radiant | Radiant Burst (recharge 5–6): 15-ft radius, DC 12 Dex, 10 (3d6) radiant · resist radiant/force/nonmagical; vuln. thunder; immune charmed/frightened/poisoned/psychic | Demands an account; fights defensively; stops at 0 HP and shatters. |
+
+**Reinforcements:** add a second Thug if [[chapter_2_stair_and_star|Tamsin]] or Toby is fighting alongside the party. If the party is level 3, use the [[the_archive_cartels|Cartel]] Enforcer variant below. The goal is a hard fight the party can win or escape, not a stand-and-die. **If Cartel Interference is 3:** add 2 more Thugs or a second Scout.
 
 ### Cartel Enforcer (CR 4) — if the party is level 3 or reinforced
-Use the block in [[the_archive_cartels|The Archive Cartels]]. Replace Kael if you want a harder fight. Do not use both.
 
-### Cartel Thug (CR 1/2) — 2×
-*Medium Humanoid, neutral evil*
-**AC** 11 (leather) • **HP** 32 (5d8+10) • **Speed** 30 ft.
-**STR** 15 (+2) **DEX** 11 (+0) **CON** 14 (+2) **INT** 10 (+0) **WIS** 10 (+0) **CHA** 11 (+0)
-**Skills** Intimidation +2 • **Senses** passive 10
-**Multiattack:** 2× Mace +4, 5 (1d6+2) bludgeoning.
-**Heavy Crossbow:** +2, 5 (1d10) piercing.
-**Tactics:** grab the Codex and run; surrender at 10 HP.
-
-### Cartel Scout (CR 1/2) — 1×
-*Medium Humanoid, neutral evil*
-**AC** 13 (leather) • **HP** 16 (3d8+3) • **Speed** 30 ft.
-**STR** 11 (+0) **DEX** 14 (+2) **CON** 12 (+1) **INT** 11 (+0) **WIS** 13 (+1) **CHA** 11 (+0)
-**Skills** Nature +4, Perception +5, Stealth +6, Survival +5 • **Senses** passive 15
-**Multiattack:** 2× Shortsword +4, 5 (1d6+2) piercing, or 2× Longbow +4, 6 (1d8+2) piercing.
-**Tactics:** stays at range; flees at half HP to warn Rorik.
-
-### Star-Glass Steward (CR 3) — optional
-*Medium Construct, lawful neutral*
-**AC** 15 (glass plate) • **HP** 45 (6d8+18) • **Speed** 30 ft.
-**STR** 14 (+2) **DEX** 12 (+1) **CON** 16 (+3) **INT** 10 (+0) **WIS** 12 (+1) **CHA** 8 (−1)
-**Resist** radiant, force; nonmagical B/P/S • **Vuln** thunder
-**Immune** charmed, frightened, poisoned, psychic
-**Senses** darkvision 60 ft., passive 11 • **Languages** High Elonian
-**Multiattack:** 2× Glass Blade +4, 6 (1d8+2) slashing + 3 (1d6) radiant.
-**Radiant Burst (recharge 5–6):** 15-ft radius, DC 12 Dex, 10 (3d6) radiant, half on success.
-**Tactics:** demands an account; fights defensively; stops at 0 HP and shatters.
-
----
+Use the block in [[the_archive_cartels#Faction NPC Archetype: Cartel Enforcer / Salvage Captain (CR 4)|The Archive Cartels]] → *Cartel Enforcer / Salvage Captain*. Replace [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] if you want a harder fight. Do not use both.
 
 ## 15. Closing the Night
 
@@ -955,23 +979,23 @@ Use the block in [[the_archive_cartels|The Archive Cartels]]. Replace Kael if yo
 **Ask the table:**
 
 - *"What did you take, and what did you leave?"*
-- *"Do you believe the Codex is worth what it cost?"*
-- *"What do you do about Kael?"*
+- *"Do you believe the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] is worth what it cost?"*
+- *"What do you do about [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]]?"*
 - *"Who is the gold man?"*
 
 **Level up to 3.** Take a breath. Next session is the escape and the Inquest.
 
-**Between sessions:** note whether the Codex survived intact, whether Kael lived, whether they took the star-chart cylinder, and whether the Cartels know their faces. Those four flags shape Session 6.
+**Between sessions:** note whether the Codex survived intact, whether Kael lived, whether they took the star-chart cylinder, and whether the [[the_archive_cartels|Cartels]] know their faces. Those four flags shape Session 6.
 
 ---
 
 ## 16. What This Session Must Accomplish
 
-- [ ] The party enters the **Star Chamber**.
-- [ ] They solve (or force) **Selyra's Eye** and open the plinth.
-- [ ] They recover the **Catalogue Codex** and read at least three excerpts.
+- [ ] The party enters the **[[#5. The Star Chamber (45 min)|Star Chamber]]**.
+- [ ] They solve (or force) **[[#5.3 Selyra's Eye — the alignment lock|Selyra's Eye]]** and open the plinth.
+- [ ] They recover the **[[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Catalogue Codex]]** and read at least three excerpts.
 - [ ] They see the **transit map** and understand it is not a trade map.
-- [ ] They face **Kael and the Cartels** and make a choice: deal, fight, or trick.
+- [ ] They face **[[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] and the [[the_archive_cartels|Cartels]]** and make a choice: deal, fight, or trick.
 - [ ] The chamber **collapses** and they escape with a cost.
 - [ ] They reach **level 3**.
 - [ ] They end on the cliff with a **new threat** behind them.
@@ -982,7 +1006,7 @@ Use the block in [[the_archive_cartels|The Archive Cartels]]. Replace Kael if yo
 
 ### If you have a full 5 hours
 - Run the **sea cave** in full, including the sentry and the cache.
-- Run the **Antechamber** with the trap and the Cartel ledger.
+- Run the **[[#4. The Antechamber of Measures (35 min)|Antechamber]]** with the trap and the [[the_archive_cartels|Cartel]] ledger.
 - Run the **Steward** if the party forces the plinth.
 - Run the **Cartel parley** as a three-round negotiation.
 - Run the **collapse** round by round, with the tide.
@@ -996,7 +1020,7 @@ Use the block in [[the_archive_cartels|The Archive Cartels]]. Replace Kael if yo
 ### If you have 3 hours
 - Cut the sea cave to a single stealth check.
 - Cut the Antechamber to the lens and the chart.
-- Keep the puzzle, the Codex, Kael, and the collapse.
+- Keep the puzzle, the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]], [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]], and the collapse.
 
 **Never cut:** the puzzle, the Codex excerpts, Kael's offer, or the collapse.
 
@@ -1014,13 +1038,15 @@ Copy this onto a card, or sketch it on the battle mat. Do not give the players t
       \    *     *    /        |
         ` - . _ . - '        floor rings
 
-  RING I   (outer)   : twelve signs, one bright
-  RING II  (middle)  : twelve signs, one bright
-  RING III (inner)   : twelve signs, one bright
+  RING I   (outer)   : twelve signs, all alike
+  RING II  (middle)  : twelve signs, all alike
+  RING III (inner)   : twelve signs, all alike
+
+  Each ring turns. Each ring has one place to stop:
+  the silver north notch at the foot of the plinth.
 
   The Tablet shows three signs in a row.
   The dome shows three signs that are brighter than the rest.
-  The floor rings turn.
 ```
 
 **Player-facing instructions:**
@@ -1029,10 +1055,10 @@ Copy this onto a card, or sketch it on the battle mat. Do not give the players t
 
 **What the players can try, in plain language:**
 
-- Read the Tablet and match its three signs to the rings.
+- Read the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]] and match its three signs to the rings.
 - Look up at the dome and find the three bright signs.
 - Search the antechamber for the calibration chart.
-- Use the star-glass lens to sharpen the dome's light (advantage on the check, not a free ring).
+- Use the [[relics_and_artifacts#10. Star-Glass Lens|star-glass lens]] to sharpen the dome's light (advantage on the check, not a free ring).
 - Ask the Steward, if it is awake and friendly.
 - Force the plinth, and accept the cost.
 
@@ -1040,12 +1066,12 @@ Copy this onto a card, or sketch it on the battle mat. Do not give the players t
 
 **If the table is stuck after ten minutes:**
 
-1. Tamsin remembers Wren's note: *"The Eye goes at the top."*
+1. [[chapter_2_stair_and_star|Tamsin]] remembers [[session_03_the_oath#13. NPCs at the Table|Wren]]'s note: *"The Eye goes at the top."*
 2. The dome's three bright signs pulse when a ring is close.
-3. The lens solves one ring automatically.
+3. The lens grants advantage again, and the bright sign pulses when a ring comes near its true sign.
 4. A PC with Sailor, Sage, or Cleric background recognises the signs.
 
-**If they still cannot solve it:** let them force the plinth. The Codex takes 1d4 damage (one excerpt torn), the Steward may wake, and the Cartels arrive early. The story continues. **Never let a puzzle end the night.**
+**If they still cannot solve it:** let them force the plinth. The Codex takes 1d4 damage (one excerpt torn), the Steward may wake, and the [[the_archive_cartels|Cartels]] arrive early. The story continues. **Never let a puzzle end the night.**
 
 ---
 
@@ -1053,7 +1079,7 @@ Copy this onto a card, or sketch it on the battle mat. Do not give the players t
 
 ### 19.1 The night in one breath
 
-Half-open door → sea cave sentry → Antechamber of Measures → Selyra's Eye → Codex and mosaic → Cartels breach → chamber collapses → escape to the cliff → level 3.
+Half-open door → sea cave sentry → [[#4. The Antechamber of Measures (35 min)|Antechamber]] of Measures → [[#5.3 Selyra's Eye — the alignment lock|Selyra's Eye]] → [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] and mosaic → [[the_archive_cartels|Cartels]] breach → chamber collapses → escape to the cliff → level 3.
 
 If you remember nothing else: **they get in, they solve the room, they read the book, the Cartels take it personally, and the ceiling comes down.**
 
@@ -1071,16 +1097,16 @@ If you remember nothing else: **they get in, they solve the room, they read the 
 | Antechamber | Investigation to jam it | 14 |
 | Antechamber | History for the calibration chart | 14 |
 | Antechamber | Investigation for the niches | 13 |
-| Star Chamber | Investigation to understand the rings | 12 |
+| [[#5. The Star Chamber (45 min)\|Star Chamber]] | Investigation to understand the rings | 12 |
 | Star Chamber | Arcana/History to identify the signs | 13 |
 | Star Chamber | Investigation to find the plinth seam | 14 |
 | Star Chamber | Athletics to force the plinth | 18 |
 | Star Chamber | Investigation for the hidden drawer | 15 |
 | Star Chamber | Cartographer's Tools to copy the mosaic | 14 |
 | Star Chamber | Perception to hear the Cartels at the shaft | 13 |
-| Cartel breach | Persuasion to improve Kael's offer | 14 |
+| Cartel breach | Persuasion to improve [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]]'s offer | 14 |
 | Cartel breach | Persuasion to learn about the gold man | 16 |
-| Cartel breach | Deception to bluff the Admiralty | 15 |
+| Cartel breach | Deception to bluff the [[port_meridian#5. The Admiralty Citadel\|Admiralty]] | 15 |
 | Collapse | Dex save vs falling grit | 10 |
 | Collapse | Dex save vs falling pillar | 13 |
 | Collapse | Acrobatics on the tilting floor | 13 |
@@ -1107,9 +1133,9 @@ If you remember nothing else: **they get in, they solve the room, they read the 
 | **2. Bargain** | Offer the lens, a copy, or information | DC 14 Persuasion | He moves |
 | **3. Close** | Seal it or walk | DC 13 Insight | You catch the lie |
 
-**His walk-away price:** 400 gp for the Codex, or the star-glass and the strongbox with the Codex left behind.
+**His walk-away price:** 400 gp for the Codex, or the [[relics_and_artifacts#10. Star-Glass Lens|star-glass]] and the strongbox with the Codex left behind.
 
-**His real fear:** Rorik, not the party. Use that.
+**His real fear:** [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]], not the party. Use that.
 
 ### 19.5 What the party can learn tonight
 
@@ -1118,14 +1144,14 @@ If you remember nothing else: **they get in, they solve the room, they read the 
 - The floor mosaic is a conduit map, not a trade map.
 - One line on the map is scratched out and runs north.
 - The Cartels were hired to recover the glass, not the book.
-- Someone called "the gold man" pays triple and wants Arlen alive.
+- Someone called "the gold man" pays triple and wants [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]] alive.
 - The Star-Glass Steward says: *"The next door is not here."*
 
 ### 19.6 If you only have ten minutes to prep
 
-1. Read §5.3 (the puzzle) and §5.4 (the Codex excerpts).
-2. Read §6.1–6.3 (Kael and the fight).
-3. Read §7.2 (the five-round collapse).
+1. Read [[#5.3 Selyra's Eye — the alignment lock|§5.3]] (the puzzle) and [[#5.4 The Catalogue Codex|§5.4]] (the Codex excerpts).
+2. Read [[#6.1 The arrival|§6.1]]–6.3 (Kael and the fight).
+3. Read [[#7.2 The five-round escape|§7.2]] (the five-round collapse).
 4. Put Kael, the Thugs, and the Scout in front of you.
 5. Write the tide stages and the two clocks on a scrap of paper.
 
@@ -1157,17 +1183,17 @@ If you remember nothing else: **they get in, they solve the room, they read the 
 
 ## 20. The Cartel Crew
 
-Kael's crew are not faceless. If the party talks, surrenders, or takes prisoners, this crew carries the scene. By default only **one Thug** is in the chamber with Kael; the other is on the road or outside. Add the second Thug if the party is reinforced, or if you want the harder version of the fight.
+[[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]]'s crew are not faceless. If the party talks, surrenders, or takes prisoners, this crew carries the scene. By default only **one Thug** is in the chamber with Kael; the other is on the road or outside. Add the second Thug if the party is reinforced, or if you want the harder version of the fight.
 
 ### 20.1 Kael's people
 
 | Name | Role | Wants | Breaking point | What he knows |
 |------|------|-------|----------------|---------------|
-| **Kael** | Salvage captain | To finish the job and go home | Being called a murderer | The buyer is not Rorik; the "gold man" pays triple |
+| **Kael** | Salvage captain | To finish the job and go home | Being called a murderer | The buyer is not [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]]; the "gold man" pays triple |
 | **Dennick** | Ledger man | To be indispensable | Being made to look a fool | The payment schedule; the Vane mark |
 | **Hask** | Thug, older | His share, and no trouble | A real threat to his family | The route in and out; the tide |
 | **Jory** | Thug, young | To impress Kael | Being left behind | Where the sentry is posted |
-| **Sisk** | Scout | A bonus and a dry coat | Being cornered | The seaward crack; the Cartel signal whistle |
+| **Sisk** | Scout | A bonus and a dry coat | Being cornered | The seaward crack; the [[the_archive_cartels\|Cartel]] signal whistle |
 
 **Use them:** give each a single line of dialogue. Let the party learn that the Cartels are employees, not fanatics. That makes the fight sadder and the negotiation real.
 
@@ -1176,10 +1202,10 @@ Kael's crew are not faceless. If the party talks, surrenders, or takes prisoners
 | Party action | Kael | Dennick | Hask | Jory | Sisk |
 |--------------|------|-------|---------|------|------|
 | **Offer a bribe** | Interested | Calculating | Wary | Excited | Watching the road |
-| **Show the Tablet** | Curious | Alarmed | Bored | Confused | Nervous |
+| **Show the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Tablet]]** | Curious | Alarmed | Bored | Confused | Nervous |
 | **Threaten Rorik** | Cold | Frightened | Looks away | Silent | Reaches for a weapon |
 | **Offer a copy** | Suspicious | Intrigued | Relieved | Relieved | Doubtful |
-| **Mention the Admiralty** | Wants to leave | Starts packing | Panics | Freezes | Bolts |
+| **Mention the [[port_meridian#5. The Admiralty Citadel\|Admiralty]]** | Wants to leave | Starts packing | Panics | Freezes | Bolts |
 | **Attack** | Fights defensively | Hides behind the plinth | Fights badly | Follows Kael | Runs for the shaft |
 
 ### 20.3 If they take a prisoner
@@ -1210,3 +1236,7 @@ If the party searches a Cartel body or the camp, they find a **signal whistle** 
 - **One long, one short:** the gold man is here.
 
 `[DM-ONLY: the last signal is never used in Chapter 2. It is a hook for Act II.]`
+
+---
+
+**[[#Session 5: The Star Chamber|↑ back to top]]**

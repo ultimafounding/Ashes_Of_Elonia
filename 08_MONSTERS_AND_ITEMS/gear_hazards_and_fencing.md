@@ -17,10 +17,25 @@
 | Spirit-glass condenser (empty) | 250 gp | Holds 1 vial charge; Vane-stamped ones are proof — don't sell the stamp |
 
 ## 2. Faction Hardware `[DM-ONLY]`
-- **Soul-Siphon Rifle (Corvin, Ch.8):** +9 to hit, 90 ft: 21 (3d10+5) force + 10 (3d6) necrotic; DC 17 Con or max-HP reduction by necrotic until long rest. Looted rifles crack after 1d4 shots — then evidence only.
-- **Siphon-Array (hazard, Bleak Path/Vareth deep):** AC 19, 60 HP per array; destroyed wrong (no valve order): 3d8 psychic backlash 15 ft. Valve order (Vess, DC 16 Thieves'/Arcana x3): quiet, vortex visibly eases, Corvin clock -1 if <5 rounds.
-- **Ley-Tether ([[the_engine_deep_and_the_veil|Engine Deep]]):** AC 19, 150 HP; struck: *Chain Lightning* DC 18, 10d8. Ritual bleed (DC 19 x3 rounds): quiet, Veil +0. Brute sever: Veil +1.
-- **Crucible Field (100 ft):** DC 18 Wis or 4d10 psychic (chorus). Lantern catwalk: safe 10 ft corridor.
+
+### Soul-Siphon Rifle (weapon)
+**+9** to hit, 90 ft: 21 (3d10+5) force + 10 (3d6) necrotic; DC 17 Con or max-HP reduction by necrotic until long rest. Looted rifles crack after 1d4 shots — then evidence only.
+
+### Siphon-Array (hazard)
+**AC** 19 • **HP** 60 per array
+**Wrong shutdown.** 3d8 psychic backlash, 15 ft.
+**Valve order** (Vess, DC 16 Thieves'/Arcana ×3): quiet; the vortex visibly eases; Corvin clock −1 if under 5 rounds.
+**Appears in:** [[chapter_8_siphon_vaults|Chapter 8]]
+
+### Ley-Tether (hazard)
+**AC** 19 • **HP** 150 • **Where:** [[the_engine_deep_and_the_veil|The Engine Deep]]
+**Struck.** *Chain Lightning*, DC 18, 10d8.
+**Ritual bleed** (DC 19 Arcana/Religion ×3 rounds): quiet, Veil +0.
+**Brute sever:** Veil +1.
+**Appears in:** [[chapter_11_hidden_tenth|Chapter 11]]
+
+### Crucible Field (100 ft aura)
+DC 18 Wis or 4d10 psychic (chorus). Lantern catwalk: safe 10 ft corridor.
 
 ## 3. Terrain Hazards by Act
 - **Catalogue scree (I):** slide 20 ft + 1d6; pitons negate.

@@ -12,8 +12,13 @@ date: "2026-10-19"
 > *"Three days' pay to carry rope and count stones. What could go wrong eighty feet under a warehouse?"*
 
 **Chapter:** [[chapter_1_shattered_archive]] • **Level:** 1 (no level-up this session)
-**Sites:** Salt-Lantern Tavern → the Gilded Docks by night → Warehouse Nine cellar → [[chapter_1_shattered_archive|Catalogue Descent]] (1.1) → threshold of the Hall of Records (1.2)
+**Sites:** [[#Beat 1 — The Salt-Lantern Hire (50 min)|Salt-Lantern]] Tavern → the [[port_meridian#1. The Gilded Docks & Admiralty Wharf|Gilded Docks]] by night → [[port_meridian#2. The Salvage Warrens & Warehouse Nine|Warehouse Nine]] cellar → [[chapter_1_shattered_archive|Catalogue Descent]] (1.1) → threshold of the Hall of Records (1.2)
 **Cliffhanger out:** the dust furrow, and something dragging in the dark.
+
+> **Set-up —** [[#The One-Page Version|Overview]] • [[#1. Party at a Glance|1 Party]] • [[#2. Pre-Session Checklist (15 minutes)|2 Checklist]]
+> **Beats —** [[#Beat 0 — Open at the Table (10 min)|0 Open]] • [[#Beat 1 — The Salt-Lantern Hire (50 min)|1 Hire]] • [[#Beat 2 — Free Roam: the Gilded Docks by Night (40 min)|2 Free Roam]] • [[#Beat 3 — Warehouse Nine (20 min)|3 Warehouse]] • [[#Beat 4 — Cellar Rats (25 min)|4 Cellar Rats]] • [[#Beat 5 — The Catalogue Descent (45 min)|5 Descent]] • [[#Beat 6 — 1.1 Centipedes (40 min)|6 Centipedes]] • [[#Beat 7 — Threshold of the Hall of Records (10 min)|7 Threshold]]
+> **Reference —** [[#4. What This Session Must Accomplish|4 Must Accomplish]] • [[#5. Shop Reference|5 Shop]] • [[#6. NPCs at the Table|6 NPCs]] • [[#7. Clue Ledger|7 Clues]] • [[#8. Clocks|8 Clocks]] • [[#9. Encounter Blocks|9 Encounters]] • [[#10. Optional DM Levers (decide before play)|10 Levers]] • [[#11. If / Then|11 If/Then]] • [[#12. Closing the Night|12 Closing]] • [[#13. Handout — The Charter Writ|13 Handout]]
+> [[#Session 1: Three Days' Pay|↑ back to top]]
 
 ---
 
@@ -23,9 +28,9 @@ date: "2026-10-19"
 
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
-| **Session 1 (this file)** | Hire at the Salt-Lantern → free roam/shopping → cellar → Catalogue Descent (1.1) → **threshold** of 1.2 | The furrow and the sound | 1 |
+| **Session 1 (this file)** | Hire at the [[#Beat 1 — The Salt-Lantern Hire (50 min)\|Salt-Lantern]] → free roam/shopping → cellar → [[#Beat 5 — The Catalogue Descent (45 min)\|Catalogue Descent]] (1.1) → **threshold** of 1.2 | The furrow and the sound | 1 |
 | Session 2 — [[session_02_hall_of_records\|Session 2 — What the Dust Remembers]] | **Hall of Records (1.2)** — the ghoul, the skeletons, the bootprints, the ledger leaf; a surface breather | The brass door hisses | 1 |
-| Session 3 — [[session_03_the_oath\|Session 3 — The Oath in the Dust]] | **Witness Scriptorium (1.3)** — the Oath, the Tablet, Clue C; certification and downtime on the surface | Dust collapse behind them | **→ 2** |
+| Session 3 — [[session_03_the_oath\|Session 3 — The Oath in the Dust]] | **Witness Scriptorium (1.3)** — the Oath, the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Tablet]], Clue C; certification and downtime on the surface | Dust collapse behind them | **→ 2** |
 
 **Rule for tonight:** when they reach the Hall of Records, **stop**. Do not describe the room past the furrow, do not place the ghoul, do not let them search the desks. Session 2 opens with them standing in that doorway.
 
@@ -38,11 +43,11 @@ Eight beats. If you only read one section, read this.
 | # | Beat | Time | Purpose |
 |---|------|------|---------|
 | 0 | Open at the table: players place their PCs in the tavern | 10 min | Hand the opening to the players, not to a script |
-| 1 | The Salt-Lantern hire: Helena, Arlen, Bess, the Breakers | 50 min | Party becomes a crew; charter law planted; Cartels seeded |
-| 2 | **Free roam — the Gilded Docks by night** | 40 min | **Shopping, exploration, city texture.** Player-driven |
-| 3 | Street to Warehouse Nine: Cobb, the cellar, the old rope | 20 min | The first wrongness |
+| 1 | The [[#Beat 1 — The Salt-Lantern Hire (50 min)\|Salt-Lantern]] hire: [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]], [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]], Bess, the [[the_archive_cartels#3. Internal Syndicate Structure\|Breakers]] | 50 min | Party becomes a crew; charter law planted; [[the_archive_cartels\|Cartels]] seeded |
+| 2 | **Free roam — the [[port_meridian#1. The Gilded Docks & Admiralty Wharf\|Gilded Docks]] by night** | 40 min | **Shopping, exploration, city texture.** Player-driven |
+| 3 | Street to [[port_meridian#2. The Salvage Warrens & Warehouse Nine\|Warehouse Nine]]: Cobb, the cellar, the old rope | 20 min | The first wrongness |
 | 4 | Cellar rats | 25 min | Tutorial combat; consequences for noise and rope |
-| 5 | The Catalogue Descent: 80 ft, scree, bas-relief | 45 min | Hazard; **Clue A**; the shoring |
+| 5 | The [[#Beat 5 — The Catalogue Descent (45 min)\|Catalogue Descent]]: 80 ft, scree, bas-relief | 45 min | Hazard; **Clue A**; the shoring |
 | 6 | 1.1 centipedes | 40 min | Real threat; resource drain; darkvision matters |
 | 7 | Threshold of 1.2 — **stop here** | 10 min | Cliffhanger |
 
@@ -67,7 +72,7 @@ These are the players' characters. This section is **mostly mechanical** — wha
 
 **Composition notes (mechanical)**
 - Only Dan and Bog have darkvision. Dan's **Eyes of Night** can cover one other person for 1 hour — make the dark matter, then let Dan solve it.
-- No one reads Old Elonian. **Arlen is the party's only key to the past.** Protect him accordingly; he is also the most killable thing in the dungeon.
+- No one reads Old Elonian. **[[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]] is the party's only key to the past.** Protect him accordingly; he is also the most killable thing in the dungeon.
 - Two PCs have Thieves' Tools (Zook, John Fantasy). The brass door in 1.3 will be theirs — Session 3.
 - Healing is thin (Dan + Zook's *Cure Wounds*). Telegraph danger; do not ambush-kill.
 
@@ -78,8 +83,8 @@ These are the players' characters. This section is **mostly mechanical** — wha
 Not a script. These are handles; use the ones the player reaches for.
 
 - **Ex-pirate of the *Feystar*.** Bog knows rope, knots, rigging, watches, and shanties. That is a real skill in Beat 3 (the strange knot) and Beat 5 (the descent). Let Bog be the one who says, *"That's not how a sailor ties off."*
-- **The Breakers are not Bog's old crew unless the player says so.** The *Feystar* is the past; the Breakers are a live threat. Keep them separate until the player connects them.
-- **Monastery, then moonshine.** Bog found peace and lost it to drink. Bog arrived on the monastery's advice and has been drunk since; Helena's charter is the first real thing Bog has done in this city. Do not play Bog as a joke or a liability; let the comedy and the sadness both belong to the character. Bog is hungover, not incapacitated.
+- **The [[the_archive_cartels#3. Internal Syndicate Structure|Breakers]] are not Bog's old crew unless the player says so.** The *Feystar* is the past; the Breakers are a live threat. Keep them separate until the player connects them.
+- **Monastery, then moonshine.** Bog found peace and lost it to drink. Bog arrived on the monastery's advice and has been drunk since; [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s charter is the first real thing Bog has done in this city. Do not play Bog as a joke or a liability; let the comedy and the sadness both belong to the character. Bog is hungover, not incapacitated.
 - **Superstitious, not devout.** Beads on each limb, a lucky coin, rules about salt, whistling, and drowned bells. The frieze in Beat 5 is a civic office — no god to bargain with — and that should unsettle Bog more than a tomb would.
 - **Clumsy yet acrobatic.** Let Bog fail the dignified thing and land the physical thing. Monk mobility is real; Bog's dignity is not.
 - **The name.** "Bogbrir" is what Bog heard when someone said "bugbear." Bog kept it. Let the player decide whether Bog knows that.
@@ -94,14 +99,14 @@ Not a script. These are handles; use the ones the player reaches for.
 
 Do not narrate the PCs' reasons for being here. Open the tavern scene and ask.
 
-- *"You're all in the Salt-Lantern on the same wet night. What brought each of you here?"*
+- *"You're all in the [[#Beat 1 — The Salt-Lantern Hire (50 min)|Salt-Lantern]] on the same wet night. What brought each of you here?"*
 - *"Helena is hiring. What's the thing you need this money for?"*
 - *"Who here has worked with a changeling before, and who hasn't?"*
 - *"Does anyone in this room know you?"*
 - *"Bog, you came off a ship, into a monastery, and out of a bottle. Which of those is Bog still pretending to be?"*
 - *"Bog, which monastery took you in — and what's the one rule of theirs you still keep?"*
 
-Write the answers down. They are the session's actual material — and they feed §12's closing questions.
+Write the answers down. They are the session's actual material — and they feed [[#12. Closing the Night|§12]]'s closing questions.
 
 ---
 
@@ -111,9 +116,9 @@ Write the answers down. They are the session's actual material — and they feed
 - [ ] **Rules edition.** 2024 rules, 2014 monster blocks (primer §10 says so). All four sheets are built to 2024.
 - [ ] **Sheet check.** The PDF still reads **"Theo"**; the player has renamed the character **Bogbrir "Bog"**. Confirm the name at the table. Bog's quarterstaff and unarmed strikes read **+2 / 1d4** on the sheet; as a Dex monk with Martial Arts they should be **+6 / 1d6+4** (quarterstaff versatile 1d8+4). Flag it to the player, don't silently change it.
 - [ ] Print or scribble the **charter writ** (handout at the end of this file).
-- [ ] Have the **shop list** (§5) open — the players will want it in Beat 2.
+- [ ] Have the **shop list** ([[#5. Shop Reference|§5]]) open — the players will want it in Beat 2.
 - [ ] Have the three global clocks on scrap paper: Soul Tide (6), Convergence (8), Censor's Shroud (4). Nothing ticks them tonight.
-- [ ] Know the two [[act_I_overview|Act I]] clocks: **Helena's Charter [ ][ ][ ][ ]**, **Cartel Interference [ ][ ][ ]**.
+- [ ] Know the two [[act_I_overview|Act I]] clocks: **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s Charter [ ][ ][ ][ ]**, **[[the_archive_cartels|Cartel]] Interference [ ][ ][ ]**.
 - [ ] Have one blank sheet for player answers: who they are, why they're here, what the money is for.
 - [ ] Read the **Scope** section. Know exactly where the session stops.
 
@@ -136,7 +141,7 @@ Then, around the table:
 
 One or two sentences each is plenty. Write down what they say.
 
-**Bog's entrance — optional, and the player's call.** If Bog's player wants Bog to be three drinks in, let it be true. Do not penalise it tonight; it is characterisation, and Helena has seen worse. Ask: *"What's the first thing Bog does when he sees three men in oilskins in the corner?"* The Breakers are the one thing in the room that should itch.
+**Bog's entrance — optional, and the player's call.** If Bog's player wants Bog to be three drinks in, let it be true. Do not penalise it tonight; it is characterisation, and [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]] has seen worse. Ask: *"What's the first thing Bog does when he sees three men in oilskins in the corner?"* The [[the_archive_cartels#3. Internal Syndicate Structure|Breakers]] are the one thing in the room that should itch.
 
 **If a player has no answer ready**, do not fill it in for them: *"You're here because the job pays. We'll find out the rest in play."* Then move on.
 
@@ -155,7 +160,7 @@ One or two sentences each is plenty. Write down what they say.
 **Staging**
 - **Bess** behind the bar. Waters the ale, never the oil.
 - **Helena Voss** at a window table with a leather notebook, a brass spyglass, and a pot of tea she is not drinking.
-- **Arlen Marr** half a step behind her, ink on his fingers, a satchel of rubbing paper he keeps touching.
+- **[[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen Marr]]** half a step behind her, ink on his fingers, a satchel of rubbing paper he keeps touching.
 - **The Breakers** in the corner: three men in oilskins, not drinking, one with a split-coin token on a cord.
 
 **The Breakers are strangers by default.** If a player says their PC knows one of them, take it and use it — but do not invent a shared history. If someone has a reason to recognise one, name him **Ospen Tarr** then. If nobody does, they stay three anonymous men who leave early and pay in Ilya coin.
@@ -170,9 +175,9 @@ She does not say where she knows the name. If the player doesn't offer it, Bess 
 **If Bog plays the banjo:** ask, don't call for a check unless Bog wants something. If Bog plays for the room, DC 10 Performance. Success: the room sings the chorus and someone mentions a drowned man who "sat up in the boat." Failure: someone complains; the Breakers finish their drinks and leave early. Either way, no clock tick — they were always leaving.
 
 **Helena's pitch (paraphrase, don't monologue):**
-- Three-day private charter. Clear vermin, shore timber, map a collapsed fault under **Warehouse Nine**.
+- Three-day private charter. Clear vermin, shore timber, map a collapsed fault under **[[port_meridian#2. The Salvage Warrens & Warehouse Nine|Warehouse Nine]]**.
 - **15 gp each + 10% of certified scrap**, paid whether they find anything or not.
-- The writ covers **salvage**: rope, copper, worked stone. *"If it has writing on it, it isn't ours. It's the Admiralty's, which means it's nobody's, which means it's Rorik's by Tuesday."*
+- The writ covers **salvage**: rope, copper, worked stone. *"If it has writing on it, it isn't ours. It's the [[port_meridian#5. The Admiralty Citadel|Admiralty]]'s, which means it's nobody's, which means it's Rorik's by Tuesday."*
 - Arlen comes along as recorder. He translates Old Elonian at half speed and cannot fight.
 - **She wants to descend at first light.** Tonight is theirs. (This is the shopping window.)
 
@@ -212,10 +217,10 @@ These are things *any* PC can try. Do not reserve a lever for a named character.
 |-------|-----------|---------------|
 | **Chandler's Row** | Six crowded shops under one salt-eaten arcade. Rope, oil, iron, canvas | Gear. Everything on the standard list is here |
 | **Sawdust & Salt** | Used salvage gear, resold by the crate. Cheap, battered, occasionally cursed | Bargains, and a place to ask who else is buying |
-| **The Brass Astrolabe** | Arlen's workplace. Elite appraisal house, shut for the night except a lit back office | Arlen's boss. Certification. Foreshadowing |
-| **The Gilded Docks** | Customs sheds, crane-rigs, moored ships | Rumours, dockhands, the customs skiff |
+| **The [[port_meridian#3. The Antiquities Exchange\|Brass Astrolabe]]** | Arlen's workplace. Elite appraisal house, shut for the night except a lit back office | Arlen's boss. Certification. Foreshadowing |
+| **The [[port_meridian#1. The Gilded Docks & Admiralty Wharf\|Gilded Docks]]** | Customs sheds, crane-rigs, moored ships | Rumours, dockhands, the customs skiff |
 | **Candle Row** | A narrow street of shrines, tallow-sellers, and one shouting prophet | Atmosphere; the Coming Tenth rumour |
-| **The Salt-Lantern** | Where they already are | Bess, and the cheapest bed in the Warrens |
+| **The [[#Beat 1 — The Salt-Lantern Hire (50 min)\|Salt-Lantern]]** | Where they already are | Bess, and the cheapest bed in the Warrens |
 
 **Ask them where they go.** Resolve it in two or three quick scenes. Do not force all six.
 
@@ -250,7 +255,7 @@ Level-1 money is tight. They have **~16–20 gp each** after the advance. Let th
 |------|-------|-------|
 | Muffled picks + pitons | 25 gp | Advantage on Stealth while mining; DC 10 Athletics holds scree |
 | [[new_ilya\|New Ilya]] lamp oil, sealed | 5 gp | Burns violet-white. **Smell is a clue later** |
-| Cartel acid vial | 50 gp | Melts bronze locks. Fumes DC 11 Con or poisoned 1 min. Black market |
+| [[the_archive_cartels\|Cartel]] acid vial | 50 gp | Melts bronze locks. Fumes DC 11 Con or poisoned 1 min. Black market |
 | Silence-scroll | 75 gp | 10 ft silence, 1 min. Not tonight |
 | Forged customs chit | 10 gp | +5 Deception vs a port inspector once, then burns |
 
@@ -311,7 +316,7 @@ She will not speculate. She is a professional. Let the players do it.
 
 **Trigger:** the rats are already gnawing the coil of hemp rope the party needs. They scatter when the party enters, then come back.
 
-**Encounter:** 3× **Giant Rat** (§9). Tutorial fight — teach turn order, cover, and the cost of noise.
+**Encounter:** 3× [[monsters_and_foes#Giant Rat (CR 1/8)|Giant Rat]]. Tutorial fight — teach turn order, cover, and the cost of noise.
 
 **Twist:** the rope is the real stakes. If the party kills the rats loudly (shouting, *Thunderwave*, fire), the rope is further chewed: the descent hazard DC rises from 12 to 14. Quiet kill or driving them off: the rope holds. **Tell them this after the fight, not before.** Anyone with Tinker's Tools or rope can splice it (DC 12) to restore it.
 
@@ -359,7 +364,7 @@ She will not speculate. She is a professional. Let the players do it.
 
 **Warning:** **DC 13 Perception**. Passive Perception 13+ notices automatically. If warned, the party gets one round to prepare (light a torch, form up, or climb around the nest with DC 13 Acrobatics). If not, the centipedes move first.
 
-**Encounter:** 3× **Giant Centipede** (§9), arriving 2 on round 1 and 1 on round 2.
+**Encounter:** 3× [[monsters_and_foes#Giant Centipede (CR 1/4)|Giant Centipede]], arriving 2 on round 1 and 1 on round 2.
 
 **Tactics:** nearest warm body, climb walls and ceiling, flee open flame. Vermin, not tacticians. One goes for the lantern oil — if it spills, they lose light for the rest of the descent.
 
@@ -386,6 +391,8 @@ If a player pushes past the doorway, describe only this and cut: *the furrow run
 
 ---
 
+> **Reference —** [[#4. What This Session Must Accomplish|4 Must Accomplish]] • [[#5. Shop Reference|5 Shop]] • [[#6. NPCs at the Table|6 NPCs]] • [[#7. Clue Ledger|7 Clues]] • [[#8. Clocks|8 Clocks]] • [[#9. Encounter Blocks|9 Encounters]] • [[#10. Optional DM Levers (decide before play)|10 Levers]] • [[#11. If / Then|11 If/Then]] • [[#12. Closing the Night|12 Closing]] • [[#13. Handout — The Charter Writ|13 Handout]]
+
 ## 4. What This Session Must Accomplish
 
 - [x] The party is a **crew with a legal charter** — and knows the difference between salvage and antiquities.
@@ -393,12 +400,12 @@ If a player pushes past the doorway, describe only this and cut: *the furrow run
 - [x] They have seen **one piece of evidence** that the old world was not a death cult (the frieze).
 - [x] They have felt that **someone modern has been here** (the old rope, the rubbed faces, the furrow).
 - [x] Every player has had **one chance to say who their PC is** — and you wrote the answer down.
-- [x] The Cartels are a **presence**, not yet an enemy.
+- [x] The [[the_archive_cartels|Cartels]] are a **presence**, not yet an enemy.
 - [x] **The session stopped at the threshold of 1.2.**
 
 > **Actual play (2026-10-19):** the party explored 1.1 (including an improvised archive room and the centipede fight) and ended as the door opened onto the dust room. The stop held. See [[session_01_recap]].
 
-**Do not:** describe the inside of 1.2, name the Engine, reveal the Oath, introduce Seraphel, or explain the Soul Crisis.
+**Do not:** describe the inside of 1.2, name the Engine, reveal the Oath, introduce [[lord_seraphel|Seraphel]], or explain the [[cosmology_and_metaphysics#3.2 The Engine Wound and the Soul Crisis|Soul Crisis]].
 
 ---
 
@@ -408,9 +415,9 @@ Keep this open during Beat 2. Prices are Meridian street; the Warrens undercut t
 
 **General (Chandler's Row):** rope 1 gp/50 ft • pitons 5 sp/10 • hammer 1 gp • lantern 5 gp • oil 1 sp • crowbar 2 gp • climber's kit 25 gp • healer's kit 5 gp • torch 1 sp/10 • pole 5 cp • chalk 1 cp • spikes 1 sp/10 • grappling hook 2 gp • manacles 2 gp • caltrops 1 gp • mirror 5 gp • holy water 25 gp • potion of healing 50 gp.
 
-**Sawdust & Salt (used, back room):** muffled picks + pitons 25 gp • New Ilya lamp oil, sealed 5 gp • Cartel acid vial 50 gp • silence-scroll 75 gp • forged customs chit 10 gp.
+**Sawdust & Salt (used, back room):** muffled picks + pitons 25 gp • [[new_ilya|New Ilya]] lamp oil, sealed 5 gp • [[the_archive_cartels|Cartel]] acid vial 50 gp • silence-scroll 75 gp • forged customs chit 10 gp.
 
-**Not available at any price tonight:** spirit-glass, dreamkeeper seals, anything the Exchange would certify.
+**Not available at any price tonight:** [[relics_and_artifacts#9. Spirit-Glass Vials & Condensers|spirit-glass]], dreamkeeper seals, anything the Exchange would certify.
 
 > **DM note:** the gap between what they can afford and what they want *is* the Act I economy. Session 3 pays them. Let them feel the wait.
 
@@ -443,7 +450,7 @@ One arm. Superstitious about the cellar. Will not go below the third step.
 > *"Survey men came through last month. Paid cash. Didn't leave a name. Didn't ask about the rope neither."*
 
 ### Ospen Tarr — Breaker `[optional, only if a player claims him]`
-Do not introduce by default. If a player says their PC knows one of the Breakers:
+Do not introduce by default. If a player says their PC knows one of the [[the_archive_cartels#3. Internal Syndicate Structure|Breakers]]:
 > *"Different ship now. Different articles."*
 > *"You look good. That's a shame."*
 
@@ -461,8 +468,8 @@ Her second line is a **rumour**, not a plot beat. It does not tick the Soul Tide
 | Clue | Where | Check | What it says | Fallback if missed |
 |------|-------|-------|--------------|--------------------|
 | **Old rope, modern knot** | Warehouse cellar | DC 12 Investigation / Tinker's Tools / sailor (**Bog**, auto) | Someone was here within the month | Bog knows a working knot when he sees one; Cobb mentions "the survey men" who paid cash last month |
-| **Machined stone** | Descent, 40–60 ft | Automatic with stonework or Tinker's Tools | The builders were not what the stories say | Arlen notices the seams and says so out loud |
-| **Frieze (Clue A)** | Descent, 60 ft | DC 11 History/Religion | Ascensionists were civic, not cultic | Arlen's rubbing, or Helena's notebook sketch |
+| **Machined stone** | Descent, 40–60 ft | Automatic with stonework or Tinker's Tools | The builders were not what the stories say | [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]] notices the seams and says so out loud |
+| **Frieze (Clue A)** | Descent, 60 ft | DC 11 History/Religion | Ascensionists were civic, not cultic | Arlen's rubbing, or [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]]'s notebook sketch |
 | **Rubbed faces** | Frieze | DC 13 Investigation | Someone erased the faces — deliberately? | Leave it. It is a question, not a clue |
 | **The furrow** | Threshold of 1.2 | Automatic | Something walked here recently | It is the cliffhanger; it cannot be missed |
 
@@ -472,11 +479,11 @@ Her second line is a **rumour**, not a plot beat. It does not tick the Soul Tide
 
 ## 8. Clocks
 
-**Helena's Salvage Charter [ ][ ][ ][ ]** — 4 segments. At 4, the Admiralty seals Warehouse Nine.
+**[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s Salvage Charter [ ][ ][ ][ ]** — 4 segments. At 4, the [[port_meridian#5. The Admiralty Citadel|Admiralty]] seals [[port_meridian#2. The Salvage Warrens & Warehouse Nine|Warehouse Nine]].
 - Tick on: a long rest underground, a loud fight audible from the street, open flame in the cellar, or the hatch left open.
 - Tonight: likely 0–1. Do not tick for the centipedes unless they use fire or thunder.
 
-**Cartel Interference [ ][ ][ ]** — 3 segments. At 3, a Breaker team ambushes them.
+**[[the_archive_cartels|Cartel]] Interference [ ][ ][ ]** — 3 segments. At 3, a Breaker team ambushes them.
 - Tick on: lit lamps left behind, corpses left in the open, parley with a Breaker, or the hatch left open.
 - Tonight: likely 0–1.
 
@@ -486,32 +493,21 @@ Her second line is a **rumour**, not a plot beat. It does not tick the Soul Tide
 
 ## 9. Encounter Blocks
 
-### Giant Rat (CR 1/8) — 3×
-*Small Beast, unaligned*
-**AC** 12 • **HP** 7 (2d6) • **Speed** 30 ft.
-**STR** 7 (−2) **DEX** 15 (+2) **CON** 11 (+0) **INT** 2 (−4) **WIS** 10 (+0) **CHA** 4 (−3)
-**Senses** darkvision 30 ft., passive 10 • **Keen Smell:** advantage on Perception (smell)
-**Bite:** +4 to hit, 5 ft., 4 (1d4+2) piercing.
-**Tactics:** swarm the nearest target, flee at half HP. They want the rope, not the party.
+> Full stat blocks: [[monsters_and_foes#Giant Rat (CR 1/8)|Giant Rat]] • [[monsters_and_foes#Giant Centipede (CR 1/4)|Giant Centipede]]. Numbers below are the at-the-table version.
 
-### Giant Centipede (CR 1/4) — 3×
-*Small Beast, unaligned*
-**AC** 13 • **HP** 4 (1d6+1) • **Speed** 30 ft., climb 30 ft.
-**STR** 5 (−3) **DEX** 14 (+2) **CON** 12 (+1) **INT** 1 (−5) **WIS** 7 (−2) **CHA** 3 (−4)
-**Senses** blindsight 30 ft., passive 10
-**Bite:** +4 to hit, 5 ft., 4 (1d4+2) piercing, and the target must succeed on a **DC 11 Con save** or take **2d6 poison** (reduced from 3d6 for level 1) and be **poisoned until the end of its next turn**.
-**Tactics:** climb the walls, drop on the back rank, flee open flame. They do not focus-fire.
+| Creature | # | AC | HP | Attacks | Saves / traits | Tactics |
+|---|---|---|---|---|---|---|
+| [[monsters_and_foes#Giant Rat (CR 1/8)\|Giant Rat]] | 3 | 12 | 7 | Bite +4 · 4 (1d4+2) | darkvision 30 ft.; Keen Smell | Swarm the nearest target; flee at half HP. They want the rope, not the party. |
+| [[monsters_and_foes#Giant Centipede (CR 1/4)\|Giant Centipede]] | 3 | 13 | 4 | Bite +4 · 4 (1d4+2) | DC 11 Con or 2d6 poison and poisoned to end of its next turn; blindsight 30 ft. | Arrive 2 on round 1 and 1 on round 2. Climb the walls, drop on the back rank, flee open flame. |
 
-> **DM note on lethality:** 3d6 poison averages 10.5 and can one-shot a 9 HP PC. Use 2d6 tonight. If a PC still drops, the centipedes go for the lamp oil — a rescue beat, not a death spiral.
-
----
+> **DM note on lethality:** 3d6 poison averages 10.5 and can one-shot a 9 HP PC. The bestiary block uses 2d6 tonight. If a PC still drops, the centipedes go for the lamp oil — a rescue beat, not a death spiral.
 
 ## 10. Optional DM Levers (decide before play)
 
 All optional. All planted without explanation. None requires a PC to have a particular backstory.
 
 - **The maker's plate.** If you want a long fuse to the campaign's patron, a brass plate can be found on a construct PC's chassis or inside salvaged frame, stamped **KESSLER & VANE — SALVAGE WORKS**. Do not mention it. Let them find it in [[act_II_overview|Act II]] or III. **Only with the player's buy-in** — it edits their character's history.
-- **The calibration disc.** In the scree, a palm-sized brass disc with concentric rings, stamped with a tiny falcon-and-calipers. Worthless to Helena (not on the manifest). Priceless in [[act_IV_overview|Act IV]]. Whoever picks it up keeps it. **Do not explain it.**
+- **The calibration disc.** In the scree, a palm-sized brass disc with concentric rings, stamped with a tiny falcon-and-calipers. Worthless to [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]] (not on the manifest). Priceless in [[act_IV_overview|Act IV]]. Whoever picks it up keeps it. **Do not explain it.**
 - **The disc and the lucky coin.** If Bog is the one who picks up the calibration disc, let Bog weigh it against the coin or the lump of "gold". They are all heavy, all brass-ish, all treasure to someone who wants them to be. Do not tell Bog which is which. If Zook examines it, Zook knows it isn't gold — but not what it is.
 - **The rubbed faces.** Leave unresolved. Water, vandalism, or censorship. Act II answers it.
 - **The prophet.** He says something too close to home for whichever PC engages him, and leaves.
@@ -523,14 +519,14 @@ All optional. All planted without explanation. None requires a PC to have a part
 
 | Situation | Response |
 |-----------|----------|
-| **Party refuses the job** | Helena shrugs and hires the Breakers. Bess mentions that Rorik's crew will strip the vault and sell the writing by the pound. One night to change their minds; if not, they can follow the Breakers down as freelancers. Do not force the charter. |
+| **Party refuses the job** | [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]] shrugs and hires the [[the_archive_cartels#3. Internal Syndicate Structure\|Breakers]]. Bess mentions that Rorik's crew will strip the vault and sell the writing by the pound. One night to change their minds; if not, they can follow the Breakers down as freelancers. Do not force the charter. |
 | **Party spends the whole night shopping** | Fine. That is the beat. Cut the street texture and shorten the rats. The descent still fits. |
 | **Party skips shopping entirely** | Fine. They descend under-equipped. Let the missing healer's kit and pitons matter, without gloating. |
-| **Party tries to keep the frieze a secret** | Fine. Arlen takes a rubbing anyway. The Exchange finds out in Session 3. |
+| **Party tries to keep the frieze a secret** | Fine. [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]] takes a rubbing anyway. The Exchange finds out in Session 3. |
 | **Bog tries to spend the lucky coin or gold lump** | The shopkeeper bites it, laughs, and offers 2 cp. Let Bog keep believing, or let Bog realise — the player's call, not yours. |
 | **Bog drinks before the descent** | Colour, not a penalty. If Bog is properly drunk, Helena sends Bog down last with Arlen and hands over a waterskin. Ten minutes and a short rest shakes it off. |
 | **Bog plays the banjo** | Performance DC 10 if Bog wants something. Success: a rumour, a free drink, or the room singing. Failure: someone complains; the Breakers leave early. No clock tick. |
-| **Party attacks the Breakers in the tavern** | Bess throws them out. The Breakers leave. Tick Cartel Interference **twice**. Helena withdraws the offer unless they fix it. A legitimate path — let it cost them. |
+| **Party attacks the Breakers in the tavern** | Bess throws them out. The Breakers leave. Tick [[the_archive_cartels\|Cartel]] Interference **twice**. Helena withdraws the offer unless they fix it. A legitimate path — let it cost them. |
 | **Party goes loud in the cellar** | Tick the charter clock. A customs skiff investigates in 10 minutes. Hide, bribe (10 gp), or talk their way out. |
 | **Someone drops to 0 HP** | Centipedes lose interest. *Spare the Dying*, a healer's kit, or *Cure Wounds* stabilises. If nobody can, Arlen panics and Helena arrives with a kit — furious, and the clock ticks. |
 | **They solve the descent trivially** | Reward it. Spend the saved time on Arlen and Helena at the bottom, and let the frieze breathe. |
@@ -548,10 +544,10 @@ All optional. All planted without explanation. None requires a PC to have a part
 **Ask the table, not each PC by name:**
 - *"What does your character think is down there?"*
 - *"Who in this crew do you trust least, and why?"*
-- *"What's the one thing you didn't tell Helena?"*
+- *"What's the one thing you didn't tell [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]?"*
 - *"What did your character pray for down there — and did it work?"*
 
-**Between sessions:** collect the §1 answers. If Kit's player hasn't chosen a patron, leave it open. Do not write their backstory for them.
+**Between sessions:** collect the [[#1. Party at a Glance|§1]] answers. If Kit's player hasn't chosen a patron, leave it open. Do not write their backstory for them.
 
 **Milestone:** no level-up tonight. Level 2 lands after the **Witness Scriptorium** (Session 3).
 
@@ -574,3 +570,7 @@ All optional. All planted without explanation. None requires a PC to have a part
 > *Signed: ______________  Witness: Arlen Marr, Junior Archivist*
 
 **DM note:** clause 3 is the whole campaign in miniature. Read it aloud. Let the players hear the trap before they walk into it.
+
+---
+
+**[[#Session 1: Three Days' Pay|↑ back to top]]**

@@ -12,7 +12,7 @@ Titanic crystal scar across the firmament; millions jammed in vortex, Lantern re
 
 ## 3. Brass Siphon-Arrays (weaponisation CONFIRMED)
 Hundreds of polished pipes, valve-regulators, soul-funnels tapped into wound-edges, humming. DC 14 Investigation/Smith's Tools: stamp **VANE-IL-984 — falcon clutching calipers**. Invoices in wall locker: *"Medical Glass — northbound — H.V. priority"* + 90% spirit-glass purchase ledger (matches revelation_timeline Stage 2).
-- **Sabotage options:** Vess's valve order (DC 16 Thieves'/Arcana per array, 3 arrays) or brute force (AC 19, 60 HP each, psychic backlash 3d8). Each disabled array: vortex eases visibly; Corvin clock -1 if fast (<5 rounds).
+- **Sabotage options:** Vess's valve order (DC 16 Thieves'/Arcana per array, 3 arrays) or brute force ([[gear_hazards_and_fencing#Siphon-Array (hazard)|AC 19, 60 HP each]], psychic backlash 3d8). Each disabled array: vortex eases visibly; Corvin clock -1 if fast (<5 rounds).
 
 ## 4. Reservoir Vault + Corvin (boss, Lv 14–15)
 Processing chamber: spirit-glass condensers, transit tubes north. **[[major_allies_and_rivals|Arch-Magus Corvin]]** (CR 11, see allies/rivals file) + 2x **Vane Stokers (Fire Elemental-lite: use Azer stats)** + 1x **Null Archivist** (records, flees with copy if ignored).

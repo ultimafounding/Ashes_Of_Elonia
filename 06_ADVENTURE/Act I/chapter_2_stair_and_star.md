@@ -137,7 +137,7 @@ The road has one safe ledge: a dry overhang above the tide line, with old fire-s
 
 The Star Stair descends from the cliff road through a collapsed sea arch into a **sea cave** at low tide. The cave floor is wet basalt and barnacle crust. At the back, a **brass-and-basalt door** — the lower entrance to the Star Chamber — stands half-open. Cartel pry marks are fresh.
 
-**Hazards:** slick footing (DC 10 Acrobatics), a surge channel (DC 12 Athletics or 1d6 cold + swept 10 ft), and a nest of **reef-crawlers** in the tidal pool.
+**Hazards:** slick footing (DC 10 Acrobatics), a surge channel (DC 12 Athletics or 1d6 cold + swept 10 ft), and a nest of [[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawlers]] in the tidal pool.
 
 ### 6.2 The Antechamber of Measures
 
@@ -179,11 +179,11 @@ The floor mosaic shows **Port Meridian** as a bright node, joined by **copper-ve
 
 As the Codex lifts, the Cartels breach from the old shaft:
 
-- **1× Kael, Cartel Salvage Captain (CR 2)** — use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]]; if the party is level 3 or reinforced, upgrade to the **Cartel Enforcer (CR 4)** in [[the_archive_cartels|The Archive Cartels]].
+- **1× [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael, Cartel Salvage Captain]]** (CR 2); if the party is level 3 or reinforced, upgrade to the **Cartel Enforcer (CR 4)** in [[the_archive_cartels#Faction NPC Archetype: Cartel Enforcer / Salvage Captain (CR 4)|The Archive Cartels]].
 - **1× Thug (CR 1/2)**.
 - **1× Scout (CR 1/2)** on the ledge with a crossbow — the lookout, who fires once and flees.
 
-Kael offers once: *"Book for 400 gold and walk."* If refused, he topples a pillar. The chamber begins to collapse in **5 rounds**. The fight is winnable, but the clock is the real threat. If Tamsin or Toby is fighting alongside the party, add a **second Thug**; if the party is level 3, use the Enforcer instead of Kael.
+Kael offers once: *"Book for 400 gold and walk."* If refused, he topples a pillar. The chamber begins to collapse in **5 rounds**. The fight is winnable, but the clock is the real threat. If Tamsin or Toby is fighting alongside the party, add a second [[monsters_and_foes#Cartel Thug (CR 1/2)|Thug]]; if the party is level 3, use the Enforcer instead of Kael.
 
 ### 6.7 Collapse and escape
 

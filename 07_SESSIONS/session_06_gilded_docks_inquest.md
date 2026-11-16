@@ -13,10 +13,15 @@ date: ""
 > *"The past does not belong to the magistrates, my friends. It belongs to anyone with the courage to bring a lamp into the dark."*
 
 **Chapter:** [[chapter_2_stair_and_star]] • **Level:** 3 → **4** at the end
-**Covers:** escape from the Star Stair → return to [[port_meridian|Port Meridian]] → the Gilded Docks Inquest → [[lord_seraphel|Seraphel]]'s patronage → the road to [[new_ilya|New Ilya]]
-**Cliffhanger out:** the fellowship letters are signed, the carriage is waiting, and the road to New Ilya is open.
+**Covers:** escape from the Star Stair → return to [[port_meridian|Port Meridian]] → the [[port_meridian#1. The Gilded Docks & Admiralty Wharf|Gilded Docks]] [[#5. Port Meridian and the Inquest (90 min)|Inquest]] → [[lord_seraphel|Seraphel]]'s patronage → the road to [[new_ilya|New Ilya]]
+**Cliffhanger out:** the fellowship letters are signed, the carriage is waiting, and the road to [[new_ilya|New Ilya]] is open.
 
 > **Actual play carry-over:** the party is on the cliff with the Codex, level 3. **Wren is dead.** **Arlen is estranged but useful.** **Tamsin** may be with them. **The captured Breaker** may be an ally or a bargaining chip. **Kael** may be alive, dead, or a tentative contact. Clocks: **Helena's Charter** and **Cartel Interference** as adjusted.
+
+> **Set-up —** [[#The One-Page Version|Overview]] • [[#Session Goals|Goals]] • [[#1. Pre-Session Checklist (15 minutes)|1 Checklist]]
+> **Run —** [[#2. Recap and the Cliff (15 min)|2 Recap]] • [[#3. The Escape (35 min)|3 Escape]] • [[#4. The Road Back (25 min)|4 Road Back]] • [[#5. Port Meridian and the Inquest (90 min)|5 Inquest]] • [[#6. Seraphel's Entrance (30 min)|6 Seraphel]] • [[#7. Fellowship and Downtime (30 min)|7 Fellowship]] • [[#8. Level 4 and the Act II Hook (15 min)|8 Level 4]]
+> **Reference —** [[#9. Clocks|9 Clocks]] • [[#10. NPCs at the Table|10 NPCs]] • [[#11. Encounter Blocks|11 Encounters]] • [[#12. Handouts|12 Handouts]] • [[#13. If / Then|13 If/Then]] • [[#14. Closing the Night|14 Closing]] • [[#15. What This Session Must Accomplish|15 Must Accomplish]] • [[#16. Expansion & Trimming|16 Trimming]] • [[#17. Trial Tracker|17 Trial Tracker]] • [[#18. DM Quick Reference|18 Quick Ref]]
+> [[#Session 6: The Gilded Docks Inquest|↑ back to top]]
 
 ---
 
@@ -24,9 +29,9 @@ date: ""
 
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
-| Session 4 | Pub that night → next morning → Sea Cliff Road → Star Stair | The cliff door in sight | 2 |
-| Session 5 | [[chapter_2_stair_and_star\|Star Chamber]] → Codex → Cartel breach → collapse | The chamber falling; the Codex in hand | → 3 |
-| **Session 6 (this file)** | **Escape → return to Meridian → Inquest → Seraphel → fellowship** | **The road to New Ilya** | **→ 4** |
+| Session 4 | Pub that night → next morning → [[chapter_2_stair_and_star\|Sea Cliff Road]] → Star Stair | The cliff door in sight | 2 |
+| Session 5 | [[chapter_2_stair_and_star\|Star Chamber]] → [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] → [[the_archive_cartels\|Cartel]] breach → collapse | The chamber falling; the Codex in hand | → 3 |
+| **Session 6 (this file)** | **Escape → return to Meridian → [[#5. Port Meridian and the Inquest (90 min)\|Inquest]] → [[lord_seraphel\|Seraphel]] → fellowship** | **The road to [[new_ilya\|New Ilya]]** | **→ 4** |
 
 **Rule for tonight:** this is the social and legal climax of [[act_I_overview|Act I]]. The chase is the opener, not the whole night. Give the Inquest room to breathe. End with the party on the road, not in a fight.
 
@@ -37,15 +42,15 @@ date: ""
 | # | Beat | Time | Type | Purpose |
 |---|------|------|------|---------|
 | 0 | Recap + the cliff | 15 min | Social | Re-establish the flight |
-| 1 | **The escape** — Cartel pursuit, tide, cliff | 35 min | Chase / skill challenge | Pay off the collapse |
-| 2 | **The road back** — wounded, weather, Tamsin | 25 min | Travel / roleplay | Let the party breathe and bond |
-| 3 | **Port Meridian** — Helena, summons, allies | 35 min | Social / investigation | Prepare the defence |
-| 4 | **The Gilded Docks Inquest** — charges and trial | 55 min | Social / skill challenge | The chapter's legal climax |
-| 5 | **Seraphel's entrance** — the patron | 30 min | Social | The campaign's central manipulation |
-| 6 | **Fellowship** — letters, pay, downtime | 30 min | Downtime | Reward and relationships |
-| 7 | **The road to New Ilya** — [[act_II_overview\|Act II]] hook | 15 min | Transition | End the chapter |
+| 1 | **The escape** — [[the_archive_cartels\|Cartel]] pursuit, tide, cliff | 35 min | Chase / skill challenge | Pay off the collapse |
+| 2 | **The road back** — wounded, weather, [[chapter_2_stair_and_star\|Tamsin]] | 25 min | Travel / roleplay | Let the party breathe and bond |
+| 3 | **[[port_meridian\|Port Meridian]]** — [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]], summons, allies | 35 min | Social / investigation | Prepare the defence |
+| 4 | **The [[port_meridian#1. The Gilded Docks & Admiralty Wharf\|Gilded Docks]] [[#5. Port Meridian and the Inquest (90 min)\|Inquest]]** — charges and trial | 55 min | Social / skill challenge | The chapter's legal climax |
+| 5 | **[[lord_seraphel\|Seraphel]]'s entrance** — the patron | 30 min | Social | The campaign's central manipulation |
+| 6 | **[[#7. Fellowship and Downtime (30 min)\|Fellowship]]** — letters, pay, downtime | 30 min | Downtime | Reward and relationships |
+| 7 | **The road to [[new_ilya\|New Ilya]]** — [[act_II_overview\|Act II]] hook | 15 min | Transition | End the chapter |
 
-**Base total: 240 min.** Optional evidence scenes (§5.3b), trial layers (§5.7), downtime (§7.3–7.7), and the travel montage (§8.3) push a full night to 5 hours. Trimming notes in §16.
+**Base total: 240 min.** Optional evidence scenes ([[#5.3b Evidence-gathering scenes|§5.3b]]), trial layers ([[#5.7 Trial mini-game — objections, jury, and gallery|§5.7]]), downtime ([[#7.3 Downtime scenes (one per PC)|§7.3]]–7.7), and the travel montage ([[#8.3 The road to New Ilya — optional travel montage|§8.3]]) push a full night to 5 hours. Trimming notes in [[#16. Expansion & Trimming|§16]].
 
 ---
 
@@ -53,10 +58,10 @@ date: ""
 
 By the end of tonight, the table should:
 
-- Have **escaped the Cartels** and returned to Port Meridian alive.
+- Have **escaped the [[the_archive_cartels|Cartels]]** and returned to [[port_meridian|Port Meridian]] alive.
 - Have faced a **real legal threat** and made choices about how to fight it.
-- Have met **Lord Seraphel** and accepted (or resisted) his patronage.
-- Have **level 4** and a clear road to **New Ilya**.
+- Have met **Lord [[lord_seraphel|Seraphel]]** and accepted (or resisted) his patronage.
+- Have **level 4** and a clear road to **[[new_ilya|New Ilya]]**.
 - Have closed the **Act I clocks** and opened **Act II**.
 
 **Do not:** reveal Seraphel's true nature, name the Engine, explain the [[cosmology_and_metaphysics|Soul Crisis]], or run the Grand Lyceum. That is Act II.
@@ -65,21 +70,21 @@ By the end of tonight, the table should:
 
 ## 1. Pre-Session Checklist (15 minutes)
 
-- [ ] Read the **Scope** and §16. The Inquest is the centrepiece; do not rush it.
-- [ ] Decide whether **Kael survived** Session 5, and whether he is a prisoner, a fugitive, or a tentative contact.
-- [ ] Decide whether **Arlen** will testify. Default: yes, if the party reaches out; no, if they mocked him.
+- [ ] Read the **Scope** and [[#16. Expansion & Trimming|§16]]. The [[#5. Port Meridian and the Inquest (90 min)|Inquest]] is the centrepiece; do not rush it.
+- [ ] Decide whether **[[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] survived** Session 5, and whether he is a prisoner, a fugitive, or a tentative contact.
+- [ ] Decide whether **[[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]** will testify. Default: yes, if the party reaches out; no, if they mocked him.
 - [ ] Decide whether the **captured Breaker** will testify. Default: yes, for a reduced sentence, if the party promised to speak for him.
-- [ ] Have the **charges** (§5.2), **evidence** (§5.3), **witnesses** (§5.4), and **skill challenge** (§5.5) ready.
-- [ ] Have **Seraphel's dialogue** (§6.2) in front of you. He is warm, funny, and never threatening.
-- [ ] Have the **fellowship letter** and **Act II hook** ready (§8, §12).
-- [ ] Clocks: **Helena's Charter** and **Cartel Interference** as adjusted. If either is at max, the Inquest is harder.
+- [ ] Have the **charges** ([[#5.2 The charges|§5.2]]), **evidence** ([[#5.3 Evidence|§5.3]]), **witnesses** ([[#5.4 Witnesses|§5.4]]), and **skill challenge** ([[#5.5 The trial — skill challenge|§5.5]]) ready.
+- [ ] Have **[[lord_seraphel|Seraphel]]'s dialogue** ([[#6.2 What he wants|§6.2]]) in front of you. He is warm, funny, and never threatening.
+- [ ] Have the **fellowship letter** and **Act II hook** ready ([[#8. Level 4 and the Act II Hook (15 min)|§8]], [[#12. Handouts|§12]]).
+- [ ] Clocks: **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s Charter** and **[[the_archive_cartels|Cartel]] Interference** as adjusted. If either is at max, the Inquest is harder.
 - [ ] Global clocks: **Soul Tide 0/6, Convergence 0/8, Censor's Shroud 0/4.** Nothing ticks tonight unless the party bribes the court; note it, do not tick it.
 
 ---
 
 ## 2. Recap and the Cliff (15 min)
 
-Open on the cliff top, wet, exhausted, with the Codex. The signal flare is still in the sky.
+Open on the cliff top, wet, exhausted, with the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]]. The signal flare is still in the sky.
 
 > *The flare hangs over the bay like a pin stuck in the dark. Below, the sea is eating the stair. Behind, the cave is full of noise — stone, water, and someone shouting your names.*
 
@@ -87,12 +92,12 @@ Open on the cliff top, wet, exhausted, with the Codex. The signal flare is still
 
 - *"Who is carrying the Codex?"*
 - *"Who is hurt?"*
-- *"Where is Tamsin?"*
+- *"Where is [[chapter_2_stair_and_star|Tamsin]]?"*
 - *"What did you leave in the chamber?"*
 
-**If Kael survived and is free:** his voice carries up the stair: *"You forgot the strongbox!"* He is not chasing yet. He is salvaging.
-**If Kael was taken prisoner:** he is with the party, bound and furious, and the Cartels below are leaderless. Decide whether he is a witness or a liability.
-**If Kael died:** the Cartels are leaderless for now. Rorik will hear.
+**If [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] survived and is free:** his voice carries up the stair: *"You forgot the strongbox!"* He is not chasing yet. He is salvaging.
+**If Kael was taken prisoner:** he is with the party, bound and furious, and the [[the_archive_cartels|Cartels]] below are leaderless. Decide whether he is a witness or a liability.
+**If Kael died:** the Cartels are leaderless for now. [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] will hear.
 **If the Cartels are at max interference:** a second lantern appears on the road below. They were waiting.
 
 ---
@@ -101,12 +106,12 @@ Open on the cliff top, wet, exhausted, with the Codex. The signal flare is still
 
 ### 3.1 The chase
 
-The party must get off the cliff before the tide or the Cartels catch them. Use a **chase** (three rounds) or a **skill challenge** (3 successes before 2 failures).
+The party must get off the cliff before the tide or the [[the_archive_cartels|Cartels]] catch them. Use a **chase** (three rounds) or a **skill challenge** (3 successes before 2 failures).
 
 **Chase participants:**
 
-- **The party**, carrying the Codex (25 lb; disadvantage on Acrobatics if carried in hand).
-- **A Cartel pursuit** — 2 Thugs and a Scout, or Kael if he survived. They are not trying to kill the party; they are trying to take the Codex.
+- **The party**, carrying the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] (25 lb; disadvantage on Acrobatics if carried in hand).
+- **A Cartel pursuit** — 2 Thugs and a Scout, or [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] if he survived. They are not trying to kill the party; they are trying to take the Codex.
 - **The tide**, rising behind them.
 
 **Chase rules (simplified):**
@@ -121,7 +126,7 @@ The party must get off the cliff before the tide or the Cartels catch them. Use 
 
 The stair is slick and half-flooded. **DC 13 Athletics** to climb without slowing. A PC carrying the Codex has **disadvantage** unless someone else takes it or they use a rope.
 
-**If Tamsin is with them:** he is slow. A PC can help him (**DC 12 Athletics**), or leave him to follow. If they leave him, he arrives later, hurt and quiet.
+**If [[chapter_2_stair_and_star|Tamsin]] is with them:** he is slow. A PC can help him (**DC 12 Athletics**), or leave him to follow. If they leave him, he arrives later, hurt and quiet.
 
 **If Toby is with them:** he knows a **fisherman's path** (DC 12 Survival) that bypasses the worst of the stair. He offers it if they were kind to him.
 
@@ -131,9 +136,9 @@ The Cartels want the Codex, not a body count. They will:
 
 - **Demand the Codex** (DC 13 Intimidation/Persuasion to stall).
 - **Try to cut the rope** or block the path.
-- **Offer a deal:** *"Give us the book. Rorik will pay you instead of hunting you."*
+- **Offer a deal:** *"Give us the book. [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] will pay you instead of hunting you."*
 
-**If the party drops the Codex:** the Cartels stop chasing. The party escapes, but loses the chapter's prize. Seraphel still intervenes, but the fellowship is conditional.
+**If the party drops the Codex:** the Cartels stop chasing. The party escapes, but loses the chapter's prize. [[lord_seraphel|Seraphel]] still intervenes, but the fellowship is conditional.
 
 **If the party fights:** use the Thug/Scout blocks. Kael, if present, fights defensively and withdraws at half HP.
 
@@ -145,7 +150,7 @@ If they lost the mule, they walk. The road back is **four hours**.
 
 ### 3.5 The signal flare
 
-The flare was **violet**, not Admiralty white. **DC 13 Arcana/Investigation:** it is an alchemical signal, expensive, and not a Cartel colour. `[DM-ONLY: Seraphel's people, watching. Do not confirm.]`
+The flare was **violet**, not [[port_meridian#5. The Admiralty Citadel|Admiralty]] white. **DC 13 Arcana/Investigation:** it is an alchemical signal, expensive, and not a Cartel colour. `[DM-ONLY: Seraphel's people, watching. Do not confirm.]`
 
 If the party investigates, they find a **brass casing** on the cliff with a **falcon and calipers** stamp. That is the clearest physical trace of Seraphel in the campaign so far — the road coin, if they found it, was easier to dismiss.
 
@@ -165,36 +170,36 @@ The road back is the same six miles, but the weather has turned. Roll or choose:
 
 **Travel encounter (choose one):**
 
-- **An Admiralty patrol** — they have orders to watch the road. **DC 13 Deception/Persuasion** to pass, or a bribe (20 gp), or a chase.
-- **A Cartel straggler** — a wounded Thug from the Star Chamber. He can be questioned, healed, or left.
+- **An [[port_meridian#5. The Admiralty Citadel|Admiralty]] patrol** — they have orders to watch the road. **DC 13 Deception/Persuasion** to pass, or a bribe (20 gp), or a chase.
+- **A [[the_archive_cartels|Cartel]] straggler** — a wounded Thug from the Star Chamber. He can be questioned, healed, or left.
 - **A fisher family** — Toby's family, if he was rescued. They offer food, dry clothes, and a place to rest.
-- **A shrine to Myrraen** — a quiet scene; a PC can pray, leave an offering, or repair the niche.
+- **A shrine to [[the_church_of_the_last_light|Myrraen]]** — a quiet scene; a PC can pray, leave an offering, or repair the niche.
 
 ### 4.2 Wounded and tired
 
-If the party is low on HP or resources, let them take a **short rest** on the road. It costs time, not safety. If they push on without resting, they arrive at the Inquest with **one level of exhaustion** (disadvantage on ability checks), which makes the trial harder.
+If the party is low on HP or resources, let them take a **short rest** on the road. It costs time, not safety. If they push on without resting, they arrive at the [[#5. Port Meridian and the Inquest (90 min)|Inquest]] with **one level of exhaustion** (disadvantage on ability checks), which makes [[#5.5 The trial — skill challenge|the trial]] harder.
 
 **Do not** punish them for resting. The Inquest is the challenge, not the road.
 
 ### 4.3 Tamsin's conversation
 
-If Tamsin is with them, he asks the question he has been avoiding:
+If [[chapter_2_stair_and_star|Tamsin]] is with them, he asks the question he has been avoiding:
 
 > *"Was it worth it? Wren died for a room full of paper. Tell me it was worth it."*
 
-**How the party answers matters.** There is no check. Listen. If they honour Wren, Tamsin steadies. If they dismiss him, he withdraws.
+**How the party answers matters.** There is no check. Listen. If they honour [[session_03_the_oath#13. NPCs at the Table|Wren]], Tamsin steadies. If they dismiss him, he withdraws.
 
 **What Tamsin wants:**
 
 - To be useful at the Inquest (he can testify about the Cartels).
-- To see Rorik pay.
+- To see [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] pay.
 - To know that Wren's death meant something.
 
 **If they promise him a place in the story:** he tells them everything he knows about Rorik's operation, including the **name of the Cartel's contact in the Admiralty** (a clerk named **Osk**). That is a real edge in the trial.
 
 ### 4.4 The Codex on the road
 
-The Codex is vulnerable. Rain, sea spray, and a fall can damage it.
+The [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] is vulnerable. Rain, sea spray, and a fall can damage it.
 
 - **Waterproof map case** (bought in Session 4): no risk.
 - **No case:** **DC 12 Survival** to keep it dry; failure damages one excerpt (choose one).
@@ -206,21 +211,21 @@ The Codex is vulnerable. Rain, sea spray, and a fall can damage it.
 
 ### 5.1 The return
 
-Port Meridian is grey and busy. The news has beaten them: a **salvage dispute** at Warehouse Nine, a **Breaker in the cells**, and a **black stone** that the Admiralty wants to see.
+[[port_meridian|Port Meridian]] is grey and busy. The news has beaten them: a **salvage dispute** at [[port_meridian#2. The Salvage Warrens & Warehouse Nine|Warehouse Nine]], a **Breaker in the cells**, and a **black stone** that the [[port_meridian#5. The Admiralty Citadel|Admiralty]] wants to see.
 
 **At the gate:**
 
-- **Admiralty guards** are checking salvage. **DC 12 Deception** to hide the Codex, or **DC 13 Persuasion** to declare it and ask for a receipt.
-- **A runner** from Helena finds them: *"She says to come to the warehouse. Now. And bring the book."*
+- **Admiralty guards** are checking salvage. **DC 12 Deception** to hide the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]], or **DC 13 Persuasion** to declare it and ask for a receipt.
+- **A runner** from [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]] finds them: *"She says to come to the warehouse. Now. And bring the book."*
 - **A poster** on the gatehouse wall: *"UNLICENSED ANTIQUARIANISM — NOTICE OF INQUEST."* The party's names are not on it yet. They will be by noon.
 
 ### 5.2 The charges
 
-At the Gilded Docks court, **Magistrate Ilya Renn** reads the charges:
+At the [[port_meridian#1. The Gilded Docks & Admiralty Wharf|Gilded Docks]] court, **Magistrate [[#10. NPCs at the Table|Ilya Renn]]** reads the charges:
 
 1. **Unlicensed antiquarianism** — recovery of a protected antiquity without a scholarly writ.
 2. **Failure to declare** — the Codex was not logged with the Admiralty within one day.
-3. **Obstruction** — the party fled the site and resisted Cartel recovery (the Cartels have friends in the court).
+3. **Obstruction** — the party fled the site and resisted [[the_archive_cartels|Cartel]] recovery (the Cartels have friends in the court).
 4. **Salvage fraud** — using a salvage charter to cover an antiquity.
 
 **Penalty:** a fine of **500 gp** or **impressment** into the naval salvage corps for one year. The Codex is impounded pending a ruling.
@@ -229,18 +234,18 @@ At the Gilded Docks court, **Magistrate Ilya Renn** reads the charges:
 
 ### 5.3 Evidence
 
-The party can gather evidence before the hearing. Each piece is a short scene and gives **advantage or a bonus** in the trial.
+The party can gather evidence before the hearing. Each piece is a short scene and gives **advantage or a bonus** in [[#5.5 The trial — skill challenge|the trial]].
 
 | Evidence | Where | Check / scene | Benefit |
 |----------|-------|---------------|---------|
 | **Helena's charter log** | Warehouse Nine | Helena gives it if they bring the Codex | Advantage on the legal argument |
 | **The Cartel ledger** | Session 5 | Investigation DC 12 to organise it | Proves a criminal rival operation; +1 success |
-| **Kael's testimony** | If alive | Persuasion DC 14, or a deal | Proves the Cartels were looting, not salvaging |
-| **The captured Breaker** | Citadel lockup | Persuasion DC 12 + a promise | Proves the Cartel route and Rorik's orders |
-| **Arlen's testimony** | Brass Astrolabe | Persuasion DC 13, or an apology | Proves the Exchange suppresses evidence |
+| **[[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]]'s testimony** | If alive | Persuasion DC 14, or a deal | Proves the Cartels were looting, not salvaging |
+| **The captured Breaker** | Citadel lockup | Persuasion DC 12 + a promise | Proves the Cartel route and [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]]'s orders |
+| **[[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]]'s testimony** | [[port_meridian#3. The Antiquities Exchange\|Brass Astrolabe]] | Persuasion DC 13, or an apology | Proves the Exchange suppresses evidence |
 | **Sella's records** | Brass Astrolabe | Persuasion DC 14 or 50 gp | Proves the Codex's provenance |
 | **Toby's testimony** | Fisher village | No check, if rescued | Humanises the party; +1 success |
-| **Tamsin's testimony** | Anywhere | No check, if trusted | Proves Wren was left to die; emotional weight |
+| **[[chapter_2_stair_and_star\|Tamsin]]'s testimony** | Anywhere | No check, if trusted | Proves [[session_03_the_oath\|Wren]] was left to die; emotional weight |
 | **The star-chart cylinder** | Session 5 | Arcana DC 14 | Suggests the Codex is part of a larger system; +1 success if presented well |
 | **The violet flare casing** | Cliff | Investigation DC 13 | Links the Cartels to a wealthy patron; risky, not conclusive |
 
@@ -273,7 +278,7 @@ Arlen is in the back room, packing folios into a crate. He has not slept. He loo
 #### C. Sella at the counter
 Sella is appraising a crate of pre-Silence glass. She does not look up when they enter.
 
-**What she gives:** provenance for the Codex — **DC 14 Persuasion** or **50 gp**. She will testify that it is genuine and that the Cartels have been buying star-glass for months.
+**What she gives:** provenance for the Codex — **DC 14 Persuasion** or **50 gp**. She will testify that it is genuine and that the Cartels have been buying [[relics_and_artifacts#10. Star-Glass Lens|star-glass]] for months.
 
 **What she wants:** anonymity. *"I will say what I saw. I will not say who I am afraid of."*
 
@@ -296,7 +301,7 @@ Toby is gutting fish on the dock, his leg bandaged. He is alive because of them.
 **Bonus:** his family offers the party a **safe house** and a **boat** for Act II.
 
 #### F. The violet flare casing
-If they picked it up on the cliff, a **DC 13 Investigation** reveals a maker's mark: a **Vane foundry** stamp. That is dangerous knowledge. Presenting it in court could damage Seraphel — and the party is not ready for that fight. **DM note:** let them choose whether to use it. If they do, Seraphel's offer changes.
+If they picked it up on the cliff, a **DC 13 Investigation** reveals a maker's mark: a **Vane foundry** stamp. That is dangerous knowledge. Presenting it in court could damage [[lord_seraphel|Seraphel]] — and the party is not ready for that fight. **DM note:** let them choose whether to use it. If they do, Seraphel's offer changes.
 
 ---
 
@@ -345,7 +350,7 @@ If they picked it up on the cliff, a **DC 13 Investigation** reveals a maker's m
 
 ### 5.6 The Cartel witness
 
-Renn calls a **Cartel witness** — a well-dressed factor named **Marek Voss** (no relation to Helena; the coincidence is deliberate and awful). He claims the party attacked his salvage crew and stole a "family heirloom."
+Renn calls a **Cartel witness** — a well-dressed factor named **[[monsters_and_foes#Marek Voss, Cartel Front Man (CR 1/8)|Marek Voss]]** (no relation to Helena; the coincidence is deliberate and awful). He claims the party attacked his salvage crew and stole a "family heirloom."
 
 **What he is:** a Cartel front man, coached by Rorik. He is smooth, plausible, and lying.
 
@@ -395,7 +400,7 @@ The court cares about **chain of custody**. For each piece of evidence, ask: *"W
 - **Helena's log** fixes the chain for the Codex, if she testifies.
 
 #### The verdict table (optional)
-Use this finer-grained table instead of the outcomes in §5.5 if you want the result to reflect every phase:
+Use this finer-grained table instead of the outcomes in [[#5.5 The trial — skill challenge|§5.5]] if you want the result to reflect every phase:
 
 | Successes | Verdict | Consequence |
 |-----------|---------|-------------|
@@ -478,13 +483,13 @@ The trial should matter beyond a fine. Use this table to carry the result into A
 
 | Verdict | Immediate consequence | Act II consequence |
 |---------|-----------------------|--------------------|
-| **Acquittal, scholarly writ** | Codex released; 0 gp fine; Seraphel impressed | The Lyceum recognises the party's claim; Dean Vale is wary but respectful |
+| **Acquittal, scholarly writ** | Codex released; 0 gp fine; Seraphel impressed | The Lyceum recognises the party's claim; [[major_allies_and_rivals#3. Dean Arcturus Vale (Master of the Great Library)\|Dean Vale]] is wary but respectful |
 | **Acquittal, Helena's custody** | Codex held by Helena; 50 gp fine | Helena is a real patron; the party must petition her for access |
 | **Reduced charge, 200 gp fine** | Codex impounded for authentication; Seraphel can release it | The party owes Seraphel a favour; he calls it in in Act II |
 | **Conviction, 500 gp fine** | Seraphel pays the fine; Codex taken "for safekeeping" | The party is in Seraphel's debt; he is warm and generous about it |
 | **Impressment** | Seraphel buys their commission; they are technically his retainers | Act II starts with less freedom and more scrutiny |
 | **Bribe exposed** | The court is hostile; Seraphel intervenes but the party is marked | **+1 Censor's Shroud** in Act II; the Lyceum has heard the rumour |
-| **Cartel witness broken** | The Cartels are humiliated; Rorik blames the party | **+1 Cartel Interference**; an assassin in New Ilya |
+| **Cartel witness broken** | The Cartels are humiliated; Rorik blames the party | **+1 Cartel Interference**; an assassin in [[new_ilya\|New Ilya]] |
 | **Seraphel accused publicly** | He is not convicted, but the question lingers | He watches the party more closely; the betrayal lands harder |
 
 **DM note:** no verdict ends the campaign. Even impressment can be a story. The important thing is that the party **feels** the consequence.
@@ -497,7 +502,7 @@ The trial should matter beyond a fine. Use this table to carry the result into A
 
 > *The doors open without a sound. A man in midnight-blue and silver walks in as if the court were a room he had built. He is not tall, but the room rearranges itself around him. He looks at the magistrate, then at you, and smiles like a teacher who has found his students arguing over the wrong question.*
 
-**Lord Seraphel** is polite, warm, and entirely in control. He does not raise his voice. He does not threaten. He pays the clearance tax in full, cites the **Concord of Meridian** salvage precedent, and asks the court to release the Codex into **scholarly custody**.
+**Lord [[lord_seraphel|Seraphel]]** is polite, warm, and entirely in control. He does not raise his voice. He does not threaten. He pays the clearance tax in full, cites the **Concord of Meridian** salvage precedent, and asks the court to release the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] into **scholarly custody**.
 
 **What he says:**
 
@@ -509,14 +514,14 @@ The trial should matter beyond a fine. Use this table to carry the result into A
 
 ### 6.2 What he wants
 
-- **The Codex** — not to keep, but to **sponsor authentication**. He asks to take it to New Ilya, under the party's name.
+- **The Codex** — not to keep, but to **sponsor authentication**. He asks to take it to [[new_ilya|New Ilya]], under the party's name.
 - **The transit map** — he asks precise, technical questions about the lines, the nodes, and the alloys.
 - **The party** — he wants them close, grateful, and useful.
 
 **His questions:**
 
 - *"The lines in the mosaic — were they raised or inlaid? Did they warm when the rings turned?"*
-- *"The star-glass — did it sing, or only shine?"*
+- *"The [[relics_and_artifacts#10. Star-Glass Lens|star-glass]] — did it sing, or only shine?"*
 - *"Who else has seen the Codex? Be precise."*
 
 **DM note:** he logs every answer. He is not asking out of curiosity. He is building a technical picture of the Engine. **Do not reveal this.**
@@ -569,7 +574,7 @@ Use this if the table wants to talk to him at length. He is the most important N
 **If they ask why he helped them:**
 > *"Because you brought a lamp into the dark and did not run. That is rarer than talent."*
 
-**If they ask about the Cartels:**
+**If they ask about the [[the_archive_cartels|Cartels]]:**
 > *"Rorik is a shopkeeper. He sells what he finds. The question is who taught him that history has a price."* (He does not answer.)
 
 **If they ask about the gold man:**
@@ -612,18 +617,18 @@ Seraphel is a good reader of people. He makes a personal offer to each PC, quiet
 
 ### 7.1 The letters
 
-Seraphel's secretary provides:
+[[lord_seraphel|Seraphel]]'s secretary provides:
 
 - **A letter of fellowship** for each PC, stamped with the Vane falcon and calipers.
 - **A stipend of 100 gp each** (or 150, if negotiated).
-- **A travel warrant** for the road to New Ilya.
-- **A receipt** for the Codex, if he takes it.
+- **A travel warrant** for the road to [[new_ilya|New Ilya]].
+- **A receipt** for the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]], if he takes it.
 
-**Handout:** §12.3.
+**Handout:** [[#12.3 The fellowship letter|§12.3]].
 
 ### 7.2 Shopping
 
-Port Meridian has everything they need for the road. New Ilya is a long way.
+[[port_meridian|Port Meridian]] has everything they need for the road. New Ilya is a long way.
 
 | Item | Price | Why |
 |------|-------|-----|
@@ -646,13 +651,13 @@ Ask each player what their PC does with the night. Use these prompts:
 | Activity | Scene |
 |----------|-------|
 | **Carouse** | The pub erupts when they walk in. Someone buys them a drink. Someone else asks for the story. |
-| **Research** | The Brass Astrolabe or a parish library. Learn one true thing about the pre-Silence city. |
-| **Gossip** | The docks are talking: Rorik is furious, the Cartels are blaming each other, and a gold man was seen at the Exchange. |
+| **Research** | The [[port_meridian#3. The Antiquities Exchange\|Brass Astrolabe]] or a parish library. Learn one true thing about the pre-Silence city. |
+| **Gossip** | The docks are talking: [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]] is furious, the [[the_archive_cartels\|Cartels]] are blaming each other, and a gold man was seen at the Exchange. |
 | **Worship** | Dan's ground. The parish is quiet. Sister Marda asks about the dead. |
 | **Craft** | Zook repairs gear, copies the Codex excerpts, or builds something small and useful. |
 | **Snoop** | **DC 14 Stealth/Investigation** to find the Exchange's back-room folio. It is real. Getting to it is Act II. |
-| **Sit with Tamsin** | He is drinking, not celebrating. He wants to talk about Wren. |
-| **Visit Arlen** | He is at the Astrolabe, packing. He does not want to be forgiven. He wants to be useful. |
+| **Sit with [[chapter_2_stair_and_star\|Tamsin]]** | He is drinking, not celebrating. He wants to talk about [[session_03_the_oath\|Wren]]. |
+| **Visit [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]]** | He is at the Astrolabe, packing. He does not want to be forgiven. He wants to be useful. |
 | **Visit the prisoner** | The captured Breaker is waiting for a sentence. He asks if they kept their promise. |
 | **Visit Toby** | The fisher family feeds them and asks for nothing. A quiet, human scene. |
 
@@ -660,7 +665,7 @@ Ask each player what their PC does with the night. Use these prompts:
 
 | NPC | If the party... | Result |
 |-----|-----------------|--------|
-| **Helena** | Declared the Codex and kept her informed | She trusts them with the next charter |
+| **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]]** | Declared the Codex and kept her informed | She trusts them with the next charter |
 | **Helena** | Hid the Codex or lied | She remembers; the relationship cools |
 | **Tamsin** | Honoured Wren | He stays with them as a companion |
 | **Tamsin** | Dismissed Wren | He leaves at New Ilya, bitter |
@@ -673,7 +678,7 @@ Ask each player what their PC does with the night. Use these prompts:
 
 ### 7.5 Things to Do in Port Meridian
 
-After the trial, the party has a night in the city. Give them as much of this as the table wants.
+After [[#5.5 The trial — skill challenge|the trial]], the party has a night in the city. Give them as much of this as the table wants.
 
 | # | Activity | Check | Result |
 |---|----------|-------|--------|
@@ -682,7 +687,7 @@ After the trial, the party has a night in the city. Give them as much of this as
 | 3 | **Visit the shrines** | No check | Dan can give thanks; the parish is quiet; Sister Marda asks about Wren |
 | 4 | **Study at the Astrolabe** | DC 13 History/Arcana | Learn one true thing about the pre-Silence city; +1 on an Act II research check |
 | 5 | **Copy the Codex excerpts** | DC 12 Calligrapher's Tools | A clean copy; insurance if the Codex is impounded |
-| 6 | **Sell the star-glass** | DC 13 Persuasion | 50 gp, or 75 gp to a Cartel fence (who reports them) |
+| 6 | **Sell the [[relics_and_artifacts#10. Star-Glass Lens\|star-glass]]** | DC 13 Persuasion | 50 gp, or 75 gp to a Cartel fence (who reports them) |
 | 7 | **Commission a party symbol** | 25 gp | A signet, a badge, or a painted cart; a nice table memento |
 | 8 | **Write to Arlen** | No check | A letter of apology or thanks; if sincere, he replies before Act II |
 | 9 | **Visit Wren's grave** | No check | If Tamsin is with them, this is a quiet, important scene |
@@ -705,15 +710,15 @@ A dockhand's crate of **pre-Silence glass** has gone missing. It was last seen o
 #### B. The press-gang
 A **naval press-gang** is rounding up dockworkers for a "voluntary" salvage crew. One of them is **Toby's cousin**. The party can intervene.
 
-**Options:** **DC 14 Persuasion** with the sergeant, **DC 13 Intimidation**, a **bribe** (20 gp), or a fight (2× **Admiralty Guard**). **Reward:** Toby's family owes them; a safe house.
+**Options:** **DC 14 Persuasion** with the sergeant, **DC 13 Intimidation**, a **bribe** (20 gp), or a fight (2× **[[port_meridian#5. The Admiralty Citadel|Admiralty]] Guard**). **Reward:** Toby's family owes them; a safe house.
 
 #### C. The Cartel farewell
-**Kael** (if alive and free) sends a message: *"Rorik wants a word. Neutral ground. The Salt-Lantern, midnight. Come alone."*
+**[[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]]** (if alive and free) sends a message: *"Rorik wants a word. Neutral ground. The Salt-Lantern, midnight. Come alone."*
 
 **What he wants:** to warn them that Rorik has hired an **assassin** from New Ilya. He will trade the warning for a **promise to leave Port Meridian** and not testify against him. If the party agrees, he disappears. If they refuse, he leaves and the assassin becomes an Act II problem.
 
 #### D. The violet flare
-A **DC 14 Investigation** of the cliff casing leads to a **Vane foundry** in the Gilded Docks. The foreman is nervous. He confirms the flare was made for "a private party" — no name, but the order was paid in **Ilya coin**. If the party pushes, he reports them to Seraphel's people. **This is a dangerous thread; let them choose whether to pull it.**
+A **DC 14 Investigation** of the cliff casing leads to a **Vane foundry** in the [[port_meridian#1. The Gilded Docks & Admiralty Wharf|Gilded Docks]]. The foreman is nervous. He confirms the flare was made for "a private party" — no name, but the order was paid in **Ilya coin**. If the party pushes, he reports them to Seraphel's people. **This is a dangerous thread; let them choose whether to pull it.**
 
 #### E. The old sailor
 The sailor from the pub claims he has been inside the **Star Chamber**. He is lying — but he has a **map of the sea cave** that is better than Tamsin's. **DC 13 Insight** to catch the lie; **DC 12 Persuasion** to buy the map for 10 gp. The map gives **advantage on the escape** in Session 6 (retroactive if they already escaped; use it for Act II instead).
@@ -753,7 +758,7 @@ A **nervous clerk** named **Osk** asks to speak with them privately. He claims h
 
 ### 8.1 Level 4
 
-**Trigger:** survive the Inquest and accept (or outmanoeuvre) Seraphel's patronage.
+**Trigger:** survive the [[#5. Port Meridian and the Inquest (90 min)|Inquest]] and accept (or outmanoeuvre) [[lord_seraphel|Seraphel]]'s patronage.
 
 **What each PC gains:** an **Ability Score Improvement or feat**, plus their class features for level 4. Housekeeping is not tracked at this table — each player updates their own sheet.
 
@@ -761,7 +766,7 @@ A **nervous clerk** named **Osk** asks to speak with them privately. He claims h
 
 ### 8.2 The hook
 
-Seraphel's carriage is waiting at the **Gilded Docks** at dawn. The road to **New Ilya** takes **six days**. The Codex is packed, the letters are signed, and the city is already telling the story of the party who went under the sea.
+Seraphel's carriage is waiting at the **[[port_meridian#1. The Gilded Docks & Admiralty Wharf|Gilded Docks]]** at dawn. The road to **[[new_ilya|New Ilya]]** takes **six days**. The [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] is packed, the letters are signed, and the city is already telling the story of the party who went under the sea.
 
 **Read-aloud:**
 
@@ -784,7 +789,7 @@ If you have time left, run the first day of the journey. It is a bridge, not a n
 | **1** | **The South Gate** | The city falls away; Seraphel's driver is polite and silent; a first-night camp |
 | **2** | **The Broken Bridge** | A pre-Silence span, half-collapsed; the carriage must go around; a chance to explore |
 | **3** | **The Waystation** | A Vane-run inn; good food, soft beds, and a locked room the party is not invited into |
-| **4** | **The Mire** | A flooded lowland; bandits or a Cartel patrol; the carriage is vulnerable |
+| **4** | **The Mire** | A flooded lowland; bandits or a [[the_archive_cartels\|Cartel]] patrol; the carriage is vulnerable |
 | **5** | **The Ridge** | A view of New Ilya's white towers; Seraphel asks a question about the Codex |
 | **6** | **The Gates** | The Lyceum's gates; the city is larger, colder, and full of scholars |
 
@@ -794,19 +799,21 @@ If you have time left, run the first day of the journey. It is a bridge, not a n
 - **A conversation with the driver** — a Vane servant who has seen things and says less than he knows.
 - **A night watch** — a Cartel scout, a soul-light, or a harmless fox.
 - **A roadside shrine** — a chance for Dan to pray, or for John Fantasy to leave an offering.
-- **A letter from Arlen** — if they wrote to him, a reply arrives at the waystation: *"Do not trust the patron. Do not tell him I said so."*
+- **A letter from [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]** — if they wrote to him, a reply arrives at the waystation: *"Do not trust the patron. Do not tell him I said so."*
 - **A dream** — use the dreams table from Session 4.
 
-**Do not** run a full encounter unless the table wants one. The point is to show the party that the world is bigger than Port Meridian, and that Seraphel's reach is long.
+**Do not** run a full encounter unless the table wants one. The point is to show the party that the world is bigger than [[port_meridian|Port Meridian]], and that Seraphel's reach is long.
 
 ---
+
+> **Reference —** [[#9. Clocks|9 Clocks]] • [[#10. NPCs at the Table|10 NPCs]] • [[#11. Encounter Blocks|11 Encounters]] • [[#12. Handouts|12 Handouts]] • [[#13. If / Then|13 If/Then]] • [[#14. Closing the Night|14 Closing]] • [[#15. What This Session Must Accomplish|15 Must Accomplish]] • [[#16. Expansion & Trimming|16 Trimming]] • [[#17. Trial Tracker|17 Trial Tracker]] • [[#18. DM Quick Reference|18 Quick Ref]]
 
 ## 9. Clocks
 
 | Clock | Start | Tick tonight if... | At max |
 |-------|-------|--------------------|--------|
-| **Helena's Charter** | 2/4 | The Inquest; a public fight; the Codex is impounded; a day lost | The Admiralty restricts Helena's licence; Act II begins with her under pressure |
-| **Archive Cartel Interference** | 1/3 | Kael escapes; the Cartels are humiliated; the party's faces are known; Marek is broken | Rorik sends an assassin in Act II |
+| **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]]'s Charter** | 2/4 | The [[#5. Port Meridian and the Inquest (90 min)\|Inquest]]; a public fight; the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] is impounded; a day lost | The [[port_meridian#5. The Admiralty Citadel\|Admiralty]] restricts Helena's licence; Act II begins with her under pressure |
+| **Archive [[the_archive_cartels\|Cartel]] Interference** | 1/3 | [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]] escapes; the Cartels are humiliated; the party's faces are known; [[monsters_and_foes#Marek Voss, Cartel Front Man (CR 1/8)\|Marek]] is broken | [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]] sends an assassin in Act II |
 | **Soul Tide** | 0/6 | Do not tick in Act I | — |
 | **Convergence** | 0/8 | Do not tick in Act I | — |
 | **Censor's Shroud** | 0/4 | Note bribes and public claims; do not tick in Act I | — |
@@ -866,41 +873,15 @@ Tired, professional, and not sorry.
 
 ## 11. Encounter Blocks
 
-### Cartel Thug (CR 1/2) — 2×
-*Medium Humanoid, neutral evil*
-**AC** 11 (leather) • **HP** 32 (5d8+10) • **Speed** 30 ft.
-**STR** 15 (+2) **DEX** 11 (+0) **CON** 14 (+2) **INT** 10 (+0) **WIS** 10 (+0) **CHA** 11 (+0)
-**Skills** Intimidation +2 • **Senses** passive 10
-**Multiattack:** 2× Mace +4, 5 (1d6+2) bludgeoning.
-**Heavy Crossbow:** +2, 5 (1d10) piercing.
-**Tactics:** hold the road; surrender at 10 HP.
+> Full stat blocks: [[monsters_and_foes#Cartel Thug (CR 1/2)|Cartel Thug]] • [[monsters_and_foes#Cartel Scout (CR 1/2)|Cartel Scout]] • [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]] • [[monsters_and_foes#Admiralty Guard (CR 1/2)|Admiralty Guard]] • [[monsters_and_foes#Marek Voss, Cartel Front Man (CR 1/8)|Marek Voss]]. Numbers below are the at-the-table version.
 
-### Cartel Scout (CR 1/2) — 1×
-*Medium Humanoid, neutral evil*
-**AC** 13 (leather) • **HP** 16 (3d8+3) • **Speed** 30 ft.
-**STR** 11 (+0) **DEX** 14 (+2) **CON** 12 (+1) **INT** 11 (+0) **WIS** 13 (+1) **CHA** 11 (+0)
-**Skills** Nature +4, Perception +5, Stealth +6, Survival +5 • **Senses** passive 15
-**Multiattack:** 2× Shortsword +4, 5 (1d6+2) piercing, or 2× Longbow +4, 6 (1d8+2) piercing.
-**Tactics:** covers the road; flees at half HP.
-
-### Kael, Cartel Salvage Captain (CR 2) — if alive
-Use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]] §14.
-
-### Admiralty Guard (CR 1/2) — 2×
-*Medium Humanoid, lawful neutral*
-**AC** 16 (chain shirt + shield) • **HP** 16 (3d8+3) • **Speed** 30 ft.
-**STR** 13 (+1) **DEX** 12 (+1) **CON** 12 (+1) **INT** 10 (+0) **WIS** 11 (+0) **CHA** 10 (+0)
-**Skills** Athletics +3, Perception +2 • **Senses** passive 12
-**Spear:** +3, 5 ft., 4 (1d6+1) piercing.
-**Tactics:** hold the line; call for backup; do not pursue into the water.
-
-### Marek Voss, Cartel Front Man (social, CR 1/8)
-*Medium Humanoid, neutral evil*
-**AC** 12 • **HP** 18 • **Speed** 30 ft.
-**Skills** Deception +5, Insight +3, Persuasion +5
-**Tactics:** never fights. Lies, deflects, and calls for the magistrate. If exposed, he leaves and reports to Rorik.
-
----
+| Creature | # | AC | HP | Attacks | Saves / traits | Tactics |
+|---|---|---|---|---|---|---|
+| [[monsters_and_foes#Cartel Thug (CR 1/2)\|Cartel Thug]] | 2 | 11 | 32 | Multiattack 2× Mace +4 · 5 (1d6+2); heavy crossbow +2 · 5 (1d10) | Intimidation +2; passive 10 | Hold the road; surrender at 10 HP. |
+| [[monsters_and_foes#Cartel Scout (CR 1/2)\|Cartel Scout]] | 1 | 13 | 16 | Multiattack 2× Shortsword +4 · 5 (1d6+2), or 2× Longbow +4 · 6 (1d8+2) | Stealth +6, Perception +5; passive 15 | Covers the road; flees at half HP. |
+| [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]] (if alive) | 1 | 14 | 45 | Multiattack Warhammer +5 · 7 (1d8+3) **and** Dagger +5 · 5 (1d4+3) | Dirty Fighting (1/turn): DC 12 Con or blinded | Same block as Session 5; he fights to escape, not to win. |
+| [[monsters_and_foes#Admiralty Guard (CR 1/2)\|Admiralty Guard]] | 2 | 16 | 16 | Spear +3 · 4 (1d6+1) | Athletics +3, Perception +2; passive 12 | Hold the line; call for backup; do not pursue into the water. |
+| [[monsters_and_foes#Marek Voss, Cartel Front Man (CR 1/8)\|Marek Voss]] (social) | 1 | 12 | 18 | None — never fights | Deception +5, Insight +3, Persuasion +5 | Lies, deflects, calls for the magistrate. If exposed, he leaves and reports to [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]]. |
 
 ## 12. Handouts
 
@@ -939,7 +920,7 @@ Use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]] §14
 > *"Your fellowship is noted. The Council of Deans requests your presence at the earliest opportunity. Bring the Codex. The Council will hear scholars, not sponsors."*
 > *— Office of the Chancellor, Grand Lyceum*
 
-**DM note:** this is the first **procedural** crack between Seraphel and the Lyceum — academic independence, not an accusation. Do not play it as proof that the Council suspects him. Do not explain it.
+**DM note:** this is the first **procedural** crack between [[lord_seraphel|Seraphel]] and the Lyceum — academic independence, not an accusation. Do not play it as proof that the Council suspects him. Do not explain it.
 
 ---
 
@@ -947,16 +928,16 @@ Use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]] §14
 
 | Situation | Response |
 |-----------|----------|
-| **They lose the Codex in the escape** | Seraphel still intervenes, but the fellowship is conditional. Act II becomes a search for another copy. |
+| **They lose the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] in the escape** | [[lord_seraphel\|Seraphel]] still intervenes, but the fellowship is conditional. Act II becomes a search for another copy. |
 | **They accept Seraphel's offer immediately** | He is pleased but not surprised. The party gains resources and a patron; the cost is invisible for now. |
-| **They refuse the fellowship** | He accepts gracefully. They can still go to New Ilya independently, with less money and more danger. |
+| **They refuse the fellowship** | He accepts gracefully. They can still go to [[new_ilya\|New Ilya]] independently, with less money and more danger. |
 | **They accuse Seraphel in court** | He is not offended. He answers honestly enough to sow doubt, and the court rules in his favour. The party loses face but keeps the Codex. |
 | **They attack Seraphel** | He does not fight. He leaves, wounded and polite. The fellowship is withdrawn. Act II becomes harder, not impossible. |
 | **They bribe the court** | Automatic success in one phase, but note **Censor's Shroud** for later. The bribe is remembered. |
-| **They break Marek** | The Cartel case collapses. Rorik blames them personally. **+1 Cartel Interference**, but the trial is easier. |
+| **They break [[monsters_and_foes#Marek Voss, Cartel Front Man (CR 1/8)\|Marek]]** | The [[the_archive_cartels\|Cartel]] case collapses. [[the_archive_cartels#3. Internal Syndicate Structure\|Rorik]] blames them personally. **+1 Cartel Interference**, but [[#5.5 The trial — skill challenge\|the trial]] is easier. |
 | **They fail the trial** | Seraphel intervenes before sentencing. The party owes him a significant favour; the Codex is impounded. |
-| **Tamsin testifies** | He is compelling but fragile. Renn calls him a criminal. If the party defends him, +1 success. |
-| **Arlen testifies** | He is precise and damning. If the party mocked him earlier, he refuses; they must find another witness. |
+| **[[chapter_2_stair_and_star\|Tamsin]] testifies** | He is compelling but fragile. [[#10. NPCs at the Table\|Renn]] calls him a criminal. If the party defends him, +1 success. |
+| **[[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]] testifies** | He is precise and damning. If the party mocked him earlier, he refuses; they must find another witness. |
 | **The captured Breaker testifies** | He confirms the Cartel orders. If the party kept their promise, he is calm; if not, he recants. |
 | **They run long** | Cut the shopping and one downtime scene. Keep the trial and Seraphel. |
 | **They run short** | Add a Cartel ambush at the docks, a full downtime scene per PC, and a second witness cross-examination. |
@@ -971,31 +952,31 @@ Use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]] §14
 
 **Ask the table:**
 
-- *"Did you tell Seraphel the truth about the mosaic?"*
+- *"Did you tell [[lord_seraphel|Seraphel]] the truth about the mosaic?"*
 - *"What do you owe him now?"*
-- *"What did you do with the Codex?"*
-- *"Who are you leaving behind in Port Meridian?"*
+- *"What did you do with the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]]?"*
+- *"Who are you leaving behind in [[port_meridian|Port Meridian]]?"*
 
-**Level up to 4.** Take a breath. Chapter 3 begins in New Ilya.
+**Level up to 4.** Take a breath. Chapter 3 begins in [[new_ilya|New Ilya]].
 
 **Between sessions:** record the final state in `10_LIVE_CAMPAIGN_STATE/`. Note:
 - Who has the Codex.
 - Whether Seraphel's fellowship was accepted.
 - The final clock values.
-- Who is travelling with the party (Tamsin, Arlen, Toby, Kael).
+- Who is travelling with the party ([[chapter_2_stair_and_star|Tamsin]], [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]], Toby, [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]]).
 - What the party told Seraphel about the transit map.
 
 ---
 
 ## 15. What This Session Must Accomplish
 
-- [ ] The party **escapes the Star Stair** with the Codex (or a good reason it was lost).
-- [ ] They return to **Port Meridian** and face the **Inquest**.
+- [ ] The party **escapes the Star Stair** with the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] (or a good reason it was lost).
+- [ ] They return to **[[port_meridian|Port Meridian]]** and face the **[[#5. Port Meridian and the Inquest (90 min)|Inquest]]**.
 - [ ] They make a **legal/social choice** about how to defend themselves.
-- [ ] **Seraphel** arrives and offers **patronage**.
+- [ ] **[[lord_seraphel|Seraphel]]** arrives and offers **patronage**.
 - [ ] They accept, refuse, or negotiate — and the choice matters.
 - [ ] They reach **level 4**.
-- [ ] They have a **clear road to New Ilya** and a new mystery.
+- [ ] They have a **clear road to [[new_ilya|New Ilya]]** and a new mystery.
 - [ ] The **Act I clocks** are closed and recorded.
 
 ---
@@ -1003,16 +984,16 @@ Use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]] §14
 ## 16. Expansion & Trimming
 
 ### If you have a full 5 hours
-- Run the **chase** round by round, with the Cartel pursuit and the tide.
-- Run the **evidence gathering** as four short scenes: Helena, Arlen, Sella, the prisoner.
+- Run the **chase** round by round, with the [[the_archive_cartels|Cartel]] pursuit and the tide.
+- Run the **evidence gathering** as four short scenes: [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]], [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]], Sella, the prisoner.
 - Run the **trial** with all five phases and cross-examination.
-- Run a **full downtime scene per PC** and a **relationship scene** with Tamsin and Arlen.
-- Let Seraphel's conversation run long. He is the best NPC in the chapter.
+- Run a **full downtime scene per PC** and a **relationship scene** with [[chapter_2_stair_and_star|Tamsin]] and Arlen.
+- Let [[lord_seraphel|Seraphel]]'s conversation run long. He is the best NPC in the chapter.
 
 ### If you have 4 hours
 - Keep the chase to a skill challenge.
 - Keep evidence gathering to two scenes.
-- Run the trial with four phases.
+- Run [[#5.5 The trial — skill challenge|the trial]] with four phases.
 - Keep Seraphel and the fellowship.
 - Cut shopping to a list.
 
@@ -1028,7 +1009,7 @@ Use the block in [[session_05_star_chamber|Session 5 — The Star Chamber]] §14
 
 ## 17. Trial Tracker
 
-Print or copy this page for the Inquest. It keeps the five phases, the evidence, and the verdict in one place.
+Print or copy this page for the [[#5. Port Meridian and the Inquest (90 min)|Inquest]]. It keeps the five phases, the evidence, and the verdict in one place.
 
 ### 17.1 The five phases
 
@@ -1046,14 +1027,14 @@ Print or copy this page for the Inquest. It keeps the five phases, the evidence,
 
 | Evidence | Gathered? | Presented? | Chain of custody clear? |
 |----------|-----------|------------|--------------------------|
-| Helena's charter log | [ ] | [ ] | [ ] |
-| The Cartel ledger | [ ] | [ ] | [ ] |
-| Kael's testimony | [ ] | [ ] | [ ] |
+| [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]]'s charter log | [ ] | [ ] | [ ] |
+| The [[the_archive_cartels\|Cartel]] ledger | [ ] | [ ] | [ ] |
+| [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)\|Kael]]'s testimony | [ ] | [ ] | [ ] |
 | The captured Breaker | [ ] | [ ] | [ ] |
-| Arlen's testimony | [ ] | [ ] | [ ] |
+| [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]]'s testimony | [ ] | [ ] | [ ] |
 | Sella's records | [ ] | [ ] | [ ] |
 | Toby's testimony | [ ] | [ ] | [ ] |
-| Tamsin's testimony | [ ] | [ ] | [ ] |
+| [[chapter_2_stair_and_star\|Tamsin]]'s testimony | [ ] | [ ] | [ ] |
 | The star-chart cylinder | [ ] | [ ] | [ ] |
 | The violet flare casing | [ ] | [ ] | [ ] |
 
@@ -1062,7 +1043,7 @@ Print or copy this page for the Inquest. It keeps the five phases, the evidence,
 | Witness | Will testify? | Risk to them | Risk to the party |
 |---------|---------------|--------------|-------------------|
 | Helena | [ ] | Loses her licence | Her log may expose the lie |
-| Tamsin | [ ] | Called a criminal | Seen as allied with Breakers |
+| Tamsin | [ ] | Called a criminal | Seen as allied with [[the_archive_cartels#3. Internal Syndicate Structure\|Breakers]] |
 | Arlen | [ ] | Exchange retaliation | Only if mocked earlier |
 | The prisoner | [ ] | Rorik's reach | His word is cheap |
 | Sella | [ ] | The "gold man" | She will not name him |
@@ -1087,7 +1068,7 @@ Print or copy this page for the Inquest. It keeps the five phases, the evidence,
 
 | Result | Verdict | Consequence recorded |
 |--------|---------|----------------------|
-| 3+ successes | Acquittal / scholarly writ | Codex released; fine waived |
+| 3+ successes | Acquittal / scholarly writ | [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] released; fine waived |
 | 2 successes | Acquittal with conditions | Codex to Helena; 50 gp fine |
 | 1 success | Reduced charge | 200 gp fine; Codex impounded |
 | 0 successes | Conviction | 500 gp fine or impressment |
@@ -1095,7 +1076,7 @@ Print or copy this page for the Inquest. It keeps the five phases, the evidence,
 
 **Final verdict:** ______________________________________________
 
-**What the party owes Seraphel:** ______________________________
+**What the party owes [[lord_seraphel|Seraphel]]:** ______________________________
 
 ---
 
@@ -1103,7 +1084,7 @@ Print or copy this page for the Inquest. It keeps the five phases, the evidence,
 
 ### 18.1 The night in one breath
 
-Cliff top → Cartel chase → road back → Port Meridian → evidence gathering → Inquest → Seraphel's entrance → fellowship → level 4 → the road to New Ilya.
+Cliff top → [[the_archive_cartels|Cartel]] chase → road back → [[port_meridian|Port Meridian]] → evidence gathering → [[#5. Port Meridian and the Inquest (90 min)|Inquest]] → [[lord_seraphel|Seraphel]]'s entrance → fellowship → level 4 → the road to [[new_ilya|New Ilya]].
 
 If you remember nothing else: **they escape with the book, they are put on trial for saving it, and the man who saves them is the man they should fear.**
 
@@ -1112,17 +1093,17 @@ If you remember nothing else: **they escape with the book, they are put on trial
 | Scene | Check | DC |
 |-------|-------|----|
 | Chase | Acrobatics/Athletics per zone | 12 |
-| Chase | Deception to make the Cartels think the Codex fell | 14 |
+| Chase | Deception to make the Cartels think the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] fell | 14 |
 | Cliff stair | Athletics to climb without slowing | 13 |
-| Cliff stair | Athletics to help Tamsin | 12 |
+| Cliff stair | Athletics to help [[chapter_2_stair_and_star\|Tamsin]] | 12 |
 | Pursuit | Intimidation/Persuasion to stall | 13 |
 | Signal flare | Arcana/Investigation | 13 |
 | Road | Deception/Persuasion to pass a patrol | 13 |
 | Road | Survival to keep the Codex dry | 12 |
 | City gate | Deception to hide the Codex | 12 |
 | City gate | Persuasion to declare it | 13 |
-| Helena | Persuasion for her log if they lied | 13 |
-| Arlen | Persuasion for testimony | 13 |
+| [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]] | Persuasion for her log if they lied | 13 |
+| [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]] | Persuasion for testimony | 13 |
 | Sella | Persuasion for provenance | 14 (or 50 gp) |
 | Prisoner | Persuasion for testimony | 12 |
 | Trial Phase 1 | Persuasion / History-Law | 14 / 13 |
@@ -1130,7 +1111,7 @@ If you remember nothing else: **they escape with the book, they are put on trial
 | Trial Phase 3 | Persuasion / Insight | 13 / 12 |
 | Trial Phase 4 | Deception / Intimidation | 14 / 13 |
 | Trial Phase 5 | Persuasion / Performance | 14 / 13 |
-| Marek | Insight to find the hole | 14 |
+| [[monsters_and_foes#Marek Voss, Cartel Front Man (CR 1/8)\|Marek]] | Insight to find the hole | 14 |
 | Marek | Investigation with the ledger | 14 |
 | Marek | Intimidation to break him | 13 |
 | Seraphel | Persuasion to improve the offer | 14 |
@@ -1163,18 +1144,18 @@ If you remember nothing else: **they escape with the book, they are put on trial
 ### 18.5 What the party can learn tonight
 
 - The Codex is genuine, and the Exchange suppressed it.
-- The Cartels have friends in the Admiralty.
-- Rorik answers to a "gold man" who pays in Ilya coin.
+- The Cartels have friends in the [[port_meridian#5. The Admiralty Citadel|Admiralty]].
+- [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] answers to a "gold man" who pays in Ilya coin.
 - The violet flare was not Admiralty issue.
 - Seraphel can open doors no one else can.
 - The Grand Lyceum has its own agenda.
 
 ### 18.6 If you only have ten minutes to prep
 
-1. Read §5.2 (charges), §5.5 (the skill challenge), and §6.1–6.3 (Seraphel).
-2. Read §5.6 (Marek) and §5.11 (alternate verdicts).
-3. Read §8.2 (the Act II hook).
-4. Put Renn, Marek, and Seraphel's quotes in front of you.
+1. Read [[#5.2 The charges|§5.2]] (charges), [[#5.5 The trial — skill challenge|§5.5]] (the skill challenge), and [[#6.1 The arrival|§6.1]]–6.3 (Seraphel).
+2. Read [[#5.6 The Cartel witness|§5.6]] (Marek) and [[#5.11 Alternate verdicts and their consequences|§5.11]] (alternate verdicts).
+3. Read [[#8.2 The hook|§8.2]] (the Act II hook).
+4. Put [[#10. NPCs at the Table|Renn]], Marek, and Seraphel's quotes in front of you.
 5. Write the clock values on a scrap of paper.
 
 ### 18.7 Lines to land
@@ -1200,3 +1181,7 @@ If you remember nothing else: **they escape with the book, they are put on trial
 - [ ] The party's travelling companions are listed.
 - [ ] Level 4 is confirmed.
 - [ ] The Act II hook is delivered.
+
+---
+
+**[[#Session 6: The Gilded Docks Inquest|↑ back to top]]**

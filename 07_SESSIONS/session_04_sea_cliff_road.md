@@ -13,10 +13,15 @@ date: ""
 > *"The Archive goes down. The road goes up. Both end under the same stars."*
 
 **Chapter:** [[chapter_2_stair_and_star]] • **Level:** 2 (no level-up this session)
-**Covers:** the pub that night → the next morning: pay, shopping, the prisoner, Arlen's note → the Sea Cliff Road → the Star Stair
-**Cliffhanger out:** the cliff door stands half-open below, and a Cartel lantern is moving inside.
+**Covers:** the pub that night → the next morning: pay, shopping, the prisoner, [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]'s note → the [[chapter_2_stair_and_star|Sea Cliff Road]] → the [[#11. The Star Stair (15 min)|Star Stair]]
+**Cliffhanger out:** the cliff door stands half-open below, and a [[the_archive_cartels|Cartel]] lantern is moving inside.
 
 > **Actual play carry-over:** the party is level 2 and drinking in a [[port_meridian|Port Meridian]] pub. **Wren is dead**, soul ripped out. **Arlen confessed then left after a petty threat.** An **unnamed Breaker** is in magistrates' custody. The **Catalogue Index Tablet** is in party hands. **Tamsin Roke** is with the party. Clocks: **Helena's Charter 2/4**, **Cartel Interference 1/3**.
+
+> **Set-up —** [[#The One-Page Version|Overview]] • [[#Session Goals|Goals]] • [[#1. Pre-Session Checklist (15 minutes)|1 Checklist]]
+> **Run —** [[#2. Recap and the Pub — That Night (15 min)|2 Pub]] • [[#3. The Next Morning (55 min)|3 Next Morning]] • [[#4. The Road Out (20 min)|4 Road]] • [[#5. The Tide Cut (30 min)|5 Tide Cut]] • [[#6. The Wind Stair (35 min)|6 Wind Stair]] • [[#7. The Wrecked Mule (35 min)|7 Mule]] • [[#8. The Reef-Crawler Nest (40 min)|8 Reef-Crawler]] • [[#9. The Drowned Shrine (30 min)|9 Shrine]] • [[#10. Night Camp (25 min)|10 Camp]] • [[#11. The Star Stair (15 min)|11 Star Stair]]
+> **Reference —** [[#12. Clocks|12 Clocks]] • [[#13. NPCs at the Table|13 NPCs]] • [[#14. If / Then|14 If/Then]] • [[#15. Encounter Blocks|15 Encounters]] • [[#16. Handouts|16 Handouts]] • [[#17. Closing the Night|17 Closing]] • [[#18. What This Session Must Accomplish|18 Must Accomplish]] • [[#19. Expansion & Trimming|19 Trimming]] • [[#20. DM Quick Reference|20 Quick Ref]] • [[#21. Table Tracker|21 Tracker]]
+> [[#Session 4: The Road Above the Sea|↑ back to top]]
 
 ---
 
@@ -24,8 +29,8 @@ date: ""
 
 | Night | Covers | Ends on | Level |
 |-------|--------|---------|-------|
-| **Session 4 (this file)** | Pub that night → the next morning: pay, shopping, prisoner, Arlen's note → Sea Cliff Road → Star Stair | The cliff door in sight; a lantern below | 2 |
-| Session 5 | [[chapter_2_stair_and_star\|Star Chamber]] → Selyra's Eye → Codex → Cartel breach → collapse | The chamber falling; the Codex in hand | **→ 3** |
+| **Session 4 (this file)** | Pub that night → the next morning: pay, shopping, prisoner, [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]]'s note → [[chapter_2_stair_and_star\|Sea Cliff Road]] → [[#11. The Star Stair (15 min)\|Star Stair]] | The cliff door in sight; a lantern below | 2 |
+| Session 5 | [[chapter_2_stair_and_star\|Star Chamber]] → Selyra's Eye → [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Codex]] → [[the_archive_cartels\|Cartel]] breach → collapse | The chamber falling; the Codex in hand | **→ 3** |
 | Session 6 | Escape → return to Meridian → [[session_06_gilded_docks_inquest\|Gilded Docks Inquest]] → [[lord_seraphel\|Seraphel]] | Fellowship letters; the road to [[new_ilya\|New Ilya]] | **→ 4** |
 
 **Rule for tonight:** the Star Chamber door does not open. The session ends on the threshold, with the Cartels already inside. Session 5 starts with the descent.
@@ -37,17 +42,17 @@ date: ""
 | # | Beat | Time | Type | Purpose |
 |---|------|------|------|---------|
 | 0 | Recap + the pub that night | 15 min | Social | Re-ground the party; let them breathe |
-| 1 | **The next morning** — pay, shopping, prisoner, Arlen's note | 55 min | Social / city | Resolve Session 3's open threads; gear up |
+| 1 | **The next morning** — pay, shopping, prisoner, [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)\|Arlen]]'s note | 55 min | Social / city | Resolve Session 3's open threads; gear up |
 | 2 | **The road out** — travel montage and weather | 20 min | Exploration | Establish the coast and the stakes |
-| 3 | **The Tide Cut** — old road, old markers, a choice | 30 min | Exploration / hazard | First taste of the cliff |
-| 4 | **The Wind Stair** — skill challenge | 35 min | Skill challenge | Make the cliff feel earned |
-| 5 | **The Wrecked Mule** — Cartel recovery detail | 35 min | Social / combat | Faction face-time; the "gold man" clue |
-| 6 | **The Reef-Crawler Nest** — fight and rescue | 40 min | Combat | Attrition; a trapped fisherman |
-| 7 | **The Drowned Shrine** — the dead do not pass | 30 min | Lore / choice | [[cosmology_and_metaphysics\|Soul Crisis]] foreshadow |
+| 3 | **The [[#5. The Tide Cut (30 min)\|Tide Cut]]** — old road, old markers, a choice | 30 min | Exploration / hazard | First taste of the cliff |
+| 4 | **The [[#6. The Wind Stair (35 min)\|Wind Stair]]** — skill challenge | 35 min | Skill challenge | Make the cliff feel earned |
+| 5 | **The [[#7. The Wrecked Mule (35 min)\|Wrecked Mule]]** — [[the_archive_cartels\|Cartel]] recovery detail | 35 min | Social / combat | Faction face-time; the "gold man" clue |
+| 6 | **The [[#8. The Reef-Crawler Nest (40 min)\|Reef-Crawler Nest]]** — fight and rescue | 40 min | Combat | Attrition; a trapped fisherman |
+| 7 | **The [[#9. The Drowned Shrine (30 min)\|Drowned Shrine]]** — the dead do not pass | 30 min | Lore / choice | [[cosmology_and_metaphysics\|Soul Crisis]] foreshadow |
 | 8 | **Night camp** — watch, stories, omens | 25 min | Roleplay | Let the party become a crew |
-| 9 | **The Star Stair** — arrival and cliffhanger | 15 min | Exploration | End on the threshold |
+| 9 | **The [[#11. The Star Stair (15 min)\|Star Stair]]** — arrival and cliffhanger | 15 min | Exploration | End on the threshold |
 
-**Base total: 300 min.** Optional city, road, camp, and shrine scenes can fill a full 5 hours; trimming notes in §19. If you run a tight 4 hours, cut the Drowned Shrine and shorten the city half.
+**Base total: 300 min.** Optional city, road, camp, and shrine scenes can fill a full 5 hours; trimming notes in [[#19. Expansion & Trimming|§19]]. If you run a tight 4 hours, cut the Drowned Shrine and shorten the city half.
 
 ---
 
@@ -56,24 +61,24 @@ date: ""
 By the end of tonight, the table should:
 
 - Have **money, gear, and a clear route**.
-- Know **who the Cartels are** and that they are already ahead.
-- Have a **guide** (Tamsin) and a **reason to protect him**.
+- Know **who the [[the_archive_cartels|Cartels]] are** and that they are already ahead.
+- Have a **guide** ([[chapter_2_stair_and_star|Tamsin]]) and a **reason to protect him**.
 - Feel the **Sea Cliff Road** as a place, not a transition.
-- Arrive at the **Star Stair** with the sense that they are walking into someone else's operation.
+- Arrive at the **[[#11. The Star Stair (15 min)|Star Stair]]** with the sense that they are walking into someone else's operation.
 
-**Do not:** open the Star Chamber, run the puzzle, reveal Seraphel, name the Engine, or explain the Soul Crisis.
+**Do not:** open the Star Chamber, run the puzzle, reveal [[lord_seraphel|Seraphel]], name the Engine, or explain the [[cosmology_and_metaphysics#3.2 The Engine Wound and the Soul Crisis|Soul Crisis]].
 
 ---
 
 ## 1. Pre-Session Checklist (15 minutes)
 
-- [ ] Read the **Scope** and §19. The Star Chamber stays shut tonight.
-- [ ] Decide whether **Arlen's translation arrives by courier** (default) or must be bought from **Sella Orr** (fallback). If the party burned Arlen badly, use Sella.
+- [ ] Read the **Scope** and [[#19. Expansion & Trimming|§19]]. The Star Chamber stays shut tonight.
+- [ ] Decide whether **[[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]'s translation arrives by courier** (default) or must be bought from **[[chapter_2_stair_and_star|Sella Orr]]** (fallback). If the party burned Arlen badly, use Sella.
 - [ ] Decide whether the **captured Breaker** will talk. Default: yes, for better treatment, but he lies about one thing.
-- [ ] Have the **shopping list** (§3.7) and **pub rumours** (§3.8) ready. The city half of the session should feel alive.
-- [ ] Have the **road waypoints** (§5–§9) and **weather table** (§4.2) open.
-- [ ] Know the **reef-crawler** and **giant crab** blocks (§15). This is the night's main fight.
-- [ ] Clocks on scrap paper: **Helena's Charter [X][X][ ][ ]** (2/4), **Cartel Interference [X][ ][ ]** (1/3).
+- [ ] Have the **shopping list** ([[#3.7 Shopping (10 min)|§3.7]]) and **pub rumours** ([[#3.8 Pub rumours (d6)|§3.8]]) ready. The city half of the session should feel alive.
+- [ ] Have the **road waypoints** ([[#5. The Tide Cut (30 min)|§5]]–[[#9. The Drowned Shrine (30 min)|§9]]) and **weather table** ([[#4.2 Weather (roll each leg or choose)|§4.2]]) open.
+- [ ] Know the [[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawler]] and [[monsters_and_foes#Barnacle Mother (CR 1/8)|giant crab]] blocks. This is the night's main fight.
+- [ ] Clocks on scrap paper: **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s Charter [X][X][ ][ ]** (2/4), **[[the_archive_cartels|Cartel]] Interference [X][ ][ ]** (1/3).
 - [ ] Global clocks: **Soul Tide 0/6, Convergence 0/8, Censor's Shroud 0/4.** Nothing ticks tonight.
 - [ ] Decide whether **Tamsin** comes. Default: yes. He is the guide and the emotional core of the road.
 
@@ -81,7 +86,7 @@ By the end of tonight, the table should:
 
 ## 2. Recap and the Pub — That Night (15 min)
 
-Open in the **Salt-Lantern**, the same night Session 3 ended. The rain has not stopped. The fire is burning low, the tab is open, and the pub is quieter than it should be. Tamsin is at the table with a drink he is not finishing. Arlen's chair is still empty.
+Open in the **Salt-Lantern**, the same night Session 3 ended. The rain has not stopped. The fire is burning low, the tab is open, and the pub is quieter than it should be. [[chapter_2_stair_and_star|Tamsin]] is at the table with a drink he is not finishing. [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]'s chair is still empty.
 
 > *The door bangs. Nobody looks up. Somewhere behind the bar, Bess is counting cups that don't need counting. Tamsin's peg leg is propped on the bench beside him, and the whole room is carefully not staring at it.*
 
@@ -89,14 +94,14 @@ Open in the **Salt-Lantern**, the same night Session 3 ended. The rain has not s
 
 - *"What is the first thing your PC does now that the dust is out of their clothes?"*
 - *"Who buys the next round - and who doesn't drink?"*
-- *"What do you say to Tamsin about Wren, if anything?"*
-- *"Where is the Tablet tonight, and who is holding it?"*
+- *"What do you say to Tamsin about [[session_03_the_oath#13. NPCs at the Table|Wren]], if anything?"*
+- *"Where is the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]] tonight, and who is holding it?"*
 
 **What the room gives them:**
 
-- **Bess** tops up the fire and says the Warrens are already talking: a hole opened under Warehouse Nine, the Admiralty has sealed the cellar, and nobody agrees whether it was a collapse or a cover-up. She does not know more. She is not asking.
+- **Bess** tops up the fire and says the Warrens are already talking: a hole opened under [[port_meridian#2. The Salvage Warrens & Warehouse Nine|Warehouse Nine]], the [[port_meridian#5. The Admiralty Citadel|Admiralty]] has sealed the cellar, and nobody agrees whether it was a collapse or a cover-up. She does not know more. She is not asking.
 - Dockhands glance at the copper, the coat, and the peg leg, then find somewhere else to look. Word travels fast in a port; by morning, everyone will have heard a version.
-- **Tamsin** will answer direct questions about Wren, the road, and Rorik - but he is running on grief and cheap beer. Keep it short. Save the full counsel for the morning (§3.4).
+- **Tamsin** will answer direct questions about Wren, the road, and [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] - but he is running on grief and cheap beer. Keep it short. Save the full counsel for the morning ([[#3.4 Tamsin's counsel (10 min)|§3.4]]).
 
 **If they want to go back out tonight:** let them. The Exchange is shuttered, the Citadel lockup does not take visitors after dark, and the South Gate is closed until dawn. The city half is a morning job. Tonight is for planning, drinking, and deciding what they are willing to carry.
 
@@ -114,7 +119,7 @@ This is the city half of the session. It is not filler. It is where the party tu
 
 ### 3.1 Helena at the warehouse (15 min)
 
-Helena is at Warehouse Nine with a ledger, two porters, and a face like a closed door. The Admiralty has already been by. The cellar is sealed with a tarpaulin and a notice.
+[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]] is at [[port_meridian#2. The Salvage Warrens & Warehouse Nine|Warehouse Nine]] with a ledger, two porters, and a face like a closed door. The [[port_meridian#5. The Admiralty Citadel|Admiralty]] has already been by. The cellar is sealed with a tarpaulin and a notice.
 
 > *"You look like you slept in a hedge. Good. You can still walk."* (beat) *"The copper is certified. The rest of it is a conversation."*
 
@@ -123,14 +128,14 @@ Helena is at Warehouse Nine with a ledger, two porters, and a face like a closed
 - The Scriptorium collapse is being logged as a **structural failure**, not a crime scene.
 - The Admiralty has impounded the warehouse pending an inspection.
 - **The captured Breaker** was handed over and is in the citadel lockup. The magistrates are not sure what to charge him with.
-- **Arlen** has not been seen since the collapse. He has not been to the Astrolabe — the elite appraisal house on the Antiquities Exchange where he works.
+- **[[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]** has not been seen since the collapse. He has not been to the Astrolabe — the elite appraisal house on the [[port_meridian#3. The Antiquities Exchange|Antiquities Exchange]] where he works.
 - If anyone asks what the Astrolabe is, Helena snorts: *"Appraisal house. North side of the Exchange. Brass sign, brass manners. They stamp what's legal and file what isn't."*
-- A **man in townhouse livery** was asking after the party at the docks this morning. `[DM-ONLY: Seraphel's page. Do not name him.]`
+- A **man in townhouse livery** was asking after the party at the docks this morning. `[DM-ONLY: [[lord_seraphel|Seraphel]]'s page. Do not name him.]`
 
 **What she wants:**
 
-- The party to take the **Sea Cliff Road charter**: two days overland, six miles south, then down the old stair.
-- The **Tablet** kept quiet. She glimpsed it and let it go; she will not do it twice.
+- The party to take the **[[chapter_2_stair_and_star|Sea Cliff Road]] charter**: two days overland, six miles south, then down the old stair.
+- The **[[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]]** kept quiet. She glimpsed it and let it go; she will not do it twice.
 - A promise: *"If you find a book, you bring it to me before you sell it. I don't care what it's worth. I care what it says."*
 
 **The pay:**
@@ -157,10 +162,10 @@ The captured Breaker is in a cell under the Admiralty Citadel. The party can vis
 
 **What he knows (pick three; he trades one per concession):**
 
-- **The route:** the Cartels are using the old **Warehouse shaft** to reach the Star Chamber from below. They have a recovery detail on the Sea Cliff Road.
-- **Rorik:** Vance Rorik is not a true believer. He sells to whoever pays. He is **afraid of the "gold man"** and does not know his name.
-- **The gold man:** pays in **Ilya coin** with a **falcon and calipers** stamp. Buys **star-glass** and **pipe-metal**. Never meets in person. `[DM-ONLY: Seraphel's cutout.]`
-- **Wren:** *"Wren was all right. He talked too much. Rorik left him behind because the clamp wasn't worth the hour."* This is true, and it hurts Tamsin.
+- **The route:** the [[the_archive_cartels|Cartels]] are using the old **Warehouse shaft** to reach the Star Chamber from below. They have a recovery detail on the Sea Cliff Road.
+- **[[the_archive_cartels#3. Internal Syndicate Structure|Rorik]]:** Vance Rorik is not a true believer. He sells to whoever pays. He is **afraid of the "gold man"** and does not know his name.
+- **The gold man:** pays in **Ilya coin** with a **falcon and calipers** stamp. Buys **[[relics_and_artifacts#10. Star-Glass Lens|star-glass]]** and **pipe-metal**. Never meets in person. `[DM-ONLY: Seraphel's cutout.]`
+- **[[session_03_the_oath#13. NPCs at the Table|Wren]]:** *"Wren was all right. He talked too much. Rorik left him behind because the clamp wasn't worth the hour."* This is true, and it hurts Tamsin.
 - **The job:** they were told to recover the **Tablet** and any **star-glass**, not the books. The books were "for the fire."
 - **A lie:** he claims the Cartels have **twenty men** on the road. They have four. **DC 14 Insight** catches the exaggeration.
 
@@ -186,7 +191,7 @@ A courier finds them at the pub or the warehouse. The note is sealed with the Br
 
 **If the party has no note:** Sella Orr decodes the Tablet for **50 gp** and a favour. She is colder and more frightened than Arlen.
 
-**Handout:** §16.1.
+**Handout:** [[#16.1 Arlen's note|§16.1]].
 
 ### 3.4 Tamsin's counsel (10 min)
 
@@ -244,13 +249,13 @@ As they leave, a man in **townhouse livery** is standing under the awning across
 
 ### 3.7 Shopping (10 min)
 
-They have roughly **67 gp each**, plus anything they sold. Port Meridian is a port city; most mundane gear is available, but unusual items take a day.
+They have roughly **67 gp each**, plus anything they sold. [[port_meridian|Port Meridian]] is a port city; most mundane gear is available, but unusual items take a day.
 
 | Item | Price | Availability | Why it matters |
 |------|-------|--------------|----------------|
 | **Potion of Healing** | 50 gp | Common | The road is long |
 | **Healer's kit** | 5 gp | Common | Stabilise Tamsin or a stranger |
-| **Climber's kit** | 25 gp | Common | The Wind Stair |
+| **Climber's kit** | 25 gp | Common | The [[#6. The Wind Stair (35 min)\|Wind Stair]] |
 | **Rope, 100 ft** | 2 gp | Common | Cliff work |
 | **Crowbar** | 2 gp | Common | Doors, crates, stubborn mules |
 | **Chain shirt** | 50 gp | Common | Level-2 upgrade for an unarmoured PC |
@@ -278,10 +283,10 @@ Use these while they shop, drink, or ask around. Each is a hook, not a quest.
 |----|--------|-------|
 | 1 | *"Rorik's crew pulled out of the Warrens. Paid off their berths and bought climbing rope."* | True. They are heading for the cliff. |
 | 2 | *"A gold man was asking at the Exchange about a black stone with silver rings."* | True. Seraphel's cutout. |
-| 3 | *"The dead don't pass at the Reefs. My cousin saw a sailor walking into the water with no shadow."* | True. Soul Crisis. |
+| 3 | *"The dead don't pass at the Reefs. My cousin saw a sailor walking into the water with no shadow."* | True. [[cosmology_and_metaphysics#3.2 The Engine Wound and the Soul Crisis\|Soul Crisis]]. |
 | 4 | *"The Admiralty is going to make an example of someone. They've got a Breaker in the cells."* | True. The captured Breaker. |
 | 5 | *"[[major_allies_and_rivals\|Arlen Marr]]'s been sacked. He was seen carrying a folio out of the Astrolabe."* | Half-true. He took it; he has not been formally sacked yet. |
-| 6 | *"There's a fisherman missing off the Sea Cliff Road. Toby something. Good lad."* | True. He is in the reef-crawler nest (§8). |
+| 6 | *"There's a fisherman missing off the Sea Cliff Road. Toby something. Good lad."* | True. He is in the [[monsters_and_foes#Reef-Crawler (CR 1/2)\|reef-crawler]] nest ([[#8. The Reef-Crawler Nest (40 min)\|§8]]). |
 
 ### 3.9 Things to Do in Port Meridian
 
@@ -296,7 +301,7 @@ The city half of the session can absorb as much time as you give it. Use these m
 | 5 | **Missing dog** | Tenement alley | DC 12 Animal Handling or Investigation | A child's dog is stuck under a cart; rescuing it earns a grateful family and a free meal |
 | 6 | **Customs shakedown** | South Gate | DC 13 Deception or 10 gp bribe | A clerk wants to inspect their bags; the Codex is not with them yet, but the Tablet is. A good chance to test their cover story. |
 | 7 | **Old sailor's story** | The Salt-Lantern | Buy him a drink | He tells them about the **Star Chamber** — "a room under the sea where the stars are wrong." He has never been inside. |
-| 8 | **Map seller** | Gilded Docks | 15 gp | A partial chart of the Sea Cliff Road; advantage on navigation, but one section is deliberately wrong (DC 13 Investigation to spot) |
+| 8 | **Map seller** | [[port_meridian#1. The Gilded Docks & Admiralty Wharf\|Gilded Docks]] | 15 gp | A partial chart of the Sea Cliff Road; advantage on navigation, but one section is deliberately wrong (DC 13 Investigation to spot) |
 | 9 | **Cartel recruiter** | Alley behind the Exchange | DC 14 Insight | A well-dressed man offers "easy salvage work, good pay." He is recruiting for Rorik. The party can play along, refuse, or follow him. |
 | 10 | **Helena's porters** | Warehouse Nine | DC 12 Persuasion | The porters gossip: Helena has been offered a bribe to falsify the log. She refused. This humanises her. |
 
@@ -353,7 +358,7 @@ The road leaves the city through the **South Gate**, past the fish market and th
 
 - **Fast pace** (3 hours): −2 Perception, one level of exhaustion unless they rest at the camp.
 - **Normal pace** (4 hours): no penalty.
-- **Slow pace** (5 hours): advantage on Perception and Survival; they find the wrecked mule before the Cartels do.
+- **Slow pace** (5 hours): advantage on Perception and Survival; they find the wrecked mule before the [[the_archive_cartels|Cartels]] do.
 
 **Marching order matters.** Ask who is in front, who is in the middle, who is at the back, and who is watching the sea.
 
@@ -385,7 +390,7 @@ Use one or two between waypoints. They are flavour with a small choice.
 
 ### 4.4 Navigation
 
-**DC 12 Survival** (or **DC 10** with the Sea Cliff chart) to keep to the old road when the weather turns. Failure costs **1 hour** and adds a random travel sighting. Tamsin grants advantage if he is with them.
+**DC 12 Survival** (or **DC 10** with the Sea Cliff chart) to keep to the old road when the weather turns. Failure costs **1 hour** and adds a random travel sighting. [[chapter_2_stair_and_star|Tamsin]] grants advantage if he is with them.
 
 ### 4.5 Road activities
 
@@ -401,7 +406,7 @@ The road is not just a skill challenge. Give the players something to **do** bet
 | **Cook**              | DC 12 Survival                              | A hot meal; the camp is cheerful, and the night's rest is better                                 |
 | **Tell stories**      | No check                                    | A roleplay scene; ask each PC for a story from before the campaign                               |
 | **Train**             | 1 hour                                      | A sparring scene; no mechanical benefit, but it builds character and lets the monk/cleric shine  |
-| **Keep watch**        | Perception                                  | See §10.3                                                                                        |
+| **Keep watch**        | Perception                                  | See [[#10.3 Night encounters (d6)\|§10.3]]                                                                                        |
 | **Track the Cartels** | DC 14 Survival                              | Confirm the Cartel numbers, the mule, and the direction of travel                                |
 
 **Rule:** a failed activity does not stop the journey. It creates a small complication: a lost hour, a spoiled meal, a twisted ankle, or a rumour that the Cartels are closer than they were.
@@ -413,19 +418,19 @@ Use one or two. They are not filler; each gives the party a choice.
 #### A. The peddler
 A **half-elf peddler** with a handcart, a lame donkey, and a licence that expired last year. She sells **minor potions**, **lamp oil**, **rope**, and **rumours**. She is also a **Cartel informant** — not by choice; they have her daughter.
 
-**What she knows:** the Cartels are camped below the Star Stair. Rorik is coming at dawn. There is a **back entrance** through the sea cave.
+**What she knows:** the Cartels are camped below the [[#11. The Star Stair (15 min)|Star Stair]]. [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] is coming at dawn. There is a **back entrance** through the sea cave.
 
 **How to help her:** pay her **50 gp** (she can buy her daughter's passage), or **DC 14 Persuasion** to convince the local magistrate to intervene. If the party helps her, she warns them about the Cartel sentry.
 
 #### B. The wrecked fishing boat
-A boat has been driven onto the rocks. A **young fisherman** is clinging to the hull, and a **reef-crawler** is in the water below.
+A boat has been driven onto the rocks. A **young fisherman** is clinging to the hull, and a **[[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawler]]** is in the water below.
 
 **Rescue:** **DC 13 Athletics** to reach him, **DC 12 Medicine** to treat his wounds, or **DC 14 Animal Handling** to distract the crawler with bait. Success: he is grateful and gives them a **pearl** (25 gp) and a **rumour** about the Star Chamber. Failure: he is swept out; a PC can dive for him (**DC 14 Athletics**) at the cost of a level of exhaustion.
 
 #### C. The Admiralty patrol
 A **sergeant and two guards** are checking the road for "unlicensed salvage." They are bored, not corrupt.
 
-- **Declare the Tablet:** DC 13 Persuasion; they log it but let the party pass. **+1 Helena's Charter.**
+- **Declare the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]]:** DC 13 Persuasion; they log it but let the party pass. **+1 [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]]'s Charter.**
 - **Hide it:** DC 13 Deception; success, but the sergeant remembers their faces.
 - **Bribe:** 20 gp; they take it and leave. No tick, but they are now compromised.
 - **Fight:** a bad idea. They are lawful, and the party is already in enough legal trouble.
@@ -452,8 +457,8 @@ The road narrows where the cliff has slumped into the sea. A **cut** has been bl
 | 1 | **Marker stones** | DC 12 History or Investigation | Pre-Silence tide-marks; the cut was maintained for centuries |
 | 2 | **Barnacle crust** | DC 10 Acrobatics | Slick; failure = 1d4 slashing and a torn boot |
 | 3 | **A blocked side-niche** | DC 13 Athletics to clear | A **barnacle-crusted strongbox** (35 gp, a sailor's locket, a water-ruined letter) |
-| 4 | **A recent bootprint** | DC 12 Survival | Cartel boot, nailed heel, heading south — ahead of them |
-| 5 | **A dead gull** | DC 12 Arcana or Religion | Its shadow is wrong — a flicker of violet. Soul Crisis foreshadow |
+| 4 | **A recent bootprint** | DC 12 Survival | [[the_archive_cartels\|Cartel]] boot, nailed heel, heading south — ahead of them |
+| 5 | **A dead gull** | DC 12 Arcana or Religion | Its shadow is wrong — a flicker of violet. [[cosmology_and_metaphysics#3.2 The Engine Wound and the Soul Crisis\|Soul Crisis]] foreshadow |
 | 6 | **The far drop** | DC 12 Athletics or Acrobatics | 6-ft drop; failure = 1d6 bludgeoning and a loud splash |
 
 ### 5.3 The tide
@@ -468,7 +473,7 @@ If the party lingers, the tide comes in. Give them **three rounds** of warning: 
 
 ### 5.4 Optional encounter: the cut scavengers
 
-Two **reef-crawlers** are feeding on the dead gull. They attack if the party approaches the strongbox or makes a loud noise. This is a short fight (2 rounds) and a taste of the nest in §8. If you want to keep the night moving, skip it and save the crawlers for the nest.
+Two **[[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawlers]]** are feeding on the dead gull. They attack if the party approaches the strongbox or makes a loud noise. This is a short fight (2 rounds) and a taste of the nest in [[#8. The Reef-Crawler Nest (40 min)|§8]]. If you want to keep the night moving, skip it and save the crawlers for the nest.
 
 ### 5.5 Tide Cut variants
 
@@ -507,7 +512,7 @@ The old road ends at a **stair cut into the cliff face**: 180 steps, slick with 
 | **Climb carefully** | DC 12 Athletics | Progress | Slip; 1d6 bludgeoning, lose 10 ft |
 | **Belay the others** | DC 12 Athletics or Survival | Advantage for one ally | Rope slips; that ally rolls at disadvantage |
 | **Scout the route** | DC 13 Perception | Spot a safe line; +1 success | Miss a loose step; the next check is at disadvantage |
-| **Steady Tamsin** | DC 12 Medicine or Persuasion | He makes it; +1 success | He stumbles; 1d4 and a delay |
+| **Steady [[chapter_2_stair_and_star\|Tamsin]]** | DC 12 Medicine or Persuasion | He makes it; +1 success | He stumbles; 1d4 and a delay |
 | **Use the sea cave** | DC 14 Investigation | Find a lower, safer route; skip one failure | Dead end; lose 10 minutes |
 | **Magic** | *Feather Fall*, *Spider Climb*, etc. | Automatic success, but mark the slot | — |
 
@@ -520,13 +525,13 @@ The old road ends at a **stair cut into the cliff face**: 180 steps, slick with 
 
 ### 6.3 The rope
 
-The rope is old but usable. **DC 12 Investigation:** it was **replaced recently** in two places — modern hemp, clean knots. The Cartels have been this way. Tamsin recognises the knot: *"Rorik's crew. They always double-back."*
+The rope is old but usable. **DC 12 Investigation:** it was **replaced recently** in two places — modern hemp, clean knots. The [[the_archive_cartels|Cartels]] have been this way. Tamsin recognises the knot: *"[[the_archive_cartels#3. Internal Syndicate Structure|Rorik]]'s crew. They always double-back."*
 
 ### 6.4 The view
 
-At the bottom, the cliff opens onto a **shore ledge** of wet basalt and bladderwrack. The old road continues south along the shelf. Further along, a **dark cut** in the cliff marks the Star Stair — too far to see detail, but the gulls avoid it.
+At the bottom, the cliff opens onto a **shore ledge** of wet basalt and bladderwrack. The old road continues south along the shelf. Further along, a **dark cut** in the cliff marks the [[#11. The Star Stair (15 min)|Star Stair]] — too far to see detail, but the gulls avoid it.
 
-**Do not describe the brass door yet.** That is the cliffhanger in §11. Tonight the party still has the mule, the nest, the shrine, and a camp between them and the door.
+**Do not describe the brass door yet.** That is the cliffhanger in [[#11. The Star Stair (15 min)|§11]]. Tonight the party still has the mule, the nest, the shrine, and a camp between them and the door.
 
 ---
 
@@ -534,25 +539,25 @@ At the bottom, the cliff opens onto a **shore ledge** of wet basalt and bladderw
 
 ### 7.1 The scene
 
-A **Cartel mule** has gone lame on the road and been abandoned. The cart is tipped into the drainage ditch, one wheel broken. Two **Thugs** are trying to lever it out; a **Scout** is perched on a rock, watching the road. They have not seen the party.
+A **[[the_archive_cartels|Cartel]] mule** has gone lame on the road and been abandoned. The cart is tipped into the drainage ditch, one wheel broken. Two **Thugs** are trying to lever it out; a **Scout** is perched on a rock, watching the road. They have not seen the party.
 
 > *A mule stands in the road with its head down, one foreleg held wrong. A cart lies on its side in the ditch. Two men are arguing about a wheel. A third is sitting on a rock with a crossbow across his knees, looking bored.*
 
 ### 7.2 What they want
 
 - To get the cart moving again.
-- To get back to the Star Stair before Rorik notices they are late.
+- To get back to the [[#11. The Star Stair (15 min)|Star Stair]] before [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] notices they are late.
 - Not to die on a cliff road for a cart.
 
 ### 7.3 Resolution paths
 
-**A. Parley (DC 13 Persuasion, DC 15 if Tamsin is visible).** They are not loyal. They will trade information for a share of the party's food, a healing potion, or a promise not to kill them.
+**A. Parley (DC 13 Persuasion, DC 15 if [[chapter_2_stair_and_star|Tamsin]] is visible).** They are not loyal. They will trade information for a share of the party's food, a healing potion, or a promise not to kill them.
 
 What they know:
 - *"Rorik's got a crew inside the Star Chamber. Been there two days."*
-- *"The gold man pays triple for star-glass. Rorik doesn't ask what for."*
+- *"The gold man pays triple for [[relics_and_artifacts#10. Star-Glass Lens|star-glass]]. Rorik doesn't ask what for."*
 - *"There's a way in from the sea cave, but the tide's a bastard."*
-- *"The big man is called Kael. He's the one with the hammer. Don't fight him in the water."*
+- *"The big man is called [[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]]. He's the one with the hammer. Don't fight him in the water."*
 
 **B. Ambush (DC 13 Stealth).** The party gets a surprise round. The Scout flees at half HP; the Thugs surrender at 10 HP or less.
 
@@ -560,7 +565,7 @@ What they know:
 
 **D. Trickery (DC 14 Deception).** Convince them the road is closed by a landslide and the party is the inspection team. They leave. No tick, but they are suspicious.
 
-**E. Fight.** Use the blocks in §15. The Scout runs for the Star Stair if he can; if he reaches it, the Cartels inside are warned (Session 5 starts with them prepared).
+**E. Fight.** Use the [[monsters_and_foes#Cartel Scout (CR 1/2)|Cartel Scout]] and [[monsters_and_foes#Cartel Thug (CR 1/2)|Cartel Thug]] blocks. The Scout runs for the Star Stair if he can; if he reaches it, the Cartels inside are warned (Session 5 starts with them prepared).
 
 ### 7.4 The mule
 
@@ -569,17 +574,17 @@ The mule is named **Bramble**. It is lame, frightened, and carrying **Cartel sup
 - 2 **healing potions**.
 - A coil of **muffled climbing rope**.
 - A **survey chit** with the split-coin mark.
-- A **sealed order** (handout §16.3): *"Recover the black stone and any star-glass. Burn the books. Do not engage the scholar."* Signed with a split-coin, not a name.
+- A **sealed order** (handout [[#16.3 The Cartel order|§16.3]]): *"Recover the black stone and any star-glass. Burn the books. Do not engage the scholar."* Signed with a split-coin, not a name.
 
-**If they calm the mule (DC 12 Animal Handling):** they can keep it. It is slow but sturdy, and it can carry the Codex in Session 5. If they mistreat it, it kicks (1d4) and runs off.
+**If they calm the mule (DC 12 Animal Handling):** they can keep it. It is slow but sturdy, and it can carry the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Codex]] in Session 5. If they mistreat it, it kicks (1d4) and runs off.
 
 **If they heal the mule (DC 12 Medicine or a healing potion):** it will follow them. Give the party a **pack mule** for the rest of the chapter. This is a real reward: it solves the Codex's weight problem in Session 5.
 
 ### 7.5 The order's implications
 
-The order says **"do not engage the scholar."** That means the Cartels were told not to touch Arlen. Someone wants him alive and useful. **DC 14 Insight:** the order is not Rorik's usual style. It reads like it was written by someone who expects to be obeyed.
+The order says **"do not engage the scholar."** That means the Cartels were told not to touch [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]. Someone wants him alive and useful. **DC 14 Insight:** the order is not Rorik's usual style. It reads like it was written by someone who expects to be obeyed.
 
-`[DM-ONLY: Seraphel's cutout protects Arlen because he can still translate. Do not confirm.]`
+`[DM-ONLY: [[lord_seraphel|Seraphel]]'s cutout protects Arlen because he can still translate. Do not confirm.]`
 
 ---
 
@@ -587,7 +592,7 @@ The order says **"do not engage the scholar."** That means the Cartels were told
 
 ### 8.1 The place
 
-Below the road, a **tidal shelf** is cut off at high tide. The party can reach it by a **short climb** (DC 12 Athletics) or by waiting for low tide. The shelf is strewn with **bones, shells, and a broken fishing boat**. A **reef-crawler nest** is wedged under the overhang.
+Below the road, a **tidal shelf** is cut off at high tide. The party can reach it by a **short climb** (DC 12 Athletics) or by waiting for low tide. The shelf is strewn with **bones, shells, and a broken fishing boat**. A **[[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawler]] nest** is wedged under the overhang.
 
 **Read-aloud:**
 
@@ -603,9 +608,9 @@ Below the road, a **tidal shelf** is cut off at high tide. The party can reach i
 
 **What Toby knows:**
 
-- The Cartels came through yesterday, **four men and a mule**, heading for the Star Stair.
+- The [[the_archive_cartels|Cartels]] came through yesterday, **four men and a mule**, heading for the [[#11. The Star Stair (15 min)|Star Stair]].
 - They had a **big man with a hammer** and a **thin man with a ledger**.
-- They threw something **heavy and cold** into the sea — *"like a piece of star, but dark."* `[DM-ONLY: star-glass. A clue, not a quest.]`
+- They threw something **heavy and cold** into the sea — *"like a piece of star, but dark."* `[DM-ONLY: [[relics_and_artifacts#10. Star-Glass Lens|star-glass]]. A clue, not a quest.]`
 - The **tide** comes in fast here. *"If you're going down the stair, go now."*
 
 **Reward:** Toby's family offers **20 gp**, a **string of fresh fish**, and a **safe house** in the village if the party ever needs one.
@@ -615,8 +620,8 @@ Below the road, a **tidal shelf** is cut off at high tide. The party can reach i
 The crawlers attack when the party reaches the wreck or lifts the timber.
 
 **Encounter (level 2, hard):**
-- **3× Reef-Crawler** (CR 1/2).
-- **1× Barnacle Mother** — use **Giant Crab** with **+4 HP** and a **shell-crack screech** (see §15).
+- **3× [[monsters_and_foes#Reef-Crawler (CR 1/2)|Reef-Crawler]]** (CR 1/2).
+- **1× [[monsters_and_foes#Barnacle Mother (CR 1/8)|Barnacle Mother]]** — Giant Crab with +4 HP and a shell-crack screech.
 
 **Terrain:**
 
@@ -625,7 +630,7 @@ The crawlers attack when the party reaches the wreck or lifts the timber.
 - **Wreck:** half cover; a PC can climb onto it (DC 12 Athletics) for advantage on ranged attacks.
 - **Barnacle razors:** melee attackers take **2 (1d4) slashing** when they hit a crawler.
 
-**Tactics:** the crawlers try to grapple and drag a PC into the pool. The Barnacle Mother guards the nest and does not pursue. If reduced to half HP, the crawlers scatter into the sea.
+**Tactics:** the crawlers try to grapple and drag a PC into the pool. The [[monsters_and_foes#Barnacle Mother (CR 1/8)|Barnacle Mother]] guards the nest and does not pursue. If reduced to half HP, the crawlers scatter into the sea.
 
 **Morale:** if the Barnacle Mother dies, the remaining crawlers flee. If two crawlers die, the last one flees.
 
@@ -638,7 +643,7 @@ After the fight, the nest holds:
 - A **star-glass shard** (25 gp; cold; a Cartel buyer would pay 75 gp, but Sella warns it is "unlucky").
 - A **water-ruined logbook** from the fishing boat, with a page that reads: *"The star fell into the sea last night. The men won't go out."*
 
-**If they return the locket to Toby:** he tells them about a **hidden path** up the cliff that bypasses the Wind Stair (advantage on the next travel check, or skip one hazard). He also promises to keep quiet about the party's faces.
+**If they return the locket to Toby:** he tells them about a **hidden path** up the cliff that bypasses the [[#6. The Wind Stair (35 min)|Wind Stair]] (advantage on the next travel check, or skip one hazard). He also promises to keep quiet about the party's faces.
 
 ### 8.5 Reef-crawler variants
 
@@ -649,9 +654,9 @@ Adjust the fight to the party's choices and the clock.
 | **The party is fresh and confident** | Add a second **Barnacle Mother** (use Giant Crab) or 2 more crawlers |
 | **The party is wounded** | Remove one crawler; the Barnacle Mother does not pursue |
 | **They rescued Toby first** | Toby warns them; they get a surprise round |
-| **They made noise at the Tide Cut** | The crawlers are already fed and sluggish; they have **disadvantage** on the first attack |
+| **They made noise at the [[#5. The Tide Cut (30 min)\|Tide Cut]]** | The crawlers are already fed and sluggish; they have **disadvantage** on the first attack |
 | **Cartel Interference is 3** | A Cartel Scout is on the cliff above, watching. He does not help; he reports. |
-| **They brought Tamsin** | He holds the rope and keeps Toby calm; the party gets **advantage** on one check to free Toby |
+| **They brought [[chapter_2_stair_and_star\|Tamsin]]** | He holds the rope and keeps Toby calm; the party gets **advantage** on one check to free Toby |
 | **They have a mule** | The mule panics; **DC 12 Animal Handling** to keep it from bolting with their gear |
 
 ### 8.6 The nest's secret
@@ -668,7 +673,7 @@ If the party searches the nest carefully (**DC 14 Investigation**), they find a 
 
 ### 9.1 The place
 
-A **shrine-niche** is cut into the cliff above the tide line: a shallow alcove with a stone bowl, a weathered figure of **Myrraen with a covered lantern**, and a scatter of modern offerings — coins, a child's shoe, a dried wreath.
+A **shrine-niche** is cut into the cliff above the tide line: a shallow alcove with a stone bowl, a weathered figure of **[[the_church_of_the_last_light|Myrraen]] with a covered lantern**, and a scatter of modern offerings — coins, a child's shoe, a dried wreath.
 
 **Read-aloud:**
 
@@ -680,7 +685,7 @@ As the party approaches, a **drowned sailor's shade** rises from the pool below:
 
 > *"I paid the fare. I paid the fare. Why won't it take me?"*
 
-**What it is:** a Soul Crisis manifestation. A man who died at sea and did not pass. **Do not explain the mechanism.** Do not name the Engine.
+**What it is:** a [[cosmology_and_metaphysics#3.2 The Engine Wound and the Soul Crisis|Soul Crisis]] manifestation. A man who died at sea and did not pass. **Do not explain the mechanism.** Do not name the Engine.
 
 ### 9.3 What the party can do
 
@@ -694,16 +699,16 @@ As the party approaches, a **drowned sailor's shade** rises from the pool below:
 
 **If laid to rest:** the shade says, *"Tell her I kept the light."* The stone lantern in the niche flickers once. Each PC gains **one-time inspiration** (or a **+1d6 radiant** bonus on one attack/save, DM's choice). This is a real reward for engaging with the world.
 
-**If robbed:** taking the coins (12 gp) is easy. The shade watches. At the next long rest, each PC has a **nightmare**; no mechanical penalty, but Tamsin notices and says, *"You shouldn't have done that."* If you want a consequence, the next rest does not restore one Hit Die.
+**If robbed:** taking the coins (12 gp) is easy. The shade watches. At the next long rest, each PC has a **nightmare**; no mechanical penalty, but [[chapter_2_stair_and_star|Tamsin]] notices and says, *"You shouldn't have done that."* If you want a consequence, the next rest does not restore one Hit Die.
 
 ### 9.4 The offerings
 
 - **12 gp** in old coins.
 - A **child's shoe** (no value; deeply human).
 - A **dried wreath** (no value; a keepsake).
-- A **prayer fragment** (handout §16.5): *"Keep the light. Keep the account. Let the sea give back what it took."*
+- A **prayer fragment** (handout [[#16.5 The shrine prayer|§16.5]]): *"Keep the light. Keep the account. Let the sea give back what it took."*
 
-**DM note:** this scene is the chapter's emotional counterweight to the Cartel greed. Let it breathe. If the party is rushing, cut it — but if they engage, it is one of the best scenes of the night.
+**DM note:** this scene is the chapter's emotional counterweight to the [[the_archive_cartels|Cartel]] greed. Let it breathe. If the party is rushing, cut it — but if they engage, it is one of the best scenes of the night.
 
 ---
 
@@ -715,20 +720,20 @@ The only safe ledge is a **dry overhang** above the tide line, with old fire-sca
 
 **Choices:**
 
-- **Fire or no fire:** a fire keeps them warm and boosts morale; it is visible from the road. **DC 13 Stealth** to keep it hidden, or accept a possible Cartel patrol.
-- **Watch order:** ask who takes which watch. Use the night encounter table (§10.3).
+- **Fire or no fire:** a fire keeps them warm and boosts morale; it is visible from the road. **DC 13 Stealth** to keep it hidden, or accept a possible [[the_archive_cartels|Cartel]] patrol.
+- **Watch order:** ask who takes which watch. Use the night encounter table ([[#10.3 Night encounters (d6)|§10.3]]).
 - **Shelter:** a **DC 12 Survival** check gives advantage on the night's rest; failure means a cold, miserable night (no mechanical penalty, but good roleplay).
 
 ### 10.2 Tamsin's story (roleplay scene)
 
-If Tamsin is with them, he talks. Let a player ask; don't force it.
+If [[chapter_2_stair_and_star|Tamsin]] is with them, he talks. Let a player ask; don't force it.
 
 > *"Wren talked too much. That's why Rorik left him. Not because he was a liability — because he asked questions Rorik didn't want answered."* (beat) *"I should have gone back. I told myself the clamp was worth more than a man. I was wrong."*
 
 **Questions he can answer:**
 
-- **What is Rorik like?** *"Patient. Polite. He'll offer you a drink before he decides whether to kill you."*
-- **Why did Wren stay?** *"He thought the Archive was proof. Proof that we weren't just grave-robbers. He wanted to show the world."*
+- **What is [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] like?** *"Patient. Polite. He'll offer you a drink before he decides whether to kill you."*
+- **Why did [[session_03_the_oath#13. NPCs at the Table|Wren]] stay?** *"He thought the Archive was proof. Proof that we weren't just grave-robbers. He wanted to show the world."*
 - **What does Tamsin want now?** *"To get the book. To make it mean something."*
 - **Will he go back to the Breakers?** *"Not while Rorik's alive."*
 
@@ -785,8 +790,8 @@ If a PC sleeps, roll or choose one. These are atmospheric, not mechanical. Use t
 | 1 | **A door under the sea**, opening onto a room full of stars | The Star Chamber; a warning or an invitation |
 | 2 | **A ledger with your name in it**, written in a hand you recognise | The city's account; someone is keeping track |
 | 3 | **Wren**, alive, sitting at a desk, writing. He looks up and says, *"You're late."* | Grief; the dead are not gone |
-| 4 | **A man in midnight-blue**, offering you a lamp | Seraphel; the patron who is already watching |
-| 5 | **The sea**, flat and grey, with a single violet light moving under it | The Soul Crisis; the drowned are not passing |
+| 4 | **A man in midnight-blue**, offering you a lamp | [[lord_seraphel\|Seraphel]]; the patron who is already watching |
+| 5 | **The sea**, flat and grey, with a single violet light moving under it | The [[cosmology_and_metaphysics#3.2 The Engine Wound and the Soul Crisis\|Soul Crisis]]; the drowned are not passing |
 | 6 | **Your own face**, older, wearing a coat that is not yours | The cost of the road; a warning about what they become |
 
 **If a player engages with the dream:** let them describe it. Ask what their PC does when they wake. Give inspiration for a strong answer.
@@ -809,7 +814,7 @@ The road ends at a **cut in the cliff** that leads down to the sea cave. The tid
 |-------|--------|
 | **DC 12 Perception** | Two voices, one deeper; the sound of something heavy being dragged |
 | **DC 13 Stealth** | Get to the door without being heard |
-| **DC 14 Investigation** | Fresh pry marks; the Cartels forced the door in the last day |
+| **DC 14 Investigation** | Fresh pry marks; the [[the_archive_cartels\|Cartels]] forced the door in the last day |
 | **DC 12 Survival** | Four sets of boots, a mule, and something dragged — the Cartels are inside |
 | **DC 15 Arcana** | The door's brass is warm; the air beyond is dry and still. Something old is working |
 
@@ -819,7 +824,7 @@ End the session **before** they enter. Ask:
 
 - *"Who goes first?"*
 - *"Do you light a torch, or trust the dark?"*
-- *"What do you do with Tamsin?"*
+- *"What do you do with [[chapter_2_stair_and_star|Tamsin]]?"*
 
 **Do not** roll initiative. Do not open the door. The last image is the lantern moving deeper into the dark.
 
@@ -831,7 +836,7 @@ If the party arrives early, explores, or camps a second night, use one of these.
 A **gull nest** on a ledge below the road, full of **stolen trinkets**: a silver ring (10 gp), a fish-hook, a child's doll, and a **brass key** that opens nothing the party has found. **DC 12 Athletics** to climb down; **DC 12 Animal Handling** to calm the gulls. The key is a Chapter 3 hook.
 
 #### B. The smuggler's cache
-A **DC 14 Investigation** check near the Tide Cut finds a **false stone** in the wall. Behind it: a **waterproof satchel** with 30 gp, a **potion of healing**, a **blank Cartel survey chit**, and a **note**: *"If you're reading this, the tide got you. The back way is through the sea cave. Don't trust the gold man."*
+A **DC 14 Investigation** check near the [[#5. The Tide Cut (30 min)|Tide Cut]] finds a **false stone** in the wall. Behind it: a **waterproof satchel** with 30 gp, a **potion of healing**, a **blank Cartel survey chit**, and a **note**: *"If you're reading this, the tide got you. The back way is through the sea cave. Don't trust the gold man."*
 
 #### C. The broken aqueduct
 An old **Pre-Silence aqueduct** runs along the cliff, cracked and dry. **DC 13 History/Arcana:** it once carried water inland. **DC 14 Investigation:** the copper lining has been **stripped recently** — by the Cartels. A **DC 13 Athletics** climb lets the party follow it for a shortcut (skip one travel encounter), but the Cartels have left a **tripwire** (DC 12 Perception to spot; 1d6 piercing and a loud bell if triggered).
@@ -840,11 +845,11 @@ An old **Pre-Silence aqueduct** runs along the cliff, cracked and dry. **DC 13 H
 At night, a **violet light** moves over the water below the cliff. It is not a lantern. **DC 13 Arcana/Religion:** it is a **soul-light**, a drowned memory. If the party signals it, it signals back. If they follow it, it leads them to a **drowned shrine** with a **pearl** (25 gp) and a **warning**: *"The sea remembers what the city forgets."* No combat, no explanation.
 
 #### E. The Cartel deserter
-A **young Breaker** is hiding in a cave, deserting Rorik's crew. He is cold, scared, and unarmed. He can trade information for food and a promise of safety:
+A **young Breaker** is hiding in a cave, deserting [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]]'s crew. He is cold, scared, and unarmed. He can trade information for food and a promise of safety:
 
-- *"Kael's inside. He's not a bad man. He's just tired."*
+- *"[[monsters_and_foes#Kael, Cartel Salvage Captain (CR 2)|Kael]]'s inside. He's not a bad man. He's just tired."*
 - *"Rorik's coming at dawn with a boat. He wants the glass, not the book."*
-- *"There's a man in the Admiralty. Osk. He sells information."*
+- *"There's a man in the [[port_meridian#5. The Admiralty Citadel|Admiralty]]. Osk. He sells information."*
 
 If the party helps him, he disappears. If they turn him in, the Cartels learn they are on the road.
 
@@ -856,18 +861,20 @@ If the party helps him, he disappears. If they turn him in, the Cartels learn th
 | **Pearl** | Drowned shrine | 25 gp | Cold, faintly violet |
 | **Cartel survey chit** | Smuggler's cache | — | Evidence; a blank chit can be forged (DC 14) |
 | **Brass key** | Gull nest | — | Opens nothing here; a Chapter 3 hook |
-| **Star-glass shard** | Tidal pool | 25 gp | Cold; a Cartel buyer would pay 75 gp |
+| **[[relics_and_artifacts#10. Star-Glass Lens\|Star-glass]] shard** | Tidal pool | 25 gp | Cold; a Cartel buyer would pay 75 gp |
 | **Old coin** | Tide Cut strongbox | 5 gp each | Pre-Silence stamp; a collector pays double |
 | **Potion of water breathing** | Smuggler's cache | 100 gp | One dose; useful in the sea cave |
 
 ---
 
+> **Reference —** [[#12. Clocks|12 Clocks]] • [[#13. NPCs at the Table|13 NPCs]] • [[#14. If / Then|14 If/Then]] • [[#15. Encounter Blocks|15 Encounters]] • [[#16. Handouts|16 Handouts]] • [[#17. Closing the Night|17 Closing]] • [[#18. What This Session Must Accomplish|18 Must Accomplish]] • [[#19. Expansion & Trimming|19 Trimming]] • [[#20. DM Quick Reference|20 Quick Ref]] • [[#21. Table Tracker|21 Tracker]]
+
 ## 12. Clocks
 
 | Clock | Start | Tick tonight if... | At max |
 |-------|-------|--------------------|--------|
-| **Helena's Charter** | 2/4 | A loud fight on the road; a day lost; the party is publicly seen with the Tablet; the mule/cart is abandoned in the road | The Admiralty leans on Helena; the Inquest in Session 6 is harder |
-| **Archive Cartel Interference** | 1/3 | Parley with the recovery detail; witnesses left alive; the party's faces are reported; the Scout escapes | The Star Chamber fight in Session 5 is reinforced |
+| **[[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]]'s Charter** | 2/4 | A loud fight on the road; a day lost; the party is publicly seen with the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Tablet]]; the mule/cart is abandoned in the road | The [[port_meridian#5. The Admiralty Citadel\|Admiralty]] leans on Helena; the Inquest in Session 6 is harder |
+| **Archive [[the_archive_cartels\|Cartel]] Interference** | 1/3 | Parley with the recovery detail; witnesses left alive; the party's faces are reported; the Scout escapes | The Star Chamber fight in Session 5 is reinforced |
 | **Soul Tide** | 0/6 | Do not tick in [[act_I_overview\|Act I]] | — |
 | **Convergence** | 0/8 | Do not tick in Act I | — |
 | **Censor's Shroud** | 0/4 | Do not tick in Act I | — |
@@ -917,10 +924,10 @@ Polite, patient, and always writing.
 
 | Situation | Response |
 |-----------|----------|
-| **The party skips the city half** | They arrive on the road without gear or a guide. Let them feel it: disadvantage on the Wind Stair, no healing potions, Tamsin resentful. |
-| **They try to sell the Tablet** | Sella refuses. A Cartel fence offers 150 gp and reports them. **+1 Cartel Interference.** |
+| **The party skips the city half** | They arrive on the road without gear or a guide. Let them feel it: disadvantage on the [[#6. The Wind Stair (35 min)\|Wind Stair]], no healing potions, [[chapter_2_stair_and_star\|Tamsin]] resentful. |
+| **They try to sell the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Tablet]]** | Sella refuses. A [[the_archive_cartels\|Cartel]] fence offers 150 gp and reports them. **+1 Cartel Interference.** |
 | **They visit the prisoner and threaten him** | He gives one answer and shuts down. The route clue is lost; they must find the Cartels on the road. |
-| **They befriend the prisoner** | He warns them about the Cartel man inside the Admiralty. This pays off in Session 6. |
+| **They befriend the prisoner** | He warns them about the Cartel man inside the [[port_meridian#5. The Admiralty Citadel\|Admiralty]]. This pays off in Session 6. |
 | **They bring Tamsin** | He guides them and raises parley DCs by 2. He is recognised by the Cartel Scout. |
 | **They leave Tamsin behind** | He is safe but resentful. He can appear at the Inquest as a witness. |
 | **They parley with the Cartel detail** | They get the route and the "gold man" clue, but **+1 Cartel Interference**. |
@@ -928,57 +935,23 @@ Polite, patient, and always writing.
 | **They rescue Toby** | He gives them the hidden path and a safe house. If they return the locket, give inspiration. |
 | **They rob the shrine** | The shade follows them. No mechanical penalty, but Tamsin notices and the camp is uneasy. |
 | **They lay the shade to rest** | One-time inspiration or a +1d6 radiant blessing. A genuine reward for engaging. |
-| **They run long** | Cut the Drowned Shrine or shorten the camp to one scene. **Do not cut the Wind Stair or the Cartel detail.** |
-| **They run short** | Add the optional reef-crawler fight at the Tide Cut, a full shopping scene, and a night encounter. |
+| **They run long** | Cut the [[#9. The Drowned Shrine (30 min)\|Drowned Shrine]] or shorten the camp to one scene. **Do not cut the Wind Stair or the Cartel detail.** |
+| **They run short** | Add the optional [[monsters_and_foes#Reef-Crawler (CR 1/2)\|reef-crawler]] fight at the [[#5. The Tide Cut (30 min)\|Tide Cut]], a full shopping scene, and a night encounter. |
 | **They try to go straight to the Star Chamber** | The door is half-open and the Cartels are inside. They can enter, but Session 5 starts with the Cartels prepared and the party at half resources. |
 
 ---
 
 ## 15. Encounter Blocks
 
-### Reef-Crawler (CR 1/2) — 3×
-*Medium Monstrosity, unaligned*
-**AC** 14 (barnacle shell) • **HP** 19 (3d8+6) • **Speed** 30 ft., swim 30 ft.
-**STR** 14 (+2) **DEX** 12 (+1) **CON** 14 (+2) **INT** 2 (−4) **WIS** 10 (+0) **CHA** 4 (−3)
-**Skills** Stealth +3 (+5 in water) • **Senses** blindsight 10 ft., passive 10
-**Amphibious. Razor Barnacles:** melee attackers take 2 (1d4) slashing.
-**Multiattack:** 2× Pincer +3, 5 (1d6+2) bludgeoning; grapple on both hits (escape DC 12).
-**Tactics:** grapple and drag a PC into the pool. Flee at half HP.
+> Full stat blocks: [[monsters_and_foes#Reef-Crawler (CR 1/2)|Reef-Crawler]] • [[monsters_and_foes#Barnacle Mother (CR 1/8)|Barnacle Mother]] • [[monsters_and_foes#Cartel Scout (CR 1/2)|Cartel Scout]] • [[monsters_and_foes#Cartel Thug (CR 1/2)|Cartel Thug]] • [[monsters_and_foes#Drowned Shade (CR 1/2)|Drowned Shade]]. Numbers below are the at-the-table version.
 
-### Barnacle Mother — Giant Crab (CR 1/8, advanced)
-*Medium Beast, unaligned*
-**AC** 15 (natural) • **HP** 26 (4d8+8) • **Speed** 30 ft., swim 30 ft.
-**STR** 13 (+1) **DEX** 15 (+2) **CON** 11 (+0) **INT** 1 (−5) **WIS** 9 (−1) **CHA** 3 (−4)
-**Senses** blindsight 30 ft., passive 9
-**Shell-Crack Screech (1/day):** 15-ft cone, DC 11 Con, 7 (2d6) thunder and deafened until the end of its next turn.
-**Multiattack:** 2× Claw +3, 4 (1d6+1) bludgeoning; grapple (escape DC 11).
-**Tactics:** guards the nest; does not pursue.
-
-### Cartel Scout (CR 1/2) — 1×
-*Medium Humanoid, neutral evil*
-**AC** 13 (leather) • **HP** 16 (3d8+3) • **Speed** 30 ft.
-**STR** 11 (+0) **DEX** 14 (+2) **CON** 12 (+1) **INT** 11 (+0) **WIS** 13 (+1) **CHA** 11 (+0)
-**Skills** Nature +4, Perception +5, Stealth +6, Survival +5 • **Senses** passive 15
-**Multiattack:** 2× Shortsword +4, 5 (1d6+2) piercing, or 2× Longbow +4, 6 (1d8+2) piercing.
-**Tactics:** stays at range; flees at half HP to warn the Star Chamber.
-
-### Cartel Thug (CR 1/2) — 2×
-*Medium Humanoid, neutral evil*
-**AC** 11 (leather) • **HP** 32 (5d8+10) • **Speed** 30 ft.
-**STR** 15 (+2) **DEX** 11 (+0) **CON** 14 (+2) **INT** 10 (+0) **WIS** 10 (+0) **CHA** 11 (+0)
-**Skills** Intimidation +2 • **Senses** passive 10
-**Multiattack:** 2× Mace +4, 5 (1d6+2) bludgeoning.
-**Heavy Crossbow:** +2, 5 (1d10) piercing.
-**Tactics:** bullies, not soldiers. Surrender at 10 HP or less if the Scout is down.
-
-### Drowned Shade (non-combat)
-*Medium Undead, neutral*
-**AC** 12 • **HP** 22 • **Speed** 0 ft., fly 30 ft. (hover)
-**Immune** charmed, grappled, prone; **Resist** cold, necrotic; nonmagical B/P/S
-**Wail (1/day):** 30-ft radius, DC 12 Wis, 7 (2d6) psychic and frightened until the end of its next turn.
-**Tactics:** does not attack unless attacked. Repeats *"I paid the fare."*
-
----
+| Creature | # | AC | HP | Attacks | Saves / traits | Tactics |
+|---|---|---|---|---|---|---|
+| [[monsters_and_foes#Reef-Crawler (CR 1/2)\|Reef-Crawler]] | 3 | 14 | 19 | Multiattack 2× Pincer +3 · 5 (1d6+2); grapple on both hits (escape DC 12) | Amphibious; blindsight 10 ft.; melee attackers take 2 (1d4) slashing | Grapple and drag a PC into the pool. Flee at half HP. |
+| [[monsters_and_foes#Barnacle Mother (CR 1/8)\|Barnacle Mother]] | 1 | 15 | 26 | Multiattack 2× Claw +3 · 4 (1d6+1); grapple (escape DC 11) | Shell-Crack Screech 1/day: 15-ft cone, DC 11 Con, 7 (2d6) thunder + deafened | Guards the nest; does not pursue. |
+| [[monsters_and_foes#Cartel Scout (CR 1/2)\|Cartel Scout]] | 1 | 13 | 16 | Multiattack 2× Shortsword +4 · 5 (1d6+2), or 2× Longbow +4 · 6 (1d8+2) | Stealth +6, Perception +5; passive 15 | Stays at range; flees at half HP to warn the Star Chamber. |
+| [[monsters_and_foes#Cartel Thug (CR 1/2)\|Cartel Thug]] | 2 | 11 | 32 | Multiattack 2× Mace +4 · 5 (1d6+2); heavy crossbow +2 · 5 (1d10) | Intimidation +2; passive 10 | Bullies, not soldiers. Surrender at 10 HP or less if the Scout is down. |
+| [[monsters_and_foes#Drowned Shade (CR 1/2)\|Drowned Shade]] | — | 12 | 22 | Wail 1/day: 30-ft radius, DC 12 Wis, 7 (2d6) psychic + frightened | Hover 30 ft.; immune charmed/grappled/prone; resist cold, necrotic | Does not attack unless attacked. Repeats *"I paid the fare."* |
 
 ## 16. Handouts
 
@@ -1001,7 +974,7 @@ Polite, patient, and always writing.
 > *This charter does not authorise entry into sealed structures, tombs, or sites of public antiquity.*
 > *Signed: Harbour Master's Office, Port Meridian.*
 
-**DM note:** the last two lines are the legal trap. Helena knows it. The party probably doesn't.
+**DM note:** the last two lines are the legal trap. [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]] knows it. The party probably doesn't.
 
 ### 16.3 The Cartel order
 
@@ -1010,23 +983,23 @@ Polite, patient, and always writing.
 > *Payment on delivery. No names.*
 > *— Split-Coin*
 
-**DC 14 Insight:** the order is too clean for Rorik. Someone else wrote it.
+**DC 14 Insight:** the order is too clean for [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]]. Someone else wrote it.
 
 ### 16.4 Tamsin's map
 
 A rough sketch on oilskin:
 
-- The Sea Cliff Road in a black line.
-- The Tide Cut, marked "wet at high."
-- The Wind Stair, marked "bad rope."
+- The [[chapter_2_stair_and_star|Sea Cliff Road]] in a black line.
+- The [[#5. The Tide Cut (30 min)|Tide Cut]], marked "wet at high."
+- The [[#6. The Wind Stair (35 min)|Wind Stair]], marked "bad rope."
 - A cave mouth, marked "low tide only."
-- A star symbol at the bottom, with the words: *"Wren wanted to see this."*
+- A star symbol at the bottom, with the words: *"[[session_03_the_oath#13. NPCs at the Table|Wren]] wanted to see this."*
 
 ### 16.5 The shrine prayer
 
 > *"Keep the light. Keep the account. Let the sea give back what it took."*
 
-**DM note:** this is a Myrraenic fragment. It is not scripture the party will find in a temple. It is older, and simpler, and it is about accounting for the dead.
+**DM note:** this is a [[the_church_of_the_last_light|Myrraenic]] fragment. It is not scripture the party will find in a temple. It is older, and simpler, and it is about accounting for the dead.
 
 ---
 
@@ -1038,26 +1011,26 @@ A rough sketch on oilskin:
 
 **Ask the table:**
 
-- *"What did you leave behind in Port Meridian?"*
+- *"What did you leave behind in [[port_meridian|Port Meridian]]?"*
 - *"What do you think is in the Star Chamber?"*
-- *"Do you trust Tamsin with your back?"*
+- *"Do you trust [[chapter_2_stair_and_star|Tamsin]] with your back?"*
 - *"Who goes through the door first?"*
 
 **Do not level up.** Level 3 comes at the end of Session 5.
 
-**Between sessions:** note whether they parleyed or fought the Cartel detail, whether they rescued Toby, whether they robbed or honoured the shrine, and whether Tamsin is with them. Those four flags shape Session 5.
+**Between sessions:** note whether they parleyed or fought the [[the_archive_cartels|Cartel]] detail, whether they rescued Toby, whether they robbed or honoured the shrine, and whether Tamsin is with them. Those four flags shape Session 5.
 
 ---
 
 ## 18. What This Session Must Accomplish
 
 - [ ] The party is **paid, equipped, and on the road**.
-- [ ] They have a **translation** of the Tablet and know the alignment.
-- [ ] They know the **Cartels are already inside** the Star Chamber.
+- [ ] They have a **translation** of the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]] and know the alignment.
+- [ ] They know the **[[the_archive_cartels|Cartels]] are already inside** the Star Chamber.
 - [ ] They have met the **Cartel recovery detail** and made a choice about them.
-- [ ] They have a **guide** (Tamsin) or a reason to go without him.
-- [ ] They have seen a **Soul Crisis manifestation** and chosen how to respond.
-- [ ] They have arrived at the **Star Stair** with the door half-open.
+- [ ] They have a **guide** ([[chapter_2_stair_and_star|Tamsin]]) or a reason to go without him.
+- [ ] They have seen a **[[cosmology_and_metaphysics#3.2 The Engine Wound and the Soul Crisis|Soul Crisis]] manifestation** and chosen how to respond.
+- [ ] They have arrived at the **[[#11. The Star Stair (15 min)|Star Stair]]** with the door half-open.
 - [ ] They are **level 2** and have not entered the chamber.
 
 ---
@@ -1065,11 +1038,11 @@ A rough sketch on oilskin:
 ## 19. Expansion & Trimming
 
 ### If you have a full 5 hours
-- Run the **Tide Cut** encounter with 2 reef-crawlers.
+- Run the **[[#5. The Tide Cut (30 min)|Tide Cut]]** encounter with 2 [[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawlers]].
 - Run a full **shopping scene** with haggling and a merchant NPC.
-- Run the **Drowned Shrine** in full, including the shade's name and the blessing.
+- Run the **[[#9. The Drowned Shrine (30 min)|Drowned Shrine]]** in full, including the shade's name and the blessing.
 - Run a **night encounter** and a full watch rotation.
-- Let the **Cartel parley** play out as a long negotiation with three demands.
+- Let the **[[the_archive_cartels|Cartel]] parley** play out as a long negotiation with three demands.
 
 ### If you have 4 hours
 - Cut the Tide Cut encounter (keep the hazard).
@@ -1080,7 +1053,7 @@ A rough sketch on oilskin:
 ### If you have 3 hours
 - Cut the shrine and the night camp to a montage.
 - Keep the Cartel detail and the reef-crawler nest.
-- End at the Star Stair without apology.
+- End at the [[#11. The Star Stair (15 min)|Star Stair]] without apology.
 
 **Never cut:** the pay scene, the translation, the Cartel detail, the reef-crawler nest, or the cliffhanger.
 
@@ -1090,9 +1063,9 @@ A rough sketch on oilskin:
 
 ### 20.1 The night in one breath
 
-Pub that night → morning → Helena pays them → visit the prisoner → Arlen's note → shop → leave by the South Gate → Tide Cut → Wind Stair → wrecked mule → reef-crawler nest → drowned shrine → camp → Star Stair → lantern in the dark.
+Pub that night → morning → [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)|Helena]] pays them → visit the prisoner → [[major_allies_and_rivals#2. Arlen Marr (Junior Antiquities Scholar)|Arlen]]'s note → shop → leave by the South Gate → [[#5. The Tide Cut (30 min)|Tide Cut]] → [[#6. The Wind Stair (35 min)|Wind Stair]] → wrecked mule → [[monsters_and_foes#Reef-Crawler (CR 1/2)|reef-crawler]] nest → drowned shrine → camp → [[#11. The Star Stair (15 min)|Star Stair]] → lantern in the dark.
 
-If you remember nothing else: **they get paid, they get a guide, they meet the Cartels on the road, and they end at a door that is already open.**
+If you remember nothing else: **they get paid, they get a guide, they meet the [[the_archive_cartels|Cartels]] on the road, and they end at a door that is already open.**
 
 ### 20.2 DCs by location
 
@@ -1101,15 +1074,15 @@ If you remember nothing else: **they get paid, they get a guide, they meet the C
 | Helena's warehouse | Persuasion for more pay | 13 |
 | Magistrates' lockup | Persuasion with the sergeant | 12 |
 | Prisoner | Insight to catch the lie | 14 |
-| Brass Astrolabe | Sella's decode (if no note) | 50 gp + favour |
-| South Gate | Deception to hide the Tablet | 13 |
+| [[port_meridian#3. The Antiquities Exchange\|Brass Astrolabe]] | Sella's decode (if no note) | 50 gp + favour |
+| South Gate | Deception to hide the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord\|Tablet]] | 13 |
 | Road | Survival to keep to the old road | 12 (10 with chart) |
 | Tide Cut | Acrobatics on barnacles | 10 |
 | Tide Cut | Athletics to clear the niche | 13 |
 | Tide Cut | Survival to read the bootprints | 12 |
 | Wind Stair | Athletics to climb | 12 |
 | Wind Stair | Perception to scout the route | 13 |
-| Wind Stair | Medicine/Persuasion to steady Tamsin | 12 |
+| Wind Stair | Medicine/Persuasion to steady [[chapter_2_stair_and_star\|Tamsin]] | 12 |
 | Wrecked mule | Persuasion to parley | 13 (15 with Tamsin visible) |
 | Wrecked mule | Stealth to ambush | 13 |
 | Wrecked mule | Animal Handling to calm Bramble | 12 |
@@ -1129,7 +1102,7 @@ If you remember nothing else: **they get paid, they get a guide, they meet the C
 | NPC | Voice | Tell |
 |-----|-------|------|
 | **Helena** | Clipped, dry, fond of ledgers | Rubs her thumb over a coin when she is worried |
-| **Tamsin** | Quiet, precise, self-deprecating | Touches the peg leg when he mentions Wren |
+| **Tamsin** | Quiet, precise, self-deprecating | Touches the peg leg when he mentions [[session_03_the_oath\|Wren]] |
 | **The prisoner** | Cocky until he is not | Talks faster when he is lying |
 | **Sella** | Polite, tired, careful | Closes the shutter before answering a dangerous question |
 | **Toby** | Young, grateful, a little ashamed | Says "my brother" instead of a name |
@@ -1141,15 +1114,15 @@ If you remember nothing else: **they get paid, they get a guide, they meet the C
 - The Cartels are already inside the Star Chamber.
 - The Cartel route runs through the old Warehouse shaft.
 - A "gold man" pays in Ilya coin with a falcon-and-calipers stamp.
-- Rorik left Wren behind because the clamp was not worth an hour.
+- [[the_archive_cartels#3. Internal Syndicate Structure|Rorik]] left Wren behind because the clamp was not worth an hour.
 - The Cartels were told not to harm "the scholar."
 - The dead are not passing at sea.
 
 ### 20.5 If you only have ten minutes to prep
 
-1. Read §3.1, §3.2, §3.3.
-2. Read §7 and §8 (the mule and the nest).
-3. Read §11 (the cliffhanger).
+1. Read [[#3.1 Helena at the warehouse (15 min)|§3.1]], [[#3.2 The magistrates' lockup (15 min)|§3.2]], [[#3.3 Arlen's note (10 min)|§3.3]].
+2. Read [[#7. The Wrecked Mule (35 min)|§7]] and [[#8. The Reef-Crawler Nest (40 min)|§8]] (the mule and the nest).
+3. Read [[#11. The Star Stair (15 min)|§11]] (the cliffhanger).
 4. Put the reef-crawler and thug blocks in front of you.
 5. Write the two clocks on a scrap of paper.
 
@@ -1184,21 +1157,21 @@ Print or copy this page. It is deliberately light: no HP, no spell slots, no fea
 
 | NPC | Attitude | Owes them | Resents them |
 |-----|----------|-----------|--------------|
-| Helena | | | |
-| Tamsin | | | |
+| [[major_allies_and_rivals#1. Helena Voss (Salvage Factor of Port Meridian)\|Helena]] | | | |
+| [[chapter_2_stair_and_star\|Tamsin]] | | | |
 | The prisoner | | | |
 | Sella | | | |
 | Toby | | | |
 
 ### 21.3 Clue checklist
 
-- [ ] The Cartels are already inside the Star Chamber.
+- [ ] The [[the_archive_cartels|Cartels]] are already inside the Star Chamber.
 - [ ] The Cartel route runs through the Warehouse shaft.
 - [ ] The "gold man" pays in Ilya coin.
-- [ ] Wren was left behind deliberately.
+- [ ] [[session_03_the_oath#13. NPCs at the Table|Wren]] was left behind deliberately.
 - [ ] "Do not engage the scholar."
 - [ ] The dead are not passing.
-- [ ] The Star Stair door is half-open.
+- [ ] The [[#11. The Star Stair (15 min)|Star Stair]] door is half-open.
 
 ### 21.4 Choices that shape Session 5
 
@@ -1207,7 +1180,7 @@ Print or copy this page. It is deliberately light: no HP, no spell slots, no fea
 - [ ] Robbed / honoured / ignored the shrine.
 - [ ] Brought Tamsin / left him in the city.
 - [ ] Kept or lost the mule.
-- [ ] Told Helena the truth about the Tablet or hid it.
+- [ ] Told Helena the truth about the [[relics_and_artifacts#8. Catalogue Codex + Index Tablet + Annales of Concord|Tablet]] or hid it.
 
 ### 21.5 Clock marks
 
@@ -1216,3 +1189,7 @@ Print or copy this page. It is deliberately light: no HP, no spell slots, no fea
 **Cartel Interference:** [X] [ ] [ ]
 
 **Notes:**
+
+---
+
+**[[#Session 4: The Road Above the Sea|↑ back to top]]**
